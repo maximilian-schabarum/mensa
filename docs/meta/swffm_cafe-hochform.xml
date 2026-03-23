@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/css" href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css"?>
+<?xml-stylesheet type="text/css" href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css"?>
+<openmensa xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <name>Frankfurt, Cafe Hochform</name>
+    <address>Institut fuer Sportwissenschaften, Ginnheimer Landstrasse 39, 60487 Frankfurt am Main</address>
+    <city>Frankfurt am Main</city>
+    <phone/>
+    <location latitude="50.126" longitude="8.667"/>
+    <times type="opening">
+      <monday open="09:00-16:00"/>
+      <tuesday open="09:00-16:00"/>
+      <wednesday open="09:00-16:00"/>
+      <thursday open="09:00-16:00"/>
+      <friday open="09:00-16:00"/>
+      <saturday closed="true"/>
+      <sunday closed="true"/>
+    </times>
+    <feed name="full" priority="1">
+      <schedule dayOfMonth="*" dayOfWeek="*" hour="6-14" minute="10" retry="65 1 1440"/>
+      <url>https://maximilian-schabarum.github.io/mensa/feed/swffm_cafe-hochform.xml</url>
+      <source>https://www.swffm.de/essen-trinken/speiseplaene/cafe-hochform</source>
+    </feed>
+  </canteen>
+</openmensa>

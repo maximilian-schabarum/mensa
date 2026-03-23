@@ -29,9 +29,6 @@ jobs:
         git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
         git pull --ff-only
     - name: Run parsers & update xml feeds
-      env:
-        HEIDELBERG_AUTH: ${{ secrets.HEIDELBERG_AUTH }}
-        MANNHEIM_AUTH: ${{ secrets.MANNHEIM_AUTH }}
       run: |
         python updateFeeds.py -today
     - name: git commit & push

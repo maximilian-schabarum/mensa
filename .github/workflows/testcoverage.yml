@@ -22,10 +22,6 @@ jobs:
         pip install coveralls
     - name: Run tests
       run: coverage run -a tests/test_all.py
-      env:
-        HEIDELBERG_AUTH: ${{ secrets.HEIDELBERG_AUTH }}
-        MANNHEIM_AUTH: ${{ secrets.MANNHEIM_AUTH }}
-        LUXEMBOURG_PROXY: ${{ secrets.LUXEMBOURG_PROXY }}
     - name: Coveralls
       run: |
         coveralls

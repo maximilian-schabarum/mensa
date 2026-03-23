@@ -7,13 +7,12 @@ import urllib
 import urllib3
 import string
 
-allParsers = ['hamburg', 'eppelheim',
-              'heidelberg', 'mannheim', 'stuttgart', 'ulm']
+allParsers = ['swffm', 'speierlingshof']
 
 repoPath = os.path.dirname(__file__)
 filenameTemplate = "{base}{{metaOrFeed}}/{parserName}_{{mensaReference}}.xml"
-baseRepo = "https://github.com/cvzi/mensahd/"
-defaultBaseUrl = "https://cvzi.github.io/mensahd/"
+baseRepo = "https://github.com/maximilian-schabarum/mensa/"
+defaultBaseUrl = "https://maximilian-schabarum.github.io/mensa/"
 defaultBasePath = "docs/"
 
 
@@ -181,7 +180,7 @@ def updateFeeds(force=None,
         generateIndexHtml(baseUrl=baseUrl, basePath=basePath, errors=errors)
         log(f"  {greenOk}")
 
-    return min(0, len(errors))
+    return len(errors)
 
 
 def startFromTerminal(exitAfterwards=True):
