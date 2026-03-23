@@ -1,7 +1,3 @@
-exclude_paths:
-  - mannheim/old/
-  - stuttgart/stuttgart_old2018/
-  - stuttgart/stuttgart_old2020/
 engines:
   bandit:
     enabled: true

@@ -4,3 +4,4 @@ requests>=2.32.0
 beautifulsoup4>=4.12.2
 soupsieve>=2.5
 pyopenmensa>=0.95.0
+pypdf>=4.0.0

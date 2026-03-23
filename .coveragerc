@@ -1,17 +1,9 @@
 [run]
 source =
-    eppelheim/
-    heidelberg/
-    mannheim/
-    stuttgart/
-    ulm/
+    swffm/
+    speierlingshof/
 omit =
     */virtualenv/*
-    */pyopenmensa/*
-    */mannheim/old/*
-    */mannheim/list.py
-    */stuttgart/stuttgart_old_2018/*
-    */stuttgart/stuttgart_old_2020/*
 
 [report]
 exclude_lines =
