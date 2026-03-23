@@ -134,7 +134,7 @@ def extract_tags(main_div) -> list[str]:
     return tags
 
 
-def build_feed_xml(page_content: bytes | str) -> str:
+def build_feed_xml(page_content: bytes | str, only_day: str | None = None) -> str:
     doc = html.fromstring(page_content)
     panels = doc.xpath(
         "//div[contains(concat(' ', normalize-space(@class), ' '), ' panel ') "
@@ -147,6 +147,8 @@ def build_feed_xml(page_content: bytes | str) -> str:
         heading = ' '.join(panel.xpath(".//div[contains(@class,'panel-heading')]//text()"))
         day = parse_day(heading)
         if not day:
+            continue
+        if only_day and day != only_day:
             continue
 
         for row in panel.xpath('.//tr'):

@@ -271,7 +271,7 @@ def realign_stale_dates(
     return realigned
 
 
-def build_feed_xml(days: list[dict[str, Any]]) -> str:
+def build_feed_xml(days: list[dict[str, Any]], include_weekend_closure: bool = True) -> str:
     """Erzeuge den OpenMensa-XML-Feed aus Tagesdatensätzen."""
     builder = StyledLazyBuilder()
 
@@ -284,7 +284,7 @@ def build_feed_xml(days: list[dict[str, Any]]) -> str:
             if title:
                 builder.addMeal(day["date"], meal["category"], title, notes=meal["notes"])
 
-    if days:
+    if days and include_weekend_closure:
         first_date = min(d["date"] for d in days)
         last_date = max(d["date"] for d in days)
         week_start = first_date - dt.timedelta(days=first_date.weekday())

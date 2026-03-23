@@ -3,6 +3,7 @@ import logging
 import os
 import sys
 import urllib.parse
+import datetime as dt
 
 import requests
 
@@ -46,6 +47,15 @@ class Parser:
         resp = self.session.get(source_url, timeout=30)
         resp.raise_for_status()
         return build_feed_xml(resp.content)
+
+    def feed_today(self, ref):
+        if ref not in self.canteens:
+            return empty_feed(ref)
+
+        source_url = self.canteens[ref]['source']
+        resp = self.session.get(source_url, timeout=30)
+        resp.raise_for_status()
+        return build_feed_xml(resp.content, only_day=dt.date.today().isoformat())
 
     def meta(self, ref):
         if ref not in self.canteens:

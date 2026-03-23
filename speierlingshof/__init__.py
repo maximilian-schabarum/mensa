@@ -77,7 +77,7 @@ class Parser:
             return empty_feed(canteenReference)
         today = dt.date.today()
         days  = [d for d in self._load_days() if d["date"] == today]
-        return build_feed_xml(days)
+        return build_feed_xml(days, include_weekend_closure=False)
 
     def feed_all(self, canteenReference: str) -> str:
         return self.feed(canteenReference)
