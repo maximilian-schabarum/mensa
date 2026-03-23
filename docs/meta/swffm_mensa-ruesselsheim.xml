@@ -4,10 +4,10 @@
 <openmensa xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <name>Ruesselsheim, Mensa Ruesselsheim</name>
-    <address>Am Brueckweg 26, 65428 Ruesselsheim am Main</address>
+    <address>An der Lache 26, 65428 Rüsselsheim am Main</address>
     <city>Ruesselsheim am Main</city>
     <phone/>
-    <location latitude="49.993" longitude="8.413"/>
+    <location latitude="49.9852981" longitude="8.4249973"/>
     <times type="opening">
       <monday open="08:00-15:00"/>
       <tuesday open="08:00-15:00"/>

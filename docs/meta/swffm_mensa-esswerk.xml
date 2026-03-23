@@ -4,10 +4,10 @@
 <openmensa xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <name>Offenbach, Mensa essWERK</name>
-    <address>Gebaeude 4, Kleiststrasse 7, 60318 Frankfurt am Main</address>
+    <address>Nibelungenpl. 1, 60318 Frankfurt am Main</address>
     <city>Frankfurt am Main</city>
     <phone/>
-    <location latitude="50.112" longitude="8.683"/>
+    <location latitude="50.1304578" longitude="8.6891045"/>
     <times type="opening">
       <monday open="08:00-15:00"/>
       <tuesday open="08:00-15:00"/>

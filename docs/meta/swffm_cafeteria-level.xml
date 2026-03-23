@@ -4,10 +4,10 @@
 <openmensa xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <name>Frankfurt, Cafeteria LEVEL</name>
-    <address>Otto-Stern-Zentrum, Ruth-Moufang-Strasse 2, 60438 Frankfurt am Main</address>
+    <address>Ruth-Moufang-Straße 2, 60438 Frankfurt am Main</address>
     <city>Frankfurt am Main</city>
     <phone/>
-    <location latitude="50.128" longitude="8.671"/>
+    <location latitude="50.1741701" longitude="8.625753"/>
     <times type="opening">
       <monday open="09:00-16:00"/>
       <tuesday open="09:00-16:00"/>

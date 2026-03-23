@@ -4,7 +4,7 @@
 <openmensa xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <name>Frankfurt, Cafeteria Hoagascht</name>
-    <address>Sprach- und Kulturwissenschaften, Rostocker Strasse 2, 60323 Frankfurt am Main</address>
+    <address>Rostocker Str. 2, 60323 Frankfurt am Main</address>
     <city>Frankfurt am Main</city>
     <phone/>
     <location latitude="50.107" longitude="8.664"/>

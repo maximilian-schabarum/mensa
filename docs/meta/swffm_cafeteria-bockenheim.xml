@@ -4,10 +4,10 @@
 <openmensa xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <name>Frankfurt, Cafeteria Bockenheim</name>
-    <address>Sozialzentrum, Bockenheimer Landstrasse 133, 60325 Frankfurt am Main</address>
+    <address>Bockenheimer Landstraße 133, 60325 Frankfurt am Main</address>
     <city>Frankfurt am Main</city>
     <phone/>
-    <location latitude="50.118" longitude="8.651"/>
+    <location latitude="50.119648" longitude="8.652262"/>
     <times type="opening">
       <monday open="08:30-15:00"/>
       <tuesday open="08:30-15:00"/>

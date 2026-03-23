@@ -4,10 +4,10 @@
 <openmensa xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <name>Frankfurt, Mensa Casino</name>
-    <address>Casinogebaeude, Nina-Rubinstein-Weg, 60323 Frankfurt am Main</address>
+    <address>Theodor-W.-Adorno-Platz 2, 60323 Frankfurt am Main</address>
     <city>Frankfurt am Main</city>
     <phone/>
-    <location latitude="50.126" longitude="8.667"/>
+    <location latitude="50.127233" longitude="8.666848"/>
     <times type="opening">
       <monday open="11:00-15:30"/>
       <tuesday open="11:00-15:30"/>
