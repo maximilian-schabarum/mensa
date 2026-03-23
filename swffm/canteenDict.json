@@ -2,44 +2,44 @@
   "cafeteria-bockenheim": {
     "name": "Frankfurt, Cafeteria Bockenheim",
     "city": "Frankfurt am Main",
-    "latitude": 50.118,
-    "longitude": 8.651,
-    "address": "Sozialzentrum, Bockenheimer Landstrasse 133, 60325 Frankfurt am Main",
+    "latitude": 50.119648,
+    "longitude": 8.652262,
+    "address": "Bockenheimer Landstraße 133, 60325 Frankfurt am Main",
     "times": "Mo-Fr 08:30-15:00 Uhr (Warmausgabe 12:00-14:45 Uhr)",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/cafeteria-bockenheim"
   },
   "cafe-hochform": {
     "name": "Frankfurt, Cafe Hochform",
     "city": "Frankfurt am Main",
-    "latitude": 50.126,
-    "longitude": 8.667,
-    "address": "Institut fuer Sportwissenschaften, Ginnheimer Landstrasse 39, 60487 Frankfurt am Main",
+    "latitude": 50.119648,
+    "longitude": 8.652262,
+    "address": "Bockenheimer Landstraße 133, 60325 Frankfurt am Main",
     "times": "Mo-Fr 09:00-16:00 Uhr (Warmausgabe 11:30-14:00 Uhr)",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/cafe-hochform"
   },
   "mensa-casino": {
     "name": "Frankfurt, Mensa Casino",
     "city": "Frankfurt am Main",
-    "latitude": 50.126,
-    "longitude": 8.667,
-    "address": "Casinogebaeude, Nina-Rubinstein-Weg, 60323 Frankfurt am Main",
+    "latitude": 50.127233,
+    "longitude": 8.666848,
+    "address": "Theodor-W.-Adorno-Platz 2, 60323 Frankfurt am Main",
     "times": "Mo-Fr 11:00-15:30 Uhr",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/mensa-casino"
   },
   "sommergarten": {
     "name": "Frankfurt, Sommergarten",
     "city": "Frankfurt am Main",
-    "latitude": 50.126,
-    "longitude": 8.667,
-    "address": "Neben dem Casinogebaeude, Theodor-W.-Adorno-Platz 2a, 60323 Frankfurt am Main",
+    "latitude": 50.1266126,
+    "longitude": 8.6662262,
+    "address": "Neben dem Casinogebaeude, Theodor-W.-Adorno-Platz 2, 60323 Frankfurt am Main",
     "times": "Mo-Fr 15:30-22:00 Uhr",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/sommergarten"
   },
   "mensa-anbau-casino": {
     "name": "Frankfurt, Mensa Anbau Casino",
     "city": "Frankfurt am Main",
-    "latitude": 50.126,
-    "longitude": 8.667,
+    "latitude": 50.127233,
+    "longitude": 8.666848,
     "address": "Anbau Casino, Theodor-W.-Adorno-Platz 2, 60323 Frankfurt am Main",
     "times": "Mo-Fr 11:00-14:45 Uhr",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/mensa-anbau-casino"
@@ -47,8 +47,8 @@
   "mia-food-beverage": {
     "name": "Frankfurt, MIA Food & Beverage",
     "city": "Frankfurt am Main",
-    "latitude": 50.126,
-    "longitude": 8.667,
+    "latitude": 50.127233,
+    "longitude": 8.666848,
     "address": "Anbau Casino, Theodor-W.-Adorno-Platz 2, 60323 Frankfurt am Main",
     "times": "Mo-Fr 09:30-20:00 Uhr (Warmausgabe 11:30-19:30 Uhr)",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/mia-food-beverage"
@@ -56,18 +56,18 @@
   "cafeteria-casino": {
     "name": "Frankfurt, Cafeteria Casino",
     "city": "Frankfurt am Main",
-    "latitude": 50.126,
-    "longitude": 8.667,
-    "address": "Casinogebaeude, Nina-Rubinstein-Weg, 60323 Frankfurt am Main",
+    "latitude": 50.127233,
+    "longitude": 8.666848,
+    "address": "Theodor-W.-Adorno-Platz 2, 60323 Frankfurt am Main",
     "times": "Mo-Do 12:00-18:00 Uhr\nFr 12:00-16:00 Uhr",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/cafeteria-casino"
   },
   "dasein": {
     "name": "Frankfurt, Cafeteria DASEIN",
     "city": "Frankfurt am Main",
-    "latitude": 50.107,
-    "longitude": 8.664,
-    "address": "Erziehungs- und Gesellschaftswissenschaften, Theodor-Adorno-Platz 6, 60323 Frankfurt am Main",
+    "latitude": 50.128502,
+    "longitude": 8.6641628,
+    "address": "Theodor-W.-Adorno-Platz 6, 60323 Frankfurt am Main",
     "times": "Mo-Fr 07:30-17:00 Uhr",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/dasein"
   },
@@ -76,15 +76,15 @@
     "city": "Frankfurt am Main",
     "latitude": 50.107,
     "longitude": 8.664,
-    "address": "Sprach- und Kulturwissenschaften, Rostocker Strasse 2, 60323 Frankfurt am Main",
+    "address": "Rostocker Str. 2, 60323 Frankfurt am Main",
     "times": "Mo-Fr 08:00-17:00 Uhr (Warmausgabe 11:30-17:00 Uhr)",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/cafeteria-hoagascht"
   },
   "mensa-pi-x-gaumen": {
     "name": "Frankfurt, Mensa Pi x Gaumen",
     "city": "Frankfurt am Main",
-    "latitude": 50.107,
-    "longitude": 8.664,
+    "latitude": 50.1298701,
+    "longitude": 8.665594,
     "address": "Max-von-Laue-Str. 9, 60438 Frankfurt am Main",
     "times": "Mo-Fr 11:00-15:00 Uhr",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/mensa-pi-x-gaumen"
@@ -92,26 +92,26 @@
   "cafeteria-darwins": {
     "name": "Frankfurt, Cafeteria Darwins",
     "city": "Frankfurt am Main",
-    "latitude": 50.128,
-    "longitude": 8.671,
-    "address": "Biologicum, Max-von-Laue-Str. 13, 60438 Frankfurt am Main",
+    "latitude": 50.1726684,
+    "longitude": 8.6251218,
+    "address": "Max-von-Laue-Straße 13, 60438 Frankfurt am Main",
     "times": "Mo-Fr 11:00-15:00 Uhr",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/cafeteria-darwins"
   },
   "cafeteria-level": {
     "name": "Frankfurt, Cafeteria LEVEL",
     "city": "Frankfurt am Main",
-    "latitude": 50.128,
-    "longitude": 8.671,
-    "address": "Otto-Stern-Zentrum, Ruth-Moufang-Strasse 2, 60438 Frankfurt am Main",
+    "latitude": 50.1741701,
+    "longitude": 8.625753,
+    "address": "Ruth-Moufang-Straße 2, 60438 Frankfurt am Main",
     "times": "Mo-Fr 09:00-16:00 Uhr",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/cafeteria-level"
   },
   "hochschule-fuer-musik-und-darstellende-kunst": {
     "name": "Frankfurt, Hochschule fur Musik und Darstellende Kunst",
     "city": "Frankfurt am Main",
-    "latitude": 50.124,
-    "longitude": 8.669,
+    "latitude": 50.1200126,
+    "longitude": 8.6738809,
     "address": "Eschersheimer Landstrasse 35, 60322 Frankfurt am Main",
     "times": "Mo-Fr 09:00-16:00 Uhr (Warmausgabe 11:00-15:00 Uhr)",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/hochschule-fuer-musik-und-darstellende-kunst"
@@ -119,8 +119,8 @@
   "cafeteria-offenbach": {
     "name": "Offenbach, Cafeteria Offenbach",
     "city": "Offenbach am Main",
-    "latitude": 50.097,
-    "longitude": 8.765,
+    "latitude": 50.1073923,
+    "longitude": 8.7622074,
     "address": "Schlossstr. 31, 63065 Offenbach am Main",
     "times": "Mo-Fr 08:30-16:30 Uhr (Warmausgabe 11:30-15:00 Uhr)",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/cafeteria-offenbach"
@@ -128,17 +128,17 @@
   "mensa-esswerk": {
     "name": "Offenbach, Mensa essWERK",
     "city": "Frankfurt am Main",
-    "latitude": 50.112,
-    "longitude": 8.683,
-    "address": "Gebaeude 4, Kleiststrasse 7, 60318 Frankfurt am Main",
+    "latitude": 50.1304578,
+    "longitude": 8.6891045,
+    "address": "Nibelungenpl. 1, 60318 Frankfurt am Main",
     "times": "Mo-Fr 08:00-15:00 Uhr (Warmausgabe 11:30-14:30 Uhr)",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/mensa-esswerk"
   },
   "mensa-accent": {
     "name": "Wiesbaden, Mensa accent",
     "city": "Wiesbaden",
-    "latitude": 50.082,
-    "longitude": 8.227,
+    "latitude": 50.0806813,
+    "longitude": 8.2158965,
     "address": "Kurt-Schumacher-Ring 18, 65197 Wiesbaden",
     "times": "Mo-Fr 07:30-15:30 Uhr (Warmausgabe 11:00-14:30 Uhr)",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/mensa-accent"
@@ -146,8 +146,8 @@
   "mensa-point": {
     "name": "Wiesbaden, Mensa Point",
     "city": "Wiesbaden",
-    "latitude": 50.078,
-    "longitude": 8.239,
+    "latitude": 50.0796747,
+    "longitude": 8.2280257,
     "address": "Bertramstrasse 27, 65185 Wiesbaden",
     "times": "Mo-Fr 08:00-14:30 Uhr (Warmausgabe 11:00-14:15 Uhr)",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/mensa-point"
@@ -155,9 +155,9 @@
   "mensa-ruesselsheim": {
     "name": "Ruesselsheim, Mensa Ruesselsheim",
     "city": "Ruesselsheim am Main",
-    "latitude": 49.993,
-    "longitude": 8.413,
-    "address": "Am Brueckweg 26, 65428 Ruesselsheim am Main",
+    "latitude": 49.9852981,
+    "longitude": 8.4249973,
+    "address": "An der Lache 26, 65428 Rüsselsheim am Main",
     "times": "Mo-Fr 08:00-15:00 Uhr (Warmausgabe 11:00-14:30 Uhr)\nSa 12:00-14:00 Uhr (Warmausgabe 12:00-13:45 Uhr)",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/mensa-ruesselsheim"
   }

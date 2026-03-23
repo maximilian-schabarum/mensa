@@ -2,9 +2,9 @@
   "speierlingshof": {
     "name": "Mensa Speierlingshof",
     "city": "Speyer",
-    "address": "Freiherr-vom-Stein-Straße 2, 67346 Speyer",
-    "latitude": 49.319,
-    "longitude": 8.437,
+    "address": "Otto-Mayer-Straße 7, 67346 Speyer",
+    "latitude": 49.315807,
+    "longitude": 8.416694,
     "times": "Mo-Fr 11:30-14:00 Uhr",
     "source": "https://www.speierlinghof.de/"
   }
