@@ -6,26 +6,24 @@
     <day date="2026-03-23">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatensuppe</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
+          <name>Champignoncremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Nudeln mit Mozzarella-Basilikumsoße</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
-          <note>Weizen</note>
+          <name>Wedges mit veganem Chili , und Soja Topping</name>
+          <note>Kartoffel</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Nudeln mit Mozzarella-Basilikumsoße und gekochtem Schinken</name>
-          <note>Ascorbinsäure</note>
-          <note>Laktose</note>
-          <note>Nitripökelsalz</note>
-          <note>Phosphat</note>
-          <note>Sellerie</note>
-          <note>Weizen</note>
+          <name>Hähnchenschnitzel Mailänder Art mit einer Beilage nach Wahl</name>
+          <price role="other">6.70</price>
+          <price role="student">5.10</price>
         </meal>
       </category>
     </day>
