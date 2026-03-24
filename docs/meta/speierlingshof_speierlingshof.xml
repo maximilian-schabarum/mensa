@@ -4,9 +4,9 @@
 <openmensa xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <name>Mensa Speierlingshof</name>
-    <address>Freiherr-vom-Stein-Straße 2, 67346 Speyer</address>
+    <address>Otto-Mayer-Straße 7, 67346 Speyer</address>
     <city>Speyer</city>
-    <location latitude="49.319" longitude="8.437" />
+    <location latitude="49.315807" longitude="8.416694" />
     <times type="opening">
       <monday open="11:30-14:00" />
       <tuesday open="11:30-14:00" />
