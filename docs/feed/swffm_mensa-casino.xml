@@ -12,17 +12,30 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Kartoffelgulasch mit einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Kartoffelgulasch mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
+          <note>Weizen</note>
           <note>vegan</note>
           <price role="other">4.80</price>
           <price role="student">3.20</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 3 Kolbörek mit Spinat-Käsefüllung mit Joghurt-Kräuterdip , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
         <meal>
           <name>Ausgabe 5 Gemüse mit Tofu, Kokos Basmatireis</name>
           <note>vegan</note>
           <price role="other">4.70</price>
           <price role="student">3.10</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Pfannkuchen mit Apfelmus und einer Beilage nach Wahl</name>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
         </meal>
         <meal>
           <name>Tofu-Gemüsecouscous mit Mango</name>
