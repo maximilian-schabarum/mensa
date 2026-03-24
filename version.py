@@ -2,5 +2,5 @@
 # Python 3
 
 __version__ = 2.0
-useragentname = bot'
+useragentname = 'bot'
 useragentcomment = '+https://github.com/maximilian-schabarum/mensa'
