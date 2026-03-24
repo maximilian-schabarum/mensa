@@ -19,6 +19,15 @@
           <price role="student">3.20</price>
         </meal>
         <meal>
+          <name>Chili sin Carne mit Ciabattabrötchen , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
+        <meal>
           <name>Pizza Mexiko scharf</name>
           <price role="other">6.10</price>
           <price role="student">4.50</price>
@@ -31,6 +40,11 @@
           <note>Rind</note>
           <price role="other">5.50</price>
           <price role="student">3.90</price>
+        </meal>
+        <meal>
+          <name>Hähnchenschnitzel Mailänder Art mit Tomatensauce, mit einer Beilage nach Wahl</name>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
         <meal>
           <name>Pizza Schinken-Zwiebel</name>
