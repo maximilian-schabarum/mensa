@@ -1,5 +1,5 @@
 # mensa
-Parsers for openmensa.org. The parsers runs in a [Github action](https://github.com/cvzi/mensahd/actions?query=workflow%3ARunParsers) and push the XML feeds to [Github pages](https://cvzi.github.io/mensahd/)
+Parsers for openmensa.org. The parsers runs in a [Github action](https://github.com/maximilian-schabarum/mensa/actions?query=workflow%3ARunParsers) and push the XML feeds to [Github pages](https://maximilian-schabarum.github.io/mensa/)
 
 Fork of [mensahd](https://github.com/cvzi/mensahd) by [cvzi](https://github.com/cvzi)
 
