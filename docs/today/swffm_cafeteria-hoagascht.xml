@@ -33,6 +33,7 @@
         </meal>
         <meal>
           <name>Rote Betecremesuppe mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
         </meal>
@@ -43,7 +44,7 @@
           <price role="student">5.70</price>
         </meal>
         <meal>
-          <name>Gemüseeintopf mit Hülsenfrüchten und Fladenbrot</name>
+          <name>Gemüseeintopf mit Hülsenfrüchten mit Fladenbrot</name>
           <note>Glutenhaltige Getreide</note>
           <note>Sesam und Sesamerzeugnisse</note>
           <note>Weizen</note>
@@ -58,6 +59,11 @@
         </meal>
         <meal>
           <name>Honig-Quarkcreme mit Mandeln</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Vanillecreme mit Himbeeren</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -79,7 +85,7 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Hähnchenkeule mit Linsengemüse und Couscous</name>
+          <name>Hähnchenkeule mit Linsengemüse Couscous</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <price role="other">7.10</price>

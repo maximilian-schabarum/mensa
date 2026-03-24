@@ -6,6 +6,11 @@
     <day date="2026-03-24">
       <category name="Vegetarisch">
         <meal>
+          <name>Tomatencremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Kartoffelgulasch mit einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>vegan</note>
