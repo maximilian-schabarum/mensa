@@ -21,10 +21,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Fruchtiges Truthahnragout mit Spätzle</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
+          <name>Fruchtiges Truthahnragout mit einer Beilage nach Wahl</name>
           <price role="other">7.10</price>
           <price role="student">5.50</price>
         </meal>

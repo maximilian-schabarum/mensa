@@ -61,21 +61,35 @@
         </meal>
         <meal>
           <name>Karottencremesuppe mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
         </meal>
         <meal>
           <name>Kartoffel-Gemüseauflauf mit Chili und Feta</name>
+          <note>Kartoffel</note>
           <price role="other">6.00</price>
           <price role="student">4.40</price>
         </meal>
         <meal>
-          <name>Grießbrei mit Apfelmus</name>
+          <name>Bulgur-Gemüse-Pilaw mit Kichererbsen mit Curry-Ingwerdip</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+        <meal>
+          <name>Grießbrei mit Beeren</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Müslijoghurt mit roter Grütze</name>
+          <name>Schokoladen-Bananenquark</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Honig-Quarkcreme mit Mandeln</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>

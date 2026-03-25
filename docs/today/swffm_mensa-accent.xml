@@ -6,7 +6,7 @@
     <day date="2026-03-25">
       <category name="Vegetarisch">
         <meal>
-          <name>Frischkäsesuppe</name>
+          <name>Tomatencremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -17,6 +17,13 @@
           <note>vegan</note>
           <price role="other">5.00</price>
           <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Kartoffelgulasch mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
         </meal>
       </category>
       <category name="Hauptgericht">

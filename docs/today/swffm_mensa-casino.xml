@@ -20,11 +20,7 @@
           <price role="student">3.40</price>
         </meal>
         <meal>
-          <name>Gnocchi mit Ricottafüllung Bärlauchsauce , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Weizen</note>
+          <name>Blumenkohlauflauf mit einer Beilage nach Wahl</name>
           <price role="other">5.60</price>
           <price role="student">4.00</price>
         </meal>
