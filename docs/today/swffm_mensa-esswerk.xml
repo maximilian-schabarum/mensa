@@ -3,52 +3,38 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-03-24">
+    <day date="2026-03-25">
       <category name="Vegetarisch">
         <meal>
-          <name>Pilzcremesuppe</name>
-          <note>Alkohol</note>
+          <name>Spinatcremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Kartoffelgulasch mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
+          <name>Gemüsepaella mit veganem Knoblauchdip , und einer Beilage nach Wahl</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
-        </meal>
-        <meal>
-          <name>Chili sin Carne mit Ciabattabrötchen , und einer Beilage nach Wahl</name>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">4.50</price>
-          <price role="student">2.90</price>
-        </meal>
-        <meal>
-          <name>Pizza Mexiko scharf</name>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Spaghetti mit Hackfleisch-Rahmsauce , und Reibekäse</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Rind</note>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
+          <name>Fruchtiges Truthahnragout mit Spätzle</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <price role="other">7.10</price>
+          <price role="student">5.50</price>
         </meal>
         <meal>
-          <name>Hähnchenschnitzel Mailänder Art mit Tomatensauce, mit einer Beilage nach Wahl</name>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
+          <name>Pizza Hähnchen-Ananas</name>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
         </meal>
         <meal>
-          <name>Pizza Schinken-Zwiebel</name>
-          <note>Schwein</note>
+          <name>Pizza Spinat</name>
           <price role="other">6.10</price>
           <price role="student">4.50</price>
         </meal>
