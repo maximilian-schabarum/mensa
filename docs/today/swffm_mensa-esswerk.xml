@@ -26,7 +26,8 @@
           <price role="student">5.50</price>
         </meal>
         <meal>
-          <name>Spaghetti mit Hackfleisch-Rahmsauce , und Reibekäse</name>
+          <name>Spaghetti mit Hackfleisch-Rahmsauce , geriebener Grana Padano</name>
+          <note>Eier und Eiererzeugnisse</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>Rind</note>
           <price role="other">5.50</price>
