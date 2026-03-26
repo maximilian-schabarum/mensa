@@ -31,7 +31,7 @@ CLOSURE_KEYWORDS = ("geschlossen", "feiertag", "brückentag", "brueckentag", "ru
 # Pfade zu statischen Dateien.
 BASE_DIR = os.path.dirname(__file__)
 META_JSON = os.path.join(BASE_DIR, "canteenDict.json")
-META_TEMPLATE_FILE = os.path.join(BASE_DIR, "metaTemplate.xml")
+META_XSLT = os.path.join(BASE_DIR, "../meta.xsl")
 
 # Kompilierte Regex-Muster für PDF-basierte Vegetarisch-Erkennung.
 RE_MEAT_OR_FISH = re.compile(

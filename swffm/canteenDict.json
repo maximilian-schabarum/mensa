@@ -31,7 +31,7 @@
     "city": "Frankfurt am Main",
     "latitude": 50.1266126,
     "longitude": 8.6662262,
-    "address": "Neben dem Casinogebaeude, Theodor-W.-Adorno-Platz 2, 60323 Frankfurt am Main",
+    "address": "Neben dem Casinogebäude, Theodor-W.-Adorno-Platz 2, 60323 Frankfurt am Main",
     "times": "Mo-Fr 15:30-22:00 Uhr",
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/sommergarten"
   },
@@ -108,7 +108,7 @@
     "source": "https://www.swffm.de/essen-trinken/speiseplaene/cafeteria-level"
   },
   "hochschule-fuer-musik-und-darstellende-kunst": {
-    "name": "Frankfurt, Hochschule fur Musik und Darstellende Kunst",
+    "name": "Frankfurt, Mensa HfMDK",
     "city": "Frankfurt am Main",
     "latitude": 50.1200126,
     "longitude": 8.6738809,

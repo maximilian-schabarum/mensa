@@ -17,32 +17,30 @@ from pypdf import PdfReader
 
 try:
     from version import __version__, useragentname, useragentcomment
-    from util import xml_escape, weekdays_map
+    from util import meta_from_xsl, xml_str_param
 except ModuleNotFoundError:
     include = os.path.relpath(os.path.join(os.path.dirname(__file__), ".."))
     sys.path.insert(0, include)
     from version import __version__, useragentname, useragentcomment
-    from util import xml_escape, weekdays_map
+    from util import meta_from_xsl, xml_str_param
 
 try:
-    from .config import JSON_URL, META_JSON, META_TEMPLATE_FILE, VERPFLEGUNG_URL
+    from .config import JSON_URL, META_JSON, META_XSLT, VERPFLEGUNG_URL
     from .helpers import (
         build_feed_xml,
         empty_feed,
         filter_by_date_window,
         parse_json_menu,
-        parse_opening_times,
         parse_pdf_menu,
         realign_stale_dates,
     )
 except ImportError:
-    from config import JSON_URL, META_JSON, META_TEMPLATE_FILE, VERPFLEGUNG_URL
+    from config import JSON_URL, META_JSON, META_XSLT, VERPFLEGUNG_URL
     from helpers import (
         build_feed_xml,
         empty_feed,
         filter_by_date_window,
         parse_json_menu,
-        parse_opening_times,
         parse_pdf_menu,
         realign_stale_dates,
     )
@@ -70,14 +68,7 @@ class Parser:
     def feed(self, canteenReference: str) -> str:
         if canteenReference not in self.canteens:
             return empty_feed(canteenReference)
-        return build_feed_xml(self._load_days())
-
-    def feed_today(self, canteenReference: str) -> str:
-        if canteenReference not in self.canteens:
-            return empty_feed(canteenReference)
-        today = dt.date.today()
-        days  = [d for d in self._load_days() if d["date"] == today]
-        return build_feed_xml(days, include_weekend_closure=False)
+        return build_feed_xml(self._load_days(), include_weekend_closure=False)
 
     def feed_all(self, canteenReference: str) -> str:
         return self.feed(canteenReference)
@@ -86,42 +77,38 @@ class Parser:
 
     def meta(self, canteenReference: str) -> str:
         if canteenReference not in self.canteens:
-            return (
-                '<openmensa xmlns="http://openmensa.org/open-mensa-v2" '
-                'xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" '
-                'version="2.1" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 '
-                'http://openmensa.org/open-mensa-v2.xsd"/>'
-            )
+            return 'Unknown canteen'
 
         mensa = self.canteens[canteenReference]
 
-        with open(META_TEMPLATE_FILE, encoding="utf-8") as f:
-            template = f.read()
-
-        openingTimes = parse_opening_times(mensa.get("times", ""))
-
-        data: dict[str, str] = {
-            "name":      xml_escape(mensa["name"]),
-            "address":   xml_escape(mensa["address"]),
-            "city":      xml_escape(mensa["city"]),
-            "latitude":  xml_escape(str(mensa["latitude"])),
-            "longitude": xml_escape(str(mensa["longitude"])),
-            "feed":      xml_escape(
+        data = {
+            "name": xml_str_param(mensa["name"]),
+            "address": xml_str_param(mensa["address"]),
+            "city": xml_str_param(mensa["city"]),
+            "latitude": xml_str_param(mensa["latitude"]),
+            "longitude": xml_str_param(mensa["longitude"]),
+            "feed": xml_str_param(
                 self.urlTemplate.format(
                     metaOrFeed="feed",
                     mensaReference=urllib.parse.quote(canteenReference),
                 )
             ),
-            "source": xml_escape(mensa["source"]),
+            "feed_today": xml_str_param(
+                self.urlTemplate.format(
+                    metaOrFeed="feed",
+                    mensaReference=urllib.parse.quote(canteenReference),
+                )
+            ),
+            "source": xml_str_param(mensa["source"]),
         }
 
-        for shortDay, longDay in weekdays_map:
-            if shortDay in openingTimes:
-                data[longDay] = f'open="{openingTimes[shortDay]}"'
-            else:
-                data[longDay] = 'closed="true"'
+        if "phone" in mensa:
+            data["phone"] = xml_str_param(mensa["phone"])
 
-        return template.format(**data)
+        if "times" in mensa:
+            data["times"] = mensa["times"]
+
+        return meta_from_xsl(META_XSLT, data)
 
     def json(self) -> str:
         return json.dumps(

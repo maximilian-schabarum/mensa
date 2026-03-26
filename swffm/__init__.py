@@ -70,6 +70,7 @@ class Parser:
             'latitude': xml_str_param(mensa['latitude']),
             'longitude': xml_str_param(mensa['longitude']),
             'feed': xml_str_param(self.url_template.format(metaOrFeed='feed', mensaReference=urllib.parse.quote(ref))),
+            'feed_today': xml_str_param(self.url_template.format(metaOrFeed='today', mensaReference=urllib.parse.quote(ref))),
             'source': xml_str_param(mensa['source']),
         }
 
