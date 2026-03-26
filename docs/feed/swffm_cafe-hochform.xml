@@ -44,5 +44,19 @@
         </meal>
       </category>
     </day>
+    <day date="2026-04-01">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Maccaroni mit Spinat und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Putenragout mit Reis</name>
+          <note>Alkohol</note>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
