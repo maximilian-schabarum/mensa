@@ -2,9 +2,9 @@
   "speierlingshof": {
     "name": "Mensa Taberna",
     "city": "Speyer",
-    "address": "Otto-Mayer-Straße 7, 67346 Speyer",
-    "latitude": 49.315807,
-    "longitude": 8.416694,
+    "address": "Otto-Mayer-Straße 4, 67346 Speyer",
+    "latitude": 49.316138,
+    "longitude": 8.417011,
     "times": "Mo-Fr 11:30-14:00 Uhr",
     "source": "https://www.speierlinghof.de/"
   }
