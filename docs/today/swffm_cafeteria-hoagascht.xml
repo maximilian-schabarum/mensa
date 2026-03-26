@@ -3,14 +3,13 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-03-25">
+    <day date="2026-03-26">
       <category name="Hauptgericht">
         <meal>
-          <name>American Pancakes mit Bacon und Ahornsirup</name>
+          <name>Breakfast Burrito gefüllt mit, Rührei, Käse, Tomaten, Rucola, und wahlweise mit/ohne Speck</name>
           <note>Schwein</note>
-          <note>konserviert</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
         </meal>
         <meal>
           <name>Caesar Salat Caesar Dressing mit Brot</name>
@@ -27,21 +26,8 @@
           <price role="other">6.40</price>
           <price role="student">4.80</price>
         </meal>
-        <meal>
-          <name>Gebratener Reis mit Hähnchen und Sesam</name>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
-        </meal>
       </category>
       <category name="Vegetarisch">
-        <meal>
-          <name>American Pancakes mit belgischer Nuss Nougat Creme , oder Marmelade</name>
-          <note>Haselnuesse</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schalenfruechte und Nuesse</note>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
-        </meal>
         <meal>
           <name>Basic Salat mit einem Brot und drei Toppings nach Wahl</name>
           <note>vegan</note>
@@ -60,45 +46,23 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Karottencremesuppe mit Brot und einem Topping nach Wahl</name>
-          <note>Kartoffel</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
+          <name>Gebratene Eiernudeln mit Pilzen und Sprossen</name>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
         </meal>
         <meal>
-          <name>Kartoffel-Gemüseauflauf mit Chili und Feta</name>
-          <note>Kartoffel</note>
-          <price role="other">6.00</price>
-          <price role="student">4.40</price>
-        </meal>
-        <meal>
-          <name>Bulgur-Gemüse-Pilaw mit Kichererbsen mit Curry-Ingwerdip</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
-        </meal>
-        <meal>
-          <name>Linsen-Kürbis Dal mit Fladenbrot</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Sesam und Sesamerzeugnisse</note>
-          <note>Weizen</note>
+          <name>Spinat-Tomatencurry mit Kichererbsen und Basmatireis</name>
           <note>vegan</note>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
         </meal>
         <meal>
-          <name>Grießbrei mit Beeren</name>
+          <name>Rote Grütze mit Vanillesauce</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
           <name>Schokoladen-Bananenquark</name>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
-        <meal>
-          <name>Honig-Quarkcreme mit Mandeln</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
