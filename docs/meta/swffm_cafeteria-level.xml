@@ -22,5 +22,10 @@
       <url>https://maximilian-schabarum.github.io/mensa/feed/swffm_cafeteria-level.xml</url>
       <source>https://www.swffm.de/essen-trinken/speiseplaene/cafeteria-level</source>
     </feed>
+    <feed name="today" priority="0">
+      <schedule dayOfMonth="*" dayOfWeek="1-5" hour="6-14" retry="5 3"/>
+      <url>https://maximilian-schabarum.github.io/mensa/today/swffm_cafeteria-level.xml</url>
+      <source>https://www.swffm.de/essen-trinken/speiseplaene/cafeteria-level</source>
+    </feed>
   </canteen>
 </openmensa>

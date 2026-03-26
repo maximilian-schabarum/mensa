@@ -22,5 +22,10 @@
       <url>https://maximilian-schabarum.github.io/mensa/feed/swffm_mensa-casino.xml</url>
       <source>https://www.swffm.de/essen-trinken/speiseplaene/mensa-casino</source>
     </feed>
+    <feed name="today" priority="0">
+      <schedule dayOfMonth="*" dayOfWeek="1-5" hour="6-14" retry="5 3"/>
+      <url>https://maximilian-schabarum.github.io/mensa/today/swffm_mensa-casino.xml</url>
+      <source>https://www.swffm.de/essen-trinken/speiseplaene/mensa-casino</source>
+    </feed>
   </canteen>
 </openmensa>

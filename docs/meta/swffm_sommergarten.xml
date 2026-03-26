@@ -4,7 +4,7 @@
 <openmensa xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <name>Frankfurt, Sommergarten</name>
-    <address>Neben dem Casinogebaeude, Theodor-W.-Adorno-Platz 2, 60323 Frankfurt am Main</address>
+    <address>Neben dem Casinogebäude, Theodor-W.-Adorno-Platz 2, 60323 Frankfurt am Main</address>
     <city>Frankfurt am Main</city>
     <phone/>
     <location latitude="50.1266126" longitude="8.6662262"/>
@@ -20,6 +20,11 @@
     <feed name="full" priority="1">
       <schedule dayOfMonth="*" dayOfWeek="*" hour="6-14" minute="10" retry="65 1 1440"/>
       <url>https://maximilian-schabarum.github.io/mensa/feed/swffm_sommergarten.xml</url>
+      <source>https://www.swffm.de/essen-trinken/speiseplaene/sommergarten</source>
+    </feed>
+    <feed name="today" priority="0">
+      <schedule dayOfMonth="*" dayOfWeek="1-5" hour="6-14" retry="5 3"/>
+      <url>https://maximilian-schabarum.github.io/mensa/today/swffm_sommergarten.xml</url>
       <source>https://www.swffm.de/essen-trinken/speiseplaene/sommergarten</source>
     </feed>
   </canteen>

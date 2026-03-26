@@ -3,7 +3,7 @@
 <?xml-stylesheet type="text/css" href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css"?>
 <openmensa xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <name>Frankfurt, Hochschule fur Musik und Darstellende Kunst</name>
+    <name>Frankfurt, Mensa HfMDK</name>
     <address>Eschersheimer Landstrasse 35, 60322 Frankfurt am Main</address>
     <city>Frankfurt am Main</city>
     <phone/>
@@ -20,6 +20,11 @@
     <feed name="full" priority="1">
       <schedule dayOfMonth="*" dayOfWeek="*" hour="6-14" minute="10" retry="65 1 1440"/>
       <url>https://maximilian-schabarum.github.io/mensa/feed/swffm_hochschule-fuer-musik-und-darstellende-kunst.xml</url>
+      <source>https://www.swffm.de/essen-trinken/speiseplaene/hochschule-fuer-musik-und-darstellende-kunst</source>
+    </feed>
+    <feed name="today" priority="0">
+      <schedule dayOfMonth="*" dayOfWeek="1-5" hour="6-14" retry="5 3"/>
+      <url>https://maximilian-schabarum.github.io/mensa/today/swffm_hochschule-fuer-musik-und-darstellende-kunst.xml</url>
       <source>https://www.swffm.de/essen-trinken/speiseplaene/hochschule-fuer-musik-und-darstellende-kunst</source>
     </feed>
   </canteen>
