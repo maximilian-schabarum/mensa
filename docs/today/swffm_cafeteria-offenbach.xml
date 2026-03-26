@@ -33,6 +33,12 @@
           <price role="other">6.20</price>
           <price role="student">4.60</price>
         </meal>
+        <meal>
+          <name>Geflügelbällchen mit Thymianrahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
+        </meal>
       </category>
     </day>
   </canteen>
