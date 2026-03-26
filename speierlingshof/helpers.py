@@ -37,29 +37,6 @@ except ModuleNotFoundError:
     sys.path.insert(0, include)
     from util import StyledLazyBuilder, xml_escape, weekdays_map
 
-
-def parse_opening_times(times_string: str) -> dict[str, str]:
-    """Parse Öffnungszeiten im Format 'Mo-Fr 11:30-14:00 Uhr'."""
-    opening_times: dict[str, str] = {}
-    pattern = re.compile(
-        r"([A-Z][a-z])(\s*-\s*([A-Z][a-z]))?\s*"
-        r"(\d{1,2}):(\d{2})\s*[-–]\s*(\d{1,2}):(\d{2})\s*Uhr"
-    )
-    for from_day, _, to_day, from_h, from_m, to_h, to_m in re.findall(pattern, times_string):
-        time_range = f"{int(from_h):02d}:{int(from_m):02d}-{int(to_h):02d}:{int(to_m):02d}"
-        opening_times[from_day] = time_range
-        if to_day:
-            collecting = False
-            for short_day, _ in weekdays_map:
-                if short_day == from_day:
-                    collecting = True
-                elif collecting:
-                    opening_times[short_day] = time_range
-                if short_day == to_day:
-                    collecting = False
-    return opening_times
-
-
 def parse_json_menu(payload: dict[str, Any]) -> list[dict[str, Any]]:
     """Parse die JSON-Nutzdaten in eine Liste von Tagesdatensätzen."""
     days: list[dict[str, Any]] = []
