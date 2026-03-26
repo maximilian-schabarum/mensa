@@ -63,8 +63,6 @@ class Parser:
             "Accept": "application/json,text/html;q=0.9,*/*;q=0.8",
         })
 
-    # ---- öffentliche Feed-Methoden ----------------------------------------
-
     def feed(self, canteenReference: str) -> str:
         if canteenReference not in self.canteens:
             return empty_feed(canteenReference)
@@ -72,8 +70,6 @@ class Parser:
 
     def feed_all(self, canteenReference: str) -> str:
         return self.feed(canteenReference)
-
-    # ---- Meta und JSON-Index -----------------------------------------------
 
     def meta(self, canteenReference: str) -> str:
         if canteenReference not in self.canteens:
@@ -122,10 +118,7 @@ class Parser:
             indent=2,
         )
 
-    # ---- private Datenlader ------------------------------------------------
-
     def _load_days(self) -> list[dict[str, Any]]:
-        """Lädt Menüdaten: JSON primär, PDF als Fallback."""
         today = dt.date.today()
 
         jsonDays: list[dict[str, Any]] = []
@@ -136,7 +129,6 @@ class Parser:
 
         if jsonDays:
             daysInWindow = filter_by_date_window(jsonDays, today)
-            # JSON immer bevorzugen; Datumsfenster nur lockern wenn sonst leer
             return daysInWindow if daysInWindow else jsonDays
 
         try:
@@ -179,7 +171,6 @@ class Parser:
         response = self.session.get(pdfUrl, timeout=self.timeout)
         response.raise_for_status()
 
-        # Unter Windows schlägt delete=True bei noch geöffneten Dateien fehl
         tmpPath: Path | None = None
         try:
             with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tmp:

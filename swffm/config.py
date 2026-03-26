@@ -7,7 +7,6 @@ import re
 BASE_DIR = os.path.dirname(__file__)
 CANTEEN_JSON = os.path.join(BASE_DIR, 'canteenDict.json')
 META_XSLT = os.path.join(BASE_DIR, '../meta.xsl')
-SOURCE_BASE = 'https://www.swffm.de'
 
 ROLES = ('student', 'other')
 
