@@ -11,7 +11,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Chicken Wings mit Barbecuesauce , Country Cubes</name>
+          <name>Ausgabe 1 Chicken Wings mit Barbecuesauce , Country Cubes</name>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
@@ -28,13 +28,13 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Ofenkartoffel mit Rucolaquark und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Ofenkartoffel mit Rucolaquark und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">4.10</price>
           <price role="student">2.50</price>
         </meal>
         <meal>
-          <name>Veggie Pulled Tikka Masala mit Basmatireis</name>
+          <name>Ausgabe 5 Veggie Pulled Tikka Masala mit Basmatireis</name>
           <note>vegan</note>
           <price role="other">7.20</price>
           <price role="student">5.60</price>
