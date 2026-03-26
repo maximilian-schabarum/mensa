@@ -46,23 +46,45 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
+          <name>Blumenkohl-Currysuppe mit Kokosmilch mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Gebratene Eiernudeln mit Pilzen und Sprossen</name>
           <price role="other">6.30</price>
           <price role="student">4.70</price>
         </meal>
         <meal>
-          <name>Spinat-Tomatencurry mit Kichererbsen und Basmatireis</name>
+          <name>Spinat-Tomatencurry mit Kichererbsen Basmatireis</name>
           <note>vegan</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
         </meal>
         <meal>
-          <name>Rote Grütze mit Vanillesauce</name>
+          <name>Linsen-Kürbis Dal mit Fladenbrot</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
+        </meal>
+        <meal>
+          <name>Kirsch-Schoko-Joghurt</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Schokoladen-Bananenquark</name>
+          <name>Müslijoghurt mit roter Grütze</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Veganer Kokosmilchreis mit Mangotopping</name>
+          <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
