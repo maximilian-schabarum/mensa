@@ -4,16 +4,12 @@
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <day date="2026-03-27">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hokifilet Meunière mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">7.30</price>
-          <price role="student">5.70</price>
-        </meal>
-      </category>
       <category name="Vegetarisch">
+        <meal>
+          <name>Blumenkohlcremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Planted Ragout Schwedische Art mit Baguette</name>
           <note>Alkohol</note>
@@ -29,6 +25,15 @@
           <name>Pfannkuchen mit Nuss-Nougat Creme und einer Beilage nach Wahl</name>
           <price role="other">4.90</price>
           <price role="student">3.30</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hokifilet Meunière mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
         </meal>
       </category>
     </day>
