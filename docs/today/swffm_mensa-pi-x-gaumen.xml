@@ -17,12 +17,6 @@
           <price role="student">3.10</price>
         </meal>
         <meal>
-          <name>Tortellini mit Spinat-Käsefüllung Sahnesauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
-        </meal>
-        <meal>
           <name>Bandnudeln Tomate-Zucchini mit Basilikum-Knoblauchsauce</name>
           <note>Glutenhaltige Getreide</note>
           <note>Milch und Milcherzeugnisse</note>
@@ -39,6 +33,13 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.80</price>
           <price role="student">5.20</price>
+        </meal>
+        <meal>
+          <name>Bratwurst mit Zwiebelsauce, und einer Beilage nach Wahl</name>
+          <note>Rind</note>
+          <note>Schwein</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
         </meal>
       </category>
     </day>

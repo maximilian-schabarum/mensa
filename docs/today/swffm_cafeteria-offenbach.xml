@@ -6,27 +6,29 @@
     <day date="2026-03-27">
       <category name="Hauptgericht">
         <meal>
-          <name>Kibbelinge mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
+          <name>Hokifilet Meunière mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
         </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
+          <name>Planted Ragout Schwedische Art mit Baguette</name>
+          <note>Alkohol</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
+        <meal>
           <name>Pfannkuchen mit Nuss-Nougat Creme und einer Beilage nach Wahl</name>
           <price role="other">4.90</price>
           <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Bandnudeln Tomate-Zucchini mit Basilikum-Knoblauchsauce</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <price role="other">5.70</price>
-          <price role="student">4.10</price>
         </meal>
       </category>
     </day>

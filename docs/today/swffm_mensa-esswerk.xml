@@ -11,12 +11,12 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Linsen-Curryeintopf mit Vollkornbaguette , und einer Beilage nach Wahl</name>
-          <note>Gerste</note>
+          <name>Linsen-Curryeintopf mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
           <note>Kartoffel</note>
           <note>Roggen</note>
-          <note>Soja und Sojaerzeugnisse</note>
+          <note>Sesam und Sesamerzeugnisse</note>
           <note>Weizen</note>
           <note>vegan</note>
           <price role="other">4.70</price>
@@ -35,6 +35,11 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.80</price>
           <price role="student">5.20</price>
+        </meal>
+        <meal>
+          <name>Hähnchencurry mit Basmatireis, und einer Beilage nach Wahl</name>
+          <price role="other">6.60</price>
+          <price role="student">5.00</price>
         </meal>
         <meal>
           <name>Pizza Schinken-Champignons</name>

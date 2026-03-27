@@ -40,9 +40,11 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Kibbelinge mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
+          <name>Kibbelinge mit Joghurt-Dillsauce , Risoléekartoffeln</name>
+          <note>Kartoffel</note>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
+          <note>geschwefelt</note>
           <price role="other">6.80</price>
           <price role="student">5.20</price>
         </meal>
