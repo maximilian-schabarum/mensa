@@ -58,5 +58,19 @@
         </meal>
       </category>
     </day>
+    <day date="2026-04-02">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsekroketten mit Currydip , und einer Beilage nach Wahl</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+        </meal>
+        <meal>
+          <name>Eier mit Grüner Soße und Salzkartoffeln</name>
+          <note>Kartoffel</note>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>

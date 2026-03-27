@@ -75,5 +75,34 @@
         </meal>
       </category>
     </day>
+    <day date="2026-04-02">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>vegan</note>
+          <price role="other">3.20</price>
+          <price role="student">1.60</price>
+        </meal>
+        <meal>
+          <name>Gemüsenudeln mit Kokos und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+        <meal>
+          <name>Gekochte Eier mit Grüner Soße , Risoléekartoffeln</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>geschwefelt</note>
+          <price role="other">7.60</price>
+          <price role="student">6.00</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
