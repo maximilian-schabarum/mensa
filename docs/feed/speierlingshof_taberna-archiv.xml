@@ -1,0 +1,4445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2025-01-06">
+      <category name="Suppe">
+        <meal>
+          <name>Minestrone</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Gemischtes Gulasch (Rind, Schwein) mit Spätzle</name>
+          <note>Eier</note>
+          <note>Roggen</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbis-Süßkartoffelgulasch mit Spätzle</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-01-13">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Gebratener Reis mit Hühnchen und Asiagemüse</name>
+          <note>Cashewnüsse</note>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gebratener Reis mit Asiagemüse und Kirchererbsen</name>
+          <note>Cashewnüsse</note>
+          <note>Sellerie</note>
+          <note>Soja</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-05-26">
+      <category name="Suppe">
+        <meal>
+          <name>Spargelcremesuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bolognesesoße mit Nudeln und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Nudeln mit Linsen-Cashew-Bolognese und Salat</name>
+          <note>Cashewnüsse</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-05-27">
+      <category name="Suppe">
+        <meal>
+          <name>Blumenkohlsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinekrustenbraten mit Kartoffelbrei und Krautsalat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Überbackene Spargel mit Butterkartoffeln und Salat</name>
+          <note>Laktose</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-05-28">
+      <category name="Suppe">
+        <meal>
+          <name>Rote-Linsen-suppe mit Kokosmilch</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Putengulasch mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüse-Süßkartoffelgulasch mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-05-30">
+      <category name="Suppe">
+        <meal>
+          <name>Grünkernmehl-Suppe</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Fleischknepp in Meerrettich mit Kartoffeln und Mixed Pickles</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gefüllte Tomate mit Paprikareis und Salat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-02">
+      <category name="Suppe">
+        <meal>
+          <name>Meerrettichsuppe aus Rinderbrühe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Chili con Carne mit Reis und Salat</name>
+          <note>Cashewnüsse</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Chili sin Carne mit Reis und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-03">
+      <category name="Suppe">
+        <meal>
+          <name>Karotten-Ingwersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Currywurst mit Backofenkartoffeln, Joghurtdip und Salat</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Kohlrabi-Auflauf und Gurkensalat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-04">
+      <category name="Suppe">
+        <meal>
+          <name>Maisuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinekammbraten mit Spätzle und Krautsalat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsefrikadelle mit Spätzle und Krautsalat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-05">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnerfrikassee mit Reis und Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsefrikassee mit Reis und Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-06">
+      <category name="Suppe">
+        <meal>
+          <name>Erbsensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Lasagne Bolognese mit Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Spargellasagne mit Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-10">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schnitzel mit Kartoffeln</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Spargel-Auflauf</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-11">
+      <category name="Suppe">
+        <meal>
+          <name>Paprikacremsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Gefüllte Zucchini mit Hackfleisch, dazu Gemüse-CousCous</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gefüllte Zucchini vegetarisch, dazu Gemüse-CousCous</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-12">
+      <category name="Suppe">
+        <meal>
+          <name>Hühnersuppe asiatisch</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hackbraten mit Kartoffeln</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffeln-Kohlrabi-Auflauf</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-13">
+      <category name="Suppe">
+        <meal>
+          <name>Kartoffelsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Gemischtes Gulasch (Rind, Pute) mit Nudeln und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüse-Süßkartoffelgulasch mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-16">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Wurstsalat mit Bratkartoffeln und Salat</name>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Überbackener Kartoffel-Linsenauflauf mit Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-17">
+      <category name="Suppe">
+        <meal>
+          <name>Karotten-Ingwersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinelende in Champignonrahmsoße mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Käsespätzle mit Röstzwiebeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-18">
+      <category name="Suppe">
+        <meal>
+          <name>Sauerkrautrahmsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Salatteller mit gebratener Hühnerbrust und Baguette</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Salatteller mit gebackenem Schafskäse und Baguette</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-23">
+      <category name="Suppe">
+        <meal>
+          <name>Karotten-Ingwersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Linsenseintopf mit Wurst</name>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Schwefeldioxid/Sulfite</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bolognesesoße mit Nudeln und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Linsenbolognese mit Nudeln und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-24">
+      <category name="Suppe">
+        <meal>
+          <name>Markklößchensuppe mit Grünkernmehl</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Putencurry mit Reis und Salat</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsecurry mit Reis und Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-25">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Fleischknepp in Meerrettich mit Kartoffeln und Mixed Pickles</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gebratene Kartoffeln mit Tomaten-Gemüsequark und Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-26">
+      <category name="Suppe">
+        <meal>
+          <name>Gulaschsuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schnitzel mit Pilzsoße, Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gemischte Pilz-Gemüsepfanne mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-27">
+      <category name="Suppe">
+        <meal>
+          <name>Kartoffelsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Salatteller mit gebratener Hühnerbrust und Baguette</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Salatteller mit gebackenem Schafskäse und Baguette</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-06-30">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Tortellini mit Ricotta-Spinatfüllung al forno</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tortellini mit Ricotta-Spinatfüllung in Spinatsoße</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-01">
+      <category name="Suppe">
+        <meal>
+          <name>Linsensuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schnitzel mit gebratenen Kartoffeln</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gebratene Kartoffeln mit Tomaten-Gemüsequark</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-02">
+      <category name="Suppe">
+        <meal>
+          <name>Asiatische Gemüsesuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>gebratene Hähnchenkeule ohne Knochen mit Gemüse-CousCous</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gebackener Schafskäse mit Gemüse-CousCous</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-03">
+      <category name="Suppe">
+        <meal>
+          <name>Griesklößchensuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Backfisch mit Kartoffel-Gurkensalat</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Backcamembert mit Kartoffel-Gurkensalat</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-04">
+      <category name="Suppe">
+        <meal>
+          <name>Flädlesuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Lasagne Bolognese</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Reisnudelsalat mit veg. Sommerrollen</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-07">
+      <category name="Suppe">
+        <meal>
+          <name>Karotten-Ingwersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Chili con Carne mit Reis und Salat</name>
+          <note>Cashewnüsse</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Chili sin Carne mit Reis und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-08">
+      <category name="Suppe">
+        <meal>
+          <name>Erbsensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinelende in Champignonrahmsoße mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gemischte Pilz-Gemüsepfanne mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-09">
+      <category name="Suppe">
+        <meal>
+          <name>Hühnersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>1 Paar Weißwürste mit Brezel</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Gemüserösti mit Joghurtdip und Krautsalat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-10">
+      <category name="Suppe">
+        <meal>
+          <name>Minestrone</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bratwurst mit Kartoffelbrei und Sauerkraut</name>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Käsespätzle mit Röstzwiebeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-11">
+      <category name="Suppe">
+        <meal>
+          <name>Paprikarahmsuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Gefüllte Zucchini mit Hackfleisch, dazu Gemüse-CousCous</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gefüllte Zucchini veg., dazu Gemüse-CousCous</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-14">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Nudeln mit Spinat-Basilikumpesto, Schinkenstreifen und Salat</name>
+          <note>Cashewnüsse</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Nudeln mit Spinat-Basilikumpesto und Salat</name>
+          <note>Cashewnüsse</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-15">
+      <category name="Suppe">
+        <meal>
+          <name>Linsenseintopf</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnercurry mit Reis und Salat</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsecurry mit Reis und Salat</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-16">
+      <category name="Suppe">
+        <meal>
+          <name>Sächsische Kartoffelsuppe mit Wurst</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Wurstsalat mit Bratkartoffeln und Salat</name>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Paprikaomelette mit gebratenen Kartoffeln und Salat</name>
+          <note>Eier</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-17">
+      <category name="Suppe">
+        <meal>
+          <name>Bohnensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Pfannengyros mit Backofenkartoffeln, Joghurtdip und Salat</name>
+          <note>Laktose</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Auberginen-Kartoffelauflauf mit Joghurtdip und Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-18">
+      <category name="Suppe">
+        <meal>
+          <name>Sauerkrautrahmsuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnerbruststreifen auf Salat mit Baguette</name>
+        </meal>
+        <meal>
+          <name>Schafskäsewürfel mit Salat mit Baguette</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-21">
+      <category name="Suppe">
+        <meal>
+          <name>Kartoffelsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bolognesesoße mit Nudeln und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Linsenbolognese mit Nudeln und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-22">
+      <category name="Suppe">
+        <meal>
+          <name>Griesklößchensuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinelachse in Pilzrahm mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gemischte Pilz-Gemüsepfanne mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-23">
+      <category name="Suppe">
+        <meal>
+          <name>Karotten-Ingwersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Currywurst mit frittierten Kartoffelscheiben und Salat</name>
+          <note>Ascorbinsäure</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Blumenkohlgratin mit Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-24">
+      <category name="Suppe">
+        <meal>
+          <name>Erbsensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinekrustenbraten mit Kartoffel-Möhrenstampf und Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüseburger mit Kartoffelmöhrenstampf und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-25">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatencremesuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>„Fleschknepp“ in Meerrettichsoße mit Kartoffeln</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsequark mit Kartoffeln</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-28">
+      <category name="Suppe">
+        <meal>
+          <name>Flädlesuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Backfisch mit Kartoffelsalat und Salat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Gemüse-Gratin mit Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-29">
+      <category name="Suppe">
+        <meal>
+          <name>Linsenseintopf</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schnitzel mit pikanter Paprikasoße, Spätzle und Salat - Copy</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Sellerieschnitzel pikanter Paprikasoße, Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-30">
+      <category name="Suppe">
+        <meal>
+          <name>Gulaschsuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Frikadelle mit Kartoffeln und Erbsen- und Karottengemüse</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Asiatischer Gemüsereis mit Kokosmilch</name>
+          <note>Cashewnüsse</note>
+          <note>Sellerie</note>
+          <note>Soja</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-07-31">
+      <category name="Suppe">
+        <meal>
+          <name>Maultaschensuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Lasagne Bolognese mit Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Mangoldlasagne mit Salat</name>
+          <note>Cashewnüsse</note>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-08-01">
+      <category name="Suppe">
+        <meal>
+          <name>Petersilienwurzelsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>gebratene Putenstreifen auf Salat mit Baguette</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Salatteller mit gebackenem Schafskäse und Baguette</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-08-25">
+      <category name="Suppe">
+        <meal>
+          <name>Karotten-Kokossuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bolognesesoße mit Nudeln und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Linsenbolognese mit Nudeln und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-08-26">
+      <category name="Suppe">
+        <meal>
+          <name>Hühnersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnerbrust gebraten mit Gemüsecouscous, Joghurtdip und Salat</name>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gebackener Schafskäse mit Gemüsecouscous, Joghurtdip und Salat</name>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-08-27">
+      <category name="Suppe">
+        <meal>
+          <name>Griesklößchensuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bratwurst mit Kartoffeln und Erbsen-Karottengemüse</name>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüseburger mit Kartoffeln und Erbsen-Karottengemüse</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-08-28">
+      <category name="Suppe">
+        <meal>
+          <name>Rindfleischsuppe mit grünen Bohnen</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Putengulasch mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Pfifferlinge mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-08-29">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Kartoffel-Chorizo-Auflauf mit Krautsalat</name>
+          <note>Ascorbinsäure</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Blumenkohlgratin mit Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-01">
+      <category name="Suppe">
+        <meal>
+          <name>Minestrone</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Backfisch mit Kartoffel-Püree und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Frittata mit Kartoffel-Püree und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-02">
+      <category name="Suppe">
+        <meal>
+          <name>Gulaschsuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schinkennudeln</name>
+          <note>Ascorbinsäure</note>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Penne mit Basilikum-Pesto</name>
+          <note>Cashewnüsse</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-03">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Frikadelle mit Kartoffeln und Sommergemüse</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Gemüse-Käse-Auflauf</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-04">
+      <category name="Suppe">
+        <meal>
+          <name>Brokkolicremesuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Jägerpfanne(Schweinegulasch mit Pilzen) mit Spätzle und Krautsalat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kichererbsen-Linsen-Gulasch mit Spätzle und Krautsalat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-05">
+      <category name="Suppe">
+        <meal>
+          <name>Bohnensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Pfannengyros mit Backofenkartoffeln, Joghurtdip und Salat</name>
+          <note>Laktose</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Auberginen-Kartoffelauflauf mit Joghurtdip und Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-08">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bolognesesoße mit Nudeln und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Nudeln mit Kichererbsen-Kürbis-Bolognese mit Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-09">
+      <category name="Suppe">
+        <meal>
+          <name>Flädlesuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bratwurst mit Kartoffelbrei und Sauerkraut</name>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Pilz-Pfanne mit Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-10">
+      <category name="Suppe">
+        <meal>
+          <name>Erbsensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Putencurry mit Reis und Salat</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsecurry mit Reis und Salat</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-11">
+      <category name="Suppe">
+        <meal>
+          <name>Blumenkohlsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinebraten mit Kartoffel-Kürbis-Püree und Krautsalat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Vegetarisches Gulasch mit Kartoffel-Kürbis-Püree</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-12">
+      <category name="Suppe">
+        <meal>
+          <name>Asiatische Hühnersuppe mit Nudeln</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Lasagne Bolognese mit Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbis-Lasagne mit Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-15">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Tortellini in Schinken-Käse-Sahne-Soße und Salat</name>
+          <note>Ascorbinsäure</note>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tortellini mit Gemüse-Käse-Sahne-Soße und Salat</name>
+          <note>Eier</note>
+          <note>Erdnüsse</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-16">
+      <category name="Suppe">
+        <meal>
+          <name>Brokkolicremesuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schnitzel paniert mit Kartoffeln und Blumenkohlgemüse</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbisschnitzel mit Kartoffeln und Blumenkohl</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-17">
+      <category name="Suppe">
+        <meal>
+          <name>serbische Bohnensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Geflügelgeschnetzeltes mit Gemüse und Reis</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Ofengemüse mit Kartoffeln und Fetakäse</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-18">
+      <category name="Suppe">
+        <meal>
+          <name>Asiatische Gemüsesuppe</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>gebratene Hähnchenkeule ohne Knochen mit Gemüse-CousCous</name>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbis-Kichererbsen-Curry mit Gemüse-CousCous</name>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-19">
+      <category name="Suppe">
+        <meal>
+          <name>Gulaschsuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Kürbis-Lauchhaschee mit Nudeln und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbis-Lauch-Linsen-“Haschee“ mit Nudeln und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-22">
+      <category name="Suppe">
+        <meal>
+          <name>Linsensuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Chili con Carne mit Reis</name>
+        </meal>
+        <meal>
+          <name>Bohnenchili mit Reis und Salat</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-23">
+      <category name="Suppe">
+        <meal>
+          <name>Kohlrabisuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bratwurst(1,2,3) mit Kartoffelpüree</name>
+        </meal>
+        <meal>
+          <name>Pfifferlinge mit Spätzle</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-24">
+      <category name="Suppe">
+        <meal>
+          <name>Erbsensuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Käsespätzle mit Schinken(1,2,3)  und Salat</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Käsespätzle vegetarisch mit Salat</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-25">
+      <category name="Suppe">
+        <meal>
+          <name>Hühnersuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hackbraten mit Kartoffeln und Lauchgemüse</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Lauchgratin mit Salat</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-26">
+      <category name="Suppe">
+        <meal>
+          <name>Lauchsuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Gulasch mit Kürbis-Süßkartoffel-Stampf und Krautsalat</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffelpuffer mit Quark und Salat</name>
+        </meal>
+        <meal>
+          <name>Kartoffelpuffer mit Apfelbrei</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-29">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Thunfisch-Arrabbiata mit Nudeln und Salat</name>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Cashew-Kichererbsenbolognese mit Nudeln und Salat</name>
+          <note>Cashewnüsse</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-09-30">
+      <category name="Suppe">
+        <meal>
+          <name>Gulaschsuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnercurry mit Reis und Salat</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbis-Kichererbsen-Curry mit Gemüse-CousCous</name>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-01">
+      <category name="Suppe">
+        <meal>
+          <name>Gulaschsuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinebraten mit Spätzle und Krautsalat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Zucchini-Auberginen Couscous mit Schafskäsewürfeln und Krautsalat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-02">
+      <category name="Suppe">
+        <meal>
+          <name>Rinderbrühe mit versch. Einlage</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Fleischknepp in Meerrettich mit Kartoffeln und Mixed Pickles</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Spinatlasagne mit Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-06">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Backfisch mit Kartoffelsalat und Salat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüse-Kartoffel-Frittata mit Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-07">
+      <category name="Suppe">
+        <meal>
+          <name>Linsenseintopf</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Kartoffelgratin mit Kassler und Salat</name>
+          <note>Laktose</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Lauchgratin mit Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-08">
+      <category name="Suppe">
+        <meal>
+          <name>Hühnersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Pulled Pork mit Ofenkartoffel und Kräuterquark</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Soja</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Ofenkartoffel mit Feta und Gemüse dazu Kräuterquark</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-09">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Putengulasch mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüse-Süßkartoffelgulasch mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-10">
+      <category name="Suppe">
+        <meal>
+          <name>Pastinakensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinelende mit Rösti, Pilzrahmsoße und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemischte Pilze in Rahm mit Rösti und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-13">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bolognesesoße mit Nudeln und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Spaghetti-Kichererbsen-Kürbis-Bolognese mit Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-14">
+      <category name="Suppe">
+        <meal>
+          <name>Bohneneintopf</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bratwurst mit Kartoffelbrei und Rotkohl</name>
+          <note>Laktose</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Gemüse-Gratin mit Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-15">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinerücken mit Rahmsoße, Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbis-Schnitzel mit Rahmsoße, Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-16">
+      <category name="Suppe">
+        <meal>
+          <name>Asiatische Hühnersuppe mit Nudeln</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinegulasch mit Kartoffel-Kürbis-Püree und Krautsalat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gefüllte Pilze mit Kartoffel-Kürbis-Püree und Krautsalat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-17">
+      <category name="Suppe">
+        <meal>
+          <name>Kartoffel-Weißkohl Eintopf</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Nudel-Tomaten-Basilikum-Auflauf  mit Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnchenbrust in Käse-Basilikumsoße mit Nudeln und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-20">
+      <category name="Suppe">
+        <meal>
+          <name>Maultaschensuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Tortellini in Schinken-Kürbis-Soße mit Salat</name>
+          <note>Ascorbinsäure</note>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tortellini mit Kürbis-Kichererbsen-Soße und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-21">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schnitzel mit Kartoffel und Blumenkohlgemüse</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Blumenkohlgratin mit Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-22">
+      <category name="Suppe">
+        <meal>
+          <name>serbische Bohnensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Geflügelgeschnetzeltes Züricher Art mit Spätzle</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gefüllte Paprika mit Spätzle und Salat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-23">
+      <category name="Suppe">
+        <meal>
+          <name>Paprikacremsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinebraten mit Süßkartoffel-Kürbis-Püree und Karottensalat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gefüllte Zucchini mit Süßkartoffel-Kürbis-Püree und Karottensalat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-24">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Lasagne Bolognese mit Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+        <meal>
+          <name>Thunfisch-Lasagne mit Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbis-Lasagne mit Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-27">
+      <category name="Suppe">
+        <meal>
+          <name>Blumenkohlsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Chili con Carne mit Baguette und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsefrittata mit Baguette und Salat</name>
+          <note>Eier</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-28">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Penne mit Schinkenspeck-Käse-Soße und Salat</name>
+          <note>Ascorbinsäure</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Käsespätzle mit Röstzwiebeln und Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-29">
+      <category name="Suppe">
+        <meal>
+          <name>Kartoffelsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Putencurry mit Reis und Salat</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbis-Gemüsecurry mit Reis und Salat</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-30">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinerahmgeschnetzeltes mit Champignons, Spätzle und Krautsalat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüserahm mit Champignons, Süßkartoffeln und Krautsalat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Suppe">
+        <meal>
+          <name>Griesklößchensuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-10-31">
+      <category name="Suppe">
+        <meal>
+          <name>Linseneintopf</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schnitzel mit Rahmwirsing und Kartoffeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbisschnitzel mit Rahmwirsing und Kartoffeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-03">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Nudeln mit Haschee-Lauchsoße und Salat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Lauchgratin mit Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-04">
+      <category name="Suppe">
+        <meal>
+          <name>serbische Bohnensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Krustenbraten vom Schwein mit Ofenkartoffeln und Krautsalat</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Ofenkartoffeln mit Kräuterquark,Champignons und Krautsalat</name>
+          <note>Laktose</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-05">
+      <category name="Suppe">
+        <meal>
+          <name>Markklößchensuppe mit Grünkernmehl</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Pfannengyros mit Reis, Joghurtdip und Salat</name>
+          <note>Laktose</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Ratatouillegemüse mit Reis, Joghurtdip und Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-06">
+      <category name="Suppe">
+        <meal>
+          <name>Gulaschsuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Kassler mit Kartoffelpüree und Sauerkraut</name>
+          <note>Ascorbinsäure</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Süßkartoffel-Gratin mit Feta und Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-07">
+      <category name="Suppe">
+        <meal>
+          <name>Minestrone</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Lasagne Bolognese mit Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+        <meal>
+          <name>Thunfisch-Lasagne mit Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Mangoldlasagne mit Salat</name>
+          <note>Cashewnüsse</note>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-09">
+      <category name="Suppe">
+        <meal>
+          <name>Kartoffelsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinegulasch mit Spätzle</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffelgratin mit Blumenkohl und Brokkoli</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-10">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Backfisch mit Kartoffelsalat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Sellerieschnitzel mit Kartoffelsalat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-11">
+      <category name="Suppe">
+        <meal>
+          <name>Linseneintopf</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bratwurst mit Kartoffelbrei und Rotkohl</name>
+          <note>Laktose</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Wirsinggratin</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-12">
+      <category name="Suppe">
+        <meal>
+          <name>Karotteningwersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinerahmgeschnetzeltes mit Champignons und Spätzle</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Beilagensalat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+        <meal>
+          <name>Gemüse-Pilzragout mit Spätzle</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-13">
+      <category name="Suppe">
+        <meal>
+          <name>Hühnersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schnitzel mit Kohlrabigemüse und Kartoffeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffelkohlrabiauflauf</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-14">
+      <category name="Suppe">
+        <meal>
+          <name>Erbsensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Fleischknepp in Meerrettich mit Kartoffeln</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Rotes Linsencurry mit Süßkartoffeln</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-24">
+      <category name="Suppe">
+        <meal>
+          <name>Karotteningwersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Wurstsalat mit Bratkartoffeln</name>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Bratkartoffeln mit Kräuterquark</name>
+          <note>Laktose</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-25">
+      <category name="Suppe">
+        <meal>
+          <name>Flädlesuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnchenbrust in Käse-Basilikumsoße mit Reis</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>vegetarische Tortellini in Basilikum-Mozzarellasoße</name>
+          <note>Eier</note>
+          <note>Erdnüsse</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-26">
+      <category name="Suppe">
+        <meal>
+          <name>Asiatische Hühnersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Putengulasch mit Spätzle</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüse-Süßkartoffelgulasch mit Spätzle</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-27">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweineschnitzel mit Kartoffel-Wirsingstampf</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Sellerieschnitzel mit Kartoffel-Wirsingstampf</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-11-28">
+      <category name="Suppe">
+        <meal>
+          <name>Kartoffelsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Lasagne Bolognese</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbis-Lasagne</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-01">
+      <category name="Suppe">
+        <meal>
+          <name>Selleriesuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Chili con Carne mit Reis</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Paprika-Gemüsefrittata mit Reis</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-02">
+      <category name="Suppe">
+        <meal>
+          <name>Bohneneintopf (vegan)</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bratwurst (1,2,3)  mit Kartoffelpüree</name>
+        </meal>
+        <meal>
+          <name>Kürbis-Quiche</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-03">
+      <category name="Suppe">
+        <meal>
+          <name>Blumenkohlsuppe</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Maultaschen mit Kartoffelsalat</name>
+        </meal>
+        <meal>
+          <name>Gemüse Maultaschen mit Kartoffelsalat</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-04">
+      <category name="Suppe">
+        <meal>
+          <name>Pastinakensuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinebraten mit Spätzle und Krautsalat</name>
+        </meal>
+        <meal>
+          <name>gemischte Pilze mit Spätzle und Krautsalat</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-05">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Hühnchencurry mit Gemüsereis</name>
+        </meal>
+        <meal>
+          <name>Kürbis-Süßkartoffel-Curry mit Gemüsereis (vegan)</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-08">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Backfisch mit Kartoffelsalat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Käsespätzle mit Röstzwiebeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-09">
+      <category name="Suppe">
+        <meal>
+          <name>Kartoffelsuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinegulasch mit Spätzle</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffelgratin mit Blumenkohl und Brokkoli</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-10">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schnitzel mit Wintergemüse und Kartoffeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbisschnitzel mit Wintergemüse und Kartoffeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-11">
+      <category name="Suppe">
+        <meal>
+          <name>Champignonrahmsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Ukrainischer Borschtsch mit Salzkaroffeln</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+        <meal>
+          <name>Ukrainischer Borschtsch vegan mit Salzkaroffeln</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-12">
+      <category name="Suppe">
+        <meal>
+          <name>Hühnersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinefilet in Sahnesoße überbacken mit Bratkartoffeln</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Gefüllter Kürbis mit Bratkartoffeln</name>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-15">
+      <category name="Suppe">
+        <meal>
+          <name>Lauchcremesuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Nudeln mit Bolognesesoße</name>
+        </meal>
+        <meal>
+          <name>Linsen-Bolognese mit Nudeln</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-16">
+      <category name="Suppe">
+        <meal>
+          <name>Gulaschsuppe</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Krustenbraten mit Kartoffelmöhrenstampf</name>
+        </meal>
+        <meal>
+          <name>Gefüllte Champignons mit Kartoffelmöhrenstampf</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-17">
+      <category name="Suppe">
+        <meal>
+          <name>Karotten-Ingwer-Kokossuppe</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbis-Süßkartoffel-Gratin</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>VEB-Taberna empfiehlt heute:</name>
+        </meal>
+        <meal>
+          <name>Sächsisches Jägerschnitzel mit Nudeln</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-18">
+      <category name="Suppe">
+        <meal>
+          <name>Griesklößchensuppe</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Frikadellen mit Salzkartoffeln</name>
+        </meal>
+        <meal>
+          <name>Gemüsefrikadellen mit Salzkartoffeln</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2025-12-19">
+      <category name="Suppe">
+        <meal>
+          <name>Linseneintopf</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Hack-Pilz-Pfanne</name>
+        </meal>
+        <meal>
+          <name>Kartoffel-Gemüse-Pilz-Pfanne</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-05">
+      <category name="Suppe">
+        <meal>
+          <name>Blumenkohlsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bolognesesoße mit Nudeln</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Linsenbolognese mit Nudeln</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-06">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Minestrone</name>
+        </meal>
+        <meal>
+          <name>Gulasch gemischt(Rind/Schwein) mit Spätzle</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Süßkartoffelgulasch mit Spätzle</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-07">
+      <category name="Suppe">
+        <meal>
+          <name>Karotteningwersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Grünkohl mit Kartoffeln und Mettwürsten</name>
+          <note>Ascorbinsäure</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Grünkohl mit Kartoffeln und Ei</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-08">
+      <category name="Suppe">
+        <meal>
+          <name>Asiatische Hühnersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnercurry mit Reis</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsecurry mit Reis</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-09">
+      <category name="Suppe">
+        <meal>
+          <name>Erbsensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schnitzel mit Wintergemüse und Kartoffeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbisschnitzel mit Wintergemüse und Kartoffeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-12">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Backfisch mit Kartoffelsalat</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Lauchgratin</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-13">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gebratener Reis mit Hühnchen und Asia-Gemüse</name>
+        </meal>
+        <meal>
+          <name>gebratener Reis mit Kichererbsen und Asia-</name>
+        </meal>
+        <meal>
+          <name>Gemüse</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-14">
+      <category name="Suppe">
+        <meal>
+          <name>Griesklößchensuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinebraten mit Malzbiersoße, bayrisch Kraut und Salzkartoffeln</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gebackener Camembert mit bayrisch Kraut und Salzkartoffeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-15">
+      <category name="Suppe">
+        <meal>
+          <name>Gulaschsuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Käsespätzle mit Röstzwiebeln und Speck</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-16">
+      <category name="Suppe">
+        <meal>
+          <name>Linseneintopf</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Frikadellen mit Kartoffel-Möhrenstampf</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüse-Haferflockenfrikadellen mit Kartoffel-Möhrenstampf</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-19">
+      <category name="Suppe">
+        <meal>
+          <name>Maultaschensuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Tortellini in Schinken-Süßkartoffel-Soße</name>
+          <note>Ascorbinsäure</note>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tortellini mit Süßkartoffel-Kichererbsen-Soße</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-20">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Putengeschnetzeltes mit Spätzle</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gemischte Pilze mit Spätzle und Chinakohl-Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-21">
+      <category name="Suppe">
+        <meal>
+          <name>Hühnersuppe mit Nudeln</name>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Thüringer Rostbratwurst mit Kartoffeln und Erbsen-Karottengemüse</name>
+          <note>Ascorbinsäure</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Frankfurter grüne Soße mit Ei und Kartoffeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-22">
+      <category name="Suppe">
+        <meal>
+          <name>Markklößchensuppe mit Grünkernmehl</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Pfannengyros mit Bratkartoffeln und Joghurtdip</name>
+          <note>Laktose</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsefrittata mit Bratkartoffeln und Joghurtdip</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-23">
+      <category name="Suppe">
+        <meal>
+          <name>Minestrone</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Lasagne Bolognese</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Mangoldlasagne</name>
+          <note>Cashewnüsse</note>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-26">
+      <category name="Suppe">
+        <meal>
+          <name>Karotteningwersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Chili con Carne mit Reis</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+        <meal>
+          <name>Bohnenchili mit Reis</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-27">
+      <category name="Suppe">
+        <meal>
+          <name>Champignonrahmsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schnitzel mit Wintergemüse und Kartoffeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Sellerieschnitzel mit Kartoffeln und Wintergemüse</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-28">
+      <category name="Suppe">
+        <meal>
+          <name>Markklößchensuppe mit Grünkernmehl</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Gemischtes Gulasch (Rind, Schwein) mit Spätzle</name>
+          <note>Eier</note>
+          <note>Roggen</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbis-Süßkartoffelgulasch mit Spätzle</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-29">
+      <category name="Suppe">
+        <meal>
+          <name>Paprikacremsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Kassler mit Kartoffelpüree und Sauerkraut</name>
+          <note>Ascorbinsäure</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Lauchgratin</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-30">
+      <category name="Suppe">
+        <meal>
+          <name>Erbsensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Cevapcici mit Tomatenreis</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gefüllte Pilze mit Tomatenreis</name>
+          <note>Laktose</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-02">
+      <category name="Suppe">
+        <meal>
+          <name>Linseneintopf</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Nudeln mit Lachs, Spinat und Mangold</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Riccotta-Spinat Tortellini mit Käsesoße</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-03">
+      <category name="Suppe">
+        <meal>
+          <name>Lauch-Hackfleischsuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnercurry mit Reis</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsecurry mit Reis</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-04">
+      <category name="Suppe">
+        <meal>
+          <name>Maultaschensuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinenackenbraten mit Kartoffel-Erbspüree</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüseburger mit Kartoffel-Erbspüree</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-05">
+      <category name="Suppe">
+        <meal>
+          <name>Rindfleischsuppe mit grünen Bohnen</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Fleischknepp in Meerrettich mit Kartoffeln</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+        <meal>
+          <name>Kartoffel-Rosenkohl-Pfanne</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-06">
+      <category name="Suppe">
+        <meal>
+          <name>Bohneneintopf</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Kartoffel-Kassler-Lauch-Auflauf</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Champignon-Ei-Auflauf</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-09">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Backfisch mit Bratkartoffeln</name>
+          <note>Eier</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Nudeln mit Käsesahnesoße</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-10">
+      <category name="Suppe">
+        <meal>
+          <name>Blumenkohlsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bratwurst mit Kartoffelbrei und Rotkohl</name>
+          <note>Laktose</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffelkohlrabiauflauf</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-11">
+      <category name="Suppe">
+        <meal>
+          <name>Asiatische Hühnersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Winzersteak mit Schmorzwiebeln, Backofenkartoffeln</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Sellerieschnitzel mit Backofenkartoffeln</name>
+          <note>Eier</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-12">
+      <category name="Suppe">
+        <meal>
+          <name>Rindfleischsuppe mit grünen Bohnen</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Fleischknepp in Meerrettich mit Kartoffeln</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+        <meal>
+          <name>Kartoffel-Rosenkohl-Pfanne</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-13">
+      <category name="Suppe">
+        <meal>
+          <name>Kartoffelsuppe</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Lasagne Bolognese</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Mangoldlasagne</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-16">
+      <category name="Suppe">
+        <meal>
+          <name>serbische Bohnensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bolognesesoße mit Nudeln</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Nudeln mit Linsen-Cashew-Bolognese</name>
+          <note>Cashewnüsse</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-17">
+      <category name="Suppe">
+        <meal>
+          <name>Kartoffelsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Salzkartoffeln mit Rahmspinat und Rührei</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-18">
+      <category name="Suppe">
+        <meal>
+          <name>Hühnersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinekrustenbraten mit Kartoffelbrei und Sauerkraut</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gebratene Schupfnudeln mit Rahmsauerkraut</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-19">
+      <category name="Suppe">
+        <meal>
+          <name>Markklößchensuppe mit Grünkernmehl</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinerahmgeschnetzeltes Stroganoff mit Spätzle</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Pilzrahmgeschnetzelts „Stroganoff“ mit Spätzle</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-20">
+      <category name="Suppe">
+        <meal>
+          <name>Erbsensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Erbsensuppe mit Wurst</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffelpuffer mit Lachscreme</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Kartoffelpuffer mit Quark</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Kartoffelpuffer mit Apfelmuß</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-23">
+      <category name="Suppe">
+        <meal>
+          <name>Brokkolicremesuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Chili con Carne mit Reis</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+        <meal>
+          <name>Bohnenchili mit Reis</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-24">
+      <category name="Suppe">
+        <meal>
+          <name>Griesklößchensuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinebraten mit Kartoffel-Möhrenstampf</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüse-Haferflockenfrikadellen mit Kartoffel-Möhrenstampf</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-25">
+      <category name="Suppe">
+        <meal>
+          <name>Kartoffelsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Dampfnudel mit Vanillesoße</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-26">
+      <category name="Suppe">
+        <meal>
+          <name>Gulaschsuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Pfannengyros mit Backofenkartoffeln und Tzatziki</name>
+          <note>Laktose</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüse-Ratatouille mit Backofenkartoffeln und Tzatziki</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-02-27">
+      <category name="Suppe">
+        <meal>
+          <name>Linseneintopf</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Frikadelle mit Kartoffeln und Erbsen- und Karottengemüse</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kohlrabischnitzel mit Salzkartoffeln und Karotten-Erbsengemüse</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-02">
+      <category name="Suppe">
+        <meal>
+          <name>Flädlesuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Tortellini mit Ricotta Spinatfüllung, gekochtem Schinken und Tomaten-Käsesoße</name>
+          <note>Ascorbinsäure</note>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tortellini mit Ricotta Spinatfüllung und Tomaten-Käsesoße</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-03">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Karotteningwersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Currywurst mit Bratkartoffeln und hausgemachtem Curryketchup</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Gemüse-Gratin</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-04">
+      <category name="Suppe">
+        <meal>
+          <name>Asiatische Hühnersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Geflügelcurry mit Reis</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsecurry mit Reis</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-05">
+      <category name="Suppe">
+        <meal>
+          <name>Bohneneintopf mit Kartoffeln und Bauchspeck</name>
+          <note>Ascorbinsäure</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schnitzel mit Kohlrabigemüse und Kartoffeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Sellerieschnitzel mit Kartoffeln und Kohlrabigemüse</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-06">
+      <category name="Suppe">
+        <meal>
+          <name>Kartoffelsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Eierpfannkuchen mit Schinken und Pilzen</name>
+          <note>Ascorbinsäure</note>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Eierpfannkuchen mit Pilzen</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-09">
+      <category name="Suppe">
+        <meal>
+          <name>Lauchsuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Backfisch mit Ofenkartoffeln</name>
+          <note>Eier</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Gemüse-Gratin</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-10">
+      <category name="Suppe">
+        <meal>
+          <name>Griesklößchensuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinegulasch mit Spätzle</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Süßkartoffelgulasch mit Spätzle</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-11">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Gebratener Reis mit Hühnchen und Asiagemüse</name>
+          <note>Cashewnüsse</note>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gebratener Reis mit Asiagemüse und Kirchererbsen</name>
+          <note>Cashewnüsse</note>
+          <note>Sellerie</note>
+          <note>Soja</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-12">
+      <category name="Suppe">
+        <meal>
+          <name>Hühnersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinebraten mit Kartoffelbrei und Rotkraut</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gebratene Maultaschen mit Kartoffelbrei und Sauerkraut</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-13">
+      <category name="Suppe">
+        <meal>
+          <name>Erbsensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Lasagne Bolognese</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Mangoldlasagne</name>
+          <note>Cashewnüsse</note>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-16">
+      <category name="Suppe">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bolognesesoße mit Nudeln</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Linsenbolognese mit Nudeln</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-17">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Geflügelgeschnetzeltes Züricher Art mit Spätzle</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gemischte Pilze mit Spätzle und Chinakohl-Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-18">
+      <category name="Suppe">
+        <meal>
+          <name>Champignonrahmsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hackbraten mit Kartoffeln und Erbsen- und Karottengemüse</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsefrikadelle mit Kartoffeln und Erbsen-Karottengemüse</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-19">
+      <category name="Suppe">
+        <meal>
+          <name>Markklößchensuppe mit Grünkernmehl</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Rindfleisch in Meerrettich mit Salzkartoffeln</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+        <meal>
+          <name>Käsespätzle mit Röstzwiebeln und Speck</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-20">
+      <category name="Suppe">
+        <meal>
+          <name>Linseneintopf</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Kartoffel-Lauchauflauf mit Hackfleisch und Speck</name>
+          <note>Ascorbinsäure</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Lauchgratin</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-23">
+      <category name="Suppe">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Nudeln mit Mozzarella-Basilikumsoße und gekochtem Schinken</name>
+          <note>Ascorbinsäure</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Nudeln mit Mozzarella-Basilikumsoße</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-24">
+      <category name="Suppe">
+        <meal>
+          <name>Kresse-Rahmsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schnitzel mit Kohlrabigemüse und Kartoffeln</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gefüllte Paprika mit Kartoffeln und Kohlrabigemüse</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-25">
+      <category name="Suppe">
+        <meal>
+          <name>Minestrone</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Kartoffel-Ratatouille-Auflauf mit Chorizo</name>
+          <note>Ascorbinsäure</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Ratatouille-Auflauf mit Schafskäse</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-26">
+      <category name="Suppe">
+        <meal>
+          <name>Gulaschsuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bratwurst mit Kartoffelbrei und Sauerkraut</name>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gebratene Schupfnudeln mit Frühlingslauch und Sauerkraut</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-03-27">
+      <category name="Suppe">
+        <meal>
+          <name>Erbsensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hackbällchen mit Reis und Tomatensoße</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gefüllte Pilze mit Reis und Tomatensoße</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+  </canteen>
+</openmensa>
