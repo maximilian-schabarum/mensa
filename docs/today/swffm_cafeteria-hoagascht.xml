@@ -29,6 +29,13 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
+          <name>Blumenkohl-Currysuppe mit Kokosmilch mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Falafel Bowl mit Joghurt , Hummus</name>
           <note>Milch und Milcherzeugnisse</note>
           <note>Sesam und Sesamerzeugnisse</note>
