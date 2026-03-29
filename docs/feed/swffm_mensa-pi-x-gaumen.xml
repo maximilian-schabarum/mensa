@@ -26,12 +26,12 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Paniertes Putenschnitzel mit Pilzsauce , und einer Beilage nach Wahl</name>
+          <name>Panierte Hähnchenbrust mit Pilzsauce , und einer Beilage nach Wahl</name>
           <note>Milch und Milcherzeugnisse</note>
           <note>Schwefeldioxid / Sulfit</note>
           <note>geschwefelt</note>
-          <price role="other">7.30</price>
-          <price role="student">5.70</price>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
         </meal>
       </category>
     </day>

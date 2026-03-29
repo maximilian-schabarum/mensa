@@ -76,7 +76,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Putenragout mit Reis</name>
+          <name>Blanquette de dinde-Putenragout Reis</name>
           <note>Alkohol</note>
           <price role="other">5.50</price>
           <price role="student">3.90</price>
@@ -102,7 +102,7 @@
           <price role="student">3.40</price>
         </meal>
         <meal>
-          <name>Eier mit Grüner Soße und Salzkartoffeln</name>
+          <name>Eier mit Grüner Soße Salzkartoffeln</name>
           <note>Kartoffel</note>
           <price role="other">6.40</price>
           <price role="student">4.80</price>
