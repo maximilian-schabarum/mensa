@@ -6,6 +6,11 @@
     <day date="2026-03-30">
       <category name="Vegetarisch">
         <meal>
+          <name>Gemüsecremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Chili sin Carne mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
