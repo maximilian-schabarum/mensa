@@ -12,10 +12,11 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Wrap mit Gemüsecouscous und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Wrap mit Gemüsecouscous mit Soja Topping , und einer Beilage nach Wahl</name>
+          <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
         <meal>
           <name>Ausgabe 5 Stampfkartoffeln mit Veggie Hack und einer Beilage nach Wahl</name>

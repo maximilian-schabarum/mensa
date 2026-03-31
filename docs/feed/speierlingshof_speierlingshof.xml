@@ -6,73 +6,65 @@
     <day date="2026-03-30">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatensuppe</name>
+          <name>Kartoffelsuppe</name>
           <note>Laktose</note>
           <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Nudeln mit Mozzarella-Basilikumsoße</name>
-          <note>Laktose</note>
+          <name>Chili con Carne mit Reis</name>
           <note>Sellerie</note>
-          <note>Weizen</note>
+          <note>Senf</note>
         </meal>
-      </category>
-      <category name="Hauptgericht">
         <meal>
-          <name>Nudeln mit Mozzarella-Basilikumsoße und gekochtem Schinken</name>
-          <note>Ascorbinsäure</note>
-          <note>Laktose</note>
-          <note>Nitripökelsalz</note>
-          <note>Phosphat</note>
+          <name>Bohnenchili mit Reis</name>
           <note>Sellerie</note>
-          <note>Weizen</note>
+          <note>Senf</note>
         </meal>
       </category>
     </day>
     <day date="2026-03-31">
       <category name="Vegetarisch">
         <meal>
-          <name>Kresse-Rahmsuppe</name>
+          <name>Champignonrahmsuppe</name>
           <note>Laktose</note>
           <note>Sellerie</note>
         </meal>
         <meal>
-          <name>gefüllte Paprika mit Kartoffeln und Kohlrabigemüse</name>
-          <note>Eier</note>
+          <name>Kartoffel-Blumenkohlgratin</name>
           <note>Laktose</note>
           <note>Sellerie</note>
-          <note>Weizen</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Schnitzel mit Kohlrabigemüse und Kartoffeln</name>
-          <note>Eier</note>
+          <name>Schweinebraten mit Kartoffel-Möhrenstampf</name>
           <note>Laktose</note>
           <note>Sellerie</note>
-          <note>Weizen</note>
+          <note>Senf</note>
         </meal>
       </category>
     </day>
     <day date="2026-04-01">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Minestrone</name>
-          <note>Sellerie</note>
-        </meal>
-        <meal>
-          <name>Kartoffel-Ratatouille-Auflauf mit Schafskäse</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
-        </meal>
-      </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Kartoffel-Ratatouille-Auflauf mit Chorizo</name>
-          <note>Ascorbinsäure</note>
-          <note>Nitripökelsalz</note>
-          <note>Phosphat</note>
+          <name>Asiatische Hühnersuppe</name>
           <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Putengulasch mit Spätzle</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Süßkartoffelgulasch mit Spätzle</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
         </meal>
       </category>
     </day>
@@ -82,45 +74,17 @@
           <name>Gulaschsuppe</name>
           <note>Sellerie</note>
         </meal>
-        <meal>
-          <name>Bratwurst mit Kartoffelbrei und Sauerkraut</name>
-          <note>Laktose</note>
-          <note>Nitripökelsalz</note>
-          <note>Phosphat</note>
-        </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>gebratene Schupfnudeln mit Frühlingslauch und Sauerkraut</name>
+          <name>Salzkartoffeln mit Rahmspinat und Rührei</name>
           <note>Eier</note>
           <note>Laktose</note>
-          <note>Weizen</note>
         </meal>
       </category>
     </day>
     <day date="2026-04-03">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Erbsensuppe</name>
-          <note>Sellerie</note>
-        </meal>
-        <meal>
-          <name>gefüllte Pilze mit Reis und Tomatensoße</name>
-          <note>Eier</note>
-          <note>Laktose</note>
-          <note>Sellerie</note>
-          <note>Weizen</note>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hackbällchen mit Reis und Tomatensoße</name>
-          <note>Eier</note>
-          <note>Sellerie</note>
-          <note>Senf</note>
-          <note>Weizen</note>
-        </meal>
-      </category>
+      <closed/>
     </day>
   </canteen>
 </openmensa>
