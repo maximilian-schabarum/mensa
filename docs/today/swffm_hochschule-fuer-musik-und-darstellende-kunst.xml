@@ -17,6 +17,24 @@
           <price role="student">3.20</price>
         </meal>
         <meal>
+          <name>Paniertes Putenschnitzel mit Pilzsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <note>vegan</note>
+          <price role="other">7.10</price>
+          <price role="student">5.50</price>
+        </meal>
+        <meal>
+          <name>Linsen-Curryeintopf mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+        <meal>
           <name>Frische Waffeln</name>
           <price role="other">3.40</price>
           <price role="student">1.80</price>
@@ -35,14 +53,6 @@
           <note>Schwein</note>
           <price role="other">5.50</price>
           <price role="student">3.90</price>
-        </meal>
-        <meal>
-          <name>Paniertes Putenschnitzel mit Pilzsauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>geschwefelt</note>
-          <price role="other">7.10</price>
-          <price role="student">5.50</price>
         </meal>
       </category>
     </day>
