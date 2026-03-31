@@ -6,7 +6,8 @@
     <day date="2026-03-31">
       <category name="Vegetarisch">
         <meal>
-          <name>Spinatrahmsuppe</name>
+          <name>Karottencremesuppe</name>
+          <note>vegan</note>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
@@ -14,6 +15,12 @@
           <name>Lasagne Sojabolognese und einer Beilage nach Wahl</name>
           <price role="other">7.00</price>
           <price role="student">5.40</price>
+        </meal>
+        <meal>
+          <name>Bohnen-Kichererbsenpfanne Reis</name>
+          <note>vegan</note>
+          <price role="other">3.90</price>
+          <price role="student">2.30</price>
         </meal>
         <meal>
           <name>Quinoa-Karottenpfanne und einer Beilage nach Wahl</name>
