@@ -6,8 +6,12 @@
     <day date="2026-03-31">
       <category name="Vegetarisch">
         <meal>
-          <name>Paprikasuppe Gemüsebrühe mit Reiseinlage</name>
-          <note>Sellerie und Sellerieerzeugnisse</note>
+          <name>Bärlauchcremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Gemüsebrühe mit Reiseinlage</name>
           <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
