@@ -3,42 +3,39 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-03-31">
+    <day date="2026-04-01">
       <category name="Vegetarisch">
         <meal>
-          <name>Champignoncremesuppe</name>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
+          <name>Muschelnudeln mit Tomaten-Spinatrahm , und einer Beilage nach Wahl</name>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
         <meal>
           <name>Wrap mit Gemüsecouscous mit Joghurtdip , und einer Beilage nach Wahl</name>
           <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
         </meal>
         <meal>
-          <name>Tortellini mit Spinat-Käsefüllung Sahnesauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
+          <name>Kichererbsen-Kokospfanne mit Mandelreis</name>
+          <note>Mandeln</note>
+          <note>Schalenfruechte und Nuesse</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Kartoffel-Hackfleischauflauf mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <note>Rind</note>
-          <note>Schwein</note>
+          <name>Putenragout mit Reis</name>
+          <note>Alkohol</note>
           <price role="other">5.50</price>
           <price role="student">3.90</price>
-        </meal>
-        <meal>
-          <name>Seelachsfilet in Bärlauchmarinade mit Gemüse-Buchweizen, und Tomaten-Joghurtdip</name>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>mensaVital</note>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
         </meal>
       </category>
     </day>
