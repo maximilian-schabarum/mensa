@@ -67,19 +67,30 @@
           <price role="student">5.40</price>
         </meal>
         <meal>
-          <name>Linsengemüse mit Kartoffeln und Tomatensalsa</name>
+          <name>Linsengemüse mit Kartoffeln Tomatensalsa</name>
           <note>Kartoffel</note>
           <note>vegan</note>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
         </meal>
         <meal>
-          <name>Milchreis mit Apfelmus</name>
+          <name>Couscous-Gemüsepfanne mit Knoblauchjoghurt</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Milchreis mit Beerenragout</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Müsli-Naturjoghurt</name>
+          <name>Schokoladen-Bananenquark</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Pistazienpudding</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>

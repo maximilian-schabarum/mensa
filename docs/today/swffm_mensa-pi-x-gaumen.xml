@@ -6,6 +6,11 @@
     <day date="2026-04-01">
       <category name="Vegetarisch">
         <meal>
+          <name>Broccolicremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Muschelnudeln mit Tomaten-Spinatrahm , und einer Beilage nach Wahl</name>
           <note>Schwefeldioxid / Sulfit</note>
           <note>Soja und Sojaerzeugnisse</note>
