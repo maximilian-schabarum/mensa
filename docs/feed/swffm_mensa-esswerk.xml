@@ -31,6 +31,24 @@
           <price role="other">5.50</price>
           <price role="student">3.90</price>
         </meal>
+        <meal>
+          <name>Kartoffel-Hackfleischauflauf mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>Rind</note>
+          <note>Schwein</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
+        </meal>
+        <meal>
+          <name>Pizza Hähnchen-Ananas</name>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
+        </meal>
+        <meal>
+          <name>Pizza Spinat</name>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
       </category>
     </day>
     <day date="2026-04-02">
