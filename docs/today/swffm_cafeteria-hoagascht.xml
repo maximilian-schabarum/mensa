@@ -51,12 +51,26 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Linsen-Mangocurry mit Mandelreis</name>
-          <note>Mandeln</note>
-          <note>Schalenfruechte und Nuesse</note>
+          <name>Frankfurter Kräuterschaumsüppchen mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
+          <name>Vollkornnudeln mit Linsen-Gemüsebolognese</name>
           <note>vegan</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Milchreis mit Beerenragout</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Schokoladen-Bananenquark</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
         </meal>
       </category>
     </day>
