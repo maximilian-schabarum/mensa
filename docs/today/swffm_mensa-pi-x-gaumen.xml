@@ -35,14 +35,16 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hokifilet Meunière mit Zitronensauce, und einer Beilage nach Wahl</name>
+          <name>Hokifilet Meunière mit Petersiliensauce , und einer Beilage nach Wahl</name>
           <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
           <price role="other">7.20</price>
           <price role="student">5.60</price>
         </meal>
         <meal>
-          <name>Hokifilet mit Bärlauchmarinade mit Zitronensauce, und einer Beilage nach Wahl</name>
+          <name>Hokifilet mit Bärlauchmarinade mit Petersiliensauce , und einer Beilage nach Wahl</name>
           <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
           <price role="other">7.20</price>
           <price role="student">5.60</price>
         </meal>

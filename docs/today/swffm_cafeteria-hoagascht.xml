@@ -31,12 +31,6 @@
           <price role="other">6.60</price>
           <price role="student">5.00</price>
         </meal>
-        <meal>
-          <name>Kokos Panna Cotta</name>
-          <note>Schwein</note>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
@@ -63,11 +57,6 @@
           <note>vegan</note>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
-        </meal>
-        <meal>
-          <name>Heidelbeerquark</name>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
         </meal>
       </category>
     </day>

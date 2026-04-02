@@ -21,7 +21,8 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Ausgabe 3 Tortellini Ricotta-Spinat mit Tomatensauce, und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Gnocchi mit Ricottafüllung mit Tomatensauce, und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
           <price role="other">5.00</price>
           <price role="student">3.40</price>
         </meal>
