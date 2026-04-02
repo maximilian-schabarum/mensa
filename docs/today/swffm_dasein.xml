@@ -3,33 +3,38 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-01">
+    <day date="2026-04-02">
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffelcremesuppe</name>
-          <note>Kartoffel</note>
+          <name>Tomatensuppe</name>
+          <note>vegan</note>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
         <meal>
+          <name>Quinoa-Karottenpfanne und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">6.60</price>
+          <price role="student">5.00</price>
+        </meal>
+        <meal>
           <name>Gemüseauflauf mit Gorgonzola und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
+          <price role="other">7.40</price>
+          <price role="student">5.80</price>
+        </meal>
+        <meal>
+          <name>Gekochte Eier mit Grüner Soße , Risoléekartoffeln</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>geschwefelt</note>
           <price role="other">7.60</price>
           <price role="student">6.00</price>
-        </meal>
-        <meal>
-          <name>Schwarze Bohnen mit Tomate Reis</name>
-          <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Pasta Bolognese</name>
-          <note>Rind</note>
-          <price role="other">7.90</price>
-          <price role="student">6.30</price>
         </meal>
       </category>
     </day>
