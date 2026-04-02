@@ -27,6 +27,13 @@
           <price role="student">3.40</price>
         </meal>
         <meal>
+          <name>Ausgabe 5 Reispfanne mit Tofu mit veganem Sojadip , und einer Beilage nach Wahl</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+        <meal>
           <name>Ausgabe 5 Eier mit Grüner Soße und Salzkartoffeln</name>
           <note>Kartoffel</note>
           <price role="other">6.40</price>
