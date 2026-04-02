@@ -26,11 +26,6 @@
           <price role="other">6.40</price>
           <price role="student">4.80</price>
         </meal>
-        <meal>
-          <name>Gebratene Mienudeln mit Hähnchen und Gemüse</name>
-          <price role="other">6.60</price>
-          <price role="student">5.00</price>
-        </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
