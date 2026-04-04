@@ -54,5 +54,28 @@
         </meal>
       </category>
     </day>
+    <day date="2026-04-10">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Blumenkohlpfanne mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Seelachsfilet mit Bärlauchmarinade Pfefferdip , und Risoléekartoffeln</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Suessungsmitteln</note>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>

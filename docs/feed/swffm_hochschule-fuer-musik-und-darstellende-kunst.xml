@@ -104,5 +104,40 @@
         </meal>
       </category>
     </day>
+    <day date="2026-04-10">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Seelachsfilet mit Bärlauchmarinade mit Tomatenwürfeln, mit Pfefferdip , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Blumenkohlpfanne mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>

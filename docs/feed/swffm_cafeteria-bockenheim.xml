@@ -94,5 +94,40 @@
         </meal>
       </category>
     </day>
+    <day date="2026-04-10">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Lauchrahmsuppe</name>
+          <note>Kartoffel</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Kartoffel-Blumenkohlpfanne mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Risoléekartoffeln Seelachsfilet mit Bärlauchmarinade , mit Tomatenwürfeln, mit Pfefferdip</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Fisch und Fischerzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>MSC</note>
+          <note>Mandeln</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schalenfruechte und Nuesse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
