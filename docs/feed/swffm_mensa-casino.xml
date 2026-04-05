@@ -12,13 +12,13 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Bunte Farfalle mit Broccoli und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Bunte Farfalle mit Broccoli und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.10</price>
           <price role="student">3.50</price>
         </meal>
         <meal>
-          <name>Paprika-Kartoffelauflauf mit Zucchini-Tomatensauce, und einer Beilage nach Wahl</name>
+          <name>Ausgabe 5 Paprika-Kartoffelauflauf mit Zucchini-Tomatensauce, und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>vegan</note>
           <price role="other">4.80</price>
@@ -38,7 +38,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Putensteak Spinat-Schafskäse mit Pommes frites</name>
+          <name>Ausgabe 1 Putensteak Spinat-Schafskäse mit Pommes frites</name>
           <note>Kartoffel</note>
           <note>mit Antioxidationsmittel</note>
           <price role="other">7.30</price>
