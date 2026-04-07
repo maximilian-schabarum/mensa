@@ -45,7 +45,7 @@
           <price role="student">5.70</price>
         </meal>
         <meal>
-          <name>Ausgabe 1 Putenragout mit Reis</name>
+          <name>Putenragout mit Reis</name>
           <note>Alkohol</note>
           <price role="other">5.00</price>
           <price role="student">3.40</price>
