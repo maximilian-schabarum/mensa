@@ -3,58 +3,91 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-03-30">
+    <day date="2026-04-06">
+      <closed/>
+    </day>
+    <day date="2026-04-07">
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffel-Gemüsesuppe*</name>
+          <name>Spargelcremesuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Bohnenchili mit Reis (vegan)*</name>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Chili con Carne mit Reis*</name>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-03-31">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Champignonrahmsuppe*</name>
-        </meal>
-        <meal>
-          <name>Kartoffel-Blumenkohlgratin*</name>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Schweinebraten mit Kartoffel-Karotten-Stampf*</name>
+          <name>Tortellini mit Ricotta Spinatfüllung und Tomaten-Käsesoße</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
         </meal>
       </category>
     </day>
-    <day date="2026-04-01">
+    <day date="2026-04-08">
       <category name="Hauptgericht">
         <meal>
-          <name>Hühnersuppe asiatisch mit Nudeln*</name>
+          <name>Hühnersuppe</name>
+          <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Putengulasch mit Nudeln*</name>
-        </meal>
-        <meal>
-          <name>Süßkartoffelgulasch (vegan) mit Nudeln*</name>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-04-02">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Gulaschsuppe*</name>
+          <name>Pfannengyros mit Gemüsereis, Joghurtdip und Salat</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
         </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Spinat mit Salzkartoffeln und Rührei*</name>
+          <name>vegetarische Frikadellen mit Gemüsereis und Joghurtdip</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-09">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Maultaschensuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+        <meal>
+          <name>gemischte Pilze mit Spätzle und Chinakohl-Salat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Geflügelgeschnetzeltes Züricher Art mit Spätzle</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-10">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Linseneintopf</name>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Pasta mit Bärlauchsahnesoße</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Pasta mit Bärlauchsahnesoße und Speck</name>
+          <note>Ascorbinsäure</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
         </meal>
       </category>
     </day>

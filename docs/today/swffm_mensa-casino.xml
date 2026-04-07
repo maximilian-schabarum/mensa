@@ -44,12 +44,6 @@
           <price role="other">7.30</price>
           <price role="student">5.70</price>
         </meal>
-        <meal>
-          <name>Putenragout mit Reis</name>
-          <note>Alkohol</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
-        </meal>
       </category>
     </day>
   </canteen>
