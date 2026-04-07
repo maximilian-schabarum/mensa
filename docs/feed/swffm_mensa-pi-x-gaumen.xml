@@ -6,6 +6,12 @@
     <day date="2026-04-07">
       <category name="Vegetarisch">
         <meal>
+          <name>Kartoffelsuppe</name>
+          <note>Kartoffel</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Paprika-Kartoffelauflauf mit Zucchini-Tomatensauce, und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>vegan</note>
@@ -13,7 +19,7 @@
           <price role="student">3.20</price>
         </meal>
         <meal>
-          <name>Soja-Gyros mit veganem Tzatziki , und Couscous</name>
+          <name>Soja-Gyros mit Tzatziki , mit Couscous</name>
           <note>Glutenhaltige Getreide</note>
           <note>Senf und Senferzeugnisse</note>
           <note>Soja und Sojaerzeugnisse</note>
@@ -133,6 +139,33 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">7.20</price>
           <price role="student">5.60</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-13">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Ofenkartoffel mit Linsen-Gemüsechili, und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
+        </meal>
+        <meal>
+          <name>Gnocchi mit Austernpilzen und Blattsalate mit Joghurtdressing</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Paniertes Schweineschnitzel mit Rahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
         </meal>
       </category>
     </day>

@@ -143,5 +143,28 @@
         </meal>
       </category>
     </day>
+    <day date="2026-04-13">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Paniertes Schweineschnitzel mit Rahmsauce , und Country Potatoes</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Ofenkartoffel mit Linsen-Gemüsechili, und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
