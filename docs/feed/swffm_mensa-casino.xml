@@ -3,49 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-07">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Karotten-Ingwercremesuppe</name>
-          <note>vegan</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 Bunte Farfalle mit Broccoli und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">5.10</price>
-          <price role="student">3.50</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Paprika-Kartoffelauflauf mit Zucchini-Tomatensauce, und einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
-        </meal>
-        <meal>
-          <name>Soja-Gyros mit veganem Tzatziki , und Couscous</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Ausgabe 1 Putensteak Spinat-Schafskäse mit Pommes frites</name>
-          <note>Kartoffel</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">7.30</price>
-          <price role="student">5.70</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-04-08">
       <category name="Vegetarisch">
         <meal>
@@ -55,7 +12,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Gebratene Drillingskartoffeln mit veganem Bärlauchdip , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Gebratene Drillingskartoffeln mit veganem Bärlauchdip , und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>Senf und Senferzeugnisse</note>
           <note>Soja und Sojaerzeugnisse</note>
@@ -64,7 +21,13 @@
           <price role="student">3.30</price>
         </meal>
         <meal>
-          <name>Gemüsefrikadelle mit Pusztasauce , und Kartoffelkroketten</name>
+          <name>Ausgabe 3 Eier mit Grüner Soße und Salzkartoffeln</name>
+          <note>Kartoffel</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Gemüsefrikadelle mit Pusztasauce , und Kartoffelkroketten</name>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
           <note>Senf und Senferzeugnisse</note>
@@ -85,7 +48,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Geschnetzeltes Estragon-Senf mit Gemüsereis</name>
+          <name>Ausgabe 1 Geschnetzeltes Estragon-Senf mit Gemüsereis</name>
           <note>Schwein</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
@@ -216,6 +179,46 @@
           <note>mit Antioxidationsmittel</note>
           <price role="other">6.10</price>
           <price role="student">4.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-14">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Linsensuppe Aramäische Art</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Blumenkohlauflauf und Risoleekartoffeln</name>
+          <note>Kartoffel</note>
+          <note>geschwefelt</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
+          <name>Broccoli-Nussecke mit Sauce Napoli, und Farfalle</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Champignon-Geflügelpfanne mit Reis</name>
+          <price role="other">7.60</price>
+          <price role="student">6.00</price>
+        </meal>
+        <meal>
+          <name>Hähnchenbrust Tomate-Mozzarella mit Broccoli , und Curryreis</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">7.90</price>
+          <price role="student">6.30</price>
         </meal>
       </category>
     </day>

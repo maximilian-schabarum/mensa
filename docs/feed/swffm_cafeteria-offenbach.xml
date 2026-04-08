@@ -30,5 +30,31 @@
         </meal>
       </category>
     </day>
+    <day date="2026-04-14">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Broccoli-Nussecke mit Sauce Napoli, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
+          <name>Kohlrabi-Kartoffelgemüse mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchenbrust Tomate-Mozzarella mit Broccoli , und Curryreis</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">7.90</price>
+          <price role="student">6.30</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>

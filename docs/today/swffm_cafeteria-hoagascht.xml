@@ -75,6 +75,11 @@
           <price role="student">3.00</price>
         </meal>
         <meal>
+          <name>Biryani-Couscous</name>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
+        <meal>
           <name>Milchreis mit Pfirsich</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
