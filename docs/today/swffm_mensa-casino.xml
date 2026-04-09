@@ -33,12 +33,19 @@
           <price role="student">3.70</price>
         </meal>
         <meal>
-          <name>Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauchquark , und Blattsalat</name>
+          <name>Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauchquark , und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>mensaVital</note>
           <price role="other">5.20</price>
           <price role="student">3.60</price>
+        </meal>
+        <meal>
+          <name>Spaghetti mit Mango-Belugalinsenragout</name>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">3.80</price>
+          <price role="student">2.20</price>
         </meal>
       </category>
     </day>
