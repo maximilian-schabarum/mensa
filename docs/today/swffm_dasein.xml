@@ -6,7 +6,8 @@
     <day date="2026-04-09">
       <category name="Vegetarisch">
         <meal>
-          <name>Mediterrane Gemüsecremesuppe</name>
+          <name>Karottencremesuppe</name>
+          <note>vegan</note>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
@@ -14,6 +15,11 @@
           <name>Lasagne mit Linsen und einer Beilage nach Wahl</name>
           <price role="other">7.10</price>
           <price role="student">5.50</price>
+        </meal>
+        <meal>
+          <name>Griechischer Nudelauflauf und einer Beilage nach Wahl</name>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
         <meal>
           <name>Broccoli-Gemüsewok Reis</name>
