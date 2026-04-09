@@ -6,6 +6,11 @@
     <day date="2026-04-09">
       <category name="Vegetarisch">
         <meal>
+          <name>Kohlrabicremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Spinatgratin mit Gemüsesauce , und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>Sellerie und Sellerieerzeugnisse</note>

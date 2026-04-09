@@ -43,6 +43,16 @@
           <price role="other">6.20</price>
           <price role="student">4.60</price>
         </meal>
+        <meal>
+          <name>Pizza Hähnchen-Ananas</name>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
+        </meal>
+        <meal>
+          <name>Pizza Spinat</name>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
       </category>
     </day>
   </canteen>
