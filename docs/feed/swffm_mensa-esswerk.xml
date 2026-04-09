@@ -3,59 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-08">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Ingwer-Karottencremesuppe</name>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Gebratene Drillingskartoffeln mit veganem Bärlauchdip , und einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Pizza Mexiko scharf</name>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
-        </meal>
-        <meal>
-          <name>Soja-Gyros mit veganem Tzatziki , und Couscous</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">4.50</price>
-          <price role="student">2.90</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Bifteki mit Paprikasauce, und einer Beilage nach Wahl</name>
-          <note>Rind</note>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
-        </meal>
-        <meal>
-          <name>Paniertes Putenschnitzel mit Bratensauce, und einer Beilage nach Wahl</name>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
-        </meal>
-        <meal>
-          <name>Pizza Schinken-Zwiebel</name>
-          <note>Schwein</note>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-04-09">
       <category name="Vegetarisch">
         <meal>
@@ -74,12 +21,27 @@
           <price role="other">4.90</price>
           <price role="student">3.30</price>
         </meal>
+        <meal>
+          <name>Gebratene Drillingskartoffeln mit veganem Bärlauchdip , und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
           <name>Schmorhähnchen Mediterran mit einer Beilage nach Wahl</name>
           <price role="other">6.50</price>
           <price role="student">4.90</price>
+        </meal>
+        <meal>
+          <name>Bifteki mit Paprikasauce, und einer Beilage nach Wahl</name>
+          <note>Rind</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
       </category>
     </day>
@@ -205,6 +167,53 @@
           <note>mensaVital</note>
           <price role="other">7.90</price>
           <price role="student">6.30</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-15">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Klare Grießklößchensuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Kichererbsen-Gemüsetopf mit Baguette</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
+        </meal>
+        <meal>
+          <name>Gemüse-Vollkornspaghetti mit Sojarahm</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">3.80</price>
+          <price role="student">2.20</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Geflügelbällchen mit Gemüsesauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
+        <meal>
+          <name>Pizza Cabanossi</name>
+          <note>Geflügel</note>
+          <note>Schwein</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
+        </meal>
+        <meal>
+          <name>Pizza Broccoli-Käse</name>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
         </meal>
       </category>
     </day>
