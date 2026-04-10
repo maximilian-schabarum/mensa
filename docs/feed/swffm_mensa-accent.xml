@@ -61,5 +61,26 @@
         </meal>
       </category>
     </day>
+    <day date="2026-04-16">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kokos-Kartoffel-Lauchcurry mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Truthahn-Zwiebelgulasch Spätzle</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
