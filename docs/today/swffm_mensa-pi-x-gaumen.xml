@@ -37,6 +37,21 @@
           <price role="student">3.20</price>
         </meal>
       </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Gebratenes Seelachsfilet mit Tomatenwürfeln, und Pfefferdip , Risoléekartoffeln</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
+        </meal>
+      </category>
     </day>
   </canteen>
 </openmensa>
