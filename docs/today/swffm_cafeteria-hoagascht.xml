@@ -42,6 +42,14 @@
           <price role="student">4.50</price>
         </meal>
         <meal>
+          <name>Kichererbsen-Auberginenpfanne Bulgur</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
+        <meal>
           <name>Exotischer Grießbrei</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
