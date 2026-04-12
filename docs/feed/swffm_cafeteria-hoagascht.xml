@@ -34,6 +34,12 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
+          <name>Grüne Erbsenschaumsuppe mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Gebratener Reis mit Paprika, Frühlingszwiebeln und Nüssen</name>
           <note>vegan</note>
           <price role="other">6.00</price>
@@ -90,6 +96,12 @@
           <note>vegan</note>
           <price role="other">6.40</price>
           <price role="student">4.80</price>
+        </meal>
+        <meal>
+          <name>Blumenkohlcremesuppe mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
         <meal>
           <name>Gebratene Nudeln mit Gemüse, Cashew und Ei</name>
@@ -181,6 +193,12 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
+          <name>Rote Betecremesuppe mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Gebratener Reis mit Gemüse und Tofu</name>
           <note>vegan</note>
           <price role="other">4.70</price>
@@ -242,6 +260,12 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
+          <name>Bärlauchcremesuppe mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Fruchtige Gemüse-Tajine mit Zitronencouscous</name>
           <note>vegan</note>
           <price role="other">5.70</price>
@@ -272,6 +296,13 @@
           <note>vegan</note>
           <price role="other">6.40</price>
           <price role="student">4.80</price>
+        </meal>
+        <meal>
+          <name>Blumenkohl-Currysuppe mit Kokosmilch mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
         <meal>
           <name>Ofenkartoffel mit Blattspinat,, Fetakäse , und Hummus</name>

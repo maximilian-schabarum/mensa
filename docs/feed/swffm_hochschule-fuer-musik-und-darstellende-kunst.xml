@@ -4,19 +4,12 @@
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <day date="2026-04-13">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Paniertes Schweineschnitzel mit Rahmsauce , und Country Potatoes</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
-        </meal>
-      </category>
       <category name="Vegetarisch">
+        <meal>
+          <name>Blumenkohl-Currysuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Ofenkartoffel mit Linsen-Gemüsechili, und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
@@ -24,9 +17,51 @@
           <price role="other">4.10</price>
           <price role="student">2.50</price>
         </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Paniertes Schweineschnitzel mit Rahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
       </category>
     </day>
     <day date="2026-04-14">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Linsensuppe Aramäische Art</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Broccoli-Nussecke mit Sauce Napoli, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
+        </meal>
+      </category>
       <category name="Hauptgericht">
         <meal>
           <name>Champignon-Geflügelpfanne mit Reis</name>
@@ -34,27 +69,14 @@
           <price role="student">6.00</price>
         </meal>
       </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Broccoli-Nussecke mit Sauce Napoli, und Farfalle</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-      </category>
     </day>
     <day date="2026-04-15">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Geflügelbällchen mit Gemüsesauce, und Zwiebel-Stampfkartoffeln</name>
-          <note>Kartoffel</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-      </category>
       <category name="Vegetarisch">
+        <meal>
+          <name>Süßkartoffel-Selleriesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Kichererbsen-Gemüsetopf mit Baguette</name>
           <note>Glutenhaltige Getreide</note>
@@ -64,9 +86,50 @@
           <price role="other">4.70</price>
           <price role="student">3.10</price>
         </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Geflügelbällchen mit Gemüsesauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
       </category>
     </day>
     <day date="2026-04-16">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffelsuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Kokos-Kartoffel-Lauchcurry mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
+        </meal>
+      </category>
       <category name="Hauptgericht">
         <meal>
           <name>Truthahn-Zwiebelgulasch mit Spätzle</name>
@@ -77,24 +140,40 @@
           <price role="student">5.40</price>
         </meal>
       </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Kokos-Kartoffel-Lauchcurry mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
-        </meal>
-      </category>
     </day>
     <day date="2026-04-17">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Würzige Couscouspfanne mit Currydip</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
+        </meal>
+      </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hokifilet Meunière mit Kräutermayonnaise , und Drillingskartoffeln mit roten Zwiebeln</name>
+          <name>Hokifilet Meunière mit Kräutermayonnaise , und einer Beilage nach Wahl</name>
           <note>Eier und Eiererzeugnisse</note>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>Sellerie und Sellerieerzeugnisse</note>
@@ -103,16 +182,6 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">7.30</price>
           <price role="student">5.70</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Würzige Couscouspfanne mit Currydip</name>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">4.10</price>
-          <price role="student">2.50</price>
         </meal>
       </category>
     </day>
