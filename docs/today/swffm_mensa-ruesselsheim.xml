@@ -2,5 +2,37 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
-  <canteen/>
+  <canteen>
+    <day date="2026-04-13">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsebrühe mit Reiseinlage</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Ofenkartoffel Linsen-Gemüsechili, und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
+        </meal>
+        <meal>
+          <name>Gemüse-Reispfanne mit Gemüsesauce , und einer Beilage nach Wahl</name>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Rinderhacksteak mit Gemüsesauce, und einer Beilage nach Wahl</name>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
+        </meal>
+      </category>
+    </day>
+  </canteen>
 </openmensa>
