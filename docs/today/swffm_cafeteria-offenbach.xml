@@ -11,8 +11,9 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ofenkartoffel mit Linsen-Gemüsechili, und einer Beilage nach Wahl</name>
+          <name>Ofenkartoffel Linsen-Gemüsechili, mit veganem Sojadip , und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
+          <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
           <price role="other">4.10</price>
           <price role="student">2.50</price>
