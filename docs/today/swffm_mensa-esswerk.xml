@@ -19,6 +19,13 @@
           <price role="student">2.50</price>
         </meal>
         <meal>
+          <name>Kartoffel-Blumenkohlpfanne mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
+        </meal>
+        <meal>
           <name>Gnocchi mit Austernpilzen und Blattsalate mit Joghurtdressing</name>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>

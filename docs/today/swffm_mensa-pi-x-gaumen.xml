@@ -13,6 +13,11 @@
           <price role="student">2.50</price>
         </meal>
         <meal>
+          <name>Tortellini Ricotta-Spinat mit Tomatensauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+        <meal>
           <name>Gnocchi mit Austernpilzen und Blattsalate mit Joghurtdressing</name>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
