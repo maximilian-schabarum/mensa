@@ -6,10 +6,23 @@
     <day date="2026-04-13">
       <category name="Vegetarisch">
         <meal>
+          <name>Gemüsecremesuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Gemüse-Mienudeln mit einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Paniertes Schweineschnitzel mit Bratensauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
     </day>

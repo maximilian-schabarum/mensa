@@ -4,7 +4,28 @@
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <day date="2026-04-13">
-      <closed/>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Griesklößchensuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+        <meal>
+          <name>Spargelsoße mit Pasta</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Pasta mit Bolognesesoße</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
     </day>
     <day date="2026-04-14">
       <category name="Vegetarisch">
@@ -14,66 +35,74 @@
           <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Tortellini mit Ricotta Spinatfüllung und Tomaten-Käsesoße</name>
-          <note>Eier</note>
-          <note>Laktose</note>
+          <name>Gemüsecurry mit Reis</name>
           <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Geflügelcurry mit Reis</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
           <note>Weizen</note>
         </meal>
       </category>
     </day>
     <day date="2026-04-15">
-      <category name="Hauptgericht">
+      <category name="Vegetarisch">
         <meal>
-          <name>Hühnersuppe</name>
-          <note>Sellerie</note>
-        </meal>
-        <meal>
-          <name>Pfannengyros mit Gemüsereis, Joghurtdip und Salat</name>
-          <note>Laktose</note>
+          <name>Minestrone</name>
           <note>Sellerie</note>
         </meal>
       </category>
-      <category name="Vegetarisch">
+      <category name="Hauptgericht">
         <meal>
-          <name>vegetarische Frikadellen mit Gemüsereis und Joghurtdip</name>
+          <name>gemischtes Gulasch mit Kartoffeln</name>
           <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+        <meal>
+          <name>Süßkartoffelgulasch mit Kartoffeln</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
         </meal>
       </category>
     </day>
     <day date="2026-04-16">
       <category name="Vegetarisch">
         <meal>
-          <name>Maultaschensuppe</name>
-          <note>Eier</note>
+          <name>Tomatensuppe</name>
           <note>Laktose</note>
           <note>Sellerie</note>
-          <note>Weizen</note>
         </meal>
         <meal>
-          <name>gemischte Pilze mit Spätzle und Chinakohl-Salat</name>
+          <name>Frankfurter grüne Soße mit Bratkartoffeln</name>
           <note>Eier</note>
           <note>Laktose</note>
-          <note>Sellerie</note>
-          <note>Weizen</note>
+          <note>Senf</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Geflügelgeschnetzeltes Züricher Art mit Spätzle</name>
+          <name>Wurstsalat mit Bratkartoffeln</name>
           <note>Laktose</note>
-          <note>Sellerie</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
         </meal>
       </category>
     </day>
     <day date="2026-04-17">
       <category name="Vegetarisch">
         <meal>
-          <name>Linseneintopf</name>
+          <name>Erbsensuppe</name>
           <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Pasta mit Bärlauchsahnesoße</name>
+          <name>Mangoldlasagne</name>
+          <note>Cashewnüsse</note>
+          <note>Eier</note>
           <note>Laktose</note>
           <note>Sellerie</note>
           <note>Weizen</note>
@@ -81,11 +110,9 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Pasta mit Bärlauchsahnesoße und Speck</name>
-          <note>Ascorbinsäure</note>
+          <name>Lasagne Bolognese</name>
+          <note>Eier</note>
           <note>Laktose</note>
-          <note>Nitripökelsalz</note>
-          <note>Phosphat</note>
           <note>Sellerie</note>
           <note>Weizen</note>
         </meal>
