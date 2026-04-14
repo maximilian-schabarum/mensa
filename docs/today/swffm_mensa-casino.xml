@@ -31,6 +31,13 @@
           <price role="other">4.90</price>
           <price role="student">3.30</price>
         </meal>
+        <meal>
+          <name>Gnocchi mit Austernpilzen mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>mensaVital</note>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>

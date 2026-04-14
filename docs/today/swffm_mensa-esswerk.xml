@@ -16,6 +16,12 @@
           <price role="other">4.90</price>
           <price role="student">3.30</price>
         </meal>
+        <meal>
+          <name>Kolbörek mit Spinat-Käsefüllung mit Joghurtdip , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
