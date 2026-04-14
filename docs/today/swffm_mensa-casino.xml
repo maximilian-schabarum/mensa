@@ -19,6 +19,12 @@
           <price role="student">3.00</price>
         </meal>
         <meal>
+          <name>Ausgabe 4 Gemüse-Reispfanne mit veganem Sojadip , und einer Beilage nach Wahl</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
+        <meal>
           <name>Ausgabe 5 Broccoli-Nussecke mit Sauce Napoli, Rosmarinkartoffeln</name>
           <note>Kartoffel</note>
           <note>vegan</note>

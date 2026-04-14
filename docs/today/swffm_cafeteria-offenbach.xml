@@ -6,6 +6,11 @@
     <day date="2026-04-14">
       <category name="Vegetarisch">
         <meal>
+          <name>Erbsenrahmsuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Broccoli-Nussecke mit Sauce Napoli, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.90</price>
@@ -20,9 +25,8 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenbrust Tomate-Mozzarella mit Broccoli , und Curryreis</name>
+          <name>Hähnchenbrust Tomate-Mozzarella mit Broccoli , Reis</name>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
           <note>mensaVital</note>
           <price role="other">7.90</price>
           <price role="student">6.30</price>
