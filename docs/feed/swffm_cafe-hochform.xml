@@ -3,35 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-13">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Ofenkartoffel mit Linsen-Gemüsechili, und einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <note>vegan</note>
-          <price role="other">4.10</price>
-          <price role="student">2.50</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Paniertes Schweineschnitzel mit Rahmsauce , und Country Potatoes</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-04-14">
       <category name="Vegetarisch">
         <meal>
-          <name>Broccoli-Nussecke mit Sauce Napoli, und Farfalle</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
+          <name>Broccoli-Nussecke mit Sauce Napoli, Rosmarinkartoffeln</name>
+          <note>Kartoffel</note>
           <note>vegan</note>
           <price role="other">4.90</price>
           <price role="student">3.30</price>
@@ -113,6 +89,24 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">7.30</price>
           <price role="student">5.70</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-20">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Buchweizen-Gemüserisotto mit Paprikarahm , und einer Beilage nach Wahl</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchen Cordon bleu und Drillingskartoffeln mit roten Zwiebeln</name>
+          <note>Kartoffel</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
       </category>
     </day>
