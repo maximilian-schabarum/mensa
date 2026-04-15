@@ -3,60 +3,61 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-14">
+    <day date="2026-04-15">
       <category name="Vegetarisch">
         <meal>
-          <name>Linsensuppe Aramäische Art</name>
-          <note>vegan</note>
+          <name>Süßkartoffel-Selleriesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Blumenkohlauflauf und Risoleekartoffeln</name>
-          <note>Kartoffel</note>
-          <note>geschwefelt</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 4 Gemüse-Reispfanne mit veganem Sojadip , und einer Beilage nach Wahl</name>
-          <note>Soja und Sojaerzeugnisse</note>
-          <price role="other">4.50</price>
-          <price role="student">2.90</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Broccoli-Nussecke mit Sauce Napoli, Rosmarinkartoffeln</name>
+          <name>Ausgabe 3 Kartoffel-Blumenkohlpfanne mit einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
         </meal>
         <meal>
-          <name>Gnocchi mit Austernpilzen mit einer Beilage nach Wahl</name>
+          <name>Ausgabe 4 Kichererbsen-Gemüsetopf mit Baguette</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Ofenkartoffel mit Linsen-Gemüsechili, und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
+        </meal>
+        <meal>
+          <name>Gemüse-Vollkornspaghetti mit Sojarahm</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
           <note>mensaVital</note>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
+          <note>vegan</note>
+          <price role="other">3.80</price>
+          <price role="student">2.20</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Champignon-Geflügelpfanne mit Reis</name>
-          <price role="other">7.60</price>
-          <price role="student">6.00</price>
+          <name>Ausgabe 1 Geflügelbällchen mit Gemüsesauce, und Zwiebel-Stampfkartoffeln</name>
+          <note>Kartoffel</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
         </meal>
         <meal>
-          <name>Ausgabe 2 Schmorhähnchen Mediterran Reis</name>
-          <price role="other">6.00</price>
-          <price role="student">4.40</price>
-        </meal>
-        <meal>
-          <name>Hähnchenbrust Tomate-Mozzarella mit Broccoli , und Curryreis</name>
+          <name>Ausgabe 2 Paniertes Schweineschnitzel mit Rahmsauce , Pommes frites</name>
+          <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>mensaVital</note>
-          <price role="other">7.90</price>
-          <price role="student">6.30</price>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
         </meal>
       </category>
     </day>
