@@ -32,6 +32,11 @@
           <price role="other">4.50</price>
           <price role="student">2.90</price>
         </meal>
+        <meal>
+          <name>Gemüse-Reispfanne und einer Beilage nach Wahl</name>
+          <price role="other">3.80</price>
+          <price role="student">2.20</price>
+        </meal>
       </category>
     </day>
   </canteen>
