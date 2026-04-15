@@ -52,10 +52,10 @@
           <price role="student">4.20</price>
         </meal>
         <meal>
-          <name>Ausgabe 2 Paniertes Schweineschnitzel mit Rahmsauce , Pommes frites</name>
+          <name>Ausgabe 2 Paniertes Schweineschnitzel mit Rahmsauce , und Risoleekartoffeln</name>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>mit Antioxidationsmittel</note>
+          <note>geschwefelt</note>
           <price role="other">5.70</price>
           <price role="student">4.10</price>
         </meal>
