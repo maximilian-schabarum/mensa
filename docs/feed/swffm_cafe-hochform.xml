@@ -3,24 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-14">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Broccoli-Nussecke mit Sauce Napoli, Rosmarinkartoffeln</name>
-          <note>Kartoffel</note>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Champignon-Geflügelpfanne mit Reis</name>
-          <price role="other">7.60</price>
-          <price role="student">6.00</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-04-15">
       <category name="Vegetarisch">
         <meal>
@@ -107,6 +89,27 @@
           <note>Kartoffel</note>
           <price role="other">6.00</price>
           <price role="student">4.40</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-21">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Conchiglie tricolore mit Tomaten-Rucolaragout, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Gyros mit Tzatziki , und griechischen Nudeln</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwein</note>
+          <note>Weizen</note>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
       </category>
     </day>

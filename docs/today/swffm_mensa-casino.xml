@@ -18,20 +18,20 @@
           <price role="student">3.10</price>
         </meal>
         <meal>
-          <name>Ausgabe 4 Kichererbsen-Gemüsetopf mit Baguette</name>
+          <name>Ausgabe 4 Ofenkartoffel mit Linsen-Gemüsechili, und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Kichererbsen-Gemüsetopf mit Baguette</name>
           <note>Glutenhaltige Getreide</note>
           <note>Roggen</note>
           <note>Weizen</note>
           <note>vegan</note>
           <price role="other">4.70</price>
           <price role="student">3.10</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Ofenkartoffel mit Linsen-Gemüsechili, und einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <note>vegan</note>
-          <price role="other">4.00</price>
-          <price role="student">2.40</price>
         </meal>
         <meal>
           <name>Gemüse-Vollkornspaghetti mit Sojarahm</name>

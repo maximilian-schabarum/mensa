@@ -3,38 +3,15 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-14">
+    <day date="2026-04-15">
       <category name="Vegetarisch">
         <meal>
-          <name>Kohlrabicremesuppe</name>
+          <name>Spinatcremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Quinoapfanne mit Veggie Hack und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>Gemüse-Mienudeln und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Paniertes Schweineschnitzel mit Bratensauce, und einer Beilage nach Wahl</name>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-04-15">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Chili sin Carne mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
+          <name>Chili sin Carne Mehrkornbrötchen TK , und einer Beilage nach Wahl</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
           <note>Hafer</note>
@@ -49,6 +26,11 @@
           <name>Kaiserschmarrn mit Rosinen und Kompott</name>
           <price role="other">5.60</price>
           <price role="student">4.00</price>
+        </meal>
+        <meal>
+          <name>Nudel-Gemüsegratin mit einer Beilage nach Wahl</name>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
         </meal>
       </category>
     </day>
@@ -77,6 +59,16 @@
         <meal>
           <name>Gemüsekroketten mit Sauce Vegetale, und einer Beilage nach Wahl</name>
           <note>vegan</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-21">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsepaella mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
         </meal>
       </category>
     </day>
