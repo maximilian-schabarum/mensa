@@ -40,6 +40,8 @@
         </meal>
         <meal>
           <name>Geflügelbällchen mit Gemüsesauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
         <meal>
           <name>Pizza Griechische Art</name>

@@ -59,6 +59,8 @@
         <meal>
           <name>Mejadra-Linsen-Reisgericht mit Joghurt</name>
           <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
         </meal>
         <meal>
           <name>Auberginenpasta mit Knoblauch, Zwiebeln und Rosinen</name>
@@ -71,7 +73,7 @@
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Milchreis mit Pfirsich</name>
+          <name>Grießbrei mit Pfirsich</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
