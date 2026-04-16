@@ -11,6 +11,14 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
+          <name>Fusilli mit Sauce Napoli , und einer Beilage nach Wahl</name>
+          <note>Alkohol</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+        <meal>
           <name>Kolbörek mit Spinat-Käsefüllung mit Sour Cream , und einer Beilage nach Wahl</name>
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">4.60</price>
