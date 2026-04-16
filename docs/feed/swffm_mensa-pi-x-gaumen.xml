@@ -3,49 +3,14 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-15">
+    <day date="2026-04-16">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatencremesuppe</name>
+          <name>Kichererbsensuppe</name>
+          <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
-        <meal>
-          <name>Kichererbsen-Gemüsetopf mit Baguette</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Lupine und Lupinenerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>vegan</note>
-          <price role="other">4.70</price>
-          <price role="student">3.10</price>
-        </meal>
-        <meal>
-          <name>Gemüse-Vollkornspaghetti mit Sojarahm</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">3.80</price>
-          <price role="student">2.20</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Geflügelbällchen mit Gemüsesauce, und einer Beilage nach Wahl</name>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-        <meal>
-          <name>Nudelgratin mit Truthahnfleisch</name>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-04-16">
-      <category name="Vegetarisch">
         <meal>
           <name>Kokos-Kartoffel-Lauchcurry mit einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
@@ -167,6 +132,46 @@
           <note>Schwein</note>
           <price role="other">6.50</price>
           <price role="student">4.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-22">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Quinoa-Kichererbsencurry mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Loaded Fries mit Barbecuesauce , Pulled Chicken , und Sour Cream</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Phosphat</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
+        </meal>
+        <meal>
+          <name>Mariniertes Seelachsfilet mit Meerrettichstampfkartoffeln , und Lauch-Maissalat</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <note>mensaVital</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
         </meal>
       </category>
     </day>
