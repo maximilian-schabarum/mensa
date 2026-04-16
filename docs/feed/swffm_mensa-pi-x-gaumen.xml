@@ -19,7 +19,7 @@
           <price role="student">3.60</price>
         </meal>
         <meal>
-          <name>Johannisbeer-Quarkauflauf mit Sesam-Möhrensalat</name>
+          <name>Johannisbeer-Quarkauflauf und Sesam-Möhrensalat</name>
           <note>Sesam und Sesamerzeugnisse</note>
           <note>mensaVital</note>
           <price role="other">5.80</price>
@@ -28,7 +28,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Truthahn-Zwiebelgulasch mit Spätzle</name>
+          <name>Truthahn-Zwiebelgulasch Spätzle</name>
           <note>Eier und Eiererzeugnisse</note>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>

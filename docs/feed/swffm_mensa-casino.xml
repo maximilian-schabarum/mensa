@@ -11,17 +11,10 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Gemüseauflauf mit einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 und 4 Gemüseauflauf mit einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">4.80</price>
           <price role="student">3.20</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 4 Blumenkohlauflauf und Risoleekartoffeln</name>
-          <note>Kartoffel</note>
-          <note>geschwefelt</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
         </meal>
         <meal>
           <name>Ausgabe 5 Kokos-Kartoffel-Lauchcurry mit einer Beilage nach Wahl</name>
