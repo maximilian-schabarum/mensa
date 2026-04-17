@@ -53,6 +53,20 @@
           <price role="other">6.90</price>
           <price role="student">5.30</price>
         </meal>
+        <meal>
+          <name>Paniertes Schollenfilet mit Kräutermayonnaise , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
+        </meal>
       </category>
     </day>
   </canteen>
