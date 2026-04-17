@@ -18,6 +18,11 @@
           <price role="other">4.10</price>
           <price role="student">2.50</price>
         </meal>
+        <meal>
+          <name>Tortellini mit Spinat-Käsefüllung mit Tomatensauce, und einer Beilage nach Wahl</name>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -33,6 +38,20 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">7.30</price>
           <price role="student">5.70</price>
+        </meal>
+        <meal>
+          <name>Kibbelinge mit Kräutermayonnaise , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
         </meal>
       </category>
     </day>
