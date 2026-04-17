@@ -3,36 +3,14 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-16">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Breakfast Burrito gefüllt mit, Rührei, Käse, Tomaten, Rucola, und wahlweise mit/ohne Speck</name>
-          <note>Schwein</note>
-          <price role="other">5.10</price>
-          <price role="student">3.50</price>
-        </meal>
-        <meal>
-          <name>Caesar Salat Caesar Dressing mit Brot</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Fisch und Fischerzeugnisse</note>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Weizen</note>
-          <note>konserviert</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
-        </meal>
-        <meal>
-          <name>Gebratene Nudeln mit Rindfleisch und Broccoli</name>
-          <price role="other">7.60</price>
-          <price role="student">6.00</price>
-        </meal>
-      </category>
+    <day date="2026-04-17">
       <category name="Vegetarisch">
+        <meal>
+          <name>Okonomiyaki mit Gemüse japanischer Gemüsepfannkuchen</name>
+          <note>Kartoffel</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
         <meal>
           <name>Basic Salat mit einem Brot und drei Toppings nach Wahl</name>
           <note>vegan</note>
@@ -51,29 +29,21 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Bärlauchcremesuppe mit Brot und einem Topping nach Wahl</name>
+          <name>Blumenkohlcremesuppe mit Brot und einem Topping nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Mejadra-Linsen-Reisgericht mit Joghurt</name>
+          <name>Ofenkartoffel Blattspinat, Fetakäse , Hummus</name>
+          <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
         <meal>
-          <name>Auberginenpasta mit Knoblauch, Zwiebeln und Rosinen</name>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
-        </meal>
-        <meal>
-          <name>Limettencreme</name>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
-        <meal>
-          <name>Grießbrei mit Pfirsich</name>
+          <name>Schokoladen-Bananenquark</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -81,47 +51,6 @@
           <name>Milchreis mit Mandarinen</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-04-17">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Okonomiyaki mit Gemüse japanischer Gemüsepfannkuchen</name>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>Basic Salat mit einem Brot und drei Toppings nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
-        </meal>
-        <meal>
-          <name>Fitness Salat mit Brot</name>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
-        </meal>
-        <meal>
-          <name>Asia Salat mit Brot</name>
-          <note>vegan</note>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
-        </meal>
-        <meal>
-          <name>Blumenkohl-Currysuppe mit Kokosmilch mit Brot und einem Topping nach Wahl</name>
-          <note>Kartoffel</note>
-          <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>Ofenkartoffel mit Blattspinat,, Fetakäse , und Hummus</name>
-          <note>Kartoffel</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Sesam und Sesamerzeugnisse</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -381,6 +310,79 @@
         </meal>
         <meal>
           <name>Kokoscreme mit Himbeeren</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-23">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Breakfast Burrito gefüllt mit, Rührei, Käse, Tomaten, Rucola, und wahlweise mit/ohne Speck</name>
+          <note>Schwein</note>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
+        </meal>
+        <meal>
+          <name>Caesar Salat Caesar Dressing mit Brot</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Fisch und Fischerzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>konserviert</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Basic Salat mit einem Brot und drei Toppings nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
+        <meal>
+          <name>Fitness Salat mit Brot</name>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
+        <meal>
+          <name>Asia Salat mit Brot</name>
+          <note>vegan</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
+        <meal>
+          <name>Karottencremesuppe mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
+          <name>Gebratene Nudeln mit Pak Choi und Sesam</name>
+          <note>vegan</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
+        <meal>
+          <name>Kartoffel-Kichererbsencurry mit Spinat</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
+          <name>Vanillepudding</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Müsli-Naturjoghurt</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
