@@ -3,50 +3,60 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-16">
+    <day date="2026-04-17">
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffelsuppe</name>
+          <name>Tomatensuppe</name>
+          <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 und 4 Gemüseauflauf mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
+          <name>Ausgabe 3 Farfalle mit Spinat und Pinienkernen und einer Beilage nach Wahl</name>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Kokos-Kartoffel-Lauchcurry mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
+          <name>Ausgabe 5 Würzige Couscouspfanne mit Currydip</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
         </meal>
         <meal>
-          <name>Bohnen-Zucchinichili mit Vollkornreis</name>
+          <name>Ausgabe 5 Johannisbeer-Quarkauflauf mit Sesam-Möhrensalat</name>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Gemüse-Vollkornspaghetti mit Sojarahm</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
           <note>mensaVital</note>
           <note>vegan</note>
-          <price role="other">3.70</price>
-          <price role="student">2.10</price>
+          <price role="other">3.80</price>
+          <price role="student">2.20</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Truthahn-Zwiebelgulasch mit Spätzle</name>
+          <name>Ausgabe 1 Hokifilet Meunière mit Kräutermayonnaise , und Drillingskartoffeln mit roten Zwiebeln</name>
           <note>Eier und Eiererzeugnisse</note>
+          <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 2 Geflügelbratwurst Sauerkraut , Risoléekartoffeln</name>
           <note>Kartoffel</note>
-          <note>geschwefelt</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
         </meal>
       </category>
     </day>

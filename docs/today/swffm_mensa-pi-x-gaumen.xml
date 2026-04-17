@@ -3,37 +3,36 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-16">
+    <day date="2026-04-17">
       <category name="Vegetarisch">
         <meal>
-          <name>Kichererbsensuppe</name>
-          <note>vegan</note>
+          <name>Gemüse-Kartoffelsuppe</name>
+          <note>Kartoffel</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Kokos-Kartoffel-Lauchcurry mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
+          <name>Würzige Couscouspfanne und Minzdip</name>
+          <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
         </meal>
         <meal>
-          <name>Johannisbeer-Quarkauflauf und Sesam-Möhrensalat</name>
-          <note>Sesam und Sesamerzeugnisse</note>
+          <name>Bohnen-Zucchinichili und Vollkornreis</name>
           <note>mensaVital</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <note>vegan</note>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Truthahn-Zwiebelgulasch Spätzle</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
+          <name>Hokifilet Meunière mit Joghurt-Kräuterdip , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
         </meal>
       </category>
     </day>
