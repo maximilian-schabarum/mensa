@@ -21,6 +21,13 @@
           <price role="student">3.80</price>
         </meal>
         <meal>
+          <name>Gebratene Drillingskartoffeln mit Sour Cream , mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
+        </meal>
+        <meal>
           <name>Linsen-Kartoffel-Kokospfanne Blattsalat mit Himbeerdressing</name>
           <note>mensaVital</note>
           <note>vegan</note>

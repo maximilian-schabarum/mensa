@@ -6,8 +6,32 @@
     <day date="2026-04-20">
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüsekroketten mit Sauce Vegetale, und einer Beilage nach Wahl</name>
+          <name>Gemüsecremesuppe</name>
           <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Gemüsekroketten mit Paprikacremesauce , und einer Beilage nach Wahl</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
+        </meal>
+        <meal>
+          <name>Paprika-Kartoffelauflauf mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnerfrikassee mit Reis</name>
+          <note>Alkohol</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
       </category>
     </day>

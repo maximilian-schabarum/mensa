@@ -25,11 +25,18 @@
           <price role="other">5.40</price>
           <price role="student">3.80</price>
         </meal>
+        <meal>
+          <name>Würzige Couscouspfanne mit Currydip</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">3.90</price>
+          <price role="student">2.30</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchen Cordon bleu und Drillingskartoffeln mit roten Zwiebeln</name>
-          <note>Kartoffel</note>
+          <name>Hähnchen Cordon bleu Zitronenecke, und einer Beilage nach Wahl</name>
           <price role="other">6.00</price>
           <price role="student">4.40</price>
         </meal>
@@ -105,7 +112,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Hähnchenkeule alla Stefano mit Geflügelsauce, und Risi bisi</name>
+          <name>Hähnchenkeule alla Stefano mit Geflügelsauce, und einer Beilage nach Wahl</name>
           <price role="other">5.90</price>
           <price role="student">4.30</price>
         </meal>
@@ -126,6 +133,11 @@
     <day date="2026-04-24">
       <category name="Vegetarisch">
         <meal>
+          <name>Lauchrahmsuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Loaded Fries mit Auberginenragout , Feta , und Pepperoni</name>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
@@ -136,9 +148,7 @@
           <price role="student">4.50</price>
         </meal>
         <meal>
-          <name>Gemüseschnitzel mit Sauce Vegetale, und Bulgur</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
+          <name>Gemüseschnitzel mit Sauce Vegetale, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.90</price>
           <price role="student">3.30</price>

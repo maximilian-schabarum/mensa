@@ -50,12 +50,12 @@
           <price role="student">4.30</price>
         </meal>
         <meal>
-          <name>Milchreis mit Kirschen</name>
+          <name>Pistazienpudding</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Birnenquark mit Schokosplitter</name>
+          <name>Honig-Quarkcreme mit Mandeln</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -113,10 +113,10 @@
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Gebratene Mienudeln mit Tempeh und Paprika</name>
+          <name>Gebratene Nudeln mit Gemüse</name>
           <note>vegan</note>
-          <price role="other">7.30</price>
-          <price role="student">5.70</price>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
         </meal>
         <meal>
           <name>Linsen-Gemüsechili mit Vollkornreis</name>
@@ -125,12 +125,12 @@
           <price role="student">3.50</price>
         </meal>
         <meal>
-          <name>Pistazienpudding</name>
+          <name>Kirschgrütze mit Naturjoghurt</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Apfeltiramisu</name>
+          <name>Müsli-Naturjoghurt</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -303,12 +303,12 @@
           <price role="student">3.30</price>
         </meal>
         <meal>
-          <name>Vanillepudding</name>
+          <name>Milchreis mit Kirschen</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Müsli-Naturjoghurt</name>
+          <name>Apfeltiramisu</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -352,12 +352,12 @@
           <price role="student">3.50</price>
         </meal>
         <meal>
-          <name>Kirschgrütze mit Naturjoghurt</name>
+          <name>Vanillepudding</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Honig-Quarkcreme mit Mandeln</name>
+          <name>Birnenquark mit Schokosplitter</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
