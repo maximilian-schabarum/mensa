@@ -6,8 +6,17 @@
     <day date="2026-04-20">
       <category name="Vegetarisch">
         <meal>
-          <name>Buchweizen-Gemüserisotto mit Paprikarahm , und einer Beilage nach Wahl</name>
+          <name>Loaded Fries mit Barbecuesauce , Pulled Planted, und Soja Topping</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Schwefeldioxid / Sulfit</note>
           <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Suessungsmitteln</note>
+          <note>vegan</note>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
         </meal>
