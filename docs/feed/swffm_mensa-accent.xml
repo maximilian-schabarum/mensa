@@ -6,12 +6,13 @@
     <day date="2026-04-20">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatencremesuppe</name>
+          <name>Tomatensuppe</name>
+          <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Loaded Fries mit Barbecuesauce , Pulled Planted, und Soja Topping</name>
+          <name>Loaded Fries mit Barbecuesauce , Pulled Planted, mit Soja Topping</name>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
           <note>Schwefeldioxid / Sulfit</note>

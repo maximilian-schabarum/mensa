@@ -6,7 +6,13 @@
     <day date="2026-04-20">
       <category name="Vegetarisch">
         <meal>
-          <name>Loaded Fries mit Barbecuesauce , Pulled Planted, und Soja Topping</name>
+          <name>Linsensuppe Aramäische Art</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Loaded Fries mit Barbecuesauce , Pulled Planted, mit Soja Topping</name>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
           <note>Schwefeldioxid / Sulfit</note>
@@ -28,7 +34,8 @@
           <price role="student">2.50</price>
         </meal>
         <meal>
-          <name>Linsen-Kartoffel-Kokospfanne Blattsalat mit Himbeerdressing</name>
+          <name>Linsen-Kartoffel-Kokospfanne Blattsalat mit Himbeervinaigrette</name>
+          <note>Kartoffel</note>
           <note>mensaVital</note>
           <note>vegan</note>
           <price role="other">4.80</price>
@@ -37,7 +44,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchen Cordon bleu mit einer Beilage nach Wahl</name>
+          <name>Hähnchen Cordon bleu Zitronenecke, mit einer Beilage nach Wahl</name>
           <price role="other">6.00</price>
           <price role="student">4.40</price>
         </meal>
