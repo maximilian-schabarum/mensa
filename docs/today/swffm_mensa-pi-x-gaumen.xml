@@ -6,6 +6,11 @@
     <day date="2026-04-21">
       <category name="Vegetarisch">
         <meal>
+          <name>Gemüsecremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Loaded Fries mit Chili-Cheese Sauce , und Cheddar</name>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
