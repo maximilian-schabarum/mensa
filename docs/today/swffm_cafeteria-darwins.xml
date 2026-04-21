@@ -3,35 +3,32 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-20">
+    <day date="2026-04-21">
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüsecremesuppe</name>
-          <note>vegan</note>
+          <name>Tomatencremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Gemüsepaella mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
         </meal>
         <meal>
           <name>Gemüsekroketten mit Paprikacremesauce , und einer Beilage nach Wahl</name>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
-        </meal>
-        <meal>
-          <name>Paprika-Kartoffelauflauf mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <note>vegan</note>
-          <price role="other">4.10</price>
-          <price role="student">2.50</price>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hühnerfrikassee mit Reis</name>
-          <note>Alkohol</note>
-          <price role="other">6.00</price>
-          <price role="student">4.40</price>
+          <name>Geflügelcevapcici mit Sauce Vegetale, und einer Beilage nach Wahl</name>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
         </meal>
       </category>
     </day>

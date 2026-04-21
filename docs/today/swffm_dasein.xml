@@ -3,23 +3,25 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-20">
+    <day date="2026-04-21">
       <category name="Vegetarisch">
         <meal>
-          <name>Karottencremesuppe</name>
+          <name>Blumenkohl-Kokossuppe</name>
+          <note>vegan</note>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Thai-Gemüsewok mit rotem Curry Basmatireis</name>
+          <name>Gemüsepaella mit Cashewkernen und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Hirse-Gemüseauflauf mit einer Beilage nach Wahl</name>
-          <price role="other">6.90</price>
-          <price role="student">5.30</price>
+          <name>Ofenkartoffel mit Kräuterrahm und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
         </meal>
         <meal>
           <name>Gemüserisotto mit einer Beilage nach Wahl</name>
