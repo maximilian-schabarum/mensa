@@ -45,12 +45,6 @@
           <price role="other">5.90</price>
           <price role="student">4.30</price>
         </meal>
-        <meal>
-          <name>Geflügelfrikadelle mit Rahmsauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">5.10</price>
-          <price role="student">3.50</price>
-        </meal>
       </category>
     </day>
   </canteen>
