@@ -37,6 +37,12 @@
           <price role="student">4.90</price>
         </meal>
         <meal>
+          <name>Geflügelfrikadelle mit Tzatziki , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
           <name>Pizza Pute-Rucola</name>
           <price role="other">6.80</price>
           <price role="student">5.20</price>
