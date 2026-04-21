@@ -3,52 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-20">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Broccolicremesuppe</name>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 und 4 Kolbörek mit Spinat-Käsefüllung mit Joghurtdip , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.10</price>
-          <price role="student">2.50</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Loaded Fries mit Barbecuesauce , Pulled Planted, und Soja Topping</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>geschwefelt</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <note>mit Suessungsmitteln</note>
-          <note>vegan</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
-        </meal>
-        <meal>
-          <name>Linsen-Kartoffel-Kokospfanne und Blattsalat mit Himbeerdressing</name>
-          <note>Kartoffel</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Ausgabe 1 und 2 Hähnchen Cordon bleu und Drillingskartoffeln mit roten Zwiebeln</name>
-          <note>Kartoffel</note>
-          <price role="other">6.00</price>
-          <price role="student">4.40</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-04-21">
       <category name="Vegetarisch">
         <meal>
@@ -58,13 +12,13 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Conchiglie tricolore mit Tomaten-Rucolaragout, und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 und 4 Conchiglie tricolore mit Tomaten-Rucolaragout, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Loaded Fries mit Chili-Cheese Sauce , und Cheddar</name>
+          <name>Ausgabe 5 Loaded Fries mit Chili-Cheese Sauce , und Cheddar</name>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>Senf und Senferzeugnisse</note>
@@ -83,13 +37,17 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Gyros mit Tzatziki , und griechischen Nudeln</name>
-          <note>Glutenhaltige Getreide</note>
+          <name>Ausgabe 1 Gyros mit Tzatziki , Reis</name>
           <note>Milch und Milcherzeugnisse</note>
           <note>Schwein</note>
-          <note>Weizen</note>
           <price role="other">6.50</price>
           <price role="student">4.90</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 2 Hähnchen Cordon bleu mit Rahmsauce , Reis</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
         </meal>
       </category>
     </day>
@@ -240,6 +198,43 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">6.80</price>
           <price role="student">5.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-27">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Blumenkohl-Kokossuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Kartoffelrösti Mozzarella-Lauch mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
+        <meal>
+          <name>Soja-Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+        <meal>
+          <name>Penne-Broccoliauflauf mit Tomatensauce</name>
+          <note>mensaVital</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bifteki mit Ajvar, und Rosmarinkartoffeln</name>
+          <note>Kartoffel</note>
+          <note>Rind</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
       </category>
     </day>

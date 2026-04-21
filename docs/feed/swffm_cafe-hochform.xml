@@ -3,24 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-20">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Kolbörek mit Spinat-Käsefüllung mit Joghurtdip , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.10</price>
-          <price role="student">2.50</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchen Cordon bleu und Drillingskartoffeln mit roten Zwiebeln</name>
-          <note>Kartoffel</note>
-          <price role="other">6.00</price>
-          <price role="student">4.40</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-04-21">
       <category name="Vegetarisch">
         <meal>
@@ -32,11 +14,9 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Gyros mit Tzatziki , und griechischen Nudeln</name>
-          <note>Glutenhaltige Getreide</note>
+          <name>Gyros mit Tzatziki , Reis</name>
           <note>Milch und Milcherzeugnisse</note>
           <note>Schwein</note>
-          <note>Weizen</note>
           <price role="other">6.50</price>
           <price role="student">4.90</price>
         </meal>
@@ -104,6 +84,25 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">6.80</price>
           <price role="student">5.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-27">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Soja-Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bifteki mit Ajvar, und Rosmarinkartoffeln</name>
+          <note>Kartoffel</note>
+          <note>Rind</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
       </category>
     </day>
