@@ -6,24 +6,23 @@
     <day date="2026-04-22">
       <category name="Vegetarisch">
         <meal>
-          <name>Hirse-Karottenpfanne mit einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
+          <name>Kohlrabicremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Germknödel mit Vanillesauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
+          <name>Hirse-Karottenpfanne mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
         </meal>
         <meal>
           <name>Ofenkartoffel mit veganem Sojadip , und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">3.50</price>
-          <price role="student">1.90</price>
+          <price role="other">3.30</price>
+          <price role="student">1.70</price>
         </meal>
         <meal>
           <name>Gemüsepaella mit einer Beilage nach Wahl</name>
@@ -35,8 +34,13 @@
       <category name="Hauptgericht">
         <meal>
           <name>Geflügelcevapcici mit Sauce Vegetale, und einer Beilage nach Wahl</name>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+        <meal>
+          <name>Hühnerfrikassee und Reis</name>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
       </category>
     </day>
