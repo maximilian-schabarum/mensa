@@ -43,6 +43,11 @@
           <price role="student">5.20</price>
         </meal>
         <meal>
+          <name>Pizza Margherita</name>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
+        <meal>
           <name>Mariniertes Seelachsfilet mit Meerrettichstampfkartoffeln , und Lauch-Maissalat</name>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
