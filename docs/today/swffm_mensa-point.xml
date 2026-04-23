@@ -3,37 +3,30 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-22">
+    <day date="2026-04-23">
       <category name="Vegetarisch">
         <meal>
-          <name>Paprikacremesuppe</name>
+          <name>Lauchrahmsuppe</name>
+          <note>Kartoffel</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Quinoa-Kichererbsencurry mit einer Beilage nach Wahl</name>
+          <name>Loaded Wedges mit veganem Chili , mit Hafercreme Topping , mit Tortilla Chips</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
           <note>Kartoffel</note>
+          <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Loaded Fries mit Barbecuesauce , Pulled Chicken , mit Sour Cream</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>geschwefelt</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <note>mit Phosphat</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
+          <name>Hähnchenkeule alla Stefano mit Rosmarinsauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
         </meal>
       </category>
     </day>
