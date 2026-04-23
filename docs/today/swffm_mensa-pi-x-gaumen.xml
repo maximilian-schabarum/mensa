@@ -27,6 +27,11 @@
           <price role="student">3.20</price>
         </meal>
         <meal>
+          <name>Tortellini Ricotta-Spinat mit Sauce Vegetale, und einer Beilage nach Wahl</name>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
+        <meal>
           <name>Kokos-Gemüsecurry und Couscous</name>
           <note>Glutenhaltige Getreide</note>
           <note>Senf und Senferzeugnisse</note>

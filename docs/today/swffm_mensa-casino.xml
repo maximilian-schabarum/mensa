@@ -16,6 +16,11 @@
           <price role="other">5.90</price>
           <price role="student">4.30</price>
         </meal>
+        <meal>
+          <name>Ausgabe 1 und 2 Panierte Hähnchenbrust mit Geflügelsauce, Risi bisi</name>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
+        </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
@@ -34,9 +39,7 @@
           <price role="student">4.50</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Loaded Wedges mit veganem Chili , Hafercreme Topping , und Tortilla Chips</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Hafer</note>
+          <name>Ausgabe 5 Loaded Wedges mit veganem Chili , ,veganem Sojadip , und Tortilla Chips</name>
           <note>Kartoffel</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
