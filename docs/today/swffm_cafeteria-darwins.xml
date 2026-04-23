@@ -24,6 +24,12 @@
           <price role="other">5.10</price>
           <price role="student">3.50</price>
         </meal>
+        <meal>
+          <name>Hirse-Karottenpfanne mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
