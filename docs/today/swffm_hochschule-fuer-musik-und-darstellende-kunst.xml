@@ -2,5 +2,62 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
-  <canteen/>
+  <canteen>
+    <day date="2026-04-24">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tomatencremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Loaded Fries Auberginenragout , und Feta , Pepperoni</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
+        <meal>
+          <name>Quinoa-Kichererbsencurry mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+        <meal>
+          <name>Chili sin Carne und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Seelachsfilet im Backteig mit Remouladensauce , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
+        </meal>
+      </category>
+    </day>
+  </canteen>
 </openmensa>
