@@ -27,24 +27,6 @@
           <price role="student">3.30</price>
         </meal>
       </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Loaded Fries mit Barbecuesauce , Pulled Chicken , und Sour Cream</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>geschwefelt</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <note>mit Phosphat</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
-        </meal>
-      </category>
     </day>
   </canteen>
 </openmensa>
