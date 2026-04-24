@@ -3,31 +3,13 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-23">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Breakfast Burrito gefüllt mit, Rührei, Käse, Tomaten, Rucola, und wahlweise mit/ohne Speck</name>
-          <note>Schwein</note>
-          <price role="other">5.10</price>
-          <price role="student">3.50</price>
-        </meal>
-        <meal>
-          <name>Caesar Salat Caesar Dressing mit Brot</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Fisch und Fischerzeugnisse</note>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Weizen</note>
-          <note>konserviert</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
-        </meal>
-      </category>
+    <day date="2026-04-24">
       <category name="Vegetarisch">
+        <meal>
+          <name>Okonomiyaki mit Gemüse japanischer Gemüsepfannkuchen</name>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
         <meal>
           <name>Basic Salat mit einem Brot und drei Toppings nach Wahl</name>
           <note>vegan</note>
@@ -46,44 +28,38 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Karottencremesuppe mit Brot und einem Topping nach Wahl</name>
-          <note>Kartoffel</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
+          <name>Mediterranes Gemüsepilaw mit Linsen und Joghurt</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
         </meal>
         <meal>
-          <name>Gebratene Nudeln mit Pak Choi und Sesam</name>
-          <note>vegan</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-        <meal>
-          <name>Kartoffel-Kichererbsencurry mit Spinat</name>
-          <note>Kartoffel</note>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Linsen-Gemüsechili Vollkornreis</name>
-          <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>Grießbrei mit Beeren</name>
+          <name>Birnenquark mit Schokosplitter</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
+      </category>
+      <category name="Hauptgericht">
         <meal>
-          <name>Müsli-Naturjoghurt</name>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
+          <name>Caesar Salat Caesar Dressing mit Brot</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Fisch und Fischerzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>konserviert</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Kokoscreme mit Himbeeren</name>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
+          <name>Seelachsfilet auf gebratenen Nudeln</name>
+          <note>MSC</note>
+          <price role="other">7.40</price>
+          <price role="student">5.80</price>
         </meal>
       </category>
     </day>
