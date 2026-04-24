@@ -6,95 +6,72 @@
     <day date="2026-04-20">
       <category name="Vegetarisch">
         <meal>
-          <name>Spargelcremesuppe</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
+          <name>Spargelsuppe*</name>
         </meal>
         <meal>
-          <name>Cashew-Ruccola-Pesto mit Spargelstücken und Nudeln</name>
-          <note>Cashewnüsse</note>
-          <note>Laktose</note>
-          <note>Weizen</note>
+          <name>Cashew-Ruccola-Pesto mit Spargelstücken und*</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Nudeln*</name>
         </meal>
       </category>
     </day>
     <day date="2026-04-21">
       <category name="Hauptgericht">
         <meal>
-          <name>Asiatische Hühnersuppe</name>
-          <note>Sellerie</note>
+          <name>Hühnersuppe asiatisch mit Nudeln*</name>
         </meal>
         <meal>
-          <name>Currywurst mit Bratkartoffeln und hausgemachtem Curryketchup</name>
-          <note>Sellerie</note>
+          <name>Bratwurst mit Currysoße und Bratkartoffeln*</name>
         </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüsebratlinge mit hausgemachtem Curry Ketchup</name>
-          <note>Eier</note>
-          <note>Sellerie</note>
-          <note>Weizen</note>
+          <name>Gemüseburger mit Currysoße und Bratkartoffeln*</name>
         </meal>
       </category>
     </day>
     <day date="2026-04-22">
       <category name="Hauptgericht">
         <meal>
-          <name>Gulaschsuppe</name>
-          <note>Sellerie</note>
+          <name>Gulaschsuppe*</name>
         </meal>
         <meal>
-          <name>Geflügelgeschnetzeltes Züricher Art mit Spätzle</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
+          <name>Hühnergeschnetzeltes züricher Art mit Spätzle*</name>
         </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>gemischte Pilze mit Spätzle und Chinakohl-Salat</name>
-          <note>Eier</note>
-          <note>Laktose</note>
-          <note>Sellerie</note>
-          <note>Weizen</note>
+          <name>gemischte Rahmpilze mit Spätzle*</name>
         </meal>
       </category>
     </day>
     <day date="2026-04-23">
       <category name="Hauptgericht">
         <meal>
-          <name>Markklößchensuppe</name>
-          <note>Eier</note>
-          <note>Sellerie</note>
-          <note>Weizen</note>
+          <name>Markklößchensuppe*</name>
         </meal>
         <meal>
-          <name>Rindfleisch in Meerrettich mit Salzkartoffeln</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
-          <note>Senf</note>
+          <name>Rindfleisch in Meerrettich mit Salzkaroffeln*</name>
         </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffel-Gemüse-Gratin</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
+          <name>Kartoffel-Gemüsegratin*</name>
         </meal>
       </category>
     </day>
     <day date="2026-04-24">
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffelsuppe</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
+          <name>Kartoffelsuppe*</name>
         </meal>
+      </category>
+      <category name="Hauptgericht">
         <meal>
-          <name>Dampfnudel mit Vanillesoße</name>
-          <note>Eier</note>
-          <note>Laktose</note>
-          <note>Weizen</note>
+          <name>Dampfnudel und Vanillesoße*</name>
         </meal>
       </category>
     </day>
