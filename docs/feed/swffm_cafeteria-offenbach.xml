@@ -3,60 +3,14 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-23">
+    <day date="2026-04-24">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatensuppe</name>
-          <note>vegan</note>
+          <name>Kartoffelsuppe</name>
+          <note>Kartoffel</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
-        <meal>
-          <name>Loaded Wedges mit veganem Chili , Hafercreme Topping , und Tortilla Chips</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Hafer</note>
-          <note>Kartoffel</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
-        </meal>
-        <meal>
-          <name>Semmelknödel mit Kräuter-Austernpilzen , und geriebenem Grana Padano</name>
-          <note>Alkohol</note>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchenkeule alla Stefano mit Geflügelsauce, und einer Beilage nach Wahl</name>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-04-24">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Seelachsfilet im Backteig mit Remouladensauce , und einer Beilage nach Wahl</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Weizen</note>
-          <note>konserviert</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
         <meal>
           <name>Quinoa-Kichererbsencurry mit einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
@@ -73,6 +27,21 @@
           <note>vegan</note>
           <price role="other">3.60</price>
           <price role="student">2.00</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Seelachsfilet im Backteig mit Remouladensauce , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>konserviert</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
         </meal>
       </category>
     </day>
@@ -166,6 +135,31 @@
           <note>mensaVital</note>
           <price role="other">6.90</price>
           <price role="student">5.30</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-30">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hokifilet mediterran mit einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <price role="other">7.40</price>
+          <price role="student">5.80</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kolbörek mit Spinat-Käsefüllung mit Knoblauchjoghurt , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
+          <name>Tomatenspaghetti mit Tofu</name>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
       </category>
     </day>

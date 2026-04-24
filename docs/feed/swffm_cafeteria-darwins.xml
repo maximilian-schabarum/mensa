@@ -3,46 +3,48 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-23">
+    <day date="2026-04-24">
       <category name="Vegetarisch">
         <meal>
-          <name>Rote Linsensuppe</name>
-          <note>vegan</note>
+          <name>Spinatcremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Hummus mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
+          <name>Linsen-Gemüsechili mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
+          <note>Roggen</note>
+          <note>Sesam und Sesamerzeugnisse</note>
           <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">3.80</price>
-          <price role="student">2.20</price>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+        <meal>
+          <name>Hummus mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
+          <note>Roggen</note>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">3.60</price>
+          <price role="student">2.00</price>
         </meal>
         <meal>
           <name>Spinatburrito mit einer Beilage nach Wahl</name>
-          <price role="other">5.10</price>
-          <price role="student">3.50</price>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchencurry mit Reis</name>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-04-24">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Linsen-Gemüsechili mit Baguette , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Roggen</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">4.10</price>
-          <price role="student">2.50</price>
+          <name>Geflügelbratwurst mit Zwiebelsauce, und einer Beilage nach Wahl</name>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
         </meal>
       </category>
     </day>
@@ -73,6 +75,16 @@
           <note>vegan</note>
           <price role="other">5.20</price>
           <price role="student">3.60</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-04-30">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Grünkern-Pastapfanne mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
     </day>
