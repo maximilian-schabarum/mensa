@@ -119,7 +119,7 @@
           <price role="student">4.70</price>
         </meal>
         <meal>
-          <name>Süßkartoffel-Gemüsecurry mit Reis</name>
+          <name>Süßkartoffel-Gemüsecurry Reis</name>
           <note>vegan</note>
           <price role="other">5.90</price>
           <price role="student">4.30</price>
@@ -152,7 +152,7 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Zitronen-Knoblauchhuhn mit Kartoffeln , und Zucchinigemüse</name>
+          <name>Zitronen-Knoblauchhuhn Kartoffeln , auf Zucchinigemüse</name>
           <note>Kartoffel</note>
           <note>geschwefelt</note>
           <price role="other">6.80</price>
@@ -187,11 +187,10 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>American Pancakes mit Nutella , oder Marmelade</name>
+          <name>American Pancakes mit belgischer Nuss Nougat Creme , oder Marmelade</name>
           <note>Haselnuesse</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>Schalenfruechte und Nuesse</note>
-          <note>Soja und Sojaerzeugnisse</note>
           <price role="other">4.40</price>
           <price role="student">2.80</price>
         </meal>
@@ -213,7 +212,7 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Selleriecremesuppe mit Brot und einem Topping nach Wahl</name>
+          <name>Pilzrahmsuppe mit Brot und einem Topping nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
@@ -225,7 +224,7 @@
           <price role="student">4.40</price>
         </meal>
         <meal>
-          <name>Gemüse mit Linsen und Couscous</name>
+          <name>Gemüse mit Linsen Couscous</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <note>vegan</note>

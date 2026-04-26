@@ -6,10 +6,34 @@
     <day date="2026-04-27">
       <category name="Vegetarisch">
         <meal>
+          <name>Kichererbsensuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Paprikaschote mit Reisfüllung und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.90</price>
           <price role="student">4.30</price>
+        </meal>
+        <meal>
+          <name>Linsen-Gemüsechili mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
+          <note>Roggen</note>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+        <meal>
+          <name>Wrap mit Gemüsecouscous Käse , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
       </category>
     </day>
@@ -26,7 +50,7 @@
     <day date="2026-04-29">
       <category name="Vegetarisch">
         <meal>
-          <name>Wrap mit Gemüsecouscous mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
+          <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.20</price>
           <price role="student">3.60</price>
