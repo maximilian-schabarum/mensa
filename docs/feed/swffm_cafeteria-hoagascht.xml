@@ -51,12 +51,23 @@
           <price role="student">3.40</price>
         </meal>
         <meal>
+          <name>Mediterranes Gemüsepilaw mit Linsen mit Joghurt</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+        <meal>
           <name>Grießbrei mit Mandarinen</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
           <name>Heidelbeerquark</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Milchreis mit Apfelmus</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
