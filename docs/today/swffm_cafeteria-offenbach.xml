@@ -19,12 +19,6 @@
           <price role="other">4.30</price>
           <price role="student">2.70</price>
         </meal>
-        <meal>
-          <name>Kartoffelrösti Mozzarella-Lauch mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
-        </meal>
       </category>
     </day>
   </canteen>

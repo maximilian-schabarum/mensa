@@ -6,10 +6,21 @@
     <day date="2026-04-27">
       <category name="Vegetarisch">
         <meal>
+          <name>Blumenkohlcremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Soja-Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.30</price>
           <price role="student">2.70</price>
+        </meal>
+        <meal>
+          <name>Gemüseschnitzel mit Sauce Vegetale, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
         </meal>
       </category>
       <category name="Hauptgericht">

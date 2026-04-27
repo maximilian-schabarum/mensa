@@ -18,16 +18,13 @@
           <price role="student">4.30</price>
         </meal>
         <meal>
-          <name>Linsen-Gemüsechili mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
-          <note>Gerste</note>
+          <name>Linsen-Gemüsechili mit Baguette , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
-          <note>Hafer</note>
           <note>Roggen</note>
-          <note>Sesam und Sesamerzeugnisse</note>
           <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
         </meal>
         <meal>
           <name>Wrap mit Gemüsecouscous Käse , und einer Beilage nach Wahl</name>
