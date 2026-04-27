@@ -18,6 +18,11 @@
           <price role="student">2.70</price>
         </meal>
         <meal>
+          <name>Pizzaschnitte Napoli und einer Beilage nach Wahl</name>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+        <meal>
           <name>Frische Waffeln</name>
           <price role="other">3.40</price>
           <price role="student">1.80</price>

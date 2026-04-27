@@ -12,12 +12,6 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Paprikaschote mit Reisfüllung und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
-        </meal>
-        <meal>
           <name>Linsen-Gemüsechili mit Baguette , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Roggen</note>
