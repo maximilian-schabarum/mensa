@@ -3,48 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-27">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Paprikasuppe</name>
-          <note>vegan</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Soja-Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
-        </meal>
-        <meal>
-          <name>Penne-Broccoliauflauf mit Tomatensauce</name>
-          <note>mensaVital</note>
-          <price role="other">6.90</price>
-          <price role="student">5.30</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Bifteki mit Paprikasauce, und einer Beilage nach Wahl</name>
-          <note>Rind</note>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
-        </meal>
-        <meal>
-          <name>Pizza Salami</name>
-          <note>Geflügel</note>
-          <note>Schwein</note>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
-        </meal>
-        <meal>
-          <name>Pizza Margherita</name>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-04-28">
       <category name="Vegetarisch">
         <meal>
@@ -58,6 +16,12 @@
           <price role="other">4.20</price>
           <price role="student">2.60</price>
         </meal>
+        <meal>
+          <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -65,6 +29,12 @@
           <note>Schwein</note>
           <price role="other">5.90</price>
           <price role="student">4.30</price>
+        </meal>
+        <meal>
+          <name>Bifteki mit Paprikasauce, und einer Beilage nach Wahl</name>
+          <note>Rind</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
         <meal>
           <name>Pizza Pute-Rucola</name>
@@ -179,6 +149,56 @@
           <name>Pizza Birne-Camembert</name>
           <price role="other">6.10</price>
           <price role="student">4.50</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-04">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Broccolicremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Kartoffelpfanne Aubergine-Zucchini mit veganem Sojadip</name>
+          <note>Kartoffel</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+        <meal>
+          <name>Gebratener Tempeh auf Buchweizen-Champignonpfanne</name>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Panierte Hähnchensnacks mit Barbecuesauce , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
+        </meal>
+        <meal>
+          <name>Pizza Salami</name>
+          <note>Geflügel</note>
+          <note>Schwein</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
+        </meal>
+        <meal>
+          <name>Pizza Margherita</name>
         </meal>
       </category>
     </day>
