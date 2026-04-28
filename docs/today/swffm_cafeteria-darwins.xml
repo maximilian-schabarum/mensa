@@ -6,6 +6,11 @@
     <day date="2026-04-28">
       <category name="Vegetarisch">
         <meal>
+          <name>Tomatencremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Gemüsefrikadelle mit Tomatensauce, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.40</price>
@@ -23,6 +28,8 @@
         <meal>
           <name>Paprikaschote mit Reisfüllung und einer Beilage nach Wahl</name>
           <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
       </category>
       <category name="Hauptgericht">
