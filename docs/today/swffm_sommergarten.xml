@@ -204,19 +204,6 @@
           <price role="student">0.60</price>
         </meal>
         <meal>
-          <name>Burrata mit Brot oder Brötchen</name>
-          <note>Alkohol</note>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Lupine und Lupinenerzeugnisse</note>
-          <note>Sesam und Sesamerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <price role="other">11.10</price>
-          <price role="student">9.50</price>
-        </meal>
-        <meal>
           <name>Handkäs mit Musik mit Brot oder Brötchen , und Butter</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
