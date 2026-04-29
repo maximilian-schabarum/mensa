@@ -33,6 +33,12 @@
           <price role="student">3.60</price>
         </meal>
         <meal>
+          <name>Ausgabe 5 Gemüse-Pilzcurry mit Reisbandnudeln</name>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+        <meal>
           <name>Couscous mit orientalischem Gemüse und Auberginencreme</name>
           <note>Senf und Senferzeugnisse</note>
           <note>mensaVital</note>

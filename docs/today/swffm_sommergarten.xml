@@ -204,6 +204,14 @@
           <price role="student">0.60</price>
         </meal>
         <meal>
+          <name>Gemüse mit Tofu und Basmati-Mandelreis</name>
+          <note>Mandeln</note>
+          <note>Schalenfruechte und Nuesse</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Handkäs mit Musik mit Brot oder Brötchen , und Butter</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
