@@ -3,97 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-28">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Manakish Zatar mit Feta Teigfladen mit Feta, Rucola und gegrillten Tomaten</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Sesam und Sesamerzeugnisse</note>
-          <note>Weizen</note>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
-        </meal>
-        <meal>
-          <name>Basic Salat mit einem Brot und drei Toppings nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
-        </meal>
-        <meal>
-          <name>Fitness Salat mit Brot</name>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
-        </meal>
-        <meal>
-          <name>Asia Salat mit Brot</name>
-          <note>vegan</note>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
-        </meal>
-        <meal>
-          <name>Erbsencremesuppe mit Minze mit Brot und einem Topping nach Wahl</name>
-          <note>Kartoffel</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>Gebratene Eiernudeln mit Pilzen und Sprossen</name>
-          <price role="other">6.30</price>
-          <price role="student">4.70</price>
-        </meal>
-        <meal>
-          <name>Süßkartoffel-Gemüsecurry Reis</name>
-          <note>vegan</note>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
-        </meal>
-        <meal>
-          <name>Schokoladenpudding</name>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
-        <meal>
-          <name>Müslijoghurt</name>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
-        <meal>
-          <name>Grießbrei mit Mandarinen</name>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
-        <meal>
-          <name>Heidelbeerquark</name>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Caesar Salat Caesar Dressing mit Brot</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Fisch und Fischerzeugnisse</note>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Weizen</note>
-          <note>konserviert</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
-        </meal>
-        <meal>
-          <name>Zitronen-Knoblauchhuhn Kartoffeln , auf Zucchinigemüse</name>
-          <note>Kartoffel</note>
-          <note>geschwefelt</note>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-04-29">
       <category name="Hauptgericht">
         <meal>
@@ -166,12 +75,22 @@
           <price role="student">3.90</price>
         </meal>
         <meal>
+          <name>Bulgur-Zucchinipfanne mit Feta</name>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+        <meal>
           <name>Milchreis mit Beeren</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Kirsch-Schoko-Joghurt</name>
+          <name>Schokoladenpudding</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Müslijoghurt</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -321,6 +240,89 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">6.40</price>
           <price role="student">4.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-05">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Manakish Zatar mit Feta Teigfladen mit Feta, Rucola und gegrillten Tomaten</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <note>Weizen</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
+        </meal>
+        <meal>
+          <name>Basic Salat mit einem Brot und drei Toppings nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
+        <meal>
+          <name>Fitness Salat mit Brot</name>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
+        <meal>
+          <name>Asia Salat mit Brot</name>
+          <note>vegan</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
+        <meal>
+          <name>Pilzrahmsuppe mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
+          <name>Gebratene Nudeln mit Gemüsetofu und Cashews</name>
+          <note>vegan</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
+        </meal>
+        <meal>
+          <name>Auberginen-Bulgur mit Rosinen</name>
+          <note>vegan</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
+        </meal>
+        <meal>
+          <name>Grießbrei mit Kirschen</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Himbeerquark</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Caesar Salat Caesar Dressing mit Brot</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Fisch und Fischerzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>konserviert</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
+        <meal>
+          <name>Hackfleisch-Gemüsepfanne mit Couscous</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Rind</note>
+          <note>Weizen</note>
+          <price role="other">8.10</price>
+          <price role="student">6.50</price>
         </meal>
       </category>
     </day>
