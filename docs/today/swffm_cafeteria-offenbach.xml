@@ -4,17 +4,13 @@
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <day date="2026-04-29">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchen-Reisfleisch mit Currysauce , und einer Beilage nach Wahl</name>
-          <note>Alkohol</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
-        </meal>
-      </category>
       <category name="Vegetarisch">
+        <meal>
+          <name>Maissuppe</name>
+          <note>Kartoffel</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Gemüse mit Tofu und Basmati-Mandelreis</name>
           <note>Mandeln</note>
@@ -28,6 +24,16 @@
           <note>mensaVital</note>
           <price role="other">6.90</price>
           <price role="student">5.30</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchen-Reisfleisch mit Currysauce , und einer Beilage nach Wahl</name>
+          <note>Alkohol</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
         </meal>
       </category>
     </day>

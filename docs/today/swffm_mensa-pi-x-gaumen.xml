@@ -6,6 +6,12 @@
     <day date="2026-04-29">
       <category name="Vegetarisch">
         <meal>
+          <name>Kartoffelcremesuppe</name>
+          <note>Kartoffel</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Ofenkartoffel mit veganer grüner Sauce , und einer Beilage nach Wahl</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
@@ -16,6 +22,12 @@
           <note>vegan</note>
           <price role="other">4.90</price>
           <price role="student">3.30</price>
+        </meal>
+        <meal>
+          <name>Gemüse-Pilzcurry mit Reisbandnudeln</name>
+          <note>vegan</note>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
         </meal>
         <meal>
           <name>Grünkern-Bohnen Pfanne mit Rote Bete-Sauce</name>
@@ -34,6 +46,14 @@
           <note>Senf und Senferzeugnisse</note>
           <price role="other">6.20</price>
           <price role="student">4.60</price>
+        </meal>
+        <meal>
+          <name>Kesselgulasch Fusilli</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Schwein</note>
+          <note>Weizen</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
         </meal>
       </category>
     </day>

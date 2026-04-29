@@ -12,7 +12,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Ofenkartoffel mit veganer grüner Sauce , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 und 4 Ofenkartoffel mit veganer grüner Sauce , und einer Beilage nach Wahl</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
@@ -42,7 +42,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Hähnchen-Reisfleisch mit Currysauce , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 1 und 2 Hähnchen-Reisfleisch mit Currysauce , und einer Beilage nach Wahl</name>
           <note>Alkohol</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>Senf und Senferzeugnisse</note>
