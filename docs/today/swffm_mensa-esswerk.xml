@@ -31,6 +31,13 @@
           <price role="other">4.90</price>
           <price role="student">3.30</price>
         </meal>
+        <meal>
+          <name>Kartoffeltaschen mit Frischkäse mit Joghurtdip , und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -44,17 +51,6 @@
           <name>Pizza Broccoli-Käse</name>
           <price role="other">6.10</price>
           <price role="student">4.50</price>
-        </meal>
-        <meal>
-          <name>Hähnchenbruststeak mit Basilikum-Knoblauchsauce , und Gemüse-Kartoffelgnocchi</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
         </meal>
       </category>
     </day>

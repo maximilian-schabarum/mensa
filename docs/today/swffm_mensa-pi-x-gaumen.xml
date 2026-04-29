@@ -30,6 +30,12 @@
           <price role="student">2.40</price>
         </meal>
         <meal>
+          <name>Broccoli-Nussecke mit Tomatensauce, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
+        </meal>
+        <meal>
           <name>Grünkern-Bohnen Pfanne mit Rote Bete-Sauce</name>
           <note>Soja und Sojaerzeugnisse</note>
           <note>mensaVital</note>
