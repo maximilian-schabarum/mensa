@@ -11,6 +11,13 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
+          <name>Kartoffeltaschen mit Frischkäse mit Joghurtdip , und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+        <meal>
           <name>Tomatenspaghetti mit Tofu</name>
           <note>mensaVital</note>
           <note>vegan</note>
@@ -24,6 +31,12 @@
           <note>MSC</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
+        </meal>
+        <meal>
+          <name>Puten Rahmgeschnetzeltes und einer Beilage nach Wahl</name>
+          <note>Alkohol</note>
+          <price role="other">8.10</price>
+          <price role="student">6.50</price>
         </meal>
         <meal>
           <name>Pizza Griechische Art</name>
