@@ -204,6 +204,14 @@
           <price role="student">0.60</price>
         </meal>
         <meal>
+          <name>Kartoffel-Reispfanne mit Kokos-Currysauce</name>
+          <note>Kartoffel</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Burrata mit Brot oder Brötchen</name>
           <note>Alkohol</note>
           <note>Gerste</note>
