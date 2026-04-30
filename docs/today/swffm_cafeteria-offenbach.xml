@@ -3,37 +3,39 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-29">
+    <day date="2026-04-30">
       <category name="Vegetarisch">
         <meal>
-          <name>Maissuppe</name>
+          <name>Ofenkartoffel mit veganer grüner Sauce , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Gemüse mit Tofu und Basmati-Mandelreis</name>
-          <note>Mandeln</note>
-          <note>Schalenfruechte und Nuesse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
         </meal>
         <meal>
-          <name>Penne-Broccoliauflauf mit Tomatensauce</name>
+          <name>Tomatenspaghetti mit Tofu</name>
           <note>mensaVital</note>
-          <price role="other">6.90</price>
-          <price role="student">5.30</price>
+          <note>vegan</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchen-Reisfleisch mit Currysauce , und einer Beilage nach Wahl</name>
-          <note>Alkohol</note>
+          <name>Hähnchenbruststeak mit Basilikum-Knoblauchsauce , und Gemüse-Kartoffelgnocchi</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mensaVital</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
         </meal>
       </category>
     </day>

@@ -3,7 +3,7 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-04-29">
+    <day date="2026-04-30">
       <category name="Hauptgericht">
         <meal>
           <name>Rindswurst mit Brot oder Brötchen</name>
@@ -204,12 +204,17 @@
           <price role="student">0.60</price>
         </meal>
         <meal>
-          <name>Gemüse mit Tofu und Basmati-Mandelreis</name>
-          <note>Mandeln</note>
-          <note>Schalenfruechte und Nuesse</note>
-          <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
+          <name>Burrata mit Brot oder Brötchen</name>
+          <note>Alkohol</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Lupine und Lupinenerzeugnisse</note>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <price role="other">11.10</price>
+          <price role="student">9.50</price>
         </meal>
         <meal>
           <name>Handkäs mit Musik mit Brot oder Brötchen , und Butter</name>
