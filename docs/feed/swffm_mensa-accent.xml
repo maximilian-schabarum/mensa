@@ -98,5 +98,34 @@
         </meal>
       </category>
     </day>
+    <day date="2026-05-08">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Cavatappi mit Tomaten-Mangoldrahm</name>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Paniertes Schollenfilet mit Remouladensauce , und Schwenkkartoffeln</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>

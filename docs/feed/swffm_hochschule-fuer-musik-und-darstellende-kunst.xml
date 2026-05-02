@@ -157,5 +157,48 @@
         </meal>
       </category>
     </day>
+    <day date="2026-05-08">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Linsensuppe Aramäische Art</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Cavatappi mit Tomaten-Mangoldrahm</name>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Paniertes Schollenfilet und einer Beilage nach Wahl, mit Remouladensauce</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>

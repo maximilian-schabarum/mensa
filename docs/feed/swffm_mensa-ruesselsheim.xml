@@ -6,6 +6,11 @@
     <day date="2026-05-02">
       <category name="Vegetarisch">
         <meal>
+          <name>Tomatencremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Kartoffel-Reispfanne mit Kokos-Currysauce , und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>Senf und Senferzeugnisse</note>
@@ -20,6 +25,12 @@
           <note>Rind</note>
           <price role="other">6.20</price>
           <price role="student">4.60</price>
+        </meal>
+        <meal>
+          <name>Hokifilet mediterran mit einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
         </meal>
       </category>
     </day>
@@ -119,6 +130,33 @@
           <name>Hähnchenkeule andalusische Art mit einer Beilage nach Wahl</name>
           <price role="other">5.50</price>
           <price role="student">3.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-08">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Cavatappi mit Tomaten-Mangoldrahm</name>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Paniertes Schollenfilet mit Remouladensauce , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
         </meal>
       </category>
     </day>
