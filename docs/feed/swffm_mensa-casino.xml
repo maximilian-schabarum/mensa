@@ -11,7 +11,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Kartoffelpfanne Aubergine-Zucchini mit veganem Sojadip</name>
+          <name>Ausgabe 3 Kartoffelpfanne Aubergine-Zucchini mit veganem Sojadip</name>
           <note>Kartoffel</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
@@ -19,7 +19,7 @@
           <price role="student">3.20</price>
         </meal>
         <meal>
-          <name>Makkaroni mit Gemüserahmsauce und einer Beilage nach Wahl</name>
+          <name>Ausgabe 5 Makkaroni mit Gemüserahmsauce und einer Beilage nach Wahl</name>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
         </meal>
@@ -33,7 +33,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Panierte Hähnchensnacks mit Barbecuesauce , und Pommes frites</name>
+          <name>Ausgabe 1 Panierte Hähnchensnacks mit Barbecuesauce , Salzkartoffeln</name>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>

@@ -28,31 +28,31 @@
         <meal>
           <name>Gemüse mit Tofu, Kokos und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
         </meal>
       </category>
     </day>
     <day date="2026-05-07">
       <category name="Vegetarisch">
         <meal>
-          <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
+          <name>Gemüsepfanne mit Reisbandnudeln und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
       </category>
     </day>
     <day date="2026-05-08">
       <category name="Vegetarisch">
         <meal>
-          <name>Chili con Quinoa mit Baguette , und einer Beilage nach Wahl</name>
+          <name>Chili con Quinoa mit Ciabattabrötchen , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
-          <note>Roggen</note>
           <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
         </meal>
       </category>
     </day>

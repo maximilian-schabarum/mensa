@@ -14,6 +14,16 @@
           <price role="student">3.20</price>
         </meal>
         <meal>
+          <name>Linseneintopf mit Ciabattabrötchen , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
+        </meal>
+        <meal>
           <name>Gebratener Tempeh auf Buchweizen-Champignonpfanne</name>
           <note>mensaVital</note>
           <note>vegan</note>
