@@ -6,44 +6,49 @@
     <day date="2026-05-04">
       <category name="Vegetarisch">
         <meal>
-          <name>Apfel-Selleriesuppe</name>
+          <name>Brokkolicremesuppe</name>
           <note>Laktose</note>
           <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Chili con Carne mit Reis</name>
-          <note>Sellerie</note>
-          <note>Senf</note>
-        </meal>
-        <meal>
-          <name>Bohnenchili mit Reis</name>
-          <note>Sellerie</note>
-          <note>Senf</note>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-05-05">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Flädlesuppe</name>
-          <note>Eier</note>
+          <name>Nudeln mit Grünspargel und Ruccolapesto</name>
+          <note>Cashewnüsse</note>
           <note>Laktose</note>
-          <note>Sellerie</note>
-          <note>Weizen</note>
-        </meal>
-        <meal>
-          <name>Schupfnudel-Ratatouillegratin</name>
-          <note>Eier</note>
-          <note>Sellerie</note>
           <note>Weizen</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Schnitzel mit Erbsen-Möhrengemüse und Salzkartoffeln</name>
+          <name>Nudeln mit Grünspargel, Schinken und Ruccolapesto</name>
+          <note>Ascorbinsäure</note>
+          <note>Cashewnüsse</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-05">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Asiatische Hühnersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Hackbraten mit Kartoffeln und Blumenkohlgemüse</name>
           <note>Eier</note>
           <note>Laktose</note>
+          <note>Senf</note>
           <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Vegetarische Burger mit Kartoffeln und Blumenkohlgemüse</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
         </meal>
       </category>
     </day>
@@ -55,49 +60,68 @@
           <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Spinat-Serviettenknödel mit Parmesan und geschwenkten Cocktailtomaten</name>
+          <name>Süßkartoffelgulasch mit Spätzle</name>
           <note>Eier</note>
-          <note>Laktose</note>
           <note>Sellerie</note>
+          <note>Senf</note>
           <note>Weizen</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Schweinebraten mit Kartoffel-Möhrenstampf</name>
-          <note>Laktose</note>
+          <name>gemischtes Gulasch mit Spätzle</name>
+          <note>Eier</note>
           <note>Sellerie</note>
           <note>Senf</note>
+          <note>Weizen</note>
         </meal>
       </category>
     </day>
     <day date="2026-05-07">
-      <category name="Vegetarisch">
+      <category name="Hauptgericht">
         <meal>
-          <name>Pilzrahmsuppe</name>
-          <note>Laktose</note>
+          <name>Karotteningwersuppe</name>
           <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Gemüsefrittata mit Baguette</name>
-          <note>Eier</note>
-          <note>Weizen</note>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Frittata mit Gemüse, Salami und Baguette</name>
-          <note>Ascorbinsäure</note>
-          <note>Eier</note>
+          <name>Bratwurst mit Kartoffelbrei und Sauerkraut</name>
           <note>Laktose</note>
           <note>Nitripökelsalz</note>
           <note>Phosphat</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Pilz-Auflauf</name>
+          <note>Laktose</note>
           <note>Sellerie</note>
         </meal>
       </category>
     </day>
     <day date="2026-05-08">
-      <closed/>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Erbsensuppe</name>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Pfannkuchen mit Spargelgemüse</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Pfannkuchen mit Spargelgemüse und Schinken</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Schwefeldioxid/Sulfite</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
     </day>
   </canteen>
 </openmensa>
