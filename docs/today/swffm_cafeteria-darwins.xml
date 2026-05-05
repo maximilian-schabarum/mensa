@@ -6,6 +6,11 @@
     <day date="2026-05-05">
       <category name="Vegetarisch">
         <meal>
+          <name>Gemüsecremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Argentinische Getreidepfanne mit Tomatensauce, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.30</price>

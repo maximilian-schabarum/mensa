@@ -55,11 +55,6 @@
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Müslijoghurt mit roter Grütze</name>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
-        <meal>
           <name>Milchreis mit Apfelmus</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
