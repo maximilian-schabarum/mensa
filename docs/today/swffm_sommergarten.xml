@@ -204,6 +204,13 @@
           <price role="student">0.60</price>
         </meal>
         <meal>
+          <name>Grillkäse mit Zucchini-Tomatensauce, und griechischen Nudeln</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Burrata mit Brot oder Brötchen</name>
           <note>Alkohol</note>
           <note>Gerste</note>

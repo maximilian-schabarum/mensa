@@ -23,11 +23,26 @@
           <price role="student">2.70</price>
         </meal>
         <meal>
+          <name>Kartoffelpfanne Aubergine-Zucchini mit veganem Sojadip</name>
+          <note>Kartoffel</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Ausgabe 5 Grillkäse mit Zucchini-Tomatensauce, und griechischen Nudeln</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <price role="other">6.00</price>
           <price role="student">4.40</price>
+        </meal>
+        <meal>
+          <name>Tomatenspaghetti mit Tofu</name>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -56,10 +71,8 @@
           <price role="student">6.50</price>
         </meal>
         <meal>
-          <name>Gebratenes Seehechtfilet mit Linsen-Reissalat</name>
+          <name>Gebratenes Seehechtfilet mit Basmatireis, mit Tomatensauce</name>
           <note>MSC</note>
-          <note>Mandeln</note>
-          <note>Schalenfruechte und Nuesse</note>
           <note>mensaVital</note>
           <price role="other">7.30</price>
           <price role="student">5.70</price>
