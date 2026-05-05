@@ -40,6 +40,22 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
+          <name>Bratwurst Pommes frites</name>
+          <note>Kartoffel</note>
+          <note>Schwein</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
+        </meal>
+        <meal>
+          <name>Putensteak mit Kräuterbutter Kräuterbutter , Pommes frites</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">8.10</price>
+          <price role="student">6.50</price>
+        </meal>
+        <meal>
           <name>Gebratenes Seehechtfilet mit Linsen-Reissalat</name>
           <note>MSC</note>
           <note>Mandeln</note>

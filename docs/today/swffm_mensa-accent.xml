@@ -22,9 +22,7 @@
           <price role="student">2.70</price>
         </meal>
         <meal>
-          <name>Gemüsechili mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
+          <name>Gemüsechili und zwei Beilagen nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.70</price>
           <price role="student">3.10</price>
