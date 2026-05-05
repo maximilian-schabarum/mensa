@@ -3,18 +3,16 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-04">
+    <day date="2026-05-05">
       <category name="Vegetarisch">
         <meal>
-          <name>French Toast mit Beeren</name>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>French Toast mit Beeren, Erdnussbutter und Banane</name>
-          <note>Erdnuesse und Erdnusserzeugnisse</note>
-          <price role="other">5.10</price>
-          <price role="student">3.50</price>
+          <name>Manakish Zatar mit Feta Teigfladen mit Feta, Rucola und gegrillten Tomaten</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <note>Weizen</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
         </meal>
         <meal>
           <name>Basic Salat mit einem Brot und drei Toppings nach Wahl</name>
@@ -34,21 +32,32 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Petersiliencremesuppe mit Brot und einem Topping nach Wahl</name>
+          <name>Pilzrahmsuppe mit Brot und einem Topping nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Gebratener Gemüsereis mit Ei und Nüssen</name>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <name>Gebratene Nudeln mit Gemüsetofu und Cashews</name>
+          <note>vegan</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
         </meal>
         <meal>
-          <name>Vollkornnudeln mit Linsen-Gemüsebolognese</name>
-          <note>vegan</note>
-          <price role="other">5.30</price>
-          <price role="student">3.70</price>
+          <name>Kartoffel-Gemüseauflauf mit Chili und Feta</name>
+          <note>Kartoffel</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
+        </meal>
+        <meal>
+          <name>Grießbrei mit Kirschen</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Müslijoghurt mit roter Grütze</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
         </meal>
         <meal>
           <name>Milchreis mit Apfelmus</name>
@@ -76,6 +85,14 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">6.40</price>
           <price role="student">4.80</price>
+        </meal>
+        <meal>
+          <name>Hackfleisch-Gemüsepfanne mit Couscous</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Rind</note>
+          <note>Weizen</note>
+          <price role="other">8.10</price>
+          <price role="student">6.50</price>
         </meal>
       </category>
     </day>
