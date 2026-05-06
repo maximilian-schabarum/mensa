@@ -27,11 +27,6 @@
           <price role="other">6.40</price>
           <price role="student">4.80</price>
         </meal>
-        <meal>
-          <name>Gebratener Reis mit Hähnchen und Sesam</name>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
-        </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
@@ -66,11 +61,23 @@
           <price role="student">3.00</price>
         </meal>
         <meal>
+          <name>Gebratener Gemüsereis</name>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+        <meal>
           <name>Linsengemüse mit Kartoffeln Tomatensalsa</name>
           <note>Kartoffel</note>
           <note>vegan</note>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
+        </meal>
+        <meal>
+          <name>Vollkornnudeln mit Linsen-Gemüsebolognese</name>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
         </meal>
         <meal>
           <name>Grießbrei mit Kirschen</name>
@@ -84,6 +91,11 @@
         </meal>
         <meal>
           <name>Milchreis mit Apfelmus</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Müslijoghurt mit roter Grütze</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
