@@ -11,7 +11,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Hähnchenkeule andalusische Art mit Rosmarinkartoffeln</name>
+          <name>Ausgabe 1 und 2 Hähnchenkeule andalusische Art mit Rosmarinkartoffeln</name>
           <note>Kartoffel</note>
           <price role="other">5.50</price>
           <price role="student">3.90</price>
@@ -19,7 +19,7 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüsechili mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Gemüsechili mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <note>vegan</note>
@@ -27,7 +27,7 @@
           <price role="student">3.30</price>
         </meal>
         <meal>
-          <name>Kartoffeltaschen mit Frischkäse Kräuterschmand , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 5 Kartoffeltaschen mit Frischkäse Kräuterschmand , und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.20</price>

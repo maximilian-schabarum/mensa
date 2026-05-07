@@ -3,51 +3,15 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-06">
+    <day date="2026-05-07">
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüse-Kartoffelsuppe</name>
+          <name>Kartoffel-Lauchsuppe</name>
           <note>Kartoffel</note>
+          <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
-        <meal>
-          <name>Gemüse mit Tofu, Kokos und Basmatireis</name>
-          <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>Tagliatelle mit Lauchrahm</name>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">5.70</price>
-          <price role="student">4.10</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Schweinenackenbraten mit Apfelweinsauce , und Karotten-Stampfkartoffeln</name>
-          <note>Alkohol</note>
-          <note>Kartoffel</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-05-07">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchenkeule andalusische Art mit Rosmarinkartoffeln</name>
-          <note>Kartoffel</note>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
         <meal>
           <name>Kartoffeltaschen mit Frischkäse Kräuterschmand , und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
@@ -61,6 +25,14 @@
           <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchenkeule andalusische Art mit Rosmarinkartoffeln</name>
+          <note>Kartoffel</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
         </meal>
       </category>
     </day>
@@ -147,6 +119,43 @@
           <note>Kartoffel</note>
           <price role="other">7.00</price>
           <price role="student">5.40</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-13">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Geflügelbratwurst mit Nudelsalat , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>konserviert</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Gemüseragout mediterran mit Baguette</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
+        </meal>
+        <meal>
+          <name>Grünkern-Kartoffelauflauf mit Blumenkohlsalat</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Kartoffel</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
     </day>
