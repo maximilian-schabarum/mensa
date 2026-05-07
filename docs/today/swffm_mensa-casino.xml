@@ -16,10 +16,19 @@
           <price role="other">5.50</price>
           <price role="student">3.90</price>
         </meal>
+        <meal>
+          <name>Ausgabe 1 Schweinenackenbraten mit Apfelweinsauce , Rosmarinkartoffeln</name>
+          <note>Alkohol</note>
+          <note>Kartoffel</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Ausgabe 3 Gemüsechili mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 und 4 Gemüsechili mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <note>vegan</note>
