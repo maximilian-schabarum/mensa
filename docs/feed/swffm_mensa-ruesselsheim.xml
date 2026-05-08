@@ -3,48 +3,13 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-07">
+    <day date="2026-05-08">
       <category name="Vegetarisch">
         <meal>
-          <name>Kohlrabicremesuppe</name>
+          <name>Blumenkohlcremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
-        <meal>
-          <name>Gemüsechili mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Kartoffeltaschen mit Frischkäse mit Kräutersauce , und einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchenkeule andalusische Art mit einer Beilage nach Wahl</name>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
-        </meal>
-        <meal>
-          <name>Pfeffergeschnetzeltes Spätzle , und einer Beilage nach Wahl</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Schwein</note>
-          <note>Weizen</note>
-          <price role="other">6.30</price>
-          <price role="student">4.70</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-05-08">
-      <category name="Vegetarisch">
         <meal>
           <name>Cavatappi mit Tomaten-Mangoldrahm</name>
           <note>Schwefeldioxid / Sulfit</note>
@@ -53,6 +18,14 @@
           <note>vegan</note>
           <price role="other">4.80</price>
           <price role="student">3.20</price>
+        </meal>
+        <meal>
+          <name>Gemüseschnitzel mit veganem Knoblauchdip , und einer Beilage nach Wahl</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -67,6 +40,14 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">7.00</price>
           <price role="student">5.40</price>
+        </meal>
+        <meal>
+          <name>Spaghetti Bolognese mit Grana Padano</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Rind</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
         </meal>
       </category>
     </day>

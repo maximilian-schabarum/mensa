@@ -20,7 +20,7 @@
           <price role="student">4.90</price>
         </meal>
         <meal>
-          <name>Paniertes Schollenfilet mit Remouladensauce , und Schwenkkartoffeln</name>
+          <name>Paniertes Schollenfilet mit Remouladensauce , Schwenkkartoffeln</name>
           <note>Eier und Eiererzeugnisse</note>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
@@ -32,6 +32,11 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">7.00</price>
           <price role="student">5.40</price>
+        </meal>
+        <meal>
+          <name>Schweinenackenbraten mit Bratensauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
         </meal>
       </category>
     </day>
