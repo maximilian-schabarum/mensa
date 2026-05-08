@@ -40,6 +40,18 @@
           <price role="other">7.00</price>
           <price role="student">5.40</price>
         </meal>
+        <meal>
+          <name>Seelachsfilet im Backteig mit Remouladensauce , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
+        </meal>
       </category>
     </day>
   </canteen>
