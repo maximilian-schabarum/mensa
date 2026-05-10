@@ -11,7 +11,9 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Pasta Asciutta mit einer Beilage nach Wahl</name>
+          <name>Gemüsesugo Vollkornröhrli , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
           <note>vegan</note>
           <price role="other">4.20</price>
           <price role="student">2.60</price>

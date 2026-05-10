@@ -55,6 +55,12 @@
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
+        <meal>
+          <name>Rote Grütze mit veganer Vanillesauce</name>
+          <note>vegan</note>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -115,7 +121,7 @@
           <price role="student">5.70</price>
         </meal>
         <meal>
-          <name>Kartoffel-Gemüsecurry mit Mandelreis</name>
+          <name>Kartoffel-Gemüsecurry Mandelreis</name>
           <note>Kartoffel</note>
           <note>Mandeln</note>
           <note>Schalenfruechte und Nuesse</note>
@@ -124,12 +130,13 @@
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Crème Brûlée</name>
+          <name>Birnenquark mit Schokosplitter</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Birnenquark mit Schokosplitter</name>
+          <name>Veganer Grießbrei mit Erdbeeren</name>
+          <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -151,7 +158,7 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Hähnchen-Tajine mit Couscous</name>
+          <name>Hähnchen-Tajine Couscous</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <price role="other">7.50</price>
@@ -264,6 +271,13 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
+          <name>Blumenkohl-Currysuppe mit Kokosmilch mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Gebratener Reis mit Gemüse</name>
           <note>vegan</note>
           <price role="other">5.80</price>
@@ -297,7 +311,7 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Gebratenes Seelachsfilet mit Couscous , und Paprikasauce</name>
+          <name>Gebratenes Seelachsfilet Couscous , mit Paprikasauce</name>
           <note>Glutenhaltige Getreide</note>
           <note>MSC</note>
           <note>Weizen</note>

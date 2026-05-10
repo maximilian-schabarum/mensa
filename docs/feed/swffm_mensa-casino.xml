@@ -4,9 +4,29 @@
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <day date="2026-05-11">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tomatencremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 3 Pasta Asciutta mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Ofenkartoffel mit Grillgemüse und Sojadip</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+      </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenknusperfilet mit Rahmsauce , und Kartoffel-Sahnepüree</name>
+          <name>Ausgabe 1 Hähnchenknusperfilet mit Rahmsauce , und Kartoffel-Sahnepüree</name>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.20</price>
@@ -20,31 +40,15 @@
           <price role="student">4.40</price>
         </meal>
       </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Pasta Asciutta mit einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
-        </meal>
-        <meal>
-          <name>Ofenkartoffel mit Grillgemüse und Sojadip</name>
-          <note>Kartoffel</note>
-          <note>vegan</note>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
-        </meal>
-      </category>
     </day>
     <day date="2026-05-12">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Rinderreisfleisch mit einer Beilage nach Wahl</name>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
-        </meal>
-      </category>
       <category name="Vegetarisch">
+        <meal>
+          <name>Bunte Gemüsesuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Frühlingsrolle mit Sweet Chilisauce, und Gemüse-Mienudeln</name>
           <note>Glutenhaltige Getreide</note>
@@ -71,23 +75,22 @@
           <price role="student">3.90</price>
         </meal>
       </category>
-    </day>
-    <day date="2026-05-13">
       <category name="Hauptgericht">
         <meal>
-          <name>Geflügelbratwurst mit Nudelsalat , und einer Beilage nach Wahl</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Weizen</note>
-          <note>konserviert</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <name>Rinderreisfleisch mit einer Beilage nach Wahl</name>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
       </category>
+    </day>
+    <day date="2026-05-13">
       <category name="Vegetarisch">
+        <meal>
+          <name>Tschechische Knoblauch-Kartoffelsuppe</name>
+          <note>Kartoffel</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Kartoffel-Gemüseragout mediterran mit Baguette</name>
           <note>Glutenhaltige Getreide</note>
@@ -113,20 +116,29 @@
           <price role="student">5.40</price>
         </meal>
       </category>
-    </day>
-    <day date="2026-05-15">
       <category name="Hauptgericht">
         <meal>
-          <name>Hokifilet mit Meerrettichkruste Rahm-Blattspinat , und Risoléekartoffeln</name>
-          <note>Kartoffel</note>
-          <note>MSC</note>
+          <name>Geflügelbratwurst mit Nudelsalat , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>geschwefelt</note>
-          <price role="other">7.60</price>
-          <price role="student">6.00</price>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>konserviert</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
         </meal>
       </category>
+    </day>
+    <day date="2026-05-15">
       <category name="Vegetarisch">
+        <meal>
+          <name>Steckrübensuppe</name>
+          <note>Kartoffel</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Loaded Wedges mit veganem Kräuterdip , und einer Beilage nach Wahl</name>
           <note>Gerste</note>
@@ -153,6 +165,17 @@
           <note>mensaVital</note>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hokifilet mit Meerrettichkruste Rahm-Blattspinat , und Risoléekartoffeln</name>
+          <note>Kartoffel</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>geschwefelt</note>
+          <price role="other">7.60</price>
+          <price role="student">6.00</price>
         </meal>
       </category>
     </day>
