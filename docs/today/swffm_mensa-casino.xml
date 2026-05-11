@@ -2,5 +2,44 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
-  <canteen/>
+  <canteen>
+    <day date="2026-05-11">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tomatencremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 3 Pasta Asciutta mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Ofenkartoffel mit Grillgemüse und Sojadip</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Ausgabe 1 Hähnchenknusperfilet mit Rahmsauce , und Kartoffel-Sahnepüree</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
+        </meal>
+        <meal>
+          <name>Geschnetzeltes brasilianische Art mit Vollkornreis</name>
+          <note>Schwein</note>
+          <note>mensaVital</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
+        </meal>
+      </category>
+    </day>
+  </canteen>
 </openmensa>
