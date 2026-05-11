@@ -13,7 +13,7 @@ try:
         CATEGORY_VEGETARIAN,
         CLOSURE_KEYWORDS,
         DATE_WINDOW_DAYS,
-        MAX_STALE_DATE_DAYS,
+        PDF_IGNORED_WORDS,
         RE_MEAT_OR_FISH,
         RE_VEGETARIAN,
         WEEKDAYS,
@@ -24,7 +24,7 @@ except ImportError:
         CATEGORY_VEGETARIAN,
         CLOSURE_KEYWORDS,
         DATE_WINDOW_DAYS,
-        MAX_STALE_DATE_DAYS,
+        PDF_IGNORED_WORDS,
         RE_MEAT_OR_FISH,
         RE_VEGETARIAN,
         WEEKDAYS,
@@ -172,19 +172,7 @@ def classify_pdf_line(title: str) -> dict[str, Any] | None:
     """Klassifiziere eine einzelne PDF-Zeile als Gericht oder ignoriere sie."""
     title = clean_title(title)
 
-    ignored_words = (
-        "brueckentag",
-        "geschlossen",
-        "nitritpoekelsalz",
-        "montag",
-        "dienstag",
-        "mittwoch",
-        "donnerstag",
-        "freitag",
-        "samstag",
-        "sonntag",
-    )
-    if any(word in title.casefold() for word in ignored_words):
+    if any(word in title.casefold() for word in PDF_IGNORED_WORDS):
         return None
 
     category = CATEGORY_VEGETARIAN if looks_vegetarian(title) else CATEGORY_DEFAULT
@@ -224,28 +212,6 @@ def filter_by_date_window(
         (day for day in days if abs((day["date"] - reference_date).days) <= window_days),
         key=lambda day: day["date"],
     )
-
-
-def realign_stale_dates(
-    days: list[dict[str, Any]],
-    today: dt.date,
-    max_stale_days: int = MAX_STALE_DATE_DAYS,
-) -> list[dict[str, Any]]:
-    """Mappe veraltete Wochen auf die aktuelle Kalenderwoche um."""
-    if not days:
-        return days
-    if any(abs((day["date"] - today).days) <= max_stale_days for day in days):
-        return days
-
-    week_start = today - dt.timedelta(days=today.weekday())
-    realigned = []
-    for day in days:
-        copy = day.copy()
-        copy["date"] = week_start + dt.timedelta(days=day["date"].weekday())
-        realigned.append(copy)
-
-    realigned.sort(key=lambda day: day["date"])
-    return realigned
 
 
 def build_feed_xml(days: list[dict[str, Any]], include_weekend_closure: bool = True) -> str:

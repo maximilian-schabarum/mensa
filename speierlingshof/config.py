@@ -15,10 +15,6 @@ VERPFLEGUNG_URL = "https://www.uni-speyer.de/service/soziales/verpflegung"
 CATEGORY_DEFAULT = "Hauptgericht"
 CATEGORY_VEGETARIAN = "Vegetarisch"
 
-# Tage die älter als dieser Schwellwert sind, gelten als veraltet und werden
-# auf die aktuelle Woche remappt.
-MAX_STALE_DATE_DAYS = 92
-
 # Einträge außerhalb dieses Fensters (in Tagen) werden ausgefiltert.
 DATE_WINDOW_DAYS = 31
 
@@ -27,6 +23,19 @@ WEEKDAYS = ("monday", "tuesday", "wednesday", "thursday", "friday")
 
 # Schlüsselwörter, die einen geschlossenen Tag signalisieren.
 CLOSURE_KEYWORDS = ("geschlossen", "feiertag", "brückentag", "brueckentag", "ruhetag")
+
+# Wörter in PDF-Zeilen, die ignoriert werden sollen.
+PDF_IGNORED_WORDS = (
+    "brueckentag",
+    "geschlossen",
+    "montag",
+    "dienstag",
+    "mittwoch",
+    "donnerstag",
+    "freitag",
+    "samstag",
+    "sonntag",
+)
 
 # Pfade zu statischen Dateien.
 BASE_DIR = os.path.dirname(__file__)
