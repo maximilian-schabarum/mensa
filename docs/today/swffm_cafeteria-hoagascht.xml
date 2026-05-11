@@ -36,6 +36,12 @@
         <meal>
           <name>Spinatcremesuppe mit Brot und einem Topping nach Wahl</name>
           <note>Kartoffel</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
+          <name>Spinatcremesuppe mit Brot und einem Topping nach Wahl</name>
+          <note>Kartoffel</note>
           <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
