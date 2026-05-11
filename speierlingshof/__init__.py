@@ -32,7 +32,6 @@ try:
         filter_by_date_window,
         parse_json_menu,
         parse_pdf_menu,
-        realign_stale_dates,
     )
 except ImportError:
     from config import JSON_URL, META_JSON, META_XSLT, VERPFLEGUNG_URL
@@ -42,7 +41,6 @@ except ImportError:
         filter_by_date_window,
         parse_json_menu,
         parse_pdf_menu,
-        realign_stale_dates,
     )
 
 
@@ -68,14 +66,17 @@ class Parser:
             return empty_feed(canteenReference)
         return build_feed_xml(self._load_days(), include_weekend_closure=False)
 
-    def feed_all(self, canteenReference: str) -> str:
-        return self.feed(canteenReference)
-
     def meta(self, canteenReference: str) -> str:
         if canteenReference not in self.canteens:
             return 'Unknown canteen'
 
         mensa = self.canteens[canteenReference]
+        feed_url = xml_str_param(
+            self.urlTemplate.format(
+                metaOrFeed="feed",
+                mensaReference=urllib.parse.quote(canteenReference),
+            )
+        )
 
         data = {
             "name": xml_str_param(mensa["name"]),
@@ -83,18 +84,8 @@ class Parser:
             "city": xml_str_param(mensa["city"]),
             "latitude": xml_str_param(mensa["latitude"]),
             "longitude": xml_str_param(mensa["longitude"]),
-            "feed": xml_str_param(
-                self.urlTemplate.format(
-                    metaOrFeed="feed",
-                    mensaReference=urllib.parse.quote(canteenReference),
-                )
-            ),
-            "feed_today": xml_str_param(
-                self.urlTemplate.format(
-                    metaOrFeed="feed",
-                    mensaReference=urllib.parse.quote(canteenReference),
-                )
-            ),
+            "feed": feed_url,
+            "feed_today": feed_url,
             "source": xml_str_param(mensa["source"]),
         }
 
@@ -121,29 +112,26 @@ class Parser:
     def _load_days(self) -> list[dict[str, Any]]:
         today = dt.date.today()
 
-        jsonDays: list[dict[str, Any]] = []
         try:
             jsonDays = self._fetch_json_menu()
+            filteredDays = filter_by_date_window(jsonDays, today)
+            if filteredDays:
+                return filteredDays
         except Exception:
             logging.debug("JSON-Abruf fehlgeschlagen, versuche PDF-Fallback", exc_info=True)
 
-        if jsonDays:
-            daysInWindow = filter_by_date_window(jsonDays, today)
-            return daysInWindow if daysInWindow else jsonDays
-
         try:
             pdfDays = self._fetch_pdf_menu()
+            return filter_by_date_window(pdfDays, today)
         except Exception:
             logging.debug("PDF-Fallback fehlgeschlagen", exc_info=True)
             return []
-
-        return filter_by_date_window(pdfDays, today)
 
     def _fetch_json_menu(self) -> list[dict[str, Any]]:
         response = self.session.get(JSON_URL, timeout=self.timeout)
         response.raise_for_status()
         days = parse_json_menu(response.json())
-        return realign_stale_dates(days, dt.date.today())
+        return days
 
     def _fetch_pdf_menu(self) -> list[dict[str, Any]]:
         pdfUrl = self._find_pdf_url()
@@ -186,7 +174,9 @@ class Parser:
 
         return [line.strip() for line in text.splitlines()]
 
-def getParser(urlTemplate):
+
+def getParser(urlTemplate: str) -> Parser:
+    \"\"\"Erstelle einen Parser mit dem angegebenen URL-Template.\"\"\"
     return Parser(urlTemplate)
 
 
