@@ -176,7 +176,7 @@ class Parser:
 
 
 def getParser(urlTemplate: str) -> Parser:
-    \"\"\"Erstelle einen Parser mit dem angegebenen URL-Template.\"\"\"
+    """Erstelle einen Parser mit dem angegebenen URL-Template."""
     return Parser(urlTemplate)
 
 
