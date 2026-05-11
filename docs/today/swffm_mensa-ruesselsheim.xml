@@ -6,10 +6,16 @@
     <day date="2026-05-11">
       <category name="Vegetarisch">
         <meal>
-          <name>Pasta Asciutta mit einer Beilage nach Wahl</name>
+          <name>Gemüse-Kartoffelsuppe</name>
+          <note>Kartoffel</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Pasta Asciutta mit Tomatensauce, mit einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
         </meal>
       </category>
       <category name="Hauptgericht">

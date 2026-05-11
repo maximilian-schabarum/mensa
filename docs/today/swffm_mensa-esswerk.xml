@@ -16,6 +16,23 @@
           <price role="other">4.20</price>
           <price role="student">2.60</price>
         </meal>
+        <meal>
+          <name>Cavatappi mit Tomatenrahm</name>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+        <meal>
+          <name>Kartoffeltaschen mit Frischkäse mit veganem Knoblauchdip , und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -23,6 +40,20 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.20</price>
           <price role="student">4.60</price>
+        </meal>
+        <meal>
+          <name>Rinderhacksteak mit Barbecuesauce , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
         </meal>
       </category>
     </day>
