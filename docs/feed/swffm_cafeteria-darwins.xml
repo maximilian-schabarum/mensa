@@ -6,6 +6,12 @@
     <day date="2026-05-11">
       <category name="Vegetarisch">
         <meal>
+          <name>Karotten-Ingwercremesuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Reispfanne mit Tofu und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.90</price>

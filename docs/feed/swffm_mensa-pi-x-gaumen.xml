@@ -6,6 +6,12 @@
     <day date="2026-05-11">
       <category name="Vegetarisch">
         <meal>
+          <name>Pilzcremesuppe</name>
+          <note>Alkohol</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Gnocchi mit Sauce Vegetale, und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>vegan</note>
@@ -21,7 +27,7 @@
           <price role="student">4.60</price>
         </meal>
         <meal>
-          <name>Geschnetzeltes brasilianische Art mit Vollkornreis</name>
+          <name>Geschnetzeltes brasilianische Art und Vollkornreis</name>
           <note>Schwein</note>
           <note>mensaVital</note>
           <price role="other">6.00</price>
