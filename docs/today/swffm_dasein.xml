@@ -16,6 +16,12 @@
           <price role="student">5.30</price>
         </meal>
         <meal>
+          <name>Scharfer Kichererbsentopf Basmatireis</name>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Spinat-Kartoffelcurry Couscous , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
