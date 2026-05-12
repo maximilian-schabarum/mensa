@@ -4,14 +4,12 @@
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <day date="2026-05-12">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Rinderreisfleisch mit einer Beilage nach Wahl</name>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
-        </meal>
-      </category>
       <category name="Vegetarisch">
+        <meal>
+          <name>Bohnensuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
           <note>vegan</note>
@@ -24,6 +22,13 @@
           <note>Kartoffel</note>
           <price role="other">7.00</price>
           <price role="student">5.40</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Rinderreisfleisch mit einer Beilage nach Wahl</name>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
       </category>
     </day>

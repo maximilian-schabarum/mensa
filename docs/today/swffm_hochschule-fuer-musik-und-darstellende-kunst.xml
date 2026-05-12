@@ -18,6 +18,11 @@
           <price role="student">3.30</price>
         </meal>
         <meal>
+          <name>Bergkäse Schlutzer mit Sauce Napoli, und einer Beilage nach Wahl</name>
+          <price role="other">7.70</price>
+          <price role="student">6.10</price>
+        </meal>
+        <meal>
           <name>Frische Waffeln</name>
           <price role="other">3.40</price>
           <price role="student">1.80</price>
