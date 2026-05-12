@@ -17,6 +17,12 @@
           <price role="student">3.30</price>
         </meal>
         <meal>
+          <name>Pasta Asciutta und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+        <meal>
           <name>Gnocchi mit Spargel und Mangold</name>
           <note>Alkohol</note>
           <note>Kartoffel</note>

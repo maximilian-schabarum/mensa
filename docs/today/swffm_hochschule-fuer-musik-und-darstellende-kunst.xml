@@ -2,44 +2,5 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
-  <canteen>
-    <day date="2026-05-12">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Bunte Gemüsesuppe</name>
-          <note>vegan</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Bergkäse Schlutzer mit Sauce Napoli, und einer Beilage nach Wahl</name>
-          <price role="other">7.70</price>
-          <price role="student">6.10</price>
-        </meal>
-        <meal>
-          <name>Frische Waffeln</name>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Frische Waffeln</name>
-          <price role="other">3.70</price>
-          <price role="student">2.10</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Rinderreisfleisch mit einer Beilage nach Wahl</name>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
-        </meal>
-      </category>
-    </day>
-  </canteen>
+  <canteen/>
 </openmensa>
