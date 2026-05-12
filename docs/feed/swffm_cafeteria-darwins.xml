@@ -3,13 +3,19 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-11">
+    <day date="2026-05-12">
       <category name="Vegetarisch">
         <meal>
-          <name>Karotten-Ingwercremesuppe</name>
-          <note>vegan</note>
+          <name>Pilzcremesuppe</name>
+          <note>Alkohol</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Blumenkohlcurry mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
         </meal>
         <meal>
           <name>Reispfanne mit Tofu und einer Beilage nach Wahl</name>
@@ -18,29 +24,17 @@
           <price role="student">4.30</price>
         </meal>
         <meal>
-          <name>Paprika-Quinoaschote mit einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
+          <name>Überbackene Gemüsegnocchi und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Seelachsfilet im Backteig mit Joghurtdip , und einer Beilage nach Wahl</name>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-05-12">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Blumenkohlcurry mit einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
+          <name>Hähnchenkeule alla Stefano mit einer Beilage nach Wahl</name>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
         </meal>
       </category>
     </day>
@@ -53,6 +47,16 @@
           <note>vegan</note>
           <price role="other">5.60</price>
           <price role="student">4.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-18">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüse mit Tofu und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
         </meal>
       </category>
     </day>

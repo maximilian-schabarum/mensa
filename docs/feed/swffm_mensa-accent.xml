@@ -3,43 +3,12 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-11">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Broccolicremesuppe</name>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Gemüsesugo mit Penne , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchenknusperfilet mit Rahmsauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-05-12">
       <category name="Vegetarisch">
         <meal>
           <name>Erbsenrahmsuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
         </meal>
         <meal>
           <name>Gnocchi mit Spargel und Mangold</name>
@@ -50,6 +19,12 @@
         </meal>
       </category>
       <category name="Hauptgericht">
+        <meal>
+          <name>Tofu mit Kokosmilch Reis</name>
+          <note>Alkohol</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
         <meal>
           <name>Rinderreisfleisch mit einer Beilage nach Wahl</name>
           <price role="other">6.50</price>
@@ -120,6 +95,30 @@
           <note>geschwefelt</note>
           <price role="other">7.60</price>
           <price role="student">6.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-18">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Broccolicremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Cavatappi mit Tomaten-Pilzgemüse , und einer Beilage nach Wahl</name>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchen Cordon bleu mit Bratensauce, und einer Beilage nach Wahl</name>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
       </category>
     </day>
