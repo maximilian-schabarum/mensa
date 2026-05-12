@@ -3,18 +3,16 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-11">
+    <day date="2026-05-12">
       <category name="Vegetarisch">
         <meal>
-          <name>French Toast mit Beeren</name>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>French Toast mit Beeren, Erdnussbutter und Banane</name>
-          <note>Erdnuesse und Erdnusserzeugnisse</note>
-          <price role="other">5.10</price>
-          <price role="student">3.50</price>
+          <name>Manakish Zatar mit Feta Teigfladen mit Feta, Rucola und gegrillten Tomaten</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <note>Weizen</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
         </meal>
         <meal>
           <name>Basic Salat mit einem Brot und drei Toppings nach Wahl</name>
@@ -34,42 +32,39 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Spinatcremesuppe mit Brot und einem Topping nach Wahl</name>
+          <name>Rote Betecremesuppe mit Brot und einem Topping nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Spinatcremesuppe mit Brot und einem Topping nach Wahl</name>
+          <name>Asiatische Nudeln mit Tempeh, Gemüse und Nüssen</name>
+          <note>vegan</note>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
+        </meal>
+        <meal>
+          <name>Kartoffel-Gemüsecurry Mandelreis</name>
           <note>Kartoffel</note>
+          <note>Mandeln</note>
+          <note>Schalenfruechte und Nuesse</note>
           <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Gebratener Reis mit Paprika, Frühlingszwiebeln und Nüssen</name>
-          <note>vegan</note>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
+          <name>Birnenquark mit Schokosplitter</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Auberginenpasta mit Knoblauch, Zwiebeln und Rosinen</name>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
+          <name>Veganer Grießbrei mit Erdbeeren</name>
+          <note>vegan</note>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
         </meal>
         <meal>
           <name>Honig-Quarkcreme mit Mandeln</name>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
-        <meal>
-          <name>Rote Grütze mit veganer Vanillesauce</name>
-          <note>vegan</note>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
-        <meal>
-          <name>Pistazienpudding</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -89,6 +84,13 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">6.40</price>
           <price role="student">4.80</price>
+        </meal>
+        <meal>
+          <name>Hähnchen-Tajine Couscous</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <price role="other">7.50</price>
+          <price role="student">5.90</price>
         </meal>
       </category>
     </day>

@@ -3,28 +3,24 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-11">
+    <day date="2026-05-12">
       <category name="Vegetarisch">
         <meal>
-          <name>Blumenkohlsuppe Curry-Kokosmilch</name>
-          <note>vegan</note>
+          <name>Pilzrahmsuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Nudeln mit Pilzen und Kräutern und einer Beilage nach Wahl</name>
-          <note>Alkohol</note>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
+          <name>Lasagne Sojabolognese und einer Beilage nach Wahl</name>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
         </meal>
-      </category>
-      <category name="Hauptgericht">
         <meal>
-          <name>Apfelwein-Bratwurst mit Kartoffelpüree , und Bratensauce</name>
-          <note>Alkohol</note>
+          <name>Spinat-Kartoffelcurry Couscous , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwein</note>
+          <note>Weizen</note>
+          <note>vegan</note>
           <price role="other">5.20</price>
           <price role="student">3.60</price>
         </meal>
