@@ -3,33 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-12">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Pilzrahmsuppe</name>
-          <price role="other">3.20</price>
-          <price role="student">1.60</price>
-        </meal>
-        <meal>
-          <name>Lasagne Sojabolognese und einer Beilage nach Wahl</name>
-          <price role="other">6.90</price>
-          <price role="student">5.30</price>
-        </meal>
-        <meal>
-          <name>Spinat-Kartoffelcurry Couscous , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-05-13">
       <category name="Vegetarisch">
         <meal>
-          <name>Pilzrahmsuppe</name>
+          <name>Selleriecremesuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
@@ -40,16 +17,15 @@
           <price role="student">3.90</price>
         </meal>
         <meal>
+          <name>Scharfer Kichererbsentopf mit Basmatireis</name>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Spaghetti mit roten Sahnelinsen und einer Beilage nach Wahl</name>
           <price role="other">5.60</price>
           <price role="student">4.00</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Kokos-Gemüsehähnchen Reis</name>
-          <price role="other">8.20</price>
-          <price role="student">6.60</price>
         </meal>
       </category>
     </day>
@@ -96,6 +72,28 @@
           <name>Grünkern-Nudelauflauf und einer Beilage nach Wahl</name>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-19">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Broccolicremesuppe</name>
+          <price role="other">3.20</price>
+          <price role="student">1.60</price>
+        </meal>
+        <meal>
+          <name>Spaghetti Sojabolognese , und einer Beilage nach Wahl</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+        <meal>
+          <name>Auberginen-Moussaka mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
       </category>
     </day>
