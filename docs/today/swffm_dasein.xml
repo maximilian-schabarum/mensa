@@ -3,32 +3,29 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-12">
+    <day date="2026-05-13">
       <category name="Vegetarisch">
         <meal>
-          <name>Pilzrahmsuppe</name>
+          <name>Selleriecremesuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Lasagne Sojabolognese und einer Beilage nach Wahl</name>
-          <price role="other">6.90</price>
-          <price role="student">5.30</price>
+          <name>Broccoliauflauf mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
         </meal>
         <meal>
-          <name>Scharfer Kichererbsentopf Basmatireis</name>
+          <name>Scharfer Kichererbsentopf mit Basmatireis</name>
           <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Spinat-Kartoffelcurry Couscous , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
+          <name>Spaghetti mit roten Sahnelinsen und einer Beilage nach Wahl</name>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
       </category>
     </day>

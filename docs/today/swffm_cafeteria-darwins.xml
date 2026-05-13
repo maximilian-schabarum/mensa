@@ -3,38 +3,41 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-12">
+    <day date="2026-05-13">
       <category name="Vegetarisch">
         <meal>
-          <name>Pilzcremesuppe</name>
-          <note>Alkohol</note>
+          <name>Kürbissuppe</name>
+          <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Blumenkohlcurry mit einer Beilage nach Wahl</name>
+          <name>Kichererbsen-Gemüsetopf mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
         </meal>
         <meal>
-          <name>Reispfanne mit Tofu und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
-        </meal>
-        <meal>
-          <name>Überbackene Gemüsegnocchi und einer Beilage nach Wahl</name>
+          <name>Überbackene Gemüsegnocchi mit einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">6.50</price>
           <price role="student">4.90</price>
         </meal>
+        <meal>
+          <name>Blumenkohlcurry mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenkeule alla Stefano mit einer Beilage nach Wahl</name>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
+          <name>Rindswurst mit Bratensauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
     </day>
