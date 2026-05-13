@@ -18,6 +18,13 @@
           <price role="student">2.80</price>
         </meal>
         <meal>
+          <name>Kartoffeltaschen mit Frischkäse mit Joghurtdip , und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
+        <meal>
           <name>Kichererbsen-Süßkartoffelcurry und Vollkornreis</name>
           <note>mensaVital</note>
           <note>vegan</note>
@@ -42,6 +49,12 @@
           <name>Rinderreisfleisch mit einer Beilage nach Wahl</name>
           <price role="other">6.20</price>
           <price role="student">4.60</price>
+        </meal>
+        <meal>
+          <name>Hähnchenknusperfilet mit Rahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
         </meal>
       </category>
     </day>

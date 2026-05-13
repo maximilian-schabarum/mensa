@@ -61,6 +61,11 @@
           <price role="student">3.00</price>
         </meal>
         <meal>
+          <name>Gebratener Reis mit Gemüse, Cashew und Ei</name>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
+        <meal>
           <name>Gebratene Nudeln mit Gemüse</name>
           <note>vegan</note>
           <price role="other">4.90</price>
