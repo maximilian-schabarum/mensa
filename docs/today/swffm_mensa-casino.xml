@@ -24,7 +24,7 @@
           <price role="student">3.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Germknödel mit Kirschfüllung mit Vanillesauce , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Germknödel mit Kirschfüllung mit Vanillesauce , und einer Beilage nach Wahl</name>
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">4.20</price>
           <price role="student">2.60</price>
@@ -37,6 +37,13 @@
           <note>mensaVital</note>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Kichererbsen-Süßkartoffelcurry mit Basmatireis</name>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">6.60</price>
+          <price role="student">5.00</price>
         </meal>
       </category>
       <category name="Hauptgericht">
