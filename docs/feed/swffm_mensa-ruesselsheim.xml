@@ -6,6 +6,12 @@
     <day date="2026-05-15">
       <category name="Vegetarisch">
         <meal>
+          <name>Selleriesuppe</name>
+          <note>Kartoffel</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Loaded Wedges mit veganem Kräuterdip , und einer Beilage nach Wahl</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
@@ -17,16 +23,30 @@
           <price role="other">4.90</price>
           <price role="student">3.30</price>
         </meal>
+        <meal>
+          <name>Kartoffel-Gemüseragout mediterran mit Baguette</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hokifilet mit Meerrettichkruste Rahm-Blattspinat , und Risoléekartoffeln</name>
-          <note>Kartoffel</note>
+          <name>Hokifilet mit Meerrettichkruste mit Rahm-Blattspinat , und einer Beilage nach Wahl</name>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>geschwefelt</note>
           <price role="other">7.60</price>
           <price role="student">6.00</price>
+        </meal>
+        <meal>
+          <name>Hähnchenknusperfilet mit Rahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
         </meal>
       </category>
     </day>
@@ -111,6 +131,33 @@
           <name>Hähnchenstreifen in Rucolasauce Tomatenreis</name>
           <price role="other">6.90</price>
           <price role="student">5.30</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-21">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Stampfkartoffeln mit Tempeh Topping , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+        <meal>
+          <name>Kolbörek mit Käsefüllung mit Joghurtdip , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Putensteak in Bärlauchmarinade mit Geflügelsauce, und einer Beilage nach Wahl</name>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
         </meal>
       </category>
     </day>

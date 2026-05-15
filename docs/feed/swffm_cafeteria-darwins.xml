@@ -34,5 +34,15 @@
         </meal>
       </category>
     </day>
+    <day date="2026-05-21">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Spinat-Grießschnitte mit Tomatensauce, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">3.90</price>
+          <price role="student">2.30</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>

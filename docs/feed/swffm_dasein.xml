@@ -6,17 +6,16 @@
     <day date="2026-05-15">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatensuppe</name>
-          <note>vegan</note>
+          <name>Kartoffelcremesuppe</name>
+          <note>Kartoffel</note>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Vollkornpenne Chili sin Carne , Reis, und einer Beilage nach Wahl</name>
-          <note>Soja und Sojaerzeugnisse</note>
+          <name>Chili sin Carne Reis, und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -97,6 +96,27 @@
           <name>Schweinefleisch mit Gemüse Reis</name>
           <price role="other">8.00</price>
           <price role="student">6.40</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-21">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Mediterrane Gemüsecremesuppe</name>
+          <price role="other">3.20</price>
+          <price role="student">1.60</price>
+        </meal>
+        <meal>
+          <name>Schupfnudel-Gemüsepfanne mit Joghurtdip , mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
+        </meal>
+        <meal>
+          <name>Gemüsecurry Reis</name>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
         </meal>
       </category>
     </day>

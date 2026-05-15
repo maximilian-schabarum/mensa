@@ -24,6 +24,16 @@
           <price role="student">3.30</price>
         </meal>
         <meal>
+          <name>Kartoffel-Gemüseragout mediterran mit Baguette</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+        <meal>
           <name>Frische Waffeln</name>
           <price role="other">3.40</price>
           <price role="student">1.80</price>

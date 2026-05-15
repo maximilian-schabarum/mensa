@@ -23,14 +23,24 @@
           <price role="other">4.90</price>
           <price role="student">3.30</price>
         </meal>
+        <meal>
+          <name>Kartoffel-Gemüseragout mediterran mit Baguette</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hokifilet mit Meerrettichkruste Rahm-Blattspinat , und einer Beilage nach Wahl</name>
+          <name>Gebratenes Hokifilet Rahm-Blattspinat , und einer Beilage nach Wahl</name>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
-          <price role="other">7.60</price>
-          <price role="student">6.00</price>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
         </meal>
       </category>
     </day>
@@ -105,6 +115,34 @@
           <name>Hähnchenstreifen in Rucolasauce mit Tomatenreis</name>
           <price role="other">6.90</price>
           <price role="student">5.30</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-21">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bayerische Kohlsuppe</name>
+          <note>Kartoffel</note>
+          <note>Schwein</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Putensteak in Bärlauchmarinade mit Geflügelsauce, und einer Beilage nach Wahl</name>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Stampfkartoffeln mit Tempeh Topping , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
       </category>
     </day>
