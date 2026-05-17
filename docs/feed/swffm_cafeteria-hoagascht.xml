@@ -54,12 +54,13 @@
           <price role="student">4.00</price>
         </meal>
         <meal>
-          <name>Milchreis mit Pfirsich</name>
+          <name>Müsli-Naturjoghurt</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Müsli-Naturjoghurt</name>
+          <name>Beerengrütze mit Hafer Sour Cream</name>
+          <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -132,12 +133,13 @@
           <price role="student">3.40</price>
         </meal>
         <meal>
-          <name>Vanillepudding</name>
+          <name>Stracciatella-Creme</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Stracciatella-Creme</name>
+          <name>Veganes Hirsedessert</name>
+          <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -242,7 +244,8 @@
           <price role="student">4.10</price>
         </meal>
         <meal>
-          <name>Heidelbeerquark</name>
+          <name>Kokosmilch-Haselnusspudding</name>
+          <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -308,12 +311,13 @@
           <price role="student">3.40</price>
         </meal>
         <meal>
-          <name>Grießbrei mit Pflaumen</name>
+          <name>Vanillecreme mit Himbeeren</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Vanillecreme mit Himbeeren</name>
+          <name>Veganer Grießbrei</name>
+          <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>

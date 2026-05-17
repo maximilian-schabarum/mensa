@@ -12,7 +12,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Cavatappi mit Tomaten-Pilzgemüse , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Cavatappi mit Tomaten-Pilzgemüse , und einer Beilage nach Wahl</name>
           <note>Schwefeldioxid / Sulfit</note>
           <note>geschwefelt</note>
           <note>vegan</note>
@@ -20,7 +20,7 @@
           <price role="student">2.70</price>
         </meal>
         <meal>
-          <name>Kartoffel-Broccolipfanne mit einer Beilage nach Wahl</name>
+          <name>Ausgabe 5 Kartoffel-Broccolipfanne mit einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>vegan</note>
           <price role="other">4.80</price>
@@ -39,9 +39,8 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchen Cordon bleu mit Bratensauce, und Pommes frites</name>
-          <note>Kartoffel</note>
-          <note>mit Antioxidationsmittel</note>
+          <name>Ausgabe 1 Hähnchen Cordon bleu mit Rahmsauce , Risi bisi</name>
+          <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.20</price>
           <price role="student">4.60</price>
         </meal>
@@ -76,12 +75,13 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Badisches Schäufele mit Bratensauce , Kartoffelpüree , und Kopfsalat</name>
+          <name>Badisches Schäufele mit Bratensauce , Kartoffelpüree , und Blattsalaten</name>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Schwein</note>
           <note>Weizen</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
         </meal>
         <meal>
           <name>Seelachsfilet Spinat-Mozzarella mit Tomaten-Vollkornreis</name>
@@ -100,12 +100,12 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Schupfnudel-Gemüsepfanne mit Bratensauce , und Sauerkraut</name>
+          <name>Schupfnudel-Gemüsepfanne mit Sauerkraut</name>
           <note>Alkohol</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
           <note>Schwefeldioxid / Sulfit</note>
-          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
         </meal>
         <meal>
           <name>Kartoffel-Wirsingcurry mit einer Beilage nach Wahl</name>
@@ -150,13 +150,15 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Linsen-Rote-Bete-Salat mit Ziegenkäsetaler , Kichererbsendip , und Bauernbrot</name>
+          <name>Linsen-Rote-Bete-Salat mit Ziegenfrischkäse , Kichererbsendip , und Bauernbrot</name>
           <note>Glutenhaltige Getreide</note>
           <note>Lupine und Lupinenerzeugnisse</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>Sesam und Sesamerzeugnisse</note>
           <note>Weizen</note>
           <note>mit Antioxidationsmittel</note>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
         </meal>
         <meal>
           <name>Rote Bulgur-Gemüsepfanne mit Soja Topping , und einer Beilage nach Wahl</name>

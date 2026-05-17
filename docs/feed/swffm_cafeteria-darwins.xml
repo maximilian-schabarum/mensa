@@ -8,8 +8,8 @@
         <meal>
           <name>Gemüse mit Tofu und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">4.50</price>
-          <price role="student">2.90</price>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
         </meal>
       </category>
     </day>
@@ -29,15 +29,15 @@
           <name>Broccoli-Nussecke mit veganem Sojadip , und einer Beilage nach Wahl</name>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
       </category>
     </day>
     <day date="2026-05-21">
       <category name="Vegetarisch">
         <meal>
-          <name>Spinat-Grießschnitte mit Tomatensauce, und einer Beilage nach Wahl</name>
+          <name>Pasta Asciutta mit einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">3.90</price>
           <price role="student">2.30</price>
@@ -47,16 +47,12 @@
     <day date="2026-05-22">
       <category name="Vegetarisch">
         <meal>
-          <name>Linsenchili mit Bohnen Mehrkornbrötchen , und einer Beilage nach Wahl</name>
-          <note>Gerste</note>
+          <name>Chili sin Carne mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
-          <note>Hafer</note>
-          <note>Roggen</note>
-          <note>Sesam und Sesamerzeugnisse</note>
           <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">4.70</price>
-          <price role="student">3.10</price>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
         </meal>
       </category>
     </day>
