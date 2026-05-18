@@ -20,6 +20,16 @@
           <price role="student">2.70</price>
         </meal>
         <meal>
+          <name>Ausgabe 3 Kartoffel-Gemüseragout mediterran mit Baguette</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+        <meal>
           <name>Ausgabe 5 Kartoffel-Broccolipfanne mit einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>vegan</note>
