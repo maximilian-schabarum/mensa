@@ -16,10 +16,8 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchen Cordon bleu mit Rahmsauce , Pommes frites</name>
-          <note>Kartoffel</note>
+          <name>Hähnchen Cordon bleu mit Rahmsauce , Risi bisi</name>
           <note>Milch und Milcherzeugnisse</note>
-          <note>mit Antioxidationsmittel</note>
           <price role="other">6.20</price>
           <price role="student">4.60</price>
         </meal>
