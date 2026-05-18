@@ -24,7 +24,7 @@
     </feed>
     <feed name="today" priority="0">
       <schedule dayOfMonth="*" dayOfWeek="1-5" hour="6-14" retry="5 3"/>
-      <url>https://maximilian-schabarum.github.io/mensa/feed/speierlingshof_speierlingshof.xml</url>
+      <url>https://maximilian-schabarum.github.io/mensa/today/speierlingshof_speierlingshof.xml</url>
       <source>https://www.speierlinghof.de/</source>
     </feed>
   </canteen>

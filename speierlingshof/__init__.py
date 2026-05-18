@@ -66,6 +66,11 @@ class Parser:
             return empty_feed(canteenReference)
         return build_feed_xml(self._load_days(), include_weekend_closure=False)
 
+    def feed_today(self, canteenReference: str) -> str:
+        if canteenReference not in self.canteens:
+            return empty_feed(canteenReference)
+        return build_feed_xml(self._load_days(), include_weekend_closure=False)
+
     def meta(self, canteenReference: str) -> str:
         if canteenReference not in self.canteens:
             return 'Unknown canteen'
@@ -77,6 +82,12 @@ class Parser:
                 mensaReference=urllib.parse.quote(canteenReference),
             )
         )
+        feed_today_url = xml_str_param(
+            self.urlTemplate.format(
+                metaOrFeed="today",
+                mensaReference=urllib.parse.quote(canteenReference),
+            )
+        )
 
         data = {
             "name": xml_str_param(mensa["name"]),
@@ -85,7 +96,7 @@ class Parser:
             "latitude": xml_str_param(mensa["latitude"]),
             "longitude": xml_str_param(mensa["longitude"]),
             "feed": feed_url,
-            "feed_today": feed_url,
+            "feed_today": feed_today_url,
             "source": xml_str_param(mensa["source"]),
         }
 
