@@ -4,75 +4,123 @@
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <day date="2026-05-18">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Maultaschensuppe*</name>
-        </meal>
-        <meal>
-          <name>Backfisch mit Bratkartoffeln*</name>
-        </meal>
-      </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffelgratin*</name>
+          <name>Maultaschensuppe</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+        <meal>
+          <name>Kartoffelgratin</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Backfisch mit Bratkartoffeln</name>
+          <note>Eier</note>
+          <note>Weizen</note>
         </meal>
       </category>
     </day>
     <day date="2026-05-19">
       <category name="Vegetarisch">
         <meal>
-          <name>Spargelsuppe*</name>
+          <name>Spargelcremesuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Penne mit Schinken und Spargel*</name>
+          <name>Nudeln mit Schinken und Spargel</name>
+          <note>Ascorbinsäure</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
         </meal>
         <meal>
-          <name>Penne mitTomaten-Mozarella und Basilikumpesto*</name>
+          <name>Nudeln mit Mozzarella-Basilikumsoße und gekochtem Schinken</name>
+          <note>Ascorbinsäure</note>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
         </meal>
       </category>
     </day>
     <day date="2026-05-20">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Karotteningwersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Schweinekrustenbraten mit Kartoffel-Möhrenstampf</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Karotten-Ingwersuppe (vegan)*</name>
-        </meal>
-        <meal>
-          <name>Krustenbraten mit Kartoffel-Möhrenstampf*</name>
-        </meal>
-        <meal>
-          <name>Ratatouille-Kartoffelauflauf (als vegane Option möglich)*</name>
+          <name>Ratatouille-Kartoffelauflauf</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
         </meal>
       </category>
     </day>
     <day date="2026-05-21">
       <category name="Hauptgericht">
         <meal>
-          <name>Hühnersuppe mit Nudeln*</name>
+          <name>Hühnersuppe</name>
+          <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Hühnchencurry mit Reis*</name>
+          <name>Geflügelcurry mit Reis</name>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
         </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>gebratener Reis mit Asiagemüse (vegan)*</name>
+          <name>gebratener Reis mit Asiagemüse und Kirchererbsen</name>
+          <note>Cashewnüsse</note>
+          <note>Sellerie</note>
+          <note>Soja</note>
         </meal>
       </category>
     </day>
     <day date="2026-05-22">
       <category name="Vegetarisch">
         <meal>
-          <name>Linseneintopf mit Kartoffeln (vegan)*</name>
+          <name>Linseneintopf</name>
+          <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Mangoldlasagne*</name>
+          <name>Mangoldlasagne</name>
+          <note>Cashewnüsse</note>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Lasagne Bolognese*</name>
+          <name>Lasagne Bolognese</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
         </meal>
       </category>
     </day>

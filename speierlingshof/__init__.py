@@ -25,7 +25,7 @@ except ModuleNotFoundError:
     from util import meta_from_xsl, xml_str_param
 
 try:
-    from .config import JSON_URL, META_JSON, META_XSLT, VERPFLEGUNG_URL
+    from .config import DATE_WINDOW_DAYS, JSON_URL, META_JSON, META_XSLT, VERPFLEGUNG_URL
     from .helpers import (
         build_feed_xml,
         empty_feed,
@@ -34,7 +34,7 @@ try:
         parse_pdf_menu,
     )
 except ImportError:
-    from config import JSON_URL, META_JSON, META_XSLT, VERPFLEGUNG_URL
+    from config import DATE_WINDOW_DAYS, JSON_URL, META_JSON, META_XSLT, VERPFLEGUNG_URL
     from helpers import (
         build_feed_xml,
         empty_feed,
@@ -127,15 +127,38 @@ class Parser:
             jsonDays = self._fetch_json_menu()
             filteredDays = filter_by_date_window(jsonDays, today)
             if filteredDays:
+                logging.debug(
+                    "Speierlingshof JSON verwendet: parsed=%d filtered=%d today=%s",
+                    len(jsonDays),
+                    len(filteredDays),
+                    today,
+                )
                 return filteredDays
+            logging.warning(
+                "Speierlingshof JSON verworfen: parsed=%d, filtered=%d (window=%d, today=%s). Fallback auf PDF.",
+                len(jsonDays),
+                len(filteredDays),
+                DATE_WINDOW_DAYS,
+                today,
+            )
         except Exception:
-            logging.debug("JSON-Abruf fehlgeschlagen, versuche PDF-Fallback", exc_info=True)
+            logging.warning(
+                "Speierlingshof JSON-Abruf/Parsing fehlgeschlagen. Fallback auf PDF.",
+                exc_info=True,
+            )
 
         try:
             pdfDays = self._fetch_pdf_menu()
-            return filter_by_date_window(pdfDays, today)
+            filteredPdfDays = filter_by_date_window(pdfDays, today)
+            logging.debug(
+                "Speierlingshof PDF verwendet: parsed=%d filtered=%d today=%s",
+                len(pdfDays),
+                len(filteredPdfDays),
+                today,
+            )
+            return filteredPdfDays
         except Exception:
-            logging.debug("PDF-Fallback fehlgeschlagen", exc_info=True)
+            logging.warning("Speierlingshof PDF-Fallback fehlgeschlagen", exc_info=True)
             return []
 
     def _fetch_json_menu(self) -> list[dict[str, Any]]:

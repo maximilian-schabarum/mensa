@@ -138,7 +138,8 @@ def parse_pdf_menu(lines: list[str]) -> list[dict[str, Any]]:
 
 def parse_date(text: str) -> dt.date | None:
     """Parse TT.MM.JJ oder TT.MM.JJJJ aus einem Text."""
-    match = re.search(r"(\d{1,2})\.(\d{1,2})\.(\d{2}|\d{4})", text)
+    # Wichtig: Erst 4-stellige Jahre matchen, sonst würde z.B. 2026 als 20 erkannt.
+    match = re.search(r"(\d{1,2})\.(\d{1,2})\.(\d{4}|\d{2})", text)
     if not match:
         return None
     day, month, year_raw = int(match.group(1)), int(match.group(2)), int(match.group(3))
