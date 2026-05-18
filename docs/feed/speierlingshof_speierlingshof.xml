@@ -2,5 +2,79 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
-  <canteen/>
+  <canteen>
+    <day date="2026-05-18">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Maultaschensuppe*</name>
+        </meal>
+        <meal>
+          <name>Backfisch mit Bratkartoffeln*</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffelgratin*</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-19">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Spargelsuppe*</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Penne mit Schinken und Spargel*</name>
+        </meal>
+        <meal>
+          <name>Penne mitTomaten-Mozarella und Basilikumpesto*</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-20">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Karotten-Ingwersuppe (vegan)*</name>
+        </meal>
+        <meal>
+          <name>Krustenbraten mit Kartoffel-Möhrenstampf*</name>
+        </meal>
+        <meal>
+          <name>Ratatouille-Kartoffelauflauf (als vegane Option möglich)*</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-21">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnersuppe mit Nudeln*</name>
+        </meal>
+        <meal>
+          <name>Hühnchencurry mit Reis*</name>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>gebratener Reis mit Asiagemüse (vegan)*</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-22">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Linseneintopf mit Kartoffeln (vegan)*</name>
+        </meal>
+        <meal>
+          <name>Mangoldlasagne*</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Lasagne Bolognese*</name>
+        </meal>
+      </category>
+    </day>
+  </canteen>
 </openmensa>
