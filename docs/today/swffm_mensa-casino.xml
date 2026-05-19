@@ -12,6 +12,12 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
+          <name>Rote Linsensuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Ausgabe 3 Rosmarinkartoffeln mit Hafercreme-Blattspinat , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Hafer</note>

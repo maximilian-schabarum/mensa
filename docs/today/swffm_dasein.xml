@@ -18,6 +18,12 @@
           <price role="student">3.20</price>
         </meal>
         <meal>
+          <name>Chili sin Carne Reis, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+        <meal>
           <name>Auberginen-Moussaka mit einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">6.20</price>
