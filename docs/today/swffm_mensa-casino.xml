@@ -36,9 +36,23 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Hähnchenstreifen in Rucolasauce mit Tomatenreis</name>
+          <name>Ausgabe 1 und 2 Hähnchenstreifen in Rucolasauce mit Tomatenreis</name>
           <price role="other">6.90</price>
           <price role="student">5.30</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Putensteak mit Bratensauce, und Kartoffel-Sahnepüree</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Schweinerückensteak Kremser Art mit Bratensauce, Kartoffel-Sahnepüree</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
       </category>
     </day>
