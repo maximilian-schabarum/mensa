@@ -31,6 +31,18 @@
           <price role="other">6.20</price>
           <price role="student">4.60</price>
         </meal>
+        <meal>
+          <name>Chili con carne Reis</name>
+          <note>Rind</note>
+          <price role="other">7.70</price>
+          <price role="student">6.10</price>
+        </meal>
+        <meal>
+          <name>Panna Cotta mit Kirschen</name>
+          <note>Schwein</note>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
@@ -57,18 +69,13 @@
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Linsen-Gemüsechili mit Vollkornreis</name>
+          <name>Linsen-Gemüsechili mit Reis</name>
           <note>vegan</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
         </meal>
         <meal>
-          <name>Vanillecreme mit Himbeeren</name>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
-        <meal>
-          <name>Veganer Grießbrei</name>
+          <name>Kokosmilch-Haselnusspudding</name>
           <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>

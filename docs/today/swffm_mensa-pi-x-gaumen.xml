@@ -6,6 +6,11 @@
     <day date="2026-05-21">
       <category name="Vegetarisch">
         <meal>
+          <name>Ingwer-Karottencremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Oberhessischer Kartoffeleintopf mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
@@ -33,7 +38,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenstreifen in Rucolasauce mit einer Beilage nach Wahl</name>
+          <name>Hähnchenstreifen in Rucolasauce Reis</name>
           <price role="other">6.90</price>
           <price role="student">5.30</price>
         </meal>

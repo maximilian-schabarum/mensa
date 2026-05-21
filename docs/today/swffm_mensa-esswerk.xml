@@ -12,10 +12,10 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Kolbörek mit Spinat-Käsefüllung mit Knoblauchjoghurt , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
+          <name>Broccoli-Nussecke mit Tomatensauce, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
         <meal>
           <name>Kumpir Rotkohl-Couscous mit Schnittlauchdip</name>
@@ -32,6 +32,11 @@
           <name>Putensteak in Bärlauchmarinade mit Geflügelsauce, und einer Beilage nach Wahl</name>
           <price role="other">7.20</price>
           <price role="student">5.60</price>
+        </meal>
+        <meal>
+          <name>Hähnchenstreifen in Rucolasauce mit Tomatenreis</name>
+          <price role="other">6.70</price>
+          <price role="student">5.10</price>
         </meal>
       </category>
     </day>
