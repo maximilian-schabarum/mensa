@@ -3,44 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-20">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Kohlrabirahmsuppe</name>
-          <price role="other">3.20</price>
-          <price role="student">1.60</price>
-        </meal>
-        <meal>
-          <name>Ofenkartoffel mit Rucolaquark und einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
-        </meal>
-        <meal>
-          <name>Auberginen-Moussaka mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <price role="other">6.00</price>
-          <price role="student">4.40</price>
-        </meal>
-        <meal>
-          <name>Gemüserisotto und einer Beilage nach Wahl</name>
-          <note>Alkohol</note>
-          <price role="other">6.30</price>
-          <price role="student">4.70</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Schweinefleisch mit Gemüse Reis</name>
-          <price role="other">8.00</price>
-          <price role="student">6.40</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-05-21">
       <category name="Vegetarisch">
         <meal>
-          <name>Mediterrane Gemüsecremesuppe</name>
+          <name>Karottencremesuppe</name>
+          <note>vegan</note>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
@@ -50,6 +17,12 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">7.30</price>
           <price role="student">5.70</price>
+        </meal>
+        <meal>
+          <name>Gemüserisotto und einer Beilage nach Wahl</name>
+          <note>Alkohol</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
         <meal>
           <name>Gemüsecurry Reis</name>
@@ -97,6 +70,28 @@
         <meal>
           <name>Kartoffel-Zucchinigratin mit Oliven und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-27">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Spinatrahmsuppe</name>
+          <price role="other">3.20</price>
+          <price role="student">1.60</price>
+        </meal>
+        <meal>
+          <name>Broccoli-Gemüsewok Basmatireis</name>
+          <note>vegan</note>
+        </meal>
+        <meal>
+          <name>Pasta Spinat-Mozzarella und einer Beilage nach Wahl</name>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Pasta Bolognese</name>
+          <note>Rind</note>
         </meal>
       </category>
     </day>
