@@ -41,6 +41,23 @@
           <price role="student">3.20</price>
         </meal>
         <meal>
+          <name>Grünkern Chili mit Baguette , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
+          <name>Schupfnudel-Gemüsepfanne mit Sauerkraut</name>
+          <note>Alkohol</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>vegan</note>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
+        </meal>
+        <meal>
           <name>Penne mit Bohnen-Tomatenragout</name>
           <note>Soja und Sojaerzeugnisse</note>
           <note>mensaVital</note>
