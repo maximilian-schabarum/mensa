@@ -3,43 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-21">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Gemüsebrühe mit Reiseinlage</name>
-          <note>vegan</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Broccoli-Nussecke mit Tomatensauce, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
-        </meal>
-        <meal>
-          <name>Kumpir Rotkohl-Couscous mit Schnittlauchdip</name>
-          <note>Kartoffel</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">4.00</price>
-          <price role="student">2.40</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Putensteak in Bärlauchmarinade mit Geflügelsauce, und einer Beilage nach Wahl</name>
-          <price role="other">7.20</price>
-          <price role="student">5.60</price>
-        </meal>
-        <meal>
-          <name>Hähnchenstreifen in Rucolasauce mit Tomatenreis</name>
-          <price role="other">6.70</price>
-          <price role="student">5.10</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-05-22">
       <category name="Vegetarisch">
         <meal>
@@ -63,6 +26,11 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
+        </meal>
+        <meal>
+          <name>Putensteak in Bärlauchmarinade mit Geflügelsauce, und einer Beilage nach Wahl</name>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
         </meal>
       </category>
     </day>
@@ -129,6 +97,40 @@
           <note>Weizen</note>
           <price role="other">6.80</price>
           <price role="student">5.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-05-28">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Frischkäsesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Loaded Baked Potato mit Spargel-Tomatenragout</name>
+          <note>Kartoffel</note>
+          <note>Mandeln</note>
+          <note>Schalenfruechte und Nuesse</note>
+          <note>vegan</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
+        <meal>
+          <name>Kreolisches Chili mit Kräuterreis</name>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Spaghetti mit Hackfleisch-Rahmsauce , und Reibekäse</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Rind</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
       </category>
     </day>
