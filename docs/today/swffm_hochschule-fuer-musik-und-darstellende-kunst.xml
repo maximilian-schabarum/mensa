@@ -11,7 +11,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Seelachsfilet in Sonnenblumenkernkruste und einer Beilage nach Wahl, Zitronen-Meerrettichrahm</name>
+          <name>Seelachsfilet in Sonnenblumenkernkruste Zitronen-Meerrettichrahm</name>
           <note>Glutenhaltige Getreide</note>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
@@ -22,11 +22,6 @@
           <price role="other">7.10</price>
           <price role="student">5.50</price>
         </meal>
-        <meal>
-          <name>Hähnchenstreifen in Rucolasauce mit Tomatenreis</name>
-          <price role="other">6.70</price>
-          <price role="student">5.10</price>
-        </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
@@ -35,6 +30,12 @@
           <note>vegan</note>
           <price role="other">5.10</price>
           <price role="student">3.50</price>
+        </meal>
+        <meal>
+          <name>Hähnchenstreifen in Rucolasauce mit Tomatenreis</name>
+          <note>vegan</note>
+          <price role="other">6.70</price>
+          <price role="student">5.10</price>
         </meal>
         <meal>
           <name>Rote Bulgur-Gemüsepfanne mit Soja Topping , und einer Beilage nach Wahl</name>
