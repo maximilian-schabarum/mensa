@@ -18,12 +18,27 @@
           <price role="student">3.50</price>
         </meal>
         <meal>
+          <name>Oberhessischer Kartoffeleintopf mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">3.50</price>
+          <price role="student">1.90</price>
+        </meal>
+        <meal>
           <name>Penne mit Bohnen-Tomatenragout</name>
           <note>Soja und Sojaerzeugnisse</note>
           <note>mensaVital</note>
           <note>vegan</note>
           <price role="other">4.50</price>
           <price role="student">2.90</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Paniertes Seelachsfilet mit Joghurt-Kräuterdip , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
         </meal>
       </category>
     </day>
