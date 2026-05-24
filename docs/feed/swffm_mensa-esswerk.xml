@@ -20,11 +20,6 @@
           <price role="other">5.00</price>
           <price role="student">3.40</price>
         </meal>
-        <meal>
-          <name>Tofu-Gemüsecouscous mit Mango</name>
-          <note>mensaVital</note>
-          <note>vegan</note>
-        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -50,20 +45,10 @@
           <price role="other">5.00</price>
           <price role="student">3.40</price>
         </meal>
-        <meal>
-          <name>Zwiebelgyros mit Tomaten-Reisnudeln , und Weißkrautsalat</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Fruchtiges Truthahnragout mit Spätzle</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
+          <name>Truthahn-Zwiebelgulasch und einer Beilage nach Wahl</name>
           <price role="other">6.80</price>
           <price role="student">5.20</price>
         </meal>
@@ -119,15 +104,6 @@
           <note>vegan</note>
           <price role="other">4.30</price>
           <price role="student">2.70</price>
-        </meal>
-        <meal>
-          <name>Aubergine mit Nusskernkruste Kurkumabandnudeln , und Tomatenpotpourri</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
         </meal>
       </category>
       <category name="Hauptgericht">

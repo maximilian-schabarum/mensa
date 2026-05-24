@@ -162,7 +162,6 @@
         <meal>
           <name>Kartoffelpfanne mit Feta</name>
           <note>Kartoffel</note>
-          <note>vegan</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
         </meal>
@@ -390,7 +389,6 @@
         <meal>
           <name>Kartoffelpfanne mit Feta</name>
           <note>Kartoffel</note>
-          <note>vegan</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
         </meal>
@@ -618,7 +616,6 @@
         <meal>
           <name>Kartoffelpfanne mit Feta</name>
           <note>Kartoffel</note>
-          <note>vegan</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
         </meal>
@@ -846,7 +843,6 @@
         <meal>
           <name>Kartoffelpfanne mit Feta</name>
           <note>Kartoffel</note>
-          <note>vegan</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
         </meal>

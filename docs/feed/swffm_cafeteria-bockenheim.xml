@@ -20,12 +20,17 @@
           <price role="other">5.00</price>
           <price role="student">3.40</price>
         </meal>
+        <meal>
+          <name>Kartoffel-Lauchauflauf mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenschnitzel Mailänder Art mit Farfalle</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
+          <name>Hähnchenschnitzel Mailänder Art mit einer Beilage nach Wahl</name>
           <price role="other">6.70</price>
           <price role="student">5.10</price>
         </meal>
@@ -114,11 +119,9 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Kibbelinge mit Joghurt-Dillsauce , und Risoléekartoffeln</name>
-          <note>Kartoffel</note>
+          <name>Kibbelinge mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>geschwefelt</note>
           <price role="other">6.50</price>
           <price role="student">4.90</price>
         </meal>

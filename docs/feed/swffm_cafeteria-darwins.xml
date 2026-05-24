@@ -6,6 +6,11 @@
     <day date="2026-05-26">
       <category name="Vegetarisch">
         <meal>
+          <name>Brombeerkaltschale</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Gemüse-Pilzcurry mit Reisbandnudeln und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.50</price>
@@ -22,6 +27,13 @@
           <price role="student">1.80</price>
         </meal>
       </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Marinierter Truthahnbraten mit einer Beilage nach Wahl</name>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
+        </meal>
+      </category>
     </day>
     <day date="2026-05-28">
       <category name="Vegetarisch">
@@ -31,6 +43,18 @@
           <note>vegan</note>
           <price role="other">5.30</price>
           <price role="student">3.70</price>
+        </meal>
+        <meal>
+          <name>Kaiserschmarrn mit Rosinen und Kompott</name>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Rindfleischfrikadelle mit Rosmarinsauce, und einer Beilage nach Wahl</name>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
         </meal>
       </category>
     </day>

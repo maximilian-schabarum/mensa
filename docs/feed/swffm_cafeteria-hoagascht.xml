@@ -49,11 +49,6 @@
           <price role="student">3.80</price>
         </meal>
         <meal>
-          <name>Exotischer Grießbrei</name>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
-        <meal>
           <name>Schokoladen-Bananenquark</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
@@ -136,7 +131,7 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Pastinakencremesuppe mit Brot und einem Topping nach Wahl</name>
+          <name>Karottencremesuppe mit Brot und einem Topping nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
@@ -160,6 +155,12 @@
         </meal>
         <meal>
           <name>Kokos-Quarkcreme</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Vegane Vanille-Walnusscreme</name>
+          <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -225,7 +226,18 @@
           <price role="student">4.40</price>
         </meal>
         <meal>
-          <name>Kirschgrütze mit Naturjoghurt</name>
+          <name>Müslijoghurt</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Vegane Vanillecreme mit Preiselbeeren</name>
+          <note>vegan</note>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Pistazienpudding</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -276,6 +288,12 @@
         </meal>
         <meal>
           <name>Himbeerquark</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Veganer Grießbrei mit Erdbeeren</name>
+          <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
