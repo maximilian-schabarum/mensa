@@ -160,5 +160,28 @@
         </meal>
       </category>
     </day>
+    <day date="2026-06-01">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Curryhuhn mit Früchten und Duftreis</name>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Chili sin Carne mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
+          <note>Roggen</note>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>

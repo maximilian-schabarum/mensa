@@ -6,7 +6,13 @@
     <day date="2026-05-26">
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffel-Blumenkohlpfanne mit Kräuterrahm , und einer Beilage nach Wahl</name>
+          <name>Pilzcremesuppe</name>
+          <note>Alkohol</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Kartoffel-Blumenkohlpfanne Kräuterrahm , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
           <note>Soja und Sojaerzeugnisse</note>
@@ -121,6 +127,35 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.50</price>
           <price role="student">4.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-01">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Chili sin Carne mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
+          <note>Roggen</note>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
+        <meal>
+          <name>Penne-Tomatenauflauf</name>
+          <note>mensaVital</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Curryhuhn mit Früchten und Duftreis</name>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
       </category>
     </day>

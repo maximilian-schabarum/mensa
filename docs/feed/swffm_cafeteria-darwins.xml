@@ -6,6 +6,12 @@
     <day date="2026-05-26">
       <category name="Vegetarisch">
         <meal>
+          <name>Karotten-Ingwercremesuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Brombeerkaltschale</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
@@ -15,6 +21,19 @@
           <note>vegan</note>
           <price role="other">5.50</price>
           <price role="student">3.90</price>
+        </meal>
+        <meal>
+          <name>Pizzaschnitte Champignons und einer Beilage nach Wahl</name>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+        <meal>
+          <name>Chili sin Carne mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
         </meal>
       </category>
     </day>
@@ -65,6 +84,17 @@
           <note>vegan</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-01">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Tofupfanne mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
         </meal>
       </category>
     </day>

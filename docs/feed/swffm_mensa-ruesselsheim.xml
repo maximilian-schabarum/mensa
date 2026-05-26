@@ -6,6 +6,12 @@
     <day date="2026-05-26">
       <category name="Vegetarisch">
         <meal>
+          <name>Kohlrabi-Kartoffelsuppe</name>
+          <note>Kartoffel</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Kartoffel-Blumenkohlpfanne mit Kräuterrahm , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
@@ -18,6 +24,8 @@
         <meal>
           <name>Bunte Farfalle mit Broccoli und einer Beilage nach Wahl</name>
           <note>vegan</note>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -129,6 +137,43 @@
           <note>Rind</note>
           <price role="other">5.60</price>
           <price role="student">4.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-01">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Chili sin Carne mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
+          <note>Roggen</note>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
+        <meal>
+          <name>Vegane Nuggets mit Barbecuesauce , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchenragout Kichererbse-Tomate mit Duftreis</name>
+          <price role="other">7.40</price>
+          <price role="student">5.80</price>
         </meal>
       </category>
     </day>
