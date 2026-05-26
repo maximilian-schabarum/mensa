@@ -6,7 +6,13 @@
     <day date="2026-05-26">
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffel-Blumenkohlpfanne mit Kräuterrahm , und einer Beilage nach Wahl</name>
+          <name>Pilzcremesuppe</name>
+          <note>Alkohol</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Kartoffel-Blumenkohlpfanne Kräuterrahm , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
           <note>Soja und Sojaerzeugnisse</note>
