@@ -29,6 +29,19 @@
           <price role="other">5.60</price>
           <price role="student">4.00</price>
         </meal>
+        <meal>
+          <name>Tofu-Gemüsecouscous mit Mango</name>
+          <note>vegan</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
+        <meal>
+          <name>Farfalle mit Bohnengemüse</name>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">3.50</price>
+          <price role="student">1.90</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
