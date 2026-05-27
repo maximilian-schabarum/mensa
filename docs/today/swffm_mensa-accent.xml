@@ -3,20 +3,17 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-26">
+    <day date="2026-05-27">
       <category name="Vegetarisch">
         <meal>
-          <name>Kokos-Gemüsesuppe</name>
-          <note>vegan</note>
+          <name>Tomatencremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Kartoffel-Blumenkohlpfanne Kräuterrahm , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
+          <name>Gemüsepaella mit veganem Knoblauchdip , und einer Beilage nach Wahl</name>
+          <note>Senf und Senferzeugnisse</note>
           <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
           <note>vegan</note>
           <price role="other">5.00</price>
           <price role="student">3.40</price>
@@ -24,9 +21,12 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenschnitzel Mailänder Art mit einer Beilage nach Wahl</name>
-          <price role="other">6.70</price>
-          <price role="student">5.10</price>
+          <name>Fruchtiges Truthahnragout Spätzle</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
         </meal>
       </category>
     </day>
