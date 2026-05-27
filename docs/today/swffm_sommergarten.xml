@@ -104,20 +104,6 @@
           <price role="student">11.00</price>
         </meal>
         <meal>
-          <name>Spareribs mit Brot oder Brötchen</name>
-          <note>Alkohol</note>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Lupine und Lupinenerzeugnisse</note>
-          <note>Schwein</note>
-          <note>Sesam und Sesamerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <price role="other">11.10</price>
-          <price role="student">9.50</price>
-        </meal>
-        <meal>
           <name>Alpenburger mit Bergkäse</name>
           <note>Rind</note>
           <price role="other">9.10</price>
