@@ -24,6 +24,12 @@
           <price role="other">6.60</price>
           <price role="student">5.00</price>
         </meal>
+        <meal>
+          <name>Broccoli-Gemüsewok Basmatireis</name>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>

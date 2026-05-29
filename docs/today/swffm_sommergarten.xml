@@ -203,6 +203,18 @@
           <price role="student">0.60</price>
         </meal>
         <meal>
+          <name>Chili sin Carne mit Mehrkornbrötchen</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
+          <note>Roggen</note>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Burrata mit Brot oder Brötchen</name>
           <note>Alkohol</note>
           <note>Gerste</note>
