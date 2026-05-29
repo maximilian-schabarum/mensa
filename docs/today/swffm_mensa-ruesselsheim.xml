@@ -3,21 +3,23 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-28">
+    <day date="2026-05-29">
       <category name="Vegetarisch">
         <meal>
-          <name>Mediterrane Gemüsesuppe</name>
+          <name>Kartoffelsuppe</name>
           <note>Kartoffel</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Bulgurpfanne mit Currydip , und einer Beilage nach Wahl</name>
-          <note>Senf und Senferzeugnisse</note>
+          <name>Loaded Wedges mit veganem Chili , und Hafercreme Topping</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
+          <note>Kartoffel</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
         </meal>
         <meal>
           <name>Loaded Baked Potato mit Spargel-Tomatenragout</name>
@@ -25,23 +27,25 @@
           <note>Mandeln</note>
           <note>Schalenfruechte und Nuesse</note>
           <note>vegan</note>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
-        </meal>
-        <meal>
-          <name>Bunte Farfalle mit Broccoli und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Spaghetti mit Hackfleisch-Rahmsauce , und Reibekäse</name>
+          <name>Kibbelinge mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Rind</note>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
+        </meal>
+        <meal>
+          <name>Fruchtiges Truthahnragout mit Spätzle</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <price role="other">6.70</price>
+          <price role="student">5.10</price>
         </meal>
       </category>
     </day>
