@@ -24,6 +24,13 @@
           <price role="other">4.50</price>
           <price role="student">2.90</price>
         </meal>
+        <meal>
+          <name>Penne</name>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
+        </meal>
       </category>
     </day>
     <day date="2026-06-02">

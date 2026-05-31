@@ -6,11 +6,29 @@
     <day date="2026-06-01">
       <category name="Vegetarisch">
         <meal>
+          <name>Bananen-Milchshake</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Kartoffel-Tofupfanne mit einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <note>vegan</note>
           <price role="other">5.30</price>
           <price role="student">3.70</price>
+        </meal>
+        <meal>
+          <name>Wrap mit Gemüsecouscous 2 mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Fitnesshähnchen mit Geflügelsauce, und einer Beilage nach Wahl</name>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
         </meal>
       </category>
     </day>

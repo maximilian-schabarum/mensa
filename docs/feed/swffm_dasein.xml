@@ -17,10 +17,12 @@
           <price role="student">4.40</price>
         </meal>
         <meal>
-          <name>Tofu mit Kokos-Gemüse Basmatireis</name>
+          <name>Tofu mit Kokos-Gemüse Dinkel</name>
+          <note>Dinkel</note>
+          <note>Glutenhaltige Getreide</note>
           <note>vegan</note>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
         </meal>
       </category>
     </day>

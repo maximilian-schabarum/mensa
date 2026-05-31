@@ -59,6 +59,12 @@
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
+        <meal>
+          <name>Kokosmilch-Haselnusspudding</name>
+          <note>vegan</note>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -132,6 +138,12 @@
         </meal>
         <meal>
           <name>Müslijoghurt mit roter Grütze</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Veganes Hirsedessert</name>
+          <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -239,6 +251,12 @@
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
+        <meal>
+          <name>Kirschgrütze</name>
+          <note>vegan</note>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
       </category>
     </day>
     <day date="2026-06-05">
@@ -288,6 +306,12 @@
         </meal>
         <meal>
           <name>Kokoscreme mit Himbeeren</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Veganer Grießbrei</name>
+          <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
