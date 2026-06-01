@@ -34,6 +34,13 @@
           <price role="student">2.10</price>
         </meal>
       </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Truthahn-Zwiebelgulasch Reis</name>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
+        </meal>
+      </category>
     </day>
   </canteen>
 </openmensa>
