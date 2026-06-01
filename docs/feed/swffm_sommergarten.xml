@@ -22,13 +22,14 @@
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
           <note>Lupine und Lupinenerzeugnisse</note>
+          <note>Rind</note>
           <note>Schwein</note>
           <note>Sesam und Sesamerzeugnisse</note>
           <note>Weizen</note>
           <note>mit Antioxidationsmittel</note>
           <note>mit Farbstoff</note>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
         </meal>
         <meal>
           <name>Schweinenackensteak mit Brot oder Brötchen</name>
@@ -102,20 +103,6 @@
           <note>mit Farbstoff</note>
           <price role="other">12.60</price>
           <price role="student">11.00</price>
-        </meal>
-        <meal>
-          <name>Spareribs mit Brot oder Brötchen</name>
-          <note>Alkohol</note>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Lupine und Lupinenerzeugnisse</note>
-          <note>Schwein</note>
-          <note>Sesam und Sesamerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <price role="other">11.10</price>
-          <price role="student">9.50</price>
         </meal>
         <meal>
           <name>Alpenburger mit Bergkäse</name>
@@ -201,6 +188,15 @@
           <note>vegan</note>
           <price role="other">2.20</price>
           <price role="student">0.60</price>
+        </meal>
+        <meal>
+          <name>Chili sin Carne Kaiserbrötchen</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>mit Farbstoff</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
         <meal>
           <name>Burrata mit Brot oder Brötchen</name>
