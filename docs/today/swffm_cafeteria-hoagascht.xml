@@ -3,13 +3,18 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-29">
+    <day date="2026-06-01">
       <category name="Vegetarisch">
         <meal>
-          <name>Okonomiyaki mit Gemüse japanischer Gemüsepfannkuchen</name>
-          <note>Kartoffel</note>
+          <name>French Toast mit Beeren</name>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
+        </meal>
+        <meal>
+          <name>French Toast mit Beeren, Erdnussbutter und Banane</name>
+          <note>Erdnuesse und Erdnusserzeugnisse</note>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
         </meal>
         <meal>
           <name>Basic Salat mit einem Brot und drei Toppings nach Wahl</name>
@@ -29,42 +34,45 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Blumenkohlcremesuppe mit Brot und einem Topping nach Wahl</name>
+          <name>Rote Betecremesuppe mit Brot und einem Topping nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Gemüsecouscous mit Rosinen</name>
-          <note>vegan</note>
+          <name>Gebratener Reis mit Gemüse, Cashew und Ei</name>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
+        </meal>
+        <meal>
+          <name>Bulgur mit Grillgemüse und Joghurt</name>
           <price role="other">5.70</price>
           <price role="student">4.10</price>
         </meal>
         <meal>
-          <name>Bulgur-Gemüse-Pilaw mit Kichererbsen mit Joghurt</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
-        </meal>
-        <meal>
-          <name>Kartoffel-Gemüseauflauf mit Chili und Feta</name>
-          <note>Kartoffel</note>
+          <name>Gemüsecouscous mit Rosinen</name>
+          <note>vegan</note>
           <price role="other">5.50</price>
           <price role="student">3.90</price>
         </meal>
         <meal>
-          <name>Himbeerquark</name>
+          <name>Grießbrei mit Apfelmus</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Vegane Vanillecreme mit Preiselbeeren</name>
+          <name>Birnenquark mit Schokosplitter</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Kokosmilch-Haselnusspudding</name>
           <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Pistazienpudding</name>
+          <name>Grießbrei mit Beeren</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -84,12 +92,6 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">6.40</price>
           <price role="student">4.80</price>
-        </meal>
-        <meal>
-          <name>Seelachsfilet auf gebratenen Nudeln</name>
-          <note>MSC</note>
-          <price role="other">7.70</price>
-          <price role="student">6.10</price>
         </meal>
       </category>
     </day>

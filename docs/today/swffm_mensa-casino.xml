@@ -3,22 +3,16 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-29">
+    <day date="2026-06-01">
       <category name="Vegetarisch">
         <meal>
-          <name>Spinatcremesuppe</name>
+          <name>Tomatensuppe</name>
+          <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Gemüsepaella mit Soja Topping , und einer Beilage nach Wahl</name>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 Chili sin Carne mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
+          <name>Chili sin Carne mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
           <note>Hafer</note>
@@ -26,55 +20,32 @@
           <note>Sesam und Sesamerzeugnisse</note>
           <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">4.10</price>
-          <price role="student">2.50</price>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Pfannkuchen mit Nuss-Nougat Creme und einer Beilage nach Wahl</name>
-          <price role="other">5.10</price>
-          <price role="student">3.50</price>
+          <name>Talas-Börek mit Käsefüllung mit Joghurtdip , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
         </meal>
         <meal>
-          <name>Aubergine mit Nusskernkruste mit Kurkumabandnudeln , und Tomatenpotpourri</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Weizen</note>
+          <name>Penne-Tomatenauflauf</name>
           <note>mensaVital</note>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Kibbelinge mit Joghurt-Dillsauce , Kartoffel-Sahnepüree</name>
-          <note>Kartoffel</note>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
+          <name>Truthahn-Zwiebelgulasch Reis</name>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
         </meal>
         <meal>
-          <name>Putensteak mit Pommes frites</name>
-          <note>Kartoffel</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">7.70</price>
-          <price role="student">6.10</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Halbes Hähnchen Pommes frites</name>
-          <note>Kartoffel</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">10.00</price>
-          <price role="student">8.40</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Seelachsfilet im Backteig Zitronenecke, Kartoffel-Sahnepüree</name>
-          <note>Kartoffel</note>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <name>Truthahn-Zwiebelgulasch Reis</name>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
         </meal>
       </category>
     </day>
