@@ -11,8 +11,8 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Wrap mit Gemüsecouscous und einer Beilage nach Wahl</name>
-          <note>vegan</note>
+          <name>Wrap mit Gemüsecouscous mit Joghurtdip , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
           <price role="other">4.70</price>
           <price role="student">3.10</price>
         </meal>

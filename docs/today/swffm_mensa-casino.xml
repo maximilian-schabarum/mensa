@@ -17,6 +17,13 @@
           <price role="student">3.10</price>
         </meal>
         <meal>
+          <name>Würzige Couscouspfanne mit Soja Topping , und einer Beilage nach Wahl</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
           <name>Ausgabe 5 Spargel mit Sauce Hollandaise , und Risoléekartoffeln</name>
           <note>Eier und Eiererzeugnisse</note>
           <note>Kartoffel</note>
@@ -24,6 +31,13 @@
           <note>geschwefelt</note>
           <price role="other">9.80</price>
           <price role="student">8.20</price>
+        </meal>
+        <meal>
+          <name>Kartoffeltaschen mit Frischkäse mit Joghurtdip , und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -42,7 +56,7 @@
           <price role="student">5.60</price>
         </meal>
         <meal>
-          <name>Gebratenes Seelachsfilet mit Kressesauce , Blattsalaten mit Joghurtdressing, und Dillkartoffeln</name>
+          <name>Gebratenes Seelachsfilet mit Kräutersauce , Blattsalaten mit Joghurtdressing, und Dillkartoffeln</name>
           <note>Glutenhaltige Getreide</note>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
