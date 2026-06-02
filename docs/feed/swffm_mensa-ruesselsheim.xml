@@ -3,59 +3,15 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-01">
+    <day date="2026-06-02">
       <category name="Vegetarisch">
         <meal>
-          <name>Gorgonzola-Spinatcremesuppe</name>
+          <name>Selleriesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Chili sin Carne mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Hafer</note>
-          <note>Roggen</note>
-          <note>Sesam und Sesamerzeugnisse</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">4.50</price>
-          <price role="student">2.90</price>
-        </meal>
-        <meal>
-          <name>Vegane Nuggets mit Barbecuesauce , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>geschwefelt</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchenragout Kichererbse-Tomate mit Duftreis</name>
-          <price role="other">7.40</price>
-          <price role="student">5.80</price>
-        </meal>
-        <meal>
-          <name>Spaghetti mit Hackfleisch-Rahmsauce , und Reibekäse</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Rind</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-06-02">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Veggie-Gemüseragout mit Basmatireis, und einer Beilage nach Wahl</name>
+          <name>Veggie-Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.70</price>
           <price role="student">3.10</price>
@@ -77,6 +33,11 @@
           <note>Milch und Milcherzeugnisse</note>
           <note>Schwefeldioxid / Sulfit</note>
           <note>Senf und Senferzeugnisse</note>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
+        </meal>
+        <meal>
+          <name>Hähnchenragout Kichererbse-Tomate mit Duftreis</name>
           <price role="other">7.20</price>
           <price role="student">5.60</price>
         </meal>
@@ -151,6 +112,33 @@
           <note>geschwefelt</note>
           <price role="other">7.20</price>
           <price role="student">5.60</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-08">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Bunte Farfalle mit Broccoli und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Loaded Baked Potato mit Kibbelingen , und Grüner Soße</name>
+          <note>Fisch und Fischerzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
         </meal>
       </category>
     </day>

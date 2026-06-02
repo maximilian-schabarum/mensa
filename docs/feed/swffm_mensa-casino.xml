@@ -3,75 +3,21 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-01">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Kartoffelsuppe</name>
-          <note>Kartoffel</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Chili sin Carne mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Hafer</note>
-          <note>Roggen</note>
-          <note>Sesam und Sesamerzeugnisse</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">4.50</price>
-          <price role="student">2.90</price>
-        </meal>
-        <meal>
-          <name>Ofenkartoffel Spargel-Tomatenragout</name>
-          <note>Kartoffel</note>
-          <note>Mandeln</note>
-          <note>Schalenfruechte und Nuesse</note>
-          <note>vegan</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-        <meal>
-          <name>Talas-Börek mit Käsefüllung mit Joghurtdip , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.00</price>
-          <price role="student">2.40</price>
-        </meal>
-        <meal>
-          <name>Penne-Tomatenauflauf</name>
-          <note>mensaVital</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Truthahn-Zwiebelgulasch Spätzle</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-06-02">
       <category name="Vegetarisch">
         <meal>
-          <name>Broccolisuppe</name>
-          <note>vegan</note>
+          <name>Spargelcremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Wrap mit Gemüsecouscous und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Wrap mit Gemüsecouscous und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.70</price>
           <price role="student">3.10</price>
         </meal>
         <meal>
-          <name>Spargel mit Sauce Hollandaise , und Risoléekartoffeln</name>
+          <name>Ausgabe 5 Spargel mit Sauce Hollandaise , und Risoléekartoffeln</name>
           <note>Eier und Eiererzeugnisse</note>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
@@ -82,7 +28,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Schweinefilet mit Balsamico-Linsengemüse , und Macaire-Kartoffeln</name>
+          <name>Ausgabe 1 Schweinefilet mit Balsamico-Linsengemüse , und Macaire-Kartoffeln</name>
           <note>Alkohol</note>
           <note>Eier und Eiererzeugnisse</note>
           <note>Geflügel</note>
@@ -96,7 +42,7 @@
           <price role="student">5.60</price>
         </meal>
         <meal>
-          <name>Gebratenes Seelachsfilet mit Kressesauce , Blattsalaten mit Joghurtdressing, und Dillkartoffeln</name>
+          <name>Gebratenes Seelachsfilet mit Kräutersauce , Blattsalaten mit Joghurtdressing, und Dillkartoffeln</name>
           <note>Glutenhaltige Getreide</note>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
@@ -189,6 +135,53 @@
           <note>mensaVital</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-08">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Broccolicremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Bunte Farfalle mit Broccoli und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Gnocchis in Sahnesauce mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
+        </meal>
+        <meal>
+          <name>Veggie Ragout mediterran mit Reiskornnudeln</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Loaded Baked Potato mit Kibbelingen , und Grüner Soße</name>
+          <note>Fisch und Fischerzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
         </meal>
       </category>
     </day>

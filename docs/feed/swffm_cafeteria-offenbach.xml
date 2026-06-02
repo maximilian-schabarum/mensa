@@ -3,43 +3,13 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-01">
+    <day date="2026-06-02">
       <category name="Vegetarisch">
         <meal>
-          <name>Champignoncremesuppe</name>
+          <name>Selleriesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
-        <meal>
-          <name>Chili sin Carne mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Hafer</note>
-          <note>Roggen</note>
-          <note>Sesam und Sesamerzeugnisse</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">4.50</price>
-          <price role="student">2.90</price>
-        </meal>
-        <meal>
-          <name>Penne mit Bohnen-Tomatenragut</name>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">4.70</price>
-          <price role="student">3.10</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Curryhuhn mit Früchten und Duftreis</name>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-06-02">
-      <category name="Vegetarisch">
         <meal>
           <name>Wrap mit Gemüsecouscous und einer Beilage nach Wahl</name>
           <note>vegan</note>
@@ -58,15 +28,9 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Gebratenes Seelachsfilet mit Kressesauce , Blattsalaten mit Joghurtdressing, und Dillkartoffeln</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Weizen</note>
-          <note>geschwefelt</note>
-          <note>mensaVital</note>
-          <price role="other">7.10</price>
-          <price role="student">5.50</price>
+          <name>Geflügelbällchen mit Paprika-Tomatensauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
         </meal>
       </category>
     </day>
@@ -108,6 +72,36 @@
           <note>mensaVital</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-08">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Loaded Baked Potato mit Kibbelingen , und Grüner Soße</name>
+          <note>Fisch und Fischerzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Veggie Ragout mediterran mit Reiskornnudeln</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
       </category>
     </day>
