@@ -3,7 +3,7 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-02">
+    <day date="2026-06-03">
       <category name="Vegetarisch">
         <meal>
           <name>Kartoffelcremesuppe</name>
@@ -12,28 +12,26 @@
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Ofenkartoffel mit Rucolaquark und einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
-        </meal>
-        <meal>
-          <name>Tofu mit Kokos-Gemüse Basmatireis</name>
+          <name>Hafer-Paella mit einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
         <meal>
-          <name>Spaghetti mit Linsensauce , und einer Beilage nach Wahl</name>
-          <note>Sellerie und Sellerieerzeugnisse</note>
+          <name>Möhrencurry Bulgur</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">5.30</price>
-          <price role="student">3.70</price>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
         </meal>
+      </category>
+      <category name="Hauptgericht">
         <meal>
-          <name>Pasta mit Gorgonzolarahm und einer Beilage nach Wahl</name>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
+          <name>Pasta Bolognese</name>
+          <note>Rind</note>
+          <price role="other">7.80</price>
+          <price role="student">6.20</price>
         </meal>
       </category>
     </day>
