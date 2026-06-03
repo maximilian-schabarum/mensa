@@ -22,8 +22,8 @@
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>geschwefelt</note>
-          <price role="other">7.70</price>
-          <price role="student">6.10</price>
+          <price role="other">8.50</price>
+          <price role="student">6.90</price>
         </meal>
         <meal>
           <name>Ausgabe 5 Reispfanne mit Tofu und einer Beilage nach Wahl</name>
@@ -43,14 +43,24 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Paniertes Putenschnitzel mit Pilzsauce , und Pommes frites</name>
-          <note>Kartoffel</note>
+          <name>Ausgabe 1 Paniertes Putenschnitzel mit Pilzsauce , Spaghetti</name>
+          <note>Glutenhaltige Getreide</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>Schwefeldioxid / Sulfit</note>
+          <note>Weizen</note>
           <note>geschwefelt</note>
-          <note>mit Antioxidationsmittel</note>
           <price role="other">7.20</price>
           <price role="student">5.60</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Panierte Hähnchenbrust mit Pilzsauce , Spaghetti</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
         </meal>
       </category>
     </day>
