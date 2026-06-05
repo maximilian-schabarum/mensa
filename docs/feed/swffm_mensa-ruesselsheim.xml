@@ -6,6 +6,12 @@
     <day date="2026-06-05">
       <category name="Vegetarisch">
         <meal>
+          <name>Gemüse-Nudelsuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Fruchtige Quinoa-Gemüsepfanne mit Schnittlauchdip , und einer Beilage nach Wahl</name>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
@@ -21,11 +27,20 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hokifilet Schweizer Art mit Joghurt-Dillsauce</name>
+          <name>Hokifilet Schweizer Art mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.70</price>
           <price role="student">5.10</price>
+        </meal>
+        <meal>
+          <name>Schweinefilet Balsamico-Linsengemüse , und einer Beilage nach Wahl</name>
+          <note>Alkohol</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Senf und Senferzeugnisse</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
         </meal>
       </category>
     </day>
@@ -127,6 +142,38 @@
         <meal>
           <name>Geschnetzeltes Estragon-Senf mit Gemüsereis</name>
           <note>Schwein</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-11">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Farfalle mit Grünkernbolognese , und einer Beilage nach Wahl</name>
+          <note>Alkohol</note>
+          <note>Dinkel</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
+          <name>Spinatknödel mit Sauce Vegetale, und einer Beilage nach Wahl</name>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Loaded Baked Potato Flammkuchen Style , mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwein</note>
+          <note>konserviert</note>
+          <note>mit Antioxidationsmittel</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
         </meal>

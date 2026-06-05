@@ -12,11 +12,10 @@
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Kicherebsen-Quinoacurry und einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <note>vegan</note>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
+          <name>Waldpilz-Quinotto und einer Beilage nach Wahl</name>
+          <note>Alkohol</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -100,6 +99,27 @@
           <note>Rind</note>
           <price role="other">7.80</price>
           <price role="student">6.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-11">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>vegan</note>
+          <price role="other">3.20</price>
+          <price role="student">1.60</price>
+        </meal>
+        <meal>
+          <name>Bohnen-Kichererbsenpfanne Reis</name>
+          <note>vegan</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
+        </meal>
+        <meal>
+          <name>Grünkern-Nudelauflauf und einer Beilage nach Wahl</name>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
         </meal>
       </category>
     </day>

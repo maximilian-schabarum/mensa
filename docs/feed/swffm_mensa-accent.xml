@@ -17,16 +17,29 @@
           <price role="other">5.00</price>
           <price role="student">3.40</price>
         </meal>
+        <meal>
+          <name>Maccaroni mit Spinat mit Pilzsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hokifilet Schweizer Art mit Senfkartoffeln</name>
-          <note>Kartoffel</note>
+          <name>Paniertes Schollenfilet mit Dillsauerrahm , und einer Beilage nach Wahl</name>
           <note>MSC</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>geschwefelt</note>
-          <price role="other">6.70</price>
-          <price role="student">5.10</price>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
+        </meal>
+        <meal>
+          <name>Seelachsfilet im Backteig mit Dillsauerrahm , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
         </meal>
       </category>
     </day>
@@ -108,6 +121,38 @@
         <meal>
           <name>Geschnetzeltes Estragon-Senf mit Gemüsereis</name>
           <note>Schwein</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-11">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsecremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Farfalle mit Grünkernbolognese , und einer Beilage nach Wahl</name>
+          <note>Alkohol</note>
+          <note>Dinkel</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Loaded Baked Potato Flammkuchen Style , mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwein</note>
+          <note>konserviert</note>
+          <note>mit Antioxidationsmittel</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
         </meal>

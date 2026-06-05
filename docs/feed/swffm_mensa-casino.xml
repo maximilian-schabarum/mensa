@@ -4,25 +4,14 @@
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <day date="2026-06-05">
-      <category name="Hauptgericht">
+      <category name="Vegetarisch">
         <meal>
-          <name>Hühnersuppe</name>
+          <name>Spargelcremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Hokifilet Schweizer Art mit Senfkartoffeln</name>
-          <note>Kartoffel</note>
-          <note>MSC</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>geschwefelt</note>
-          <price role="other">6.70</price>
-          <price role="student">5.10</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Gemüsekroketten mit Currydip , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Gemüsekroketten mit Currydip , und einer Beilage nach Wahl</name>
           <note>Senf und Senferzeugnisse</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
@@ -30,11 +19,16 @@
           <price role="student">4.00</price>
         </meal>
         <meal>
-          <name>Fruchtige Quinoa-Gemüsepfanne mit Schnittlauchdip , und einer Beilage nach Wahl</name>
-          <note>Soja und Sojaerzeugnisse</note>
+          <name>Ausgabe 3 Maccaroni mit Spinat und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Reispfanne mit Tofu und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
         <meal>
           <name>Gemüse-Gnocchi</name>
@@ -42,6 +36,33 @@
           <note>mensaVital</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Ausgabe 1 Hokifilet Schweizer Art mit Senfkartoffeln</name>
+          <note>Kartoffel</note>
+          <note>MSC</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>geschwefelt</note>
+          <price role="other">6.70</price>
+          <price role="student">5.10</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 2 Schweinefilet Balsamico-Linsengemüse , und Macaire-Kartoffeln , mit Cognacrahmsauce</name>
+          <note>Alkohol</note>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Geflügel</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>konserviert</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
         </meal>
       </category>
     </day>
@@ -175,6 +196,52 @@
           <note>mensaVital</note>
           <price role="other">7.50</price>
           <price role="student">5.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-11">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Maissuppe</name>
+          <note>Kartoffel</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Farfalle mit Grünkernbolognese , und einer Beilage nach Wahl</name>
+          <note>Alkohol</note>
+          <note>Dinkel</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
+          <name>Herzhafte Pfannkuchen mit Pilz-Gemüsepfanne, und einer Beilage nach Wahl</name>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
+        <meal>
+          <name>Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauchquark , und Blattsalat</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Loaded Baked Potato Flammkuchen Style , mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwein</note>
+          <note>konserviert</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
         </meal>
       </category>
     </day>
