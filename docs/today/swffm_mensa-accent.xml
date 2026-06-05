@@ -34,6 +34,20 @@
           <price role="other">7.00</price>
           <price role="student">5.40</price>
         </meal>
+        <meal>
+          <name>Hokifilet Meunière mit Dillsauerrahm , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
+        </meal>
+        <meal>
+          <name>Seelachsfilet im Backteig mit Dillsauerrahm , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
+        </meal>
       </category>
     </day>
   </canteen>

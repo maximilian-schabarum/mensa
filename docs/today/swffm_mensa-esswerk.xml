@@ -25,10 +25,12 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hokifilet Schweizer Art mit einer Beilage nach Wahl</name>
+          <name>Hokifilet Schweizer Art mit Sauce Hollandaise , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
           <note>MSC</note>
-          <price role="other">6.70</price>
-          <price role="student">5.10</price>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
         </meal>
       </category>
     </day>
