@@ -103,15 +103,17 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Farfalle mit Grünkernbolognese , und einer Beilage nach Wahl</name>
-          <note>Alkohol</note>
-          <note>Dinkel</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
+          <name>Blumenkohl-Käsemedaillon mit Sauce Hollandaise , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
+        </meal>
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -136,13 +138,23 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Loaded Baked Potato mit Veggie Gyros, Tzatziki , und Pepperoni</name>
+          <name>Kartoffeltaschen mit Frischkäse mit Kräuterschmand , und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
-          <price role="other">5.70</price>
-          <price role="student">4.10</price>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Gnocchi-Ratatouilleauflauf mit Mangojoghurt</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>mensaVital</note>
         </meal>
       </category>
       <category name="Hauptgericht">

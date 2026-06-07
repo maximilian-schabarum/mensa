@@ -110,16 +110,6 @@
           <price role="other">5.10</price>
           <price role="student">3.50</price>
         </meal>
-        <meal>
-          <name>Gemüsefrikadelle mit Pusztasauce , und Couscous</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Weizen</note>
-          <note>mit Suessungsmitteln</note>
-          <note>vegan</note>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
-        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -154,11 +144,6 @@
           <note>vegan</note>
           <price role="other">4.90</price>
           <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Herzhafte Pfannkuchen mit Pilz-Gemüsepfanne, und einer Beilage nach Wahl</name>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
         </meal>
         <meal>
           <name>Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauchquark , und Blattsalat</name>
@@ -200,18 +185,12 @@
           <price role="student">4.10</price>
         </meal>
         <meal>
-          <name>Kartoffel-Blumenkohlpfanne mit einer Beilage nach Wahl</name>
+          <name>Gnocchi-Ratatouilleauflauf mit Mangojoghurt</name>
           <note>Kartoffel</note>
-          <note>vegan</note>
-          <price role="other">4.00</price>
-          <price role="student">2.40</price>
-        </meal>
-        <meal>
-          <name>Spaghetti mit Mango-Belugalinsenragout</name>
+          <note>Milch und Milcherzeugnisse</note>
           <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">4.00</price>
-          <price role="student">2.40</price>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">

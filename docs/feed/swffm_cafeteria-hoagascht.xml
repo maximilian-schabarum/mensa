@@ -46,17 +46,24 @@
           <price role="student">4.40</price>
         </meal>
         <meal>
-          <name>Auberginen-Bulgur mit Rosinen</name>
+          <name>Auberginen-Bulgur mit Rosinen mit Joghurt</name>
+          <note>Milch und Milcherzeugnisse</note>
           <price role="other">5.10</price>
           <price role="student">3.50</price>
         </meal>
         <meal>
-          <name>Rote Grütze mit Vanillesauce</name>
+          <name>Limettencreme</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Limettencreme</name>
+          <name>Heidelbeerquark</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Vegane Vanillecreme mit Preiselbeeren</name>
+          <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -119,7 +126,7 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Blumenkohl-Kartoffelcurry mit Mandelreis , und Joghurt</name>
+          <name>Blumenkohl-Kartoffelcurry Mandelreis , mit Joghurt</name>
           <note>Kartoffel</note>
           <note>Mandeln</note>
           <note>Milch und Milcherzeugnisse</note>
@@ -134,7 +141,7 @@
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Heidelbeerquark</name>
+          <name>Rote Grütze mit Vanillesauce</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -156,7 +163,7 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Hackfleisch-Gemüsepfanne mit Couscous</name>
+          <name>Hackfleisch-Gemüsepfanne Couscous</name>
           <note>Glutenhaltige Getreide</note>
           <note>Rind</note>
           <note>Weizen</note>
@@ -300,7 +307,7 @@
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Linsengemüse mit Kartoffeln und Tomatensalsa</name>
+          <name>Linsengemüse mit Kartoffeln Tomatensalsa</name>
           <note>Kartoffel</note>
           <note>vegan</note>
           <price role="other">5.30</price>
@@ -313,6 +320,12 @@
         </meal>
         <meal>
           <name>Müsli-Naturjoghurt</name>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Vegane Vanille-Walnusscreme</name>
+          <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
@@ -366,6 +379,12 @@
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
+        <meal>
+          <name>Veganer Grießbrei mit Erdbeeren</name>
+          <note>vegan</note>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -384,7 +403,7 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Gebratenes Seelachsfilet mit Couscous , und Paprikasauce</name>
+          <name>Gebratenes Seelachsfilet Couscous , mit Paprikasauce</name>
           <note>Glutenhaltige Getreide</note>
           <note>MSC</note>
           <note>Weizen</note>
