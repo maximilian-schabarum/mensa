@@ -17,8 +17,9 @@
           <price role="student">3.40</price>
         </meal>
         <meal>
-          <name>Fruchtige Quinoa-Gemüsepfanne mit Joghurt-Kräuterdip , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
+          <name>Fruchtige Quinoa-Gemüsepfanne mit Schnittlauchdip , und einer Beilage nach Wahl</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
           <price role="other">4.80</price>
           <price role="student">3.20</price>
         </meal>

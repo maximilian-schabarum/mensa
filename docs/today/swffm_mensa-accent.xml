@@ -16,10 +16,17 @@
           <price role="other">5.00</price>
           <price role="student">3.40</price>
         </meal>
+        <meal>
+          <name>Fruchtige Quinoa-Gemüsepfanne mit Schnittlauchdip , und einer Beilage nach Wahl</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Loaded Baked Potato Pulled Chicken , Grüne Soße , Zitronenecke</name>
+          <name>Loaded Baked Potato Pulled Chicken , Grüne Soße</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>

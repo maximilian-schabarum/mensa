@@ -25,6 +25,12 @@
           <price role="other">5.20</price>
           <price role="student">3.60</price>
         </meal>
+        <meal>
+          <name>Vollkorn Penne mit Tomatensauce, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">3.80</price>
+          <price role="student">2.20</price>
+        </meal>
       </category>
     </day>
   </canteen>
