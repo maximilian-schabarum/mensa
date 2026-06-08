@@ -6,10 +6,34 @@
     <day date="2026-06-08">
       <category name="Vegetarisch">
         <meal>
+          <name>Gemüsecremesuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.20</price>
           <price role="student">3.60</price>
+        </meal>
+        <meal>
+          <name>Grünkern Chili mit Baguette , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Seelachsfilet im Backteig mit Joghurtdip , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
       </category>
     </day>

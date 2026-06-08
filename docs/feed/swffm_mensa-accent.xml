@@ -6,7 +6,7 @@
     <day date="2026-06-08">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatencremesuppe</name>
+          <name>Blumenkohlcremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -19,15 +19,15 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Loaded Baked Potato Pulled Chicken , Grüne Soße , Zitronenecke</name>
+          <name>Loaded Baked Potato Pulled Chicken , Grüne Soße</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>Sellerie und Sellerieerzeugnisse</note>
           <note>mit Phosphat</note>
-          <price role="other">6.30</price>
-          <price role="student">4.70</price>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
         </meal>
       </category>
     </day>

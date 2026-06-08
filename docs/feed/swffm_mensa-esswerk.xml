@@ -16,6 +16,12 @@
           <price role="other">5.00</price>
           <price role="student">3.40</price>
         </meal>
+        <meal>
+          <name>Überbackene Gemüsegnocchi mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -32,6 +38,14 @@
           <note>mit Farbstoff</note>
           <price role="other">6.30</price>
           <price role="student">4.70</price>
+        </meal>
+        <meal>
+          <name>Hokifilet Schweizer Art mit Sauce Hollandaise , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
         </meal>
       </category>
     </day>

@@ -34,7 +34,7 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Selleriecremesuppe mit Brot und einem Topping nach Wahl</name>
+          <name>Blumenkohlcremesuppe mit Brot und einem Topping nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
@@ -50,6 +50,14 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">5.10</price>
           <price role="student">3.50</price>
+        </meal>
+        <meal>
+          <name>Gemüse mit Linsen Couscous</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
         </meal>
         <meal>
           <name>Limettencreme</name>
