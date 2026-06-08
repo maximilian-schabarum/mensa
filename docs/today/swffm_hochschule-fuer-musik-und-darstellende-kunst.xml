@@ -3,25 +3,18 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-05">
+    <day date="2026-06-08">
       <category name="Vegetarisch">
         <meal>
-          <name>Spargelcremesuppe</name>
+          <name>Broccolicremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Fruchtige Quinoa-Gemüsepfanne mit Schnittlauchdip , und einer Beilage nach Wahl</name>
-          <note>Soja und Sojaerzeugnisse</note>
+          <name>Bunte Farfalle mit Broccoli und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.00</price>
           <price role="student">3.40</price>
-        </meal>
-        <meal>
-          <name>Maccaroni mit Spinat und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
         </meal>
         <meal>
           <name>Frische Waffeln</name>
@@ -36,10 +29,19 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hokifilet Schweizer Art und einer Beilage nach Wahl</name>
+          <name>Loaded Baked Potato mit Kibbelingen , und Grüner Soße</name>
+          <note>Fisch und Fischerzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
           <note>MSC</note>
-          <price role="other">6.70</price>
-          <price role="student">5.10</price>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
         </meal>
       </category>
     </day>

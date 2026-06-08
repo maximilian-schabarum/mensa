@@ -3,50 +3,31 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-05">
+    <day date="2026-06-08">
       <category name="Vegetarisch">
         <meal>
-          <name>Bärlauchcremesuppe</name>
+          <name>Tomatencremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Fruchtige Quinoa-Gemüsepfanne mit Schnittlauchdip , und einer Beilage nach Wahl</name>
-          <note>Soja und Sojaerzeugnisse</note>
+          <name>Bunte Farfalle mit Broccoli und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.00</price>
           <price role="student">3.40</price>
         </meal>
-        <meal>
-          <name>Maccaroni mit Spinat mit Pilzsauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>geschwefelt</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
-        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Paniertes Schollenfilet mit Dillsauerrahm , und einer Beilage nach Wahl</name>
-          <note>MSC</note>
+          <name>Loaded Baked Potato Pulled Chicken , Grüne Soße , Zitronenecke</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
-        </meal>
-        <meal>
-          <name>Hokifilet Meunière mit Dillsauerrahm , und einer Beilage nach Wahl</name>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
-        </meal>
-        <meal>
-          <name>Seelachsfilet im Backteig mit Dillsauerrahm , und einer Beilage nach Wahl</name>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>mit Phosphat</note>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
         </meal>
       </category>
     </day>
