@@ -17,6 +17,12 @@
           <price role="student">3.00</price>
         </meal>
         <meal>
+          <name>Möhrencurry mit Reis</name>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+        <meal>
           <name>Pikantes Kichererbsenragout Bauernbrot , und einer Beilage nach Wahl</name>
           <note>Dinkel</note>
           <note>Glutenhaltige Getreide</note>

@@ -34,6 +34,11 @@
           <price role="other">7.10</price>
           <price role="student">5.50</price>
         </meal>
+        <meal>
+          <name>Panierte Putenbrust mit Zucchini-Tomatensauce, und einer Beilage nach Wahl</name>
+          <price role="other">7.70</price>
+          <price role="student">6.10</price>
+        </meal>
       </category>
     </day>
   </canteen>

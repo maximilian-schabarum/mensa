@@ -27,6 +27,20 @@
           <price role="student">3.20</price>
         </meal>
         <meal>
+          <name>Ausgabe 5 Gemüsekroketten Grüne Soße , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Tortellini Ricotta-Spinat mit Zucchini-Tomatensauce</name>
+          <price role="other">3.90</price>
+          <price role="student">2.30</price>
+        </meal>
+        <meal>
           <name>Spaghetti mit Mango-Belugalinsenragout</name>
           <note>mensaVital</note>
           <note>vegan</note>
