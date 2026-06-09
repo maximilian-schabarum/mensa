@@ -17,6 +17,15 @@
           <price role="student">3.00</price>
         </meal>
         <meal>
+          <name>Pikantes Kichererbsenragout Bauernbrot , und einer Beilage nach Wahl</name>
+          <note>Dinkel</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Roggen</note>
+          <note>vegan</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
+        <meal>
           <name>Kartoffel-Zucchiniauflauf und einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">5.30</price>
