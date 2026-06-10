@@ -73,6 +73,12 @@
           <price role="student">3.10</price>
         </meal>
         <meal>
+          <name>Auberginen-Bulgur mit Rosinen mit Joghurt</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
+        </meal>
+        <meal>
           <name>Schokoladenpudding</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
@@ -85,6 +91,11 @@
         <meal>
           <name>Beerengrütze mit Hafer Sour Cream</name>
           <note>vegan</note>
+          <price role="other">2.80</price>
+          <price role="student">1.20</price>
+        </meal>
+        <meal>
+          <name>Vanillepudding</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
