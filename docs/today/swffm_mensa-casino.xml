@@ -37,6 +37,15 @@
           <name>Ausgabe 1 Putensteak mit Kräuterbutter Pommes frites</name>
           <note>Kartoffel</note>
           <note>mit Antioxidationsmittel</note>
+          <price role="other">7.70</price>
+          <price role="student">6.10</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Halbes Hähnchen Pommes frites</name>
+          <note>Kartoffel</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">10.00</price>
+          <price role="student">8.40</price>
         </meal>
         <meal>
           <name>Bulgur-Rucolasalat mit Putenstreifen</name>

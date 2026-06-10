@@ -36,6 +36,11 @@
           <price role="other">5.80</price>
           <price role="student">4.20</price>
         </meal>
+        <meal>
+          <name>Putensteak Spinat-Schafskäse mit einer Beilage nach Wahl</name>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
+        </meal>
       </category>
     </day>
   </canteen>
