@@ -3,37 +3,14 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-09">
+    <day date="2026-06-10">
       <category name="Vegetarisch">
         <meal>
-          <name>Kürbissuppe</name>
+          <name>Karotten-Ingwercremesuppe</name>
           <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
-        <meal>
-          <name>Bohnen-Kartoffelcurry mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <note>vegan</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
-        </meal>
-        <meal>
-          <name>Grünkern-Nudelauflauf mit einer Beilage nach Wahl</name>
-          <note>Alkohol</note>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
-        </meal>
-        <meal>
-          <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-06-10">
-      <category name="Vegetarisch">
         <meal>
           <name>Soja-Gemüseragout mit einer Beilage nach Wahl</name>
           <note>vegan</note>
@@ -42,11 +19,31 @@
         </meal>
         <meal>
           <name>Kaiserschmarrn mit Rosinen und Kompott</name>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+        <meal>
+          <name>Germknödel mit Vanillesauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Panierte Hähnchenbrust mit Bratensauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
       </category>
     </day>
     <day date="2026-06-11">
       <category name="Vegetarisch">
+        <meal>
+          <name>Blumenkohl-Currysuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Linsen-Gemüsepfanne mit Tofu und einer Beilage nach Wahl</name>
           <note>vegan</note>
@@ -57,6 +54,11 @@
     </day>
     <day date="2026-06-12">
       <category name="Vegetarisch">
+        <meal>
+          <name>Tomatencremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Chili sin Carne mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
@@ -74,8 +76,21 @@
           <note>Kartoffel</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">3.20</price>
-          <price role="student">1.60</price>
+          <price role="other">3.30</price>
+          <price role="student">1.70</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-16">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Quinoa-Kichererbsencurry mit Kaiserbrötchen</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
         </meal>
       </category>
     </day>
