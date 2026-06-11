@@ -32,6 +32,11 @@
           <price role="other">6.20</price>
           <price role="student">4.60</price>
         </meal>
+        <meal>
+          <name>Geflügel-Gyoza auf Gemüsenudeln</name>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
+        </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
@@ -64,6 +69,15 @@
           <note>vegan</note>
           <price role="other">5.30</price>
           <price role="student">3.70</price>
+        </meal>
+        <meal>
+          <name>Blumenkohl-Kartoffelcurry Mandelreis , mit Joghurt</name>
+          <note>Kartoffel</note>
+          <note>Mandeln</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schalenfruechte und Nuesse</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
         </meal>
         <meal>
           <name>Grießbrei mit Apfelmus</name>
