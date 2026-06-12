@@ -3,49 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-11">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Maissuppe</name>
-          <note>Kartoffel</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Frische Waffeln</name>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Frische Waffeln</name>
-          <price role="other">3.70</price>
-          <price role="student">2.10</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Loaded Baked Potato mit Flammkuchen Style Topping , mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwein</note>
-          <note>konserviert</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-06-12">
       <category name="Vegetarisch">
         <meal>
-          <name>Maissuppe</name>
-          <note>Kartoffel</note>
+          <name>Tomatencremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -54,16 +15,6 @@
           <note>vegan</note>
           <price role="other">3.40</price>
           <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Frische Waffeln</name>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Frische Waffeln</name>
-          <price role="other">3.70</price>
-          <price role="student">2.10</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -125,6 +76,26 @@
           <name>Geflügelbällchen mit Gemüsesauce, und Paprikareis</name>
           <price role="other">5.90</price>
           <price role="student">4.30</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
+          <note>vegan</note>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-18">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Truthahn-Zwiebelgulasch mit Spätzle</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
         </meal>
       </category>
       <category name="Vegetarisch">
