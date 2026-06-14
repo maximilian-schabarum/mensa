@@ -20,10 +20,10 @@
           <price role="student">2.60</price>
         </meal>
         <meal>
-          <name>Pilaw mit Spinat und einer Beilage nach Wahl</name>
+          <name>Soja Frikasseé mit Reis, und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
         </meal>
       </category>
     </day>

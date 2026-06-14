@@ -6,17 +6,44 @@
     <day date="2026-06-15">
       <category name="Vegetarisch">
         <meal>
-          <name>Ofenkartoffel mit veganem Sojadip , und einer Beilage nach Wahl</name>
+          <name>Bohnensuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Spinatknödel mit Pilzrahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
+        </meal>
+        <meal>
+          <name>Erbseneintopf mit Baguette , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
-          <note>Soja und Sojaerzeugnisse</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">3.30</price>
-          <price role="student">1.70</price>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Panierte Hähnchenbrust mit Bratensauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
       </category>
     </day>
     <day date="2026-06-16">
       <category name="Vegetarisch">
+        <meal>
+          <name>Tomatencremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Quinoa-Kichererbsencurry mit Kaiserbrötchen</name>
           <note>Glutenhaltige Getreide</note>
@@ -30,6 +57,11 @@
     </day>
     <day date="2026-06-17">
       <category name="Vegetarisch">
+        <meal>
+          <name>Ingwer-Karottencremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Hummus mit Mehrkornbrötchen TK , und einer Beilage nach Wahl</name>
           <note>Gerste</note>
@@ -47,6 +79,11 @@
     <day date="2026-06-18">
       <category name="Vegetarisch">
         <meal>
+          <name>Broccolicremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Gemüsechili mit Baguette , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Roggen</note>
@@ -59,6 +96,12 @@
     </day>
     <day date="2026-06-19">
       <category name="Vegetarisch">
+        <meal>
+          <name>Blumenkohl-Kokossuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Kartoffel-Kokosgratin mit einer Beilage nach Wahl</name>
           <note>Kartoffel</note>

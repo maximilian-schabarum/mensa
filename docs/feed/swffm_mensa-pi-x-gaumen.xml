@@ -11,6 +11,16 @@
           <price role="other">3.40</price>
           <price role="student">1.80</price>
         </meal>
+        <meal>
+          <name>Kartoffel-Karottengratin mit Kräuterschmand , und Rosinen-Mandelquark</name>
+          <note>Kartoffel</note>
+          <note>Mandeln</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schalenfruechte und Nuesse</note>
+          <note>mensaVital</note>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -18,15 +28,6 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.00</price>
           <price role="student">4.40</price>
-        </meal>
-        <meal>
-          <name>Gebratenes Seelachsfilet mit Linsen-Reissalat</name>
-          <note>MSC</note>
-          <note>Mandeln</note>
-          <note>Schalenfruechte und Nuesse</note>
-          <note>mensaVital</note>
-          <price role="other">7.30</price>
-          <price role="student">5.70</price>
         </meal>
       </category>
     </day>

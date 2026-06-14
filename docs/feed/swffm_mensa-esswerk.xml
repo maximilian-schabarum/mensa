@@ -29,15 +29,6 @@
           <price role="other">6.00</price>
           <price role="student">4.40</price>
         </meal>
-        <meal>
-          <name>Gebratenes Seelachsfilet mit Linsen-Reissalat</name>
-          <note>MSC</note>
-          <note>Mandeln</note>
-          <note>Schalenfruechte und Nuesse</note>
-          <note>mensaVital</note>
-          <price role="other">7.30</price>
-          <price role="student">5.70</price>
-        </meal>
       </category>
     </day>
     <day date="2026-06-16">
