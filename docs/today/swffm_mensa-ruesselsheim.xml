@@ -3,22 +3,13 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-12">
+    <day date="2026-06-15">
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüse-Tomatensuppe</name>
+          <name>Passierte Erbsensuppe</name>
           <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Loaded Baked Potato mit Veggie Gyros, mit Tzatziki</name>
-          <note>Kartoffel</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">5.70</price>
-          <price role="student">4.10</price>
         </meal>
         <meal>
           <name>Spaghetti mit Sauce Napoli</name>
@@ -26,28 +17,24 @@
           <price role="other">3.40</price>
           <price role="student">1.80</price>
         </meal>
+        <meal>
+          <name>Kolbörek mit Käsefüllung mit Knoblauchjoghurt , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Seelachsfilet mit Grießkruste mit Kräuterschmand , und einer Beilage nach Wahl</name>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">7.10</price>
-          <price role="student">5.50</price>
+          <name>Geflügelbällchen mit Gemüsesauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
         </meal>
         <meal>
-          <name>Putensteak Spinat-Schafskäse mit Gemüsesauce , mit einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
-        </meal>
-        <meal>
-          <name>Seelachsfilet in Sesampanade mit Kräuterschmand , und einer Beilage nach Wahl</name>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">7.20</price>
-          <price role="student">5.60</price>
+          <name>Bifteki mit Ajvar, und einer Beilage nach Wahl</name>
+          <note>Rind</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
         </meal>
       </category>
     </day>
