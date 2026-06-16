@@ -3,15 +3,12 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-15">
+    <day date="2026-06-16">
       <category name="Hauptgericht">
         <meal>
-          <name>Paniertes Schweineschnitzel mit Rahmsauce , und Risoleekartoffeln</name>
-          <note>Kartoffel</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>geschwefelt</note>
-          <price role="other">6.00</price>
-          <price role="student">4.40</price>
+          <name>Geflügelbällchen mit Gemüsesauce, und Paprikareis</name>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
         </meal>
       </category>
       <category name="Vegetarisch">
