@@ -25,6 +25,14 @@
           <price role="student">2.20</price>
         </meal>
         <meal>
+          <name>Scharfer Kichererbsentopf Couscous</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+        <meal>
           <name>Nudeln mit Pilzen und Kräutern und einer Beilage nach Wahl</name>
           <note>Alkohol</note>
           <price role="other">5.80</price>

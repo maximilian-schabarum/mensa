@@ -31,6 +31,14 @@
           <price role="other">3.70</price>
           <price role="student">2.10</price>
         </meal>
+        <meal>
+          <name>Spinatknödel mit Pilzrahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
