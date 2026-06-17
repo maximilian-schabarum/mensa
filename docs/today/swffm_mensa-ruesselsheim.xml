@@ -3,10 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-16">
+    <day date="2026-06-17">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatencremesuppe</name>
+          <name>Spargelcremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -17,21 +17,18 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Kartoffel- Zucchiniauflauf mit einer Beilage nach Wahl</name>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
+          <name>Spinat-Ricottatortellini mit Sahnesauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Champignon-Geflügelpfanne mit einer Beilage nach Wahl</name>
-          <price role="other">7.40</price>
-          <price role="student">5.80</price>
-        </meal>
-        <meal>
-          <name>Geflügelbällchen mit Gemüsesauce, und einer Beilage nach Wahl</name>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <name>Paniertes Schweineschnitzel mit Rahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
       </category>
     </day>
