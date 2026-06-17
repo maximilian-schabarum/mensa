@@ -6,6 +6,12 @@
     <day date="2026-06-17">
       <category name="Vegetarisch">
         <meal>
+          <name>Gemüsebrühe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
           <price role="other">3.40</price>
@@ -26,7 +32,6 @@
           <name>Hähnchenbrust Tomate-Mozzarella mit Broccoli , und Curryreis</name>
           <note>Milch und Milcherzeugnisse</note>
           <note>Senf und Senferzeugnisse</note>
-          <note>mensaVital</note>
           <price role="other">7.00</price>
           <price role="student">5.40</price>
         </meal>

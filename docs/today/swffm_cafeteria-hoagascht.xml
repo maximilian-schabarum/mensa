@@ -74,6 +74,11 @@
           <price role="student">3.90</price>
         </meal>
         <meal>
+          <name>Auberginenpasta mit Knoblauch, Zwiebeln und Rosinen</name>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+        <meal>
           <name>Milchreis mit Mandarinen</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
