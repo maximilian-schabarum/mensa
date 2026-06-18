@@ -3,46 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-17">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Karotten-Ingwercremesuppe</name>
-          <note>vegan</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Frische Waffeln</name>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Frische Waffeln</name>
-          <price role="other">3.70</price>
-          <price role="student">2.10</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Gyros mit Tzatziki , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwein</note>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
-        </meal>
-        <meal>
-          <name>Geflügelbällchen mit Gemüsesauce, und einer Beilage nach Wahl</name>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-06-18">
       <category name="Vegetarisch">
         <meal>
@@ -158,6 +118,26 @@
           <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-24">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchen Cordon bleu mit Majorankartoffeln</name>
+          <note>Kartoffel</note>
+          <note>geschwefelt</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Quinoa-Kichererbsencurry mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
         </meal>
       </category>
     </day>
