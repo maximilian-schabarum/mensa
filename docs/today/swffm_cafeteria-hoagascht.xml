@@ -3,14 +3,13 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-17">
+    <day date="2026-06-18">
       <category name="Hauptgericht">
         <meal>
-          <name>American Pancakes mit Bacon und Ahornsirup</name>
+          <name>Breakfast Burrito gefüllt mit, Rührei, Käse, Tomaten, Rucola, und wahlweise mit/ohne Speck</name>
           <note>Schwein</note>
-          <note>konserviert</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
         </meal>
         <meal>
           <name>Caesar Salat Caesar Dressing mit Brot</name>
@@ -27,21 +26,8 @@
           <price role="other">6.40</price>
           <price role="student">4.80</price>
         </meal>
-        <meal>
-          <name>Gebratener Reis mit Hähnchen, Gemüse und Ei</name>
-          <price role="other">6.60</price>
-          <price role="student">5.00</price>
-        </meal>
       </category>
       <category name="Vegetarisch">
-        <meal>
-          <name>American Pancakes mit belgischer Nuss Nougat Creme , oder Marmelade</name>
-          <note>Haselnuesse</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schalenfruechte und Nuesse</note>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
-        </meal>
         <meal>
           <name>Basic Salat mit einem Brot und drei Toppings nach Wahl</name>
           <note>vegan</note>
@@ -60,18 +46,21 @@
           <price role="student">4.80</price>
         </meal>
         <meal>
-          <name>Grüne Erbsenschaumsuppe mit Brot und einem Topping nach Wahl</name>
+          <name>Paprikacremesuppe mit Brot und einem Topping nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Kichererbsen-Auberginenpfanne Bulgur , mit Joghurt</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Weizen</note>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
+          <name>Mienudeln mit Spinat und Nüssen</name>
+          <note>vegan</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+        <meal>
+          <name>Biryani-Couscous</name>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
         </meal>
         <meal>
           <name>Auberginenpasta mit Knoblauch, Zwiebeln und Rosinen</name>
@@ -79,23 +68,19 @@
           <price role="student">3.60</price>
         </meal>
         <meal>
-          <name>Milchreis mit Mandarinen</name>
+          <name>Obstsalat</name>
+          <note>vegan</note>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
-          <name>Himbeerquark</name>
+          <name>Milchreis mit Mandarinen</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
         <meal>
           <name>Kirschgrütze</name>
           <note>vegan</note>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
-        <meal>
-          <name>Vanillepudding</name>
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>

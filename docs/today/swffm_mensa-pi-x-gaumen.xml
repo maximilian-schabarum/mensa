@@ -3,13 +3,18 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-17">
+    <day date="2026-06-18">
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffelsuppe</name>
-          <note>Kartoffel</note>
+          <name>Karotten-Ingwercremesuppe</name>
+          <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Pfannkuchen mit Apfelmus und einer Beilage nach Wahl</name>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
         <meal>
           <name>Spaghetti mit Sauce Napoli</name>
@@ -18,20 +23,23 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Ofenkartoffel mit Kräuterdip , und Currygemüse</name>
+          <name>Wirsing-Kartoffelpfanne mit Bärlauchsauce , und Brombeerquarkcreme</name>
+          <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
           <note>mensaVital</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Geflügelbällchen mit Bratensauce, und einer Beilage nach Wahl</name>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
+          <name>Truthahn-Zwiebelgulasch mit Penne Rigate</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
         </meal>
       </category>
     </day>
