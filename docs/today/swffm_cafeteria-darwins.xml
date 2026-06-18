@@ -11,14 +11,6 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Gemüsechili mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
-        </meal>
-        <meal>
           <name>Pizzaschnitte Champignons mit einer Beilage nach Wahl</name>
           <price role="other">4.80</price>
           <price role="student">3.20</price>

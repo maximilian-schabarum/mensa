@@ -30,12 +30,6 @@
           <price role="other">5.10</price>
           <price role="student">3.50</price>
         </meal>
-        <meal>
-          <name>Matcha Pudding</name>
-          <note>Schwein</note>
-          <price role="other">3.30</price>
-          <price role="student">1.70</price>
-        </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
