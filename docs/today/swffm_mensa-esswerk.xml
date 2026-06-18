@@ -30,11 +30,6 @@
           <price role="other">7.30</price>
           <price role="student">5.70</price>
         </meal>
-        <meal>
-          <name>Rinderhacksteak mit Paprikasauce, und einer Beilage nach Wahl</name>
-          <price role="other">7.20</price>
-          <price role="student">5.60</price>
-        </meal>
       </category>
     </day>
   </canteen>
