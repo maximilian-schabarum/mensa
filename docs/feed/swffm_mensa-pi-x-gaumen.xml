@@ -3,84 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-18">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Karotten-Ingwercremesuppe</name>
-          <note>vegan</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Pfannkuchen mit Apfelmus und einer Beilage nach Wahl</name>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
-        </meal>
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Wirsing-Kartoffelpfanne mit Bärlauchsauce , und Brombeerquarkcreme</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Truthahn-Zwiebelgulasch mit Penne Rigate</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <price role="other">7.30</price>
-          <price role="student">5.70</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-06-19">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Zartweizengratin mit Mangomus</name>
-          <note>mensaVital</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hokifilet Meunière mit Kräutermayonnaise , und einer Beilage nach Wahl</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Weizen</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">7.50</price>
-          <price role="student">5.90</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-06-22">
       <category name="Vegetarisch">
         <meal>
           <name>Spaghetti mit Sauce Napoli</name>
-          <note>Alkohol</note>
-          <note>Schwefeldioxid / Sulfit</note>
           <note>vegan</note>
           <price role="other">3.40</price>
           <price role="student">1.80</price>
@@ -94,11 +20,8 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>mit Geflügelsauce Drillings-Senfkartoffeln , Geflügelfleischkäse , mit Bratensauce</name>
+          <name>Geflügelfleischkäse Rosmarinkartoffeln, mit Bratensauce</name>
           <note>Kartoffel</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>konserviert</note>
-          <note>mit Antioxidationsmittel</note>
           <price role="other">5.70</price>
           <price role="student">4.10</price>
         </meal>
@@ -108,8 +31,6 @@
       <category name="Vegetarisch">
         <meal>
           <name>Spaghetti mit Sauce Napoli</name>
-          <note>Alkohol</note>
-          <note>Schwefeldioxid / Sulfit</note>
           <note>vegan</note>
           <price role="other">3.40</price>
           <price role="student">1.80</price>
@@ -124,7 +45,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Loaded Fries mit Kibbelingen , und Remouladensauce</name>
+          <name>Loaded Fries mit Kibbelingen , mit Remouladensauce , Zitronenecke</name>
           <note>Eier und Eiererzeugnisse</note>
           <note>Fisch und Fischerzeugnisse</note>
           <note>Glutenhaltige Getreide</note>
@@ -145,8 +66,6 @@
       <category name="Vegetarisch">
         <meal>
           <name>Spaghetti mit Sauce Napoli</name>
-          <note>Alkohol</note>
-          <note>Schwefeldioxid / Sulfit</note>
           <note>vegan</note>
           <price role="other">3.40</price>
           <price role="student">1.80</price>
@@ -169,6 +88,58 @@
           <note>mit Antioxidationsmittel</note>
           <price role="other">7.30</price>
           <price role="student">5.70</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-25">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
+          <note>vegan</note>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Kartoffel-Blumenkohlauflauf mit Rucolasalat , mit einer Banane</name>
+          <note>Kartoffel</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>mensaVital</note>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bratwurst mit Currysauce , Pommes frites</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Rind</note>
+          <note>Schwein</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Phosphat</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
+          <name>Rindswurst mit Currysauce , Pommes frites</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Phosphat</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
         </meal>
       </category>
     </day>
