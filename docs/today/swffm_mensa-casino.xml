@@ -3,45 +3,56 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-18">
+    <day date="2026-06-19">
       <category name="Vegetarisch">
         <meal>
-          <name>Kokos-Gemüsesuppe</name>
-          <note>vegan</note>
+          <name>Selleriesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Gemüseauflauf mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <price role="other">4.70</price>
-          <price role="student">3.10</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Spaghetti mit Sauce Napoli</name>
+          <name>Ausgabe 3 Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
           <price role="other">3.40</price>
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Kartoffel-Karottengratin mit Kräuterschmand , und Rosinen-Mandelquark</name>
-          <note>Kartoffel</note>
-          <note>Mandeln</note>
+          <name>Ausgabe 5 Kirschpfannkuchen mit Vanillesauce</name>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Schalenfruechte und Nuesse</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
+        </meal>
+        <meal>
+          <name>Gemüseauflauf mit Gorgonzola und rotem Linsensalat mit Koriander</name>
+          <note>Kartoffel</note>
+          <note>Schwefeldioxid / Sulfit</note>
           <note>mensaVital</note>
-          <price role="other">5.70</price>
-          <price role="student">4.10</price>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Truthahn-Zwiebelgulasch mit Spätzle</name>
+          <name>Ausgabe 1 Hokifilet Meunière mit Kräutermayonnaise , und Drillingskartoffeln mit roten Zwiebeln</name>
           <note>Eier und Eiererzeugnisse</note>
+          <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
           <note>Weizen</note>
-          <price role="other">7.30</price>
-          <price role="student">5.70</price>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.50</price>
+          <price role="student">5.90</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Halbes Hähnchen mit Ofenkartoffel, und Tzatziki</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">10.00</price>
+          <price role="student">8.40</price>
         </meal>
       </category>
     </day>

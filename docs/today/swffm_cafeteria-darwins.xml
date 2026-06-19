@@ -3,39 +3,40 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-18">
+    <day date="2026-06-19">
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüsecremesuppe</name>
+          <name>Kartoffelcremesuppe</name>
+          <note>Kartoffel</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Pizzaschnitte Champignons mit einer Beilage nach Wahl</name>
+          <name>Brombeerkaltschale</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Kartoffel-Kokosgratin mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
           <price role="other">4.80</price>
           <price role="student">3.20</price>
         </meal>
         <meal>
-          <name>Hummus mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">3.60</price>
-          <price role="student">2.00</price>
-        </meal>
-        <meal>
-          <name>Broccoli-Nussecke mit veganem Sojadip , und einer Beilage nach Wahl</name>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
+          <name>Kolbörek mit Spinat-Käsefüllung mit Joghurtdip , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Rindswurst mit Zwiebelsauce, und einer Beilage nach Wahl</name>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
+          <name>Seelachs in Mandelpanade mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.70</price>
+          <price role="student">6.10</price>
         </meal>
       </category>
     </day>
