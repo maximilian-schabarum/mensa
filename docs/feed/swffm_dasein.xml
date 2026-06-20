@@ -93,5 +93,28 @@
         </meal>
       </category>
     </day>
+    <day date="2026-06-26">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kokos-Currysuppe</name>
+          <note>vegan</note>
+          <price role="other">3.20</price>
+          <price role="student">1.60</price>
+        </meal>
+        <meal>
+          <name>Pasta mit Sauce Napoli und einer Beilage nach Wahl</name>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Seelachs auf Bratgemüse</name>
+          <note>MSC</note>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>

@@ -172,5 +172,39 @@
         </meal>
       </category>
     </day>
+    <day date="2026-06-26">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Bohnensuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
+          <note>vegan</note>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Frische Waffeln</name>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Seelachsfilet im Backteig mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
