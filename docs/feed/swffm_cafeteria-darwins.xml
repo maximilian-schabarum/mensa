@@ -12,9 +12,20 @@
           <price role="student">3.20</price>
         </meal>
         <meal>
-          <name>Käsespätzle mit einer Beilage nach Wahl</name>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
+          <name>Kartoffel-Kokosgratin mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Seelachs in Mandelpanade mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.70</price>
+          <price role="student">6.10</price>
         </meal>
       </category>
     </day>
