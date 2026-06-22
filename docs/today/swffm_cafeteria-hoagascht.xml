@@ -39,12 +39,6 @@
           <price role="other">2.80</price>
           <price role="student">1.20</price>
         </meal>
-        <meal>
-          <name>Obstsalat</name>
-          <note>vegan</note>
-          <price role="other">2.80</price>
-          <price role="student">1.20</price>
-        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
