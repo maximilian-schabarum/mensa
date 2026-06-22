@@ -18,6 +18,16 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
+          <name>Gemüseschnitzel mit Pilzrahmsauce , und Rocchetti</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
           <name>Bandnudeln Tomate-Zucchini</name>
           <note>mensaVital</note>
           <price role="other">4.60</price>
