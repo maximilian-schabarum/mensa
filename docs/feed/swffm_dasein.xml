@@ -6,7 +6,7 @@
     <day date="2026-06-22">
       <category name="Vegetarisch">
         <meal>
-          <name>Blumenkohlcremesuppe</name>
+          <name>Gemüsecremesuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
@@ -15,6 +15,12 @@
           <note>vegan</note>
           <price role="other">5.70</price>
           <price role="student">4.10</price>
+        </meal>
+        <meal>
+          <name>Chili sin Carne Reis, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
         </meal>
         <meal>
           <name>Grünkern-Nudelauflauf und einer Beilage nach Wahl</name>

@@ -6,9 +6,8 @@
     <day date="2026-06-22">
       <category name="Hauptgericht">
         <meal>
-          <name>Geflügelfleischkäse mit Geflügelsauce, und Drillings-Senfkartoffeln</name>
+          <name>Geflügelfleischkäse mit Geflügelsauce, Rosmarinkartoffeln</name>
           <note>Kartoffel</note>
-          <note>Senf und Senferzeugnisse</note>
           <price role="other">5.70</price>
           <price role="student">4.10</price>
         </meal>

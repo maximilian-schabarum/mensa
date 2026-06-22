@@ -3,92 +3,88 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-15">
+    <day date="2026-06-22">
       <category name="Vegetarisch">
         <meal>
-          <name>Paprikacremesuppe</name>
-          <note>Laktose</note>
+          <name>Minestrone</name>
           <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Spargelsoße mit Pasta</name>
+          <name>Asiatischer Gemüsereis mit Kokosmilch</name>
+          <note>Cashewnüsse</note>
           <note>Sellerie</note>
-          <note>Senf</note>
+          <note>Soja</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Pasta mit Schinken und Spargel</name>
-          <note>Ascorbinsäure</note>
+          <name>Gebratener Reis mit Hühnchen und Asiagemüse</name>
+          <note>Cashewnüsse</note>
+          <note>Sellerie</note>
+          <note>Soja</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-23">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Asiatische Hühnersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Wurstsalat mit Bratkartoffeln</name>
           <note>Laktose</note>
           <note>Nitripökelsalz</note>
           <note>Phosphat</note>
-          <note>Sellerie</note>
-          <note>Weizen</note>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-06-16">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Gulaschsuppe mit Ochsenbäckchen</name>
-          <note>Sellerie</note>
-        </meal>
-        <meal>
-          <name>Bratwurst mit Kartoffeln und Blumenkohlgemüse</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
         </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffel-Blumenkohlgratin</name>
+          <name>Kräuterquark mit Ei und Bratkartoffeln</name>
           <note>Laktose</note>
-          <note>Sellerie</note>
         </meal>
       </category>
     </day>
-    <day date="2026-06-17">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Rinderbrühe mit versch. Einlage</name>
-          <note>Eier</note>
-          <note>Laktose</note>
-          <note>Sellerie</note>
-          <note>Weizen</note>
-        </meal>
-        <meal>
-          <name>Geflügelgeschnetzeltes Züricher Art mit Spätzle</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
-        </meal>
-      </category>
+    <day date="2026-06-24">
       <category name="Vegetarisch">
         <meal>
-          <name>gemischte Pilze mit Spätzle und Chinakohl-Salat</name>
+          <name>Griesklößchensuppe</name>
           <note>Eier</note>
           <note>Laktose</note>
           <note>Sellerie</note>
           <note>Weizen</note>
         </meal>
       </category>
-    </day>
-    <day date="2026-06-18">
-      <category name="Vegetarisch">
+      <category name="Hauptgericht">
         <meal>
-          <name>Lauchsuppe</name>
-          <note>Sellerie</note>
+          <name>Jägerschnitzel mit Tomatensoße und Nudeln</name>
+          <note>Laktose</note>
+          <note>Weizen</note>
         </meal>
         <meal>
-          <name>Gemüsecouscous mit Schafskäsewürfeln</name>
-          <note>Laktose</note>
+          <name>Pasta Arrabbiata</name>
           <note>Sellerie</note>
           <note>Weizen</note>
         </meal>
       </category>
+    </day>
+    <day date="2026-06-25">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Süßkartoffelgulasch mit Knödeln</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hackbraten mit Erbspüree</name>
+          <name>gemischtes Gulasch mit Knödeln</name>
           <note>Eier</note>
           <note>Sellerie</note>
           <note>Senf</note>
@@ -96,26 +92,25 @@
         </meal>
       </category>
     </day>
-    <day date="2026-06-19">
+    <day date="2026-06-26">
       <category name="Vegetarisch">
         <meal>
-          <name>Linseneintopf</name>
+          <name>Kartoffelsuppe</name>
+          <note>Laktose</note>
           <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Spargellasagne mit Salat</name>
-          <note>Eier</note>
+          <name>Kartoffel-Lauchgratin</name>
           <note>Laktose</note>
           <note>Sellerie</note>
-          <note>Weizen</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Lasagne Bolognese</name>
+          <name>Fleischknepp in Sahnemeerrettich mit Kartoffeln</name>
           <note>Eier</note>
-          <note>Laktose</note>
           <note>Sellerie</note>
+          <note>Senf</note>
           <note>Weizen</note>
         </meal>
       </category>
