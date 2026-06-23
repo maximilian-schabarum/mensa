@@ -3,11 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-22">
+    <day date="2026-06-23">
       <category name="Vegetarisch">
         <meal>
-          <name>Passierte Erbsensuppe</name>
-          <note>vegan</note>
+          <name>Ingwer-Karottencremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -18,59 +17,9 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Gebratener Gemüsereis mit Ei und Nüssen</name>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Gemüseschnitzel mit Bratensauce, Farfalle</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Gemüseauflauf mit Gorgonzola mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
-        </meal>
-        <meal>
-          <name>Bandnudeln Tomate-Zucchini</name>
-          <note>mensaVital</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Ausgabe 1 Geflügelfleischkäse mit Geflügelsauce, Rosmarinkartoffeln</name>
-          <note>Kartoffel</note>
-          <price role="other">5.70</price>
-          <price role="student">4.10</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-06-23">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Blumenkohl-Kokossuppe</name>
-          <note>vegan</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Kartoffel-Gemüsegratin mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
+          <name>Ausgabe 5 Gebratener Gemüsereis mit Ei und Nüssen</name>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
         <meal>
           <name>Gemüse-Couscouspfanne mit Joghurt-Ingwerdip</name>
@@ -79,10 +28,16 @@
           <price role="other">4.70</price>
           <price role="student">3.10</price>
         </meal>
+        <meal>
+          <name>Bandnudeln Tomate-Zucchini</name>
+          <note>mensaVital</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Schweinegeschnetzeltes mit Pilzen mit Reis</name>
+          <name>Ausgabe 1 Schweinegeschnetzeltes mit Pilzen mit Reis</name>
           <note>Alkohol</note>
           <price role="other">5.20</price>
           <price role="student">3.60</price>
@@ -236,6 +191,44 @@
           <note>Schwefeldioxid / Sulfit</note>
           <price role="other">6.40</price>
           <price role="student">4.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-29">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tomatencremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
+          <note>vegan</note>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Kartoffelrösti Mozzarella-Lauch mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
+        </meal>
+        <meal>
+          <name>Penne-Broccoliauflauf mit Tomatensauce</name>
+          <note>mensaVital</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bifteki mit Ajvar, und Djuvecreis</name>
+          <note>Rind</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.60</price>
+          <price role="student">5.00</price>
         </meal>
       </category>
     </day>

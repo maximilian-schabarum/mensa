@@ -3,10 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-22">
+    <day date="2026-06-23">
       <category name="Vegetarisch">
         <meal>
-          <name>Bunte Gemüsesuppe</name>
+          <name>Zwiebelsuppe</name>
+          <note>Alkohol</note>
           <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
@@ -17,42 +18,26 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Gemüsepfanne mit Reisbandnudeln und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
-        </meal>
-        <meal>
-          <name>Kolbörek mit Spinat-Käsefüllung mit Joghurtdip , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.10</price>
-          <price role="student">2.50</price>
-        </meal>
-        <meal>
-          <name>Kartoffel-Kokosgratin mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Seelachs in Mandelpanade mit Joghurtdip , und einer Beilage nach Wahl</name>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">7.50</price>
-          <price role="student">5.90</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-06-23">
-      <category name="Vegetarisch">
-        <meal>
           <name>Gemüse mit Tofu und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
+        </meal>
+        <meal>
+          <name>Käsespätzle mit einer Beilage nach Wahl</name>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Gyros mit Joghurtdip , Kaiserbrötchen , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwein</note>
+          <note>Weizen</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
         </meal>
       </category>
     </day>
@@ -84,6 +69,16 @@
           <note>vegan</note>
           <price role="other">5.30</price>
           <price role="student">3.70</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-06-29">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüse mit Tofu, Kokos und Basmatireis</name>
+          <note>vegan</note>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
         </meal>
       </category>
     </day>
