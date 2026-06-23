@@ -203,6 +203,10 @@
           <price role="student">0.60</price>
         </meal>
         <meal>
+          <name>Kartoffel-Gemüsegratin</name>
+          <note>Kartoffel</note>
+        </meal>
+        <meal>
           <name>Burrata mit Brot oder Brötchen</name>
           <note>Alkohol</note>
           <note>Gerste</note>

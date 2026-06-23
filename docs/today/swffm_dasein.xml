@@ -26,6 +26,11 @@
           <price role="student">3.30</price>
         </meal>
         <meal>
+          <name>Grünkern-Nudelauflauf und einer Beilage nach Wahl</name>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+        <meal>
           <name>Gemüse-Dinkelrisotto mit Bergkäse und einer Beilage nach Wahl</name>
           <price role="other">6.80</price>
           <price role="student">5.20</price>

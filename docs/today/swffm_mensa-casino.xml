@@ -17,6 +17,12 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
+          <name>Ausgabe 5 Kartoffel-Gemüsegratin mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+        <meal>
           <name>Ausgabe 5 Gebratener Gemüsereis mit Ei und Nüssen</name>
           <price role="other">5.60</price>
           <price role="student">4.00</price>
