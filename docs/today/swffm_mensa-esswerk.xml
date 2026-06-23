@@ -11,6 +11,12 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
+          <name>Gemüseschnitzel mit Spinatsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+        <meal>
           <name>Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
           <price role="other">3.40</price>
@@ -44,6 +50,12 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">7.50</price>
           <price role="student">5.90</price>
+        </meal>
+        <meal>
+          <name>Geflügelcevapcici mit Tzatziki , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
       </category>
     </day>
