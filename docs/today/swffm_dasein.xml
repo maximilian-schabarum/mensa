@@ -11,7 +11,7 @@
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Gemüsepaella mit Cashewkernen und einer Beilage nach Wahl</name>
+          <name>Gemüsepaella und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">6.30</price>
           <price role="student">4.70</price>
