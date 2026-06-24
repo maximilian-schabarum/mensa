@@ -3,18 +3,18 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-23">
+    <day date="2026-06-24">
       <category name="Vegetarisch">
         <meal>
-          <name>Spargelcremesuppe</name>
+          <name>Champignoncremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Gemüseschnitzel mit Spinatsauce , und einer Beilage nach Wahl</name>
+          <name>Talas-Börek mit Käsefüllung mit Knoblauchjoghurt , und einer Beilage nach Wahl</name>
           <note>Milch und Milcherzeugnisse</note>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
         </meal>
         <meal>
           <name>Spaghetti mit Sauce Napoli</name>
@@ -22,40 +22,12 @@
           <price role="other">3.40</price>
           <price role="student">1.80</price>
         </meal>
-        <meal>
-          <name>Gemüse-Couscouspfanne mit Joghurt-Ingwerdip</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>mensaVital</note>
-          <price role="other">4.70</price>
-          <price role="student">3.10</price>
-        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Paniertes Putenschnitzel mit Champignonrahmsauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">7.10</price>
-          <price role="student">5.50</price>
-        </meal>
-        <meal>
-          <name>Rinderhacksteak mit Barbecuesauce , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>geschwefelt</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">7.50</price>
-          <price role="student">5.90</price>
-        </meal>
-        <meal>
-          <name>Geflügelcevapcici mit Tzatziki , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">6.00</price>
-          <price role="student">4.40</price>
+          <name>Hähnchen Cordon bleu mit Bratensauce, einer Beilage nach Wahl, Zitronenecke</name>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
       </category>
     </day>
