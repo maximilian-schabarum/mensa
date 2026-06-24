@@ -18,6 +18,8 @@
         </meal>
         <meal>
           <name>Ausgabe 5 Mienudelsalat mit Frühlingsröllchen</name>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -27,6 +29,12 @@
           <note>geschwefelt</note>
           <price role="other">6.20</price>
           <price role="student">4.60</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Geflügelfleischkäse mit Geflügelsauce, Rosmarinkartoffeln</name>
+          <note>Kartoffel</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
         </meal>
         <meal>
           <name>Mariniertes Seelachsfilet und Meerrettichstampfkartoffeln , und Lauch-Maissalat</name>

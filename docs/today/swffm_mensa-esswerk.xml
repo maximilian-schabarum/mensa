@@ -6,7 +6,7 @@
     <day date="2026-06-24">
       <category name="Vegetarisch">
         <meal>
-          <name>Champignoncremesuppe</name>
+          <name>Blumenkohlcremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -25,7 +25,8 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchen Cordon bleu mit Bratensauce, einer Beilage nach Wahl, Zitronenecke</name>
+          <name>Hähnchen Cordon bleu mit Champignonrahmsauce , mit einer Beilage nach Wahl, Zitronenecke</name>
+          <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.20</price>
           <price role="student">4.60</price>
         </meal>
