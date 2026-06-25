@@ -3,19 +3,16 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-24">
+    <day date="2026-06-25">
       <category name="Vegetarisch">
         <meal>
-          <name>Kohlrabicremesuppe</name>
+          <name>Champignoncremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Blumenkohl-Käsemedaillon mit Sauce Choron , und einer Beilage nach Wahl</name>
-          <note>Alkohol</note>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
+          <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
           <price role="other">5.20</price>
           <price role="student">3.60</price>
         </meal>
@@ -28,36 +25,13 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchen Cordon bleu Zitronenecke, mit einer Beilage nach Wahl</name>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-06-25">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Rindswurst mit Currysauce , und Pommes frites</name>
+          <name>Rindswurst mit Bratensauce , und Country Potatoes</name>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
           <note>Weizen</note>
           <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <note>mit Phosphat</note>
-          <note>mit Suessungsmitteln</note>
           <price role="other">4.90</price>
           <price role="student">3.30</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
         </meal>
       </category>
     </day>
@@ -118,6 +92,25 @@
           <note>mensaVital</note>
           <price role="other">5.90</price>
           <price role="student">4.30</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-07-01">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
+          <note>vegan</note>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Grünkern-Kartoffelauflauf mit Blumenkohlsalat</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Kartoffel</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
         </meal>
       </category>
     </day>

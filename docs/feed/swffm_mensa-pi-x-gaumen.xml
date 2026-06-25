@@ -3,11 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-24">
+    <day date="2026-06-25">
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüsebrühe</name>
-          <note>vegan</note>
+          <name>Broccolicremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -17,42 +16,12 @@
           <price role="other">3.40</price>
           <price role="student">1.80</price>
         </meal>
-      </category>
-      <category name="Hauptgericht">
         <meal>
-          <name>Hähnchen Cordon bleu Zitronenecke, mit einer Beilage nach Wahl</name>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
-        </meal>
-        <meal>
-          <name>Mariniertes Seelachsfilet und Meerrettichstampfkartoffeln , und Lauch-Maissalat</name>
+          <name>Schupfnudel-Gemüsepfanne</name>
           <note>Kartoffel</note>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>geschwefelt</note>
           <note>mensaVital</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">7.30</price>
-          <price role="student">5.70</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-06-25">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Kartoffel-Blumenkohlauflauf mit Rucolasalat , mit einer Banane</name>
-          <note>Kartoffel</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>mensaVital</note>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
+          <price role="other">6.60</price>
+          <price role="student">5.00</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -168,6 +137,43 @@
           <note>mensaVital</note>
           <price role="other">5.90</price>
           <price role="student">4.30</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-07-01">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
+          <note>vegan</note>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Grünkern-Kartoffelauflauf mit Blumenkohlsalat</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Kartoffel</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Loaded Fries mit Barbecuesauce , Pulled Chicken , mit Sour Cream</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Phosphat</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
       </category>
     </day>
