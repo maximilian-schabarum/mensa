@@ -17,6 +17,12 @@
           <price role="student">2.60</price>
         </meal>
         <meal>
+          <name>Gemüsepaella und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+        <meal>
           <name>Pasta Spinat-Mozzarella und einer Beilage nach Wahl</name>
           <price role="other">6.00</price>
           <price role="student">4.40</price>
