@@ -23,6 +23,12 @@
           <price role="other">3.40</price>
           <price role="student">1.80</price>
         </meal>
+        <meal>
+          <name>Vollkornreis-Gemüsepfanne mit Sauce Napoli, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
