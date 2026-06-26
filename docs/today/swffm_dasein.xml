@@ -3,35 +3,27 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-25">
+    <day date="2026-06-26">
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüsecremesuppe</name>
+          <name>Kartoffelcremesuppe</name>
+          <note>Kartoffel</note>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Sojabolognese Reis, und einer Beilage nach Wahl</name>
+          <name>Broccoli-Gemüsewok mit Basmatireis</name>
           <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
         </meal>
+      </category>
+      <category name="Hauptgericht">
         <meal>
-          <name>Gemüsepaella und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
-        </meal>
-        <meal>
-          <name>Pasta Spinat-Mozzarella und einer Beilage nach Wahl</name>
-          <price role="other">6.00</price>
-          <price role="student">4.40</price>
-        </meal>
-        <meal>
-          <name>Gemüse-Kokoscurry Basmatireis</name>
-          <note>vegan</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <name>Seelachs auf Bratgemüse</name>
+          <note>MSC</note>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
         </meal>
       </category>
     </day>

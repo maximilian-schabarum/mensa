@@ -3,10 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-25">
+    <day date="2026-06-26">
       <category name="Vegetarisch">
         <meal>
-          <name>Brombeerkaltschale</name>
+          <name>Bohnensuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -17,52 +17,30 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Kartoffel-Gemüsegratin mit einer Beilage nach Wahl</name>
+          <name>Ausgabe 5 Gratin dauphinois-Kartoffelgratin französische Art mit einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
         <meal>
-          <name>Kartoffel-Blumenkohlauflauf mit Rucolasalat , mit einer Banane</name>
-          <note>Kartoffel</note>
-          <note>Schwefeldioxid / Sulfit</note>
+          <name>Vollkornspaghetti mit Linsenbolognese</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
           <note>mensaVital</note>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Bratwurst mit Currysauce , und Pommes frites</name>
-          <note>Glutenhaltige Getreide</note>
+          <name>Ausgabe 1 Seelachsfilet im Backteig mit Joghurt-Dillsauce , und Risoleekartoffeln</name>
           <note>Kartoffel</note>
-          <note>Rind</note>
-          <note>Schwein</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <note>mit Phosphat</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Rindswurst mit Currysauce , und Pommes frites</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <note>mit Phosphat</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>geschwefelt</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
         </meal>
       </category>
     </day>
