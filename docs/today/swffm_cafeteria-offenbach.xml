@@ -4,6 +4,26 @@
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <day date="2026-06-26">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Lauchrahmsuppe</name>
+          <note>Kartoffel</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Kartoffeltaschen mit Frischkäse, Sauce Napoli, und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
+        </meal>
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
+          <note>vegan</note>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+      </category>
       <category name="Hauptgericht">
         <meal>
           <name>Seelachsfilet im Backteig mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
@@ -11,14 +31,6 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.40</price>
           <price role="student">4.80</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
         </meal>
       </category>
     </day>
