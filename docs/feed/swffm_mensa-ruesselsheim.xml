@@ -3,11 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-25">
+    <day date="2026-06-26">
       <category name="Vegetarisch">
         <meal>
-          <name>Karotten-Ingwercremesuppe</name>
-          <note>vegan</note>
+          <name>Broccolicremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -18,28 +17,18 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Blumenkohl-Käsemedaillon mit Sauce Vegetale, und einer Beilage nach Wahl</name>
-          <price role="other">5.30</price>
-          <price role="student">3.70</price>
+          <name>Pfannkuchen mit Apfelmus und einer Beilage nach Wahl</name>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Bratwurst mit Currysauce , und Pommes frites</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
-          <note>Rind</note>
-          <note>Schwein</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <note>mit Phosphat</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
+          <name>Seelachsfilet im Backteig mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
         </meal>
         <meal>
           <name>Rindswurst mit Currysauce , und einer Beilage nach Wahl</name>
@@ -55,24 +44,21 @@
           <price role="other">4.90</price>
           <price role="student">3.30</price>
         </meal>
-      </category>
-    </day>
-    <day date="2026-06-26">
-      <category name="Vegetarisch">
         <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Seelachsfilet im Backteig mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
+          <name>Bratwurst mit Currysauce , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Rind</note>
+          <note>Schwein</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Phosphat</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
         </meal>
       </category>
     </day>
@@ -194,6 +180,28 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">6.50</price>
           <price role="student">4.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-07-02">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
+          <note>vegan</note>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Kartoffel-Gemüsegulasch mit einer Beilage nach Wahl</name>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchenschnitzel Ananas-Käse mit Geflügelsauce, und einer Beilage nach Wahl</name>
+          <price role="other">7.10</price>
+          <price role="student">5.50</price>
         </meal>
       </category>
     </day>

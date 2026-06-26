@@ -3,18 +3,19 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-25">
+    <day date="2026-06-26">
       <category name="Vegetarisch">
         <meal>
-          <name>Champignoncremesuppe</name>
+          <name>Lauchrahmsuppe</name>
+          <note>Kartoffel</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
+          <name>Kartoffeltaschen mit Frischkäse, Sauce Napoli, und einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
         </meal>
         <meal>
           <name>Spaghetti mit Sauce Napoli</name>
@@ -23,19 +24,6 @@
           <price role="student">1.80</price>
         </meal>
       </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Rindswurst mit Bratensauce , und Country Potatoes</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-06-26">
       <category name="Hauptgericht">
         <meal>
           <name>Seelachsfilet im Backteig mit Joghurt-Dillsauce , und einer Beilage nach Wahl</name>
@@ -43,14 +31,6 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.40</price>
           <price role="student">4.80</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
         </meal>
       </category>
     </day>
@@ -111,6 +91,23 @@
           <note>mensaVital</note>
           <price role="other">5.70</price>
           <price role="student">4.10</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-07-02">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchenschnitzel Ananas-Käse mit Geflügelsauce, und einer Beilage nach Wahl</name>
+          <price role="other">7.10</price>
+          <price role="student">5.50</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
+          <note>vegan</note>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
         </meal>
       </category>
     </day>

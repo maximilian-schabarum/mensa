@@ -3,46 +3,19 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-25">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Gemüsecremesuppe</name>
-          <price role="other">3.20</price>
-          <price role="student">1.60</price>
-        </meal>
-        <meal>
-          <name>Sojabolognese Reis, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
-        </meal>
-        <meal>
-          <name>Pasta Spinat-Mozzarella und einer Beilage nach Wahl</name>
-          <price role="other">6.00</price>
-          <price role="student">4.40</price>
-        </meal>
-        <meal>
-          <name>Gemüse-Kokoscurry Basmatireis</name>
-          <note>vegan</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-06-26">
       <category name="Vegetarisch">
         <meal>
-          <name>Kokos-Currysuppe</name>
-          <note>vegan</note>
+          <name>Kartoffelcremesuppe</name>
+          <note>Kartoffel</note>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Broccoli-Gemüsewok mit Curryreis</name>
-          <note>Senf und Senferzeugnisse</note>
+          <name>Broccoli-Gemüsewok mit Basmatireis</name>
           <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -126,6 +99,30 @@
           <note>Rind</note>
           <price role="other">7.80</price>
           <price role="student">6.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-07-02">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Mediterrane Gemüsecremesuppe</name>
+          <price role="other">3.20</price>
+          <price role="student">1.60</price>
+        </meal>
+        <meal>
+          <name>Gnocchi Spinat-Gorgonzola mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
+        </meal>
+        <meal>
+          <name>Penne mit Kräuter-Pilzrahmsauce , und einer Beilage nach Wahl</name>
+          <note>Alkohol</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
         </meal>
       </category>
     </day>
