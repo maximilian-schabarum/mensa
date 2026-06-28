@@ -194,7 +194,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Seelachsfilet in Eihülle mit Remouladensauce , Petersilienkartoffeln</name>
+          <name>Seelachsfilet im Kartoffelmantel mit Remouladensauce , Petersilienkartoffeln</name>
           <note>Eier und Eiererzeugnisse</note>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
@@ -203,8 +203,8 @@
           <note>Senf und Senferzeugnisse</note>
           <note>Weizen</note>
           <note>mit Suessungsmitteln</note>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
       </category>
     </day>
