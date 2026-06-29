@@ -11,19 +11,19 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
+          <name>Ausgabe 3 Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
           <price role="other">3.40</price>
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Kartoffelrösti Mozzarella-Lauch mit einer Beilage nach Wahl</name>
+          <name>Ausgabe 5 Kartoffelrösti Mozzarella-Lauch mit einer Beilage nach Wahl</name>
           <note>Kartoffel</note>
           <price role="other">6.10</price>
           <price role="student">4.50</price>
         </meal>
         <meal>
-          <name>Penne-Broccoliauflauf mit Tomatensauce</name>
+          <name>Farfalle-Broccoliauflauf mit Tomatensauce</name>
           <note>mensaVital</note>
           <price role="other">6.20</price>
           <price role="student">4.60</price>
@@ -31,13 +31,19 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Bifteki mit Ajvar, und Djuvecreis</name>
+          <name>Ausgabe 1 Bifteki mit Ajvar, und Djuvecreis</name>
           <note>Rind</note>
           <note>Senf und Senferzeugnisse</note>
           <note>mit Antioxidationsmittel</note>
           <note>mit Suessungsmitteln</note>
           <price role="other">6.60</price>
           <price role="student">5.00</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 2 Halbes Hähnchen Pommes frites</name>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">9.10</price>
+          <price role="student">7.50</price>
         </meal>
       </category>
     </day>

@@ -6,10 +6,27 @@
     <day date="2026-06-29">
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüse mit Tofu, Kokos und Basmatireis</name>
+          <name>Frischkäsesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Brombeerkaltschale</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Bohnen-Kartoffelcurry mit einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">4.70</price>
-          <price role="student">3.10</price>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Geflügelbratwurst mit Bratensauce, und einer Beilage nach Wahl</name>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
         </meal>
       </category>
     </day>
