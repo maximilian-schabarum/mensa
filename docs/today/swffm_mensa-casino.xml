@@ -23,6 +23,12 @@
           <price role="student">4.50</price>
         </meal>
         <meal>
+          <name>Ausgabe 5 Gratin dauphinois-Kartoffelgratin französische Art mit einer Beilage nach Wahl</name>
+          <note>Kartoffel</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
+        </meal>
+        <meal>
           <name>Farfalle-Broccoliauflauf mit Tomatensauce</name>
           <note>mensaVital</note>
           <price role="other">6.20</price>
