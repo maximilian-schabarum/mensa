@@ -25,6 +25,13 @@
           <price role="other">6.60</price>
           <price role="student">5.00</price>
         </meal>
+        <meal>
+          <name>Rindswurst mit Portion Senf , und einer Beilage nach Wahl</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
       </category>
     </day>
   </canteen>

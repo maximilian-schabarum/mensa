@@ -16,23 +16,10 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Gemüse mit Tofu, Kokos und Basmatireis</name>
-          <note>vegan</note>
-          <price role="other">4.70</price>
-          <price role="student">3.10</price>
-        </meal>
-        <meal>
           <name>Bohnen-Kartoffelcurry mit einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.00</price>
           <price role="student">2.40</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Geflügelbratwurst mit Bratensauce, und einer Beilage nach Wahl</name>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
         </meal>
       </category>
     </day>
