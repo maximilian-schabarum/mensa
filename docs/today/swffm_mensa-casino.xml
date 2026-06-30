@@ -34,6 +34,13 @@
           <price role="student">4.10</price>
         </meal>
         <meal>
+          <name>Geflügelbällchen mit Bratensauce, Farfalle</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
+        </meal>
+        <meal>
           <name>Hähnchenbruststeak mit Basilikum-Knoblauchsauce , und Gemüse-Kartoffelgnocchi</name>
           <note>Glutenhaltige Getreide</note>
           <note>Kartoffel</note>
