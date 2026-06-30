@@ -3,7 +3,7 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-29">
+    <day date="2026-06-30">
       <category name="Vegetarisch">
         <meal>
           <name>Spaghetti mit Sauce Napoli</name>
@@ -14,13 +14,12 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Bifteki mit Ajvar, und Djuvecreis</name>
-          <note>Rind</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">6.60</price>
-          <price role="student">5.00</price>
+          <name>Kesselgulasch mit Fusilli</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Schwein</note>
+          <note>Weizen</note>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
         </meal>
       </category>
     </day>
