@@ -16,6 +16,12 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
+          <name>Polenta mit Paprika-Tomatensauce, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">3.20</price>
+          <price role="student">1.60</price>
+        </meal>
+        <meal>
           <name>Grünkern-Nudelauflauf mit einer Beilage nach Wahl</name>
           <note>Alkohol</note>
           <price role="other">5.40</price>

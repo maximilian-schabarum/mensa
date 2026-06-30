@@ -21,6 +21,11 @@
           <price role="other">5.60</price>
           <price role="student">4.00</price>
         </meal>
+        <meal>
+          <name>Pfannkuchen mit Apfelmus und einer Beilage nach Wahl</name>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
