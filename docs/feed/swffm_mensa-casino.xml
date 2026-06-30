@@ -3,10 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-29">
+    <day date="2026-06-30">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatencremesuppe</name>
+          <name>Bunte Gemüsesuppe</name>
+          <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -17,64 +18,15 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Kartoffelrösti Mozzarella-Lauch mit einer Beilage nach Wahl</name>
-          <note>Kartoffel</note>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
-        </meal>
-        <meal>
-          <name>Farfalle-Broccoliauflauf mit Tomatensauce</name>
-          <note>mensaVital</note>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Ausgabe 1 Bifteki mit Ajvar, und Djuvecreis</name>
-          <note>Rind</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">6.60</price>
-          <price role="student">5.00</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 2 Halbes Hähnchen Pommes frites</name>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">9.10</price>
-          <price role="student">7.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-06-30">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Bunte Gemüsesuppe</name>
-          <note>vegan</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Ofenkartoffel mit Grüner Soße , und einer Beilage nach Wahl</name>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Kartoffel</note>
+          <name>Ausgabe 5 Ofenkartoffel mit Bärlauchquark , und einer Beilage nach Wahl</name>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
           <price role="other">5.00</price>
           <price role="student">3.40</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Kesselgulasch Farfalle</name>
+          <name>Ausgabe 1 Kesselgulasch Farfalle</name>
           <note>Glutenhaltige Getreide</note>
           <note>Schwein</note>
           <note>Weizen</note>
@@ -211,6 +163,52 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">6.50</price>
           <price role="student">4.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-07-06">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
+          <note>vegan</note>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Makkaroni mit Gemüserahmsauce und einer Beilage nach Wahl</name>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
+        <meal>
+          <name>Gemüsegratin mit Gorgonzola und Heidelbeerquark</name>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Panierte Hähnchensnacks mit Barbecuesauce , und Pommes frites</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Kartoffel</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
         </meal>
       </category>
     </day>
