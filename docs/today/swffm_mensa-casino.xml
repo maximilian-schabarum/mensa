@@ -19,11 +19,10 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Blumenkohl-Käsemedaillon mit Kräuterschmand , Djuvecreis</name>
+          <name>Ausgabe 5 Blumenkohl-Käsemedaillon mit Kräuterschmand , Farfalle</name>
+          <note>Glutenhaltige Getreide</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Suessungsmitteln</note>
+          <note>Weizen</note>
           <price role="other">5.60</price>
           <price role="student">4.00</price>
         </meal>
