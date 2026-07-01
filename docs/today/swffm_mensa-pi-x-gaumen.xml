@@ -41,6 +41,14 @@
           <price role="other">6.50</price>
           <price role="student">4.90</price>
         </meal>
+        <meal>
+          <name>Kesselgulasch Fusilli</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Schwein</note>
+          <note>Weizen</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
       </category>
     </day>
   </canteen>
