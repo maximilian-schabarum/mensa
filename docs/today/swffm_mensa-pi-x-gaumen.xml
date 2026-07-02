@@ -3,10 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-01">
+    <day date="2026-07-02">
       <category name="Vegetarisch">
         <meal>
-          <name>Paprikacremesuppe</name>
+          <name>Spinatcremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -17,37 +17,17 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Grünkern-Kartoffelauflauf mit Blumenkohlsalat</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
+          <name>Schupfnudel-Gemüsepfanne</name>
           <note>mensaVital</note>
-          <price role="other">5.70</price>
-          <price role="student">4.10</price>
+          <price role="other">6.60</price>
+          <price role="student">5.00</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Loaded Fries mit Barbecuesauce , Pulled Chicken , mit Sour Cream</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>geschwefelt</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <note>mit Phosphat</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
-        </meal>
-        <meal>
-          <name>Kesselgulasch Fusilli</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Schwein</note>
-          <note>Weizen</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
+          <name>Hähnchenschnitzel Ananas-Käse mit Geflügelsauce, und einer Beilage nach Wahl</name>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
         </meal>
       </category>
     </day>
