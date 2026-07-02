@@ -26,8 +26,8 @@
       <category name="Hauptgericht">
         <meal>
           <name>Hähnchenschnitzel Ananas-Käse mit Geflügelsauce, und einer Beilage nach Wahl</name>
-          <price role="other">7.20</price>
-          <price role="student">5.60</price>
+          <price role="other">7.10</price>
+          <price role="student">5.50</price>
         </meal>
       </category>
     </day>
