@@ -12,13 +12,13 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
+          <name>Ausgabe 3 Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
           <price role="other">3.40</price>
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Kolbörek mit Spinat-Käsefüllung mit Knoblauchjoghurt , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 5 Kolbörek mit Spinat-Käsefüllung mit Knoblauchjoghurt , und einer Beilage nach Wahl</name>
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">4.20</price>
           <price role="student">2.60</price>
@@ -32,7 +32,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenschnitzel Ananas-Käse mit Geflügelsauce, und Gemüsepilaw</name>
+          <name>Ausgabe 1 Hähnchenschnitzel Ananas-Käse mit Geflügelsauce, und Gemüsepilaw</name>
           <note>Sellerie und Sellerieerzeugnisse</note>
           <price role="other">7.10</price>
           <price role="student">5.50</price>
