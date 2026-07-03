@@ -22,6 +22,19 @@
           <price role="other">6.50</price>
           <price role="student">4.90</price>
         </meal>
+        <meal>
+          <name>Hokifilet Meunière mit Remouladensauce , Gemüsepilaw</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.40</price>
+          <price role="student">5.80</price>
+        </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
@@ -31,7 +44,7 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Germknödel mit Kirschfüllung Vanillesauce , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 5 Germknödel mit Vanillesauce , und einer Beilage nach Wahl</name>
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">4.50</price>
           <price role="student">2.90</price>

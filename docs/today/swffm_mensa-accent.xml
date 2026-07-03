@@ -24,6 +24,12 @@
           <price role="other">7.20</price>
           <price role="student">5.60</price>
         </meal>
+        <meal>
+          <name>Seelachsfilet im Backteig mit Zitronensauce, und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
+        </meal>
       </category>
     </day>
   </canteen>
