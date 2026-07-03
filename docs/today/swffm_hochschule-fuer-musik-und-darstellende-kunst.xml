@@ -11,12 +11,6 @@
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -35,6 +29,16 @@
           <name>Hähnchenschnitzel Ananas-Käse mit Geflügelsauce, und einer Beilage nach Wahl</name>
           <price role="other">7.10</price>
           <price role="student">5.50</price>
+        </meal>
+        <meal>
+          <name>Chili con Carne mit Bauernbrot</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Lupine und Lupinenerzeugnisse</note>
+          <note>Rind</note>
+          <note>Weizen</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
         </meal>
       </category>
     </day>
