@@ -3,11 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-02">
+    <day date="2026-07-03">
       <category name="Vegetarisch">
         <meal>
-          <name>Blumenkohl-Kokossuppe</name>
-          <note>vegan</note>
+          <name>Steckrübensuppe</name>
+          <note>Kartoffel</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -20,19 +20,21 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenschnitzel Ananas-Käse mit Geflügelsauce, und einer Beilage nach Wahl</name>
-          <price role="other">7.10</price>
-          <price role="student">5.50</price>
+          <name>Seelachsfilet im Kartoffelmantel mit Remouladensauce , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
         <meal>
-          <name>Chili con Carne mit Bauernbrot</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Lupine und Lupinenerzeugnisse</note>
-          <note>Rind</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">6.30</price>
-          <price role="student">4.70</price>
+          <name>Hähnchenschnitzel Ananas-Käse mit Geflügelsauce, und einer Beilage nach Wahl</name>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
       </category>
     </day>

@@ -3,10 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-02">
+    <day date="2026-07-03">
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüsecremesuppe</name>
+          <name>Mediterrane Gemüsesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -19,9 +19,15 @@
       </category>
       <category name="Hauptgericht">
         <meal>
+          <name>Schlemmerfilet Italiano mit Zitronensauce, und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
+        </meal>
+        <meal>
           <name>Hähnchenschnitzel Ananas-Käse mit Bratensauce, und einer Beilage nach Wahl</name>
-          <price role="other">7.10</price>
-          <price role="student">5.50</price>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
         </meal>
       </category>
     </day>
