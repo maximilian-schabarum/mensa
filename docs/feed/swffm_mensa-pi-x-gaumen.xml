@@ -47,14 +47,10 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Chili con Carne mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Lupine und Lupinenerzeugnisse</note>
+          <name>Ofenkartoffel Chili con carne</name>
           <note>Rind</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
         </meal>
         <meal>
           <name>Gebratenes Seehechtfilet mit Linsen-Reissalat</name>
@@ -113,7 +109,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenkeule andalusische Art und einer Beilage nach Wahl</name>
+          <name>Hähnchenkeule andalusische Art mit einer Beilage nach Wahl</name>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
         </meal>
