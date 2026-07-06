@@ -4,6 +4,27 @@
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
     <day date="2026-07-06">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Erbsenrahmsuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
+          <note>vegan</note>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Paprikaschote mit Reisfüllung Pilzsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+      </category>
       <category name="Hauptgericht">
         <meal>
           <name>Panierte Hähnchensnacks mit Barbecuesauce , und einer Beilage nach Wahl</name>
@@ -20,25 +41,15 @@
           <price role="student">5.30</price>
         </meal>
       </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Paprikaschote mit Reisfüllung Pilzsauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>geschwefelt</note>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
-        </meal>
-      </category>
     </day>
     <day date="2026-07-07">
       <category name="Vegetarisch">
+        <meal>
+          <name>Pilzcremesuppe</name>
+          <note>Alkohol</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
@@ -60,6 +71,11 @@
     <day date="2026-07-08">
       <category name="Vegetarisch">
         <meal>
+          <name>Bärlauchcremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
           <price role="other">3.40</price>
@@ -77,14 +93,13 @@
       </category>
     </day>
     <day date="2026-07-09">
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchenkeule andalusische Art mit Rosmarinkartoffeln</name>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-      </category>
       <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Lauchsuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
@@ -92,8 +107,29 @@
           <price role="student">1.80</price>
         </meal>
       </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchenkeule andalusische Art mit Rosmarinkartoffeln</name>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
+      </category>
     </day>
     <day date="2026-07-10">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Paprikasuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Spaghetti mit Sauce Napoli</name>
+          <note>vegan</note>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+      </category>
       <category name="Hauptgericht">
         <meal>
           <name>Paniertes Schollenfilet mit Remouladensauce , und Schwenkkartoffeln</name>
@@ -107,14 +143,6 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">6.90</price>
           <price role="student">5.30</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
-          <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
         </meal>
       </category>
     </day>

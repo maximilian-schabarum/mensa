@@ -137,13 +137,11 @@
         </meal>
         <meal>
           <name>Ofenkartoffel mit Kräuterquark</name>
-          <note>Kartoffel</note>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
         </meal>
         <meal>
           <name>Ofenkartoffel mit veganem Kräuterdip</name>
-          <note>Kartoffel</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
           <price role="other">5.40</price>
@@ -161,7 +159,6 @@
         </meal>
         <meal>
           <name>Kartoffelpfanne mit Feta</name>
-          <note>Kartoffel</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
         </meal>
@@ -191,7 +188,6 @@
         </meal>
         <meal>
           <name>Portion Kartoffelsalat</name>
-          <note>Kartoffel</note>
           <note>vegan</note>
           <price role="other">4.40</price>
           <price role="student">2.80</price>
@@ -364,13 +360,11 @@
         </meal>
         <meal>
           <name>Ofenkartoffel mit Kräuterquark</name>
-          <note>Kartoffel</note>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
         </meal>
         <meal>
           <name>Ofenkartoffel mit veganem Kräuterdip</name>
-          <note>Kartoffel</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
           <price role="other">5.40</price>
@@ -388,7 +382,6 @@
         </meal>
         <meal>
           <name>Kartoffelpfanne mit Feta</name>
-          <note>Kartoffel</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
         </meal>
@@ -418,7 +411,6 @@
         </meal>
         <meal>
           <name>Portion Kartoffelsalat</name>
-          <note>Kartoffel</note>
           <note>vegan</note>
           <price role="other">4.40</price>
           <price role="student">2.80</price>
@@ -591,13 +583,11 @@
         </meal>
         <meal>
           <name>Ofenkartoffel mit Kräuterquark</name>
-          <note>Kartoffel</note>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
         </meal>
         <meal>
           <name>Ofenkartoffel mit veganem Kräuterdip</name>
-          <note>Kartoffel</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
           <price role="other">5.40</price>
@@ -615,7 +605,6 @@
         </meal>
         <meal>
           <name>Kartoffelpfanne mit Feta</name>
-          <note>Kartoffel</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
         </meal>
@@ -645,7 +634,6 @@
         </meal>
         <meal>
           <name>Portion Kartoffelsalat</name>
-          <note>Kartoffel</note>
           <note>vegan</note>
           <price role="other">4.40</price>
           <price role="student">2.80</price>
@@ -818,13 +806,11 @@
         </meal>
         <meal>
           <name>Ofenkartoffel mit Kräuterquark</name>
-          <note>Kartoffel</note>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
         </meal>
         <meal>
           <name>Ofenkartoffel mit veganem Kräuterdip</name>
-          <note>Kartoffel</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
           <price role="other">5.40</price>
@@ -842,7 +828,6 @@
         </meal>
         <meal>
           <name>Kartoffelpfanne mit Feta</name>
-          <note>Kartoffel</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
         </meal>
@@ -872,7 +857,6 @@
         </meal>
         <meal>
           <name>Portion Kartoffelsalat</name>
-          <note>Kartoffel</note>
           <note>vegan</note>
           <price role="other">4.40</price>
           <price role="student">2.80</price>
@@ -1045,13 +1029,11 @@
         </meal>
         <meal>
           <name>Ofenkartoffel mit Kräuterquark</name>
-          <note>Kartoffel</note>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
         </meal>
         <meal>
           <name>Ofenkartoffel mit veganem Kräuterdip</name>
-          <note>Kartoffel</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
           <price role="other">5.40</price>
@@ -1069,7 +1051,6 @@
         </meal>
         <meal>
           <name>Kartoffelpfanne mit Feta</name>
-          <note>Kartoffel</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
         </meal>
@@ -1099,7 +1080,6 @@
         </meal>
         <meal>
           <name>Portion Kartoffelsalat</name>
-          <note>Kartoffel</note>
           <note>vegan</note>
           <price role="other">4.40</price>
           <price role="student">2.80</price>

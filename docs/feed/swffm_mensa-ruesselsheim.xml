@@ -6,6 +6,11 @@
     <day date="2026-07-06">
       <category name="Vegetarisch">
         <meal>
+          <name>Spinatcremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
           <price role="other">3.40</price>
@@ -38,6 +43,12 @@
     <day date="2026-07-07">
       <category name="Vegetarisch">
         <meal>
+          <name>Gemüse-Nudelsuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
           <price role="other">3.40</price>
@@ -62,6 +73,11 @@
     <day date="2026-07-08">
       <category name="Vegetarisch">
         <meal>
+          <name>Selleriesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
           <price role="other">3.40</price>
@@ -69,7 +85,6 @@
         </meal>
         <meal>
           <name>Loaded Fries mit Chili-Cheese Sauce , und Cheddar</name>
-          <note>Kartoffel</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>Senf und Senferzeugnisse</note>
           <note>mit Farbstoff</note>
@@ -93,6 +108,12 @@
     <day date="2026-07-09">
       <category name="Vegetarisch">
         <meal>
+          <name>Tomatensuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
           <name>Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
           <price role="other">3.40</price>
@@ -115,6 +136,11 @@
     </day>
     <day date="2026-07-10">
       <category name="Vegetarisch">
+        <meal>
+          <name>Kräuterrahmsuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
@@ -140,6 +166,11 @@
     </day>
     <day date="2026-07-11">
       <category name="Vegetarisch">
+        <meal>
+          <name>Kräuterrahmsuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
         <meal>
           <name>Spaghetti mit Sauce Napoli</name>
           <note>vegan</note>
