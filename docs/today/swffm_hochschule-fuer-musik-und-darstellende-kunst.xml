@@ -32,6 +32,16 @@
           <price role="other">3.40</price>
           <price role="student">1.80</price>
         </meal>
+        <meal>
+          <name>Waffel mit Puderzucker</name>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Waffel mit belgischer Nuss Nougat Creme</name>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
+        </meal>
       </category>
     </day>
   </canteen>
