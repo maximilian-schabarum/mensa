@@ -32,6 +32,20 @@
           <price role="student">5.00</price>
         </meal>
         <meal>
+          <name>Ausgabe 2 Panierte Hähnchensnacks mit Barbecuesauce , und Pommes frites</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
+        </meal>
+        <meal>
           <name>Gebratenes Seehechtfilet mit Linsen-Reissalat</name>
           <note>MSC</note>
           <note>Mandeln</note>

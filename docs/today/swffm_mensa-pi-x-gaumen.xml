@@ -6,9 +6,7 @@
     <day date="2026-07-07">
       <category name="Vegetarisch">
         <meal>
-          <name>Zwiebelsuppe</name>
-          <note>Alkohol</note>
-          <note>vegan</note>
+          <name>Selleriecremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -19,11 +17,13 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Oberhessischer Kartoffeleintopf mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
+          <name>Oberhessischer Kartoffeleintopf mit Mehrkornbrötchen , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
-          <note>Lupine und Lupinenerzeugnisse</note>
+          <note>Hafer</note>
+          <note>Roggen</note>
+          <note>Sesam und Sesamerzeugnisse</note>
           <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
           <price role="other">4.40</price>
           <price role="student">2.80</price>
         </meal>
