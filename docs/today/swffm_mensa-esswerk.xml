@@ -30,13 +30,10 @@
           <price role="student">6.40</price>
         </meal>
         <meal>
-          <name>Gebratenes Seehechtfilet mit Linsen-Reissalat</name>
-          <note>MSC</note>
-          <note>Mandeln</note>
-          <note>Schalenfruechte und Nuesse</note>
-          <note>mensaVital</note>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
+          <name>Putenbruststeak mit Knoblauchjoghurt , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
         </meal>
       </category>
     </day>

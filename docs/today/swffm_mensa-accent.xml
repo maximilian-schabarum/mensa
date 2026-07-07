@@ -24,6 +24,12 @@
           <price role="other">6.10</price>
           <price role="student">4.50</price>
         </meal>
+        <meal>
+          <name>Hähnchen Cordon bleu mit Tzatziki , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
+        </meal>
       </category>
     </day>
   </canteen>
