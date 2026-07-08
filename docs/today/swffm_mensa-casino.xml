@@ -22,6 +22,12 @@
           <price role="student">2.70</price>
         </meal>
         <meal>
+          <name>Tortellini Ricotta-Spinat Sahnesauce</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+        <meal>
           <name>Ofengemüse mit Basilikumdip und Rosmarinkartoffeln , Wassermelone</name>
           <note>geschwefelt</note>
           <note>mensaVital</note>
