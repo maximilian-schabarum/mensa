@@ -3,10 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-07">
+    <day date="2026-07-08">
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffel-Lauchsuppe</name>
+          <name>Blumenkohl-Kokossuppe</name>
+          <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -16,13 +17,14 @@
           <price role="other">3.40</price>
           <price role="student">1.80</price>
         </meal>
-      </category>
-      <category name="Hauptgericht">
         <meal>
-          <name>Geflügelbällchen mit Tzatziki , und einer Beilage nach Wahl</name>
+          <name>Loaded Fries mit Chili-Cheese Sauce , Cheddar</name>
           <note>Milch und Milcherzeugnisse</note>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
+          <note>Senf und Senferzeugnisse</note>
+          <note>mit Farbstoff</note>
+          <note>mit Phosphat</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
         </meal>
       </category>
     </day>
