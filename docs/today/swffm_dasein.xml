@@ -3,40 +3,23 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-08">
+    <day date="2026-07-09">
       <category name="Vegetarisch">
         <meal>
-          <name>Linsenrahmsuppe</name>
+          <name>Gemüsecremesuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Gemüse-Dinkelrisotto mit Bergkäse und einer Beilage nach Wahl</name>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
+          <name>Broccoliauflauf mit einer Beilage nach Wahl</name>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
         </meal>
         <meal>
-          <name>Penne mit Pilzen und Kräutern , und einer Beilage nach Wahl</name>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>geschwefelt</note>
+          <name>Wrap mit schwarzen Bohnen und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>Vollkorn Penne mit Tomaten-Gemüsesauce, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Nasi-Goreng mit Reis</name>
-          <note>Rind</note>
-          <price role="other">7.10</price>
-          <price role="student">5.50</price>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
         </meal>
       </category>
     </day>

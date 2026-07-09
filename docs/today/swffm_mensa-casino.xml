@@ -3,10 +3,11 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-08">
+    <day date="2026-07-09">
       <category name="Vegetarisch">
         <meal>
-          <name>Ingwer-Karottencremesuppe</name>
+          <name>Kalte Gemüsesuppe</name>
+          <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -17,40 +18,25 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Kartoffel-Spinatpfanne mit einer Beilage nach Wahl</name>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Tortellini Ricotta-Spinat Sahnesauce</name>
+          <name>Ausgabe 5 Paprikaschote mit Reisfüllung Pilzsauce , und einer Beilage nach Wahl</name>
           <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
         <meal>
-          <name>Ofengemüse mit Basilikumdip und Rosmarinkartoffeln , Wassermelone</name>
-          <note>geschwefelt</note>
+          <name>Nudelgratin griechisch</name>
           <note>mensaVital</note>
-          <price role="other">7.10</price>
-          <price role="student">5.50</price>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Kasselersteak mit Zwiebel-Senfsauce , und Karotten-Stampfkartoffeln</name>
-          <note>Alkohol</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Schwein</note>
-          <note>Senf und Senferzeugnisse</note>
-          <price role="other">7.10</price>
-          <price role="student">5.50</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Halbes Hähnchen mit Pommes frites</name>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">10.00</price>
-          <price role="student">8.40</price>
+          <name>Ausgabe 1 Hähnchenkeule andalusische Art mit Rosmarinkartoffeln</name>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
         </meal>
       </category>
     </day>
