@@ -31,12 +31,27 @@
           <price role="other">6.20</price>
           <price role="student">4.60</price>
         </meal>
+        <meal>
+          <name>Ofenkartoffel mit Kräuterdip , und Currygemüse</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Hähnchenkeule andalusische Art mit Rosmarinkartoffeln</name>
+          <name>Ausgabe 1 Hähnchenkeule andalusische Art Karotten-Stampfkartoffeln</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Geflügelbällchen mit Bratensauce, Reis</name>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
         </meal>
       </category>
     </day>
