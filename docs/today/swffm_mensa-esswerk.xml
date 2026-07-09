@@ -17,6 +17,18 @@
           <price role="student">1.80</price>
         </meal>
         <meal>
+          <name>Grillkäse mit Zucchini-Tomatensauce, und griechischen Nudeln</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
+        </meal>
+        <meal>
+          <name>Kartoffelpuffer Apfelmus, und einer Beilage nach Wahl</name>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
+        </meal>
+        <meal>
           <name>Nudelgratin griechisch</name>
           <note>mensaVital</note>
           <price role="other">6.20</price>
@@ -28,6 +40,16 @@
           <name>Hähnchenkeule andalusische Art mit einer Beilage nach Wahl</name>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
+        </meal>
+        <meal>
+          <name>Kasselersteak mit Zwiebel-Senfsauce , und Karotten-Stampfkartoffeln</name>
+          <note>Alkohol</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Schwein</note>
+          <note>Senf und Senferzeugnisse</note>
+          <price role="other">7.10</price>
+          <price role="student">5.50</price>
         </meal>
       </category>
     </day>

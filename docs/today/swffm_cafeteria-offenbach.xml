@@ -26,9 +26,10 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenkeule andalusische Art mit Rosmarinkartoffeln</name>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <name>Gegrillte Hähnchenkeule mit Rahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
       </category>
     </day>
