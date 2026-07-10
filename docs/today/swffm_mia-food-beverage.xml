@@ -11,6 +11,16 @@
           <price role="student">5.90</price>
         </meal>
         <meal>
+          <name>Banh Mi mit marinierter Hähnchenbrust Gemüse, Gurke, Sweet Chilisauce, und Koriander</name>
+          <price role="other">7.10</price>
+          <price role="student">5.50</price>
+        </meal>
+        <meal>
+          <name>Banh Mi mit Rinderbrust Gemüse, Gurke, Sweet Chilisauce, und Koriander</name>
+          <price role="other">7.10</price>
+          <price role="student">5.50</price>
+        </meal>
+        <meal>
           <name>Sommerrolle mit Hähnchenbrust Gemüse, Eisbergsalat, Sweet Chilisauce, Reisbandnudeln, Erdnusssauce oder, Hoisin-Sauce</name>
           <note>Erdnuesse und Erdnusserzeugnisse</note>
           <note>Glutenhaltige Getreide</note>
@@ -33,6 +43,12 @@
           <note>vegan</note>
           <price role="other">6.10</price>
           <price role="student">4.50</price>
+        </meal>
+        <meal>
+          <name>Banh Mi mit mariniertem Tofu Gemüse, Gurke, Sweet Chilisauce, und Koriander</name>
+          <note>vegan</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
         <meal>
           <name>Sommerrolle mit Tofu Gemüse, Eisbergsalat, Sweet Chilisauce, Reisbandnudeln, Erdnusssauce oder, Hoisin-Sauce</name>

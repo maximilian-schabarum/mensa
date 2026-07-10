@@ -22,6 +22,34 @@
           <price role="other">6.90</price>
           <price role="student">5.30</price>
         </meal>
+        <meal>
+          <name>Ausgabe 1 Seelachsfilet in Eihülle mit Remouladensauce , Petersilienkartoffeln</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Seelachsfilet in Sesampanade mit Remouladensauce , Petersilienkartoffeln</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
+        </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
@@ -35,6 +63,12 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.10</price>
           <price role="student">4.50</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 45 Kolbörek mit Spinat-Käsefüllung mit Kräuterschmand , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
         </meal>
         <meal>
           <name>Johannisbeer-Quarkauflauf mit Zucchinisalat</name>

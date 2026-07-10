@@ -31,6 +31,32 @@
           <price role="other">6.50</price>
           <price role="student">4.90</price>
         </meal>
+        <meal>
+          <name>Seelachsfilet in Sesampanade mit Remouladensauce , Schwenkkartoffeln</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.60</price>
+          <price role="student">5.00</price>
+        </meal>
+        <meal>
+          <name>Seelachsfilet im Backteig mit Remouladensauce , Schwenkkartoffeln</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
+        </meal>
       </category>
     </day>
   </canteen>

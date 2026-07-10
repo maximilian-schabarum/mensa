@@ -199,8 +199,8 @@
           <price role="student">0.60</price>
         </meal>
         <meal>
-          <name>Kartoffeltaschen mit Frischkäse mit Kräuterquark</name>
-          <note>Milch und Milcherzeugnisse</note>
+          <name>Spaghetti mit Sauce Napoli</name>
+          <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
         </meal>
