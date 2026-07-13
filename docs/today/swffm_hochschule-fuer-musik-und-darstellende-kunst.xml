@@ -3,41 +3,26 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-10">
-      <category name="Hauptgericht">
+    <day date="2026-07-13">
+      <category name="Vegetarisch">
         <meal>
-          <name>Hühnersuppe</name>
+          <name>Gemüse-Kartoffelsuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Paniertes Schollenfilet mit Remouladensauce , und einer Beilage nach Wahl</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Weizen</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">6.90</price>
-          <price role="student">5.30</price>
-        </meal>
-        <meal>
-          <name>Kasselersteak mit Zwiebel-Senfsauce , und einer Beilage nach Wahl</name>
-          <note>Alkohol</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Schwein</note>
-          <note>Senf und Senferzeugnisse</note>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Spaghetti mit Sauce Napoli</name>
+          <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+        <meal>
+          <name>Chili sin Carne mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
         <meal>
           <name>Waffel mit Puderzucker</name>
@@ -48,6 +33,14 @@
           <name>Waffel mit belgischer Nuss Nougat Creme</name>
           <price role="other">3.70</price>
           <price role="student">2.10</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchenknusperfilet mit Rahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
       </category>
     </day>
