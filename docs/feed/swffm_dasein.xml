@@ -3,37 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-13">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Karottencremesuppe</name>
-          <note>vegan</note>
-          <price role="other">3.20</price>
-          <price role="student">1.60</price>
-        </meal>
-        <meal>
-          <name>Griechischer Nudelauflauf mit einer Beilage nach Wahl</name>
-          <price role="other">5.70</price>
-          <price role="student">4.10</price>
-        </meal>
-        <meal>
-          <name>Rote Bulgur Gemüsepfanne und einer Beilage nach Wahl, mit Joghurtdip</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-        <meal>
-          <name>Tofu mit Kokos-Gemüse mit Basmatireis</name>
-          <note>vegan</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-07-14">
       <category name="Vegetarisch">
         <meal>
-          <name>Broccolicremesuppe</name>
+          <name>Selleriecremesuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
@@ -41,6 +14,12 @@
           <name>Ofenkartoffel mit Rucolaquark und einer Beilage nach Wahl</name>
           <price role="other">4.20</price>
           <price role="student">2.60</price>
+        </meal>
+        <meal>
+          <name>Gemüserisotto und einer Beilage nach Wahl</name>
+          <note>Alkohol</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
         <meal>
           <name>Auberginenpfanne mit Couscous , und einer Beilage nach Wahl</name>
@@ -107,6 +86,11 @@
           <price role="student">1.60</price>
         </meal>
         <meal>
+          <name>Kartoffelgratin Mediterran und einer Beilage nach Wahl</name>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
+        </meal>
+        <meal>
           <name>Kichererbsen-Kartoffelcurry mit Bulgur , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
@@ -121,6 +105,26 @@
           <note>MSC</note>
           <price role="other">7.00</price>
           <price role="student">5.40</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-07-20">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Blumenkohlcremesuppe</name>
+          <price role="other">3.20</price>
+          <price role="student">1.60</price>
+        </meal>
+        <meal>
+          <name>Bandnudeln mit Peperoni und Knoblauch und einer Beilage nach Wahl</name>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+        <meal>
+          <name>Linsencurry mit Tofu und Kardamom Reis</name>
+          <note>vegan</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
         </meal>
       </category>
     </day>
