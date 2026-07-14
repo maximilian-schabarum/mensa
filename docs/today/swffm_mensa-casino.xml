@@ -28,6 +28,14 @@
           <price role="student">3.40</price>
         </meal>
         <meal>
+          <name>Ausgabe 5 Paprikaschote mit Reisfüllung Pilzsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
+        </meal>
+        <meal>
           <name>Gemüsepaella mit Walnüssen und Tomatensauce</name>
           <note>Alkohol</note>
           <note>mensaVital</note>
@@ -41,6 +49,12 @@
           <name>Ausgabe 1 Rinderreisfleisch mit einer Beilage nach Wahl</name>
           <price role="other">6.70</price>
           <price role="student">5.10</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Rindfleischfrikadelle Kartoffelpüree , und Bratensauce</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
       </category>
     </day>

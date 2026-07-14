@@ -17,6 +17,12 @@
           <price role="student">2.60</price>
         </meal>
         <meal>
+          <name>Penne Bärlauchrahm , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
           <name>Gemüsepaella mit Walnüssen mit Tomatensauce</name>
           <note>Alkohol</note>
           <note>mensaVital</note>
