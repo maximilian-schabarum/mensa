@@ -42,6 +42,17 @@
           <price role="other">5.70</price>
           <price role="student">4.10</price>
         </meal>
+        <meal>
+          <name>Rindswurst Nudelsalat , und einer Beilage nach Wahl, Portion Senf</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
+        </meal>
       </category>
     </day>
   </canteen>

@@ -36,6 +36,14 @@
           <price role="other">4.80</price>
           <price role="student">3.20</price>
         </meal>
+        <meal>
+          <name>Gemüsepaella mit Walnüssen und Tomatensauce</name>
+          <note>Alkohol</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -48,6 +56,19 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">5.70</price>
           <price role="student">4.10</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Bratwurst Nudelsalat , Portion Senf</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Rind</note>
+          <note>Schwein</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
         </meal>
         <meal>
           <name>Putenragout Mango-Ananas Spaghetti</name>
