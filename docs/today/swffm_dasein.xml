@@ -11,6 +11,13 @@
           <price role="student">1.60</price>
         </meal>
         <meal>
+          <name>Hirsotto mit Pilzen und einer Beilage nach Wahl</name>
+          <note>Alkohol</note>
+          <note>vegan</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+        <meal>
           <name>Möhrencurry mit Bulgur</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>

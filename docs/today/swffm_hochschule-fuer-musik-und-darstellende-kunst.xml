@@ -39,6 +39,11 @@
           <price role="other">5.70</price>
           <price role="student">4.10</price>
         </meal>
+        <meal>
+          <name>Rinderreisfleisch mit einer Beilage nach Wahl</name>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
       </category>
     </day>
   </canteen>
