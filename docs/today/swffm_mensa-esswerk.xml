@@ -11,11 +11,10 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Hirse-Risotto mit Pilzen und einer Beilage nach Wahl</name>
-          <note>Alkohol</note>
+          <name>Chili sin Carne mit einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
+          <price role="other">3.60</price>
+          <price role="student">2.00</price>
         </meal>
         <meal>
           <name>Kichererbsen-Süßkartoffelcurry mit Basmatireis</name>
@@ -23,6 +22,14 @@
           <note>vegan</note>
           <price role="other">6.40</price>
           <price role="student">4.80</price>
+        </meal>
+        <meal>
+          <name>Gemüsepaella mit Walnüssen und Tomatensauce</name>
+          <note>Alkohol</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
         </meal>
       </category>
       <category name="Hauptgericht">

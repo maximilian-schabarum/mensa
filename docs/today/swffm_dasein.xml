@@ -6,8 +6,7 @@
     <day date="2026-07-15">
       <category name="Vegetarisch">
         <meal>
-          <name>Blumenkohlsuppe Curry-Kokosmilch</name>
-          <note>vegan</note>
+          <name>Gemüsecremesuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
