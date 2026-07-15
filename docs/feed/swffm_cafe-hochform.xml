@@ -3,28 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-14">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Pasta Asciutta mit einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Rinderreisfleisch mit einer Beilage nach Wahl</name>
-          <price role="other">6.70</price>
-          <price role="student">5.10</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-07-15">
       <category name="Vegetarisch">
         <meal>
-          <name>Hirse-Risotto mit Pilzen und einer Beilage nach Wahl</name>
-          <note>Alkohol</note>
+          <name>Gemüse mit Tofu und Kokos mit Basmatireis</name>
           <note>vegan</note>
           <price role="other">4.40</price>
           <price role="student">2.80</price>
@@ -102,6 +84,28 @@
           <note>mit Antioxidationsmittel</note>
           <price role="other">6.30</price>
           <price role="student">4.70</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-07-21">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Smashed Potatoes mit Hafercreme-Blattspinat , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinerückensteak Kremser Art mit Gemüse-Spätzle</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
     </day>
