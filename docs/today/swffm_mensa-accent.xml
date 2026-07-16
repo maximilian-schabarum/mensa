@@ -22,6 +22,21 @@
           <price role="other">4.40</price>
           <price role="student">2.80</price>
         </meal>
+        <meal>
+          <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Spinat-Ricottatortellini Weiße Bohnen in Tomatensauce , und einer Beilage nach Wahl</name>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
