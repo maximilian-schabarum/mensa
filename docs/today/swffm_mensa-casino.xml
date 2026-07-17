@@ -22,6 +22,15 @@
           <price role="student">2.50</price>
         </meal>
         <meal>
+          <name>Ausgabe 5 Kartoffel-Gemüseragout mediterran mit Baguette</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
+        </meal>
+        <meal>
           <name>Grünkern-Kartoffelauflauf mit Blumenkohlsalat</name>
           <note>Eier und Eiererzeugnisse</note>
           <note>Senf und Senferzeugnisse</note>

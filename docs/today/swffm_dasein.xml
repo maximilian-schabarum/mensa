@@ -16,6 +16,11 @@
           <price role="student">3.70</price>
         </meal>
         <meal>
+          <name>Penne mit Cashew-Rucolapesto und einer Beilage nach Wahl</name>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
+        </meal>
+        <meal>
           <name>Kichererbsen-Kartoffelcurry mit Reis</name>
           <note>vegan</note>
           <price role="other">4.30</price>
