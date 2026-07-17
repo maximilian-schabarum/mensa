@@ -3,51 +3,41 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-16">
+    <day date="2026-07-17">
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüsecremesuppe</name>
-          <note>vegan</note>
+          <name>Spinatcremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Tagliatelle mit Linsensauce , und einer Beilage nach Wahl</name>
-          <note>Sellerie und Sellerieerzeugnisse</note>
+          <name>Ausgabe 3 Treccine mit Bohnen und Schafskäse und einer Beilage nach Wahl</name>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Blumenkohlcurry mit einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">3.70</price>
-          <price role="student">2.10</price>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Kartoffel-Gemüseragout mediterran mit Baguette</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Roggen</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">4.00</price>
-          <price role="student">2.40</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Germknödel mit Kirschfüllung Vanillesauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
-        </meal>
-        <meal>
-          <name>Kichererbsen-Süßkartoffelcurry mit Basmatireis</name>
+          <name>Grünkern-Kartoffelauflauf mit Blumenkohlsalat</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
           <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Holzfällersteak mit Kartoffelpüree</name>
+          <name>Ausgabe 1 Hokifilet mit Meerrettichkruste Rahm-Blattspinat , Risoléekartoffeln</name>
+          <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Schwein</note>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
+          <note>geschwefelt</note>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
         </meal>
       </category>
     </day>
