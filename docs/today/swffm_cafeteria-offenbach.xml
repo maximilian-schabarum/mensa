@@ -6,8 +6,7 @@
     <day date="2026-07-17">
       <category name="Vegetarisch">
         <meal>
-          <name>Bunte Gemüsesuppe</name>
-          <note>vegan</note>
+          <name>Kartoffelsuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -16,6 +15,15 @@
           <note>vegan</note>
           <price role="other">4.10</price>
           <price role="student">2.50</price>
+        </meal>
+        <meal>
+          <name>Kartoffel-Gemüseragout mediterran mit Baguette</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
         </meal>
       </category>
       <category name="Hauptgericht">

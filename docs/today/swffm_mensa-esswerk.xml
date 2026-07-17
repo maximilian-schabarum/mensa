@@ -11,10 +11,12 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Blumenkohlcurry mit einer Beilage nach Wahl</name>
+          <name>Kichererbsen-Süßkartoffelcurry Griechische Nudeln</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">4.10</price>
-          <price role="student">2.50</price>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
         <meal>
           <name>Grünkern-Kartoffelauflauf mit Blumenkohlsalat</name>
@@ -24,6 +26,17 @@
           <price role="other">5.40</price>
           <price role="student">3.80</price>
         </meal>
+        <meal>
+          <name>Veggie Gyros mit Couscous , und veganem Tzatziki</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -32,6 +45,11 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">7.20</price>
           <price role="student">5.60</price>
+        </meal>
+        <meal>
+          <name>Schweinesteak mit Mozzarella Zweierlei Bohnen, und einer Beilage nach Wahl</name>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
         </meal>
       </category>
     </day>
