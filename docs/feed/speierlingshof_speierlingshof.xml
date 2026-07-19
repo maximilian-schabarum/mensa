@@ -3,114 +3,117 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-13">
+    <day date="2026-07-20">
       <category name="Vegetarisch">
         <meal>
-          <name>Minestrone</name>
+          <name>Apfel-Selleriesuppe</name>
+          <note>Laktose</note>
           <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Gemüseschnitzel mit Kartoffelsalat</name>
-          <note>Eier</note>
+          <name>Linsen-Kichererbsenbolognese mit Nudeln</name>
           <note>Sellerie</note>
           <note>Weizen</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Backfisch mit Kartoffelsalat</name>
-          <note>Eier</note>
+          <name>Pasta mit Bolognesesoße</name>
           <note>Sellerie</note>
           <note>Senf</note>
           <note>Weizen</note>
         </meal>
       </category>
     </day>
-    <day date="2026-07-14">
+    <day date="2026-07-21">
       <category name="Vegetarisch">
         <meal>
-          <name>serbische Bohnensuppe</name>
+          <name>Tomatensuppe</name>
+          <note>Laktose</note>
           <note>Sellerie</note>
         </meal>
         <meal>
-          <name>gebratener Reis mit Asiagemüse und Kirchererbsen</name>
-          <note>Cashewnüsse</note>
+          <name>Kartoffel-Kohlrabi-Auflauf</name>
+          <note>Laktose</note>
           <note>Sellerie</note>
-          <note>Soja</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Gebratener Reis mit Hühnchen und Asiagemüse</name>
-          <note>Cashewnüsse</note>
+          <name>Schweinerückenbraten in Champignonrahm mit Petersilien- Kartoffen</name>
+          <note>Laktose</note>
           <note>Sellerie</note>
-          <note>Soja</note>
+          <note>Senf</note>
           <note>Weizen</note>
         </meal>
       </category>
     </day>
-    <day date="2026-07-15">
+    <day date="2026-07-22">
       <category name="Hauptgericht">
         <meal>
-          <name>Markklößchensuppe</name>
+          <name>Rinderbrühe</name>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Currywurst mit Bratkartoffeln und hausgemachtem Curryketchup</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Gemüsebratlinge mit hausgemachtem Curry Ketchup</name>
           <note>Eier</note>
           <note>Sellerie</note>
           <note>Weizen</note>
         </meal>
+      </category>
+    </day>
+    <day date="2026-07-23">
+      <category name="Hauptgericht">
         <meal>
-          <name>Schweinekrustenbraten mit Kartoffel-Möhrenstampf</name>
-          <note>Laktose</note>
+          <name>Karotteningwersuppe</name>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Sommersalat mit gebratener Hühnerbrust und Baguette</name>
           <note>Sellerie</note>
           <note>Senf</note>
+          <note>Weizen</note>
         </meal>
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>gefüllte Zucchini mit Kartoffel-Möhrenstampf</name>
+          <name>Sommersalat mit Fetawürfeln und Baguette</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-07-24">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Blumenkohlsuppe</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>Eierpfannkuchen mit Pilzen</name>
+          <note>Eier</note>
           <note>Laktose</note>
           <note>Sellerie</note>
           <note>Weizen</note>
         </meal>
       </category>
-    </day>
-    <day date="2026-07-16">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Pastinakensuppe</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
-        </meal>
-        <meal>
-          <name>gebratene Kartoffeln mit Tomaten-Gemüsequark und Salat</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
-        </meal>
-      </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Wurstsalat mit Bratkartoffeln</name>
+          <name>Eierpfannkuchen mit Schinken und Pilzen</name>
+          <note>Ascorbinsäure</note>
+          <note>Eier</note>
           <note>Laktose</note>
           <note>Nitripökelsalz</note>
           <note>Phosphat</note>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-07-17">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Marokkanischer Linseneintopf</name>
           <note>Sellerie</note>
-        </meal>
-        <meal>
-          <name>Nudelsalat mit Oliven, Peperoni, Tomaten und Thunfisch</name>
-          <note>Sellerie</note>
-          <note>Senf</note>
-          <note>Weizen</note>
-        </meal>
-        <meal>
-          <name>Nudelsalat mit Oliven, Peperoni, Tomaten und med. Gemüse</name>
-          <note>Sellerie</note>
-          <note>Senf</note>
           <note>Weizen</note>
         </meal>
       </category>
