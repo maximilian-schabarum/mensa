@@ -28,7 +28,8 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchen Cordon bleu mit Bratensauce, und einer Beilage nach Wahl</name>
+          <name>Hähnchen Cordon bleu mit Thymianrahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.30</price>
           <price role="student">4.70</price>
         </meal>

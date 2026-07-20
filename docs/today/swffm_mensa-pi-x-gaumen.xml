@@ -6,7 +6,7 @@
     <day date="2026-07-20">
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffel-Lauchsuppe</name>
+          <name>Kartoffelsuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
