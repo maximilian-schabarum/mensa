@@ -19,14 +19,10 @@
           <price role="student">2.70</price>
         </meal>
         <meal>
-          <name>Waffel mit Puderzucker</name>
-          <price role="other">3.40</price>
-          <price role="student">1.80</price>
-        </meal>
-        <meal>
-          <name>Waffel mit belgischer Nuss Nougat Creme</name>
-          <price role="other">3.70</price>
-          <price role="student">2.10</price>
+          <name>Blumenkohlcurry mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">3.80</price>
+          <price role="student">2.20</price>
         </meal>
       </category>
       <category name="Hauptgericht">
