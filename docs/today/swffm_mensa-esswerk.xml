@@ -15,25 +15,15 @@
           <note>Schwefeldioxid / Sulfit</note>
           <note>geschwefelt</note>
           <note>vegan</note>
-          <price role="other">6.30</price>
-          <price role="student">4.70</price>
-        </meal>
-        <meal>
-          <name>Kichererbsen Tikka Masala mit Naan Brot</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">3.60</price>
-          <price role="student">2.00</price>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
           <name>Hähnchen Cordon bleu mit Bratensauce, und einer Beilage nach Wahl</name>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
         </meal>
       </category>
     </day>

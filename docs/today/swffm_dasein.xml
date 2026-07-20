@@ -16,6 +16,12 @@
           <price role="student">3.60</price>
         </meal>
         <meal>
+          <name>Kichererbsen-Kartoffelcurry mit Reis</name>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+        <meal>
           <name>Linsencurry mit Tofu und Kardamom Reis</name>
           <note>vegan</note>
           <price role="other">4.40</price>
