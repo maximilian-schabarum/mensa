@@ -19,6 +19,14 @@
           <price role="other">4.30</price>
           <price role="student">2.70</price>
         </meal>
+        <meal>
+          <name>Cavatappi mit Tomaten-Pilzgemüse , und einer Beilage nach Wahl</name>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>

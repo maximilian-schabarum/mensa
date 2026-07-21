@@ -18,12 +18,27 @@
           <price role="other">4.30</price>
           <price role="student">2.70</price>
         </meal>
+        <meal>
+          <name>Cavatappi mit Tomaten-Pilzgemüse , und einer Beilage nach Wahl</name>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <note>vegan</note>
+          <price role="other">3.80</price>
+          <price role="student">2.20</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
           <name>Überbackenes Putenschnitzel und einer Beilage nach Wahl</name>
           <price role="other">7.70</price>
           <price role="student">6.10</price>
+        </meal>
+        <meal>
+          <name>Hokifilet Meunière mit Knoblauchjoghurt , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
         </meal>
       </category>
     </day>
