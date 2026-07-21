@@ -21,14 +21,14 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchen Cordon bleu mit Bratensauce, und einer Beilage nach Wahl</name>
+          <name>Schweinerückensteak Kremser Art mit einer Beilage nach Wahl</name>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
         </meal>
         <meal>
-          <name>Schweinerückensteak Kremser Art mit einer Beilage nach Wahl</name>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
+          <name>Hähnchen Cordon bleu mit Bratensauce, und einer Beilage nach Wahl</name>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
       </category>
     </day>
