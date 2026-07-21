@@ -3,36 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-20">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Broccolicremesuppe</name>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Cavatappi mit Tomaten-Pilzgemüse , und einer Beilage nach Wahl</name>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>geschwefelt</note>
-          <note>vegan</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
-        </meal>
-        <meal>
-          <name>Blumenkohlcurry mit einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.10</price>
-          <price role="student">2.50</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchen Cordon bleu mit Bratensauce, und einer Beilage nach Wahl</name>
-          <price role="other">6.30</price>
-          <price role="student">4.70</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-07-21">
       <category name="Vegetarisch">
         <meal>
@@ -41,7 +11,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Smashed Potatoes mit Hafercreme-Blattspinat , und einer Beilage nach Wahl</name>
+          <name>Potatoes mit Hafercreme-Blattspinat , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Hafer</note>
           <note>vegan</note>
@@ -134,6 +104,32 @@
           <note>Senf und Senferzeugnisse</note>
           <price role="other">6.90</price>
           <price role="student">5.30</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-07-27">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Pilzcremesuppe</name>
+          <note>Alkohol</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Loaded Wedges mit veganem Chili , und Hafercreme Topping</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchenschnitzel Mailänder Art mit einer Beilage nach Wahl</name>
+          <price role="other">6.60</price>
+          <price role="student">5.00</price>
         </meal>
       </category>
     </day>
