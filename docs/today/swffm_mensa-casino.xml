@@ -3,57 +3,48 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-20">
+    <day date="2026-07-21">
       <category name="Vegetarisch">
         <meal>
-          <name>Broccolicremesuppe</name>
+          <name>Kräuterrahmsuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Cavatappi mit Tomaten-Pilzgemüse , und einer Beilage nach Wahl</name>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>geschwefelt</note>
+          <name>Ausgabe 3 Potatoes mit Hafercreme-Blattspinat , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
           <note>vegan</note>
           <price role="other">4.30</price>
           <price role="student">2.70</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Kartoffel-Broccolipfanne mit einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
-        </meal>
-        <meal>
-          <name>Kichererbsen Tikka Masala mit Naan Brot</name>
+          <name>Ausgabe 5 Planted Ragout Schwedische Art mit Roggenbrot</name>
+          <note>Alkohol</note>
           <note>Glutenhaltige Getreide</note>
-          <note>Soja und Sojaerzeugnisse</note>
+          <note>Lupine und Lupinenerzeugnisse</note>
+          <note>Roggen</note>
           <note>Weizen</note>
-          <note>mensaVital</note>
           <note>vegan</note>
-          <price role="other">3.60</price>
-          <price role="student">2.00</price>
-        </meal>
-        <meal>
-          <name>Kichererbsen-Süßkartoffelcurry mit Naan Brot</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <note>mit Farbstoff</note>
-          <note>vegan</note>
-          <price role="other">6.00</price>
-          <price role="student">4.40</price>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Hähnchen Cordon bleu mit Bratensauce, und Kartoffelkroketten</name>
+          <name>Ausgabe 1 Schweinerückensteak Kremser Art mit Gemüse-Spätzle</name>
+          <note>Eier und Eiererzeugnisse</note>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">6.30</price>
-          <price role="student">4.70</price>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
+        <meal>
+          <name>Seelachsfilet Spinat-Mozzarella mit Tomaten-Vollkornreis</name>
+          <note>MSC</note>
+          <note>mensaVital</note>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
         </meal>
       </category>
     </day>

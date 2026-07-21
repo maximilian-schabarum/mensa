@@ -3,35 +3,28 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-20">
+    <day date="2026-07-21">
       <category name="Vegetarisch">
         <meal>
-          <name>Blumenkohlcremesuppe</name>
+          <name>Mediterrane Gemüsecremesuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Bandnudeln mit Peperoni und Knoblauch und einer Beilage nach Wahl</name>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
-        </meal>
-        <meal>
-          <name>Chili sin Carne mit Reis, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>Kichererbsen-Kartoffelcurry mit Reis</name>
-          <note>vegan</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
-        </meal>
-        <meal>
-          <name>Linsencurry mit Tofu und Kardamom Reis</name>
-          <note>vegan</note>
+          <name>Bowl mit schwarzen Bohnen und Spinat mit Reis</name>
           <price role="other">4.40</price>
           <price role="student">2.80</price>
+        </meal>
+        <meal>
+          <name>Hafer-Paella mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
+        </meal>
+        <meal>
+          <name>Penne mit Cashew-Rucolapesto und einer Beilage nach Wahl</name>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
         </meal>
       </category>
     </day>
