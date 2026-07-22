@@ -3,32 +3,38 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-21">
+    <day date="2026-07-22">
       <category name="Vegetarisch">
         <meal>
-          <name>Bunte Gemüsesuppe</name>
-          <note>vegan</note>
+          <name>Frischkäsesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Smashed Potatoes mit Hafercreme-Blattspinat , und einer Beilage nach Wahl</name>
+          <name>Quinoapfanne mit Veggie Hack mit veganem Kräuterdip</name>
+          <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
-          <note>Hafer</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
         </meal>
         <meal>
-          <name>Cavatappi mit Tomaten-Pilzgemüse , und einer Beilage nach Wahl</name>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>geschwefelt</note>
-          <note>vegan</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
+          <name>Tagliatelle mit Spinat-Frischkäsesauce</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
         </meal>
       </category>
       <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchenstreifen in Rucolasauce mit Tomatenreis</name>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
+        </meal>
         <meal>
           <name>Schweinerückensteak Kremser Art mit einer Beilage nach Wahl</name>
           <price role="other">5.40</price>

@@ -3,34 +3,37 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-21">
+    <day date="2026-07-22">
       <category name="Vegetarisch">
         <meal>
-          <name>Mediterrane Gemüsecremesuppe</name>
+          <name>Blumenkohlsuppe Curry-Kokosmilch</name>
+          <note>vegan</note>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Bowl mit schwarzen Bohnen und Spinat mit Reis</name>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
+          <name>Ofenkartoffel mit Kräuterrahm und einer Beilage nach Wahl</name>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
         </meal>
         <meal>
-          <name>Chili sin Carne mit Reis, und einer Beilage nach Wahl</name>
+          <name>Hirse-Gemüsepfanne mit einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
         <meal>
-          <name>Hafer-Paella mit einer Beilage nach Wahl</name>
+          <name>Hafer-Paella und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">5.30</price>
-          <price role="student">3.70</price>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
+      </category>
+      <category name="Hauptgericht">
         <meal>
-          <name>Penne mit Cashew-Rucolapesto und einer Beilage nach Wahl</name>
-          <price role="other">6.30</price>
-          <price role="student">4.70</price>
+          <name>Schweinefleisch mit Gemüse mit Basmatireis</name>
+          <price role="other">8.20</price>
+          <price role="student">6.60</price>
         </meal>
       </category>
     </day>
