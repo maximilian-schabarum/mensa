@@ -199,7 +199,7 @@
           <price role="student">0.60</price>
         </meal>
         <meal>
-          <name>Tortellini mit Auberginenfüllung Sauce Vegetale, und einer Beilage nach Wahl</name>
+          <name>Tortellini mit Auberginenfüllung Sauce Vegetale</name>
           <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
