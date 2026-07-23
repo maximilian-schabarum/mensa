@@ -26,7 +26,9 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Geflügelfrikadelle mit Barbecuesauce , Kartoffel-Gurkensalat , und einer Beilage nach Wahl</name>
+          <name>Geflügelfrikadelle mit Barbecuesauce , Kartoffelsalat mit Ei , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Milch und Milcherzeugnisse</note>
           <note>Sellerie und Sellerieerzeugnisse</note>
           <note>Senf und Senferzeugnisse</note>
           <price role="other">6.70</price>

@@ -28,14 +28,6 @@
           <price role="other">3.70</price>
           <price role="student">2.10</price>
         </meal>
-        <meal>
-          <name>Kumpir Rotkohl-Couscous mit Schnittlauchdip</name>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">3.90</price>
-          <price role="student">2.30</price>
-        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -43,11 +35,6 @@
           <note>Sellerie und Sellerieerzeugnisse</note>
           <price role="other">6.70</price>
           <price role="student">5.10</price>
-        </meal>
-        <meal>
-          <name>Hähnchenstreifen in Rucolasauce mit einer Beilage nach Wahl</name>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
         </meal>
       </category>
     </day>
