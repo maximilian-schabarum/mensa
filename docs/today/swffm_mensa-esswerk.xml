@@ -12,6 +12,11 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
+          <name>Spinatburrito mit einer Beilage nach Wahl</name>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
           <name>Penne mit Bohnen-Tomatenragout</name>
           <note>Soja und Sojaerzeugnisse</note>
           <note>mensaVital</note>
@@ -21,6 +26,14 @@
         </meal>
       </category>
       <category name="Hauptgericht">
+        <meal>
+          <name>Gebratenes Seelachsfilet mit Senf-Dill Dip , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
+        </meal>
         <meal>
           <name>Kibbelinge mit Tomatensauce, und einer Beilage nach Wahl</name>
           <note>MSC</note>
