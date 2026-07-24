@@ -3,38 +3,36 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-23">
+    <day date="2026-07-24">
       <category name="Vegetarisch">
         <meal>
-          <name>Passierte Erbsensuppe</name>
+          <name>Kichererbsensuppe</name>
           <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Frischkäsesuppe</name>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Tortellini mit Auberginenfüllung Sauce Vegetale, und einer Beilage nach Wahl</name>
+          <name>Penne mit Bohnen-Tomatenragout</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>mensaVital</note>
           <note>vegan</note>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
-        </meal>
-        <meal>
-          <name>Farfalle mit Spinat-Frischkäsesauce</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">3.70</price>
-          <price role="student">2.10</price>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Geflügelfrikadelle mit Barbecuesauce , und einer Beilage nach Wahl</name>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <price role="other">6.70</price>
-          <price role="student">5.10</price>
+          <name>Gebratenes Seelachsfilet mit Senf-Dill Dip , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
+        </meal>
+        <meal>
+          <name>Kibbelinge mit Petersiliensauce , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
         </meal>
       </category>
     </day>
