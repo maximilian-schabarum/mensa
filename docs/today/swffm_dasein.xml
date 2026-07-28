@@ -16,6 +16,19 @@
           <price role="student">2.50</price>
         </meal>
         <meal>
+          <name>Reis mit Linsensauce , und einer Beilage nach Wahl</name>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">3.90</price>
+          <price role="student">2.30</price>
+        </meal>
+        <meal>
+          <name>Blumenkohl-Linsencurry mit Reis</name>
+          <note>vegan</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
+        <meal>
           <name>Gemüsepaella mit Cashewkernen und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">6.30</price>
