@@ -47,6 +47,11 @@
           <price role="student">3.60</price>
         </meal>
         <meal>
+          <name>Ausgabe 1 Panierte Hähnchenbrust mit Bratensauce, Salzkartoffeln</name>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+        <meal>
           <name>Zwiebelgyros mit Tomaten-Reisnudeln , und Weißkrautsalat</name>
           <note>Glutenhaltige Getreide</note>
           <note>Schwein</note>
