@@ -126,11 +126,6 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Laugenbrezel</name>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
           <name>Portion Butter</name>
           <price role="other">2.00</price>
           <price role="student">0.40</price>
