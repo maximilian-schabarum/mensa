@@ -6,13 +6,12 @@
     <day date="2026-07-31">
       <category name="Vegetarisch">
         <meal>
-          <name>Linsensuppe</name>
-          <note>vegan</note>
+          <name>Blumenkohlcremesuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Kicherebsen-Quinoacurry mit Reis</name>
+          <name>Kicherebsen-Quinoacurry Reis</name>
           <note>vegan</note>
           <price role="other">4.20</price>
           <price role="student">2.60</price>
