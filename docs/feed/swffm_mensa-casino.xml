@@ -3,13 +3,19 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-30">
+    <day date="2026-07-31">
       <category name="Vegetarisch">
         <meal>
-          <name>Kokos-Gemüsesuppe</name>
+          <name>Paprikasuppe</name>
           <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 3 Pasta mit Nüssen und Basilikum Tomatenwürfeln, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">3.90</price>
+          <price role="student">2.30</price>
         </meal>
         <meal>
           <name>Ausgabe 3 Hirse-Spinatauflauf mit Paprika-Tomatensauce, und einer Beilage nach Wahl</name>
@@ -22,52 +28,36 @@
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
+        <meal>
+          <name>Tomaten-Chilispaghetti mit Tofu</name>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
         </meal>
         <meal>
           <name>Penne-Broccoliauflauf</name>
           <note>mensaVital</note>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Bohnenpfanne mit Schweinefleisch und einer Beilage nach Wahl</name>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-07-31">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Paprikasuppe</name>
-          <note>vegan</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Pasta mit Nüssen und Basilikum Tomatenwürfeln, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">3.90</price>
-          <price role="student">2.30</price>
-        </meal>
-        <meal>
-          <name>Pfannkuchen mit Nuss-Nougat Creme und einer Beilage nach Wahl</name>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Kibbelinge mit Joghurt-Dillsauce , und Schwenkkartoffeln</name>
+          <name>Ausgabe 1 Kibbelinge mit Joghurt-Dillsauce , und Schwenkkartoffeln</name>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>geschwefelt</note>
           <price role="other">7.00</price>
           <price role="student">5.40</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Bohnenpfanne mit Schweinefleisch und einer Beilage nach Wahl</name>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
     </day>
@@ -193,6 +183,53 @@
           <note>mensaVital</note>
           <price role="other">7.50</price>
           <price role="student">5.90</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-08-06">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kohlrabicremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Gemüsekroketten mit Currydip , und einer Beilage nach Wahl</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
+        <meal>
+          <name>Ofenkartoffel mit veganer grüner Sauce , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Kichererbsen-Kokospfanne mit Mandelreis</name>
+          <note>Mandeln</note>
+          <note>Schalenfruechte und Nuesse</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Geflügelcevapcici mit Ajvar, Couscoussalat , und Baguette</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
       </category>
     </day>
