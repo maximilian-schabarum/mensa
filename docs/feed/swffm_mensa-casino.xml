@@ -12,7 +12,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Soja-Gemüseragout Spaghetti , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Soja-Gemüseragout Spaghetti , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <note>vegan</note>
@@ -20,7 +20,7 @@
           <price role="student">2.70</price>
         </meal>
         <meal>
-          <name>Buchweizenrisotto mit einer Beilage nach Wahl</name>
+          <name>Ausgabe 5 Buchweizenrisotto mit einer Beilage nach Wahl</name>
           <note>Alkohol</note>
           <price role="other">4.80</price>
           <price role="student">3.20</price>
@@ -34,7 +34,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Curryhuhn mit Früchten und Duftreis</name>
+          <name>Ausgabe 1 Curryhuhn mit Früchten und Duftreis</name>
           <price role="other">5.50</price>
           <price role="student">3.90</price>
         </meal>
