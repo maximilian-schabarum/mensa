@@ -60,7 +60,8 @@
           <note>Sellerie</note>
         </meal>
         <meal>
-          <name>Ofengemüse mit Kartoffeln</name>
+          <name>Ofengemüse mit Kartoffeln, Fetakäse und Quark</name>
+          <note>Laktose</note>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -88,7 +89,7 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffel-Blumenkohlgratin</name>
+          <name>Kartoffel-Brokkoligratin</name>
           <note>Laktose</note>
           <note>Sellerie</note>
         </meal>
