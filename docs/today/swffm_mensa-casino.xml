@@ -3,61 +3,40 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-31">
+    <day date="2026-08-03">
       <category name="Vegetarisch">
         <meal>
-          <name>Paprikasuppe</name>
+          <name>Passierte Erbsensuppe</name>
           <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Pasta mit Nüssen und Basilikum Tomatenwürfeln, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">3.90</price>
-          <price role="student">2.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 Hirse-Spinatauflauf mit Paprika-Tomatensauce, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Plant based Rahmgeschnetzeltes mit Penne Tricolori</name>
+          <name>Ausgabe 3 Soja-Gemüseragout Spaghetti , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
         </meal>
         <meal>
-          <name>Tomaten-Chilispaghetti mit Tofu</name>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
+          <name>Ausgabe 5 Buchweizenrisotto mit einer Beilage nach Wahl</name>
+          <note>Alkohol</note>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
         </meal>
         <meal>
-          <name>Penne-Broccoliauflauf</name>
+          <name>Penne-Tomatenauflauf</name>
           <note>mensaVital</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Kibbelinge mit Joghurt-Dillsauce , und Schwenkkartoffeln</name>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>geschwefelt</note>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Bohnenpfanne mit Schweinefleisch und einer Beilage nach Wahl</name>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
+          <name>Ausgabe 1 Curryhuhn mit Früchten und Duftreis</name>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
         </meal>
       </category>
     </day>
