@@ -6,7 +6,7 @@
     <day date="2026-08-05">
       <category name="Vegetarisch">
         <meal>
-          <name>Pilzrahmsuppe</name>
+          <name>Gemüsecremesuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
@@ -16,7 +16,21 @@
           <price role="student">4.20</price>
         </meal>
         <meal>
-          <name>Gemüse-Kokoscurry Reis</name>
+          <name>mit Joghurtdip Rote Bulgur Gemüsepfanne , mit Soja-Dip , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
+        <meal>
+          <name>mit Basmatireis Gemüse-Kokoscurry , Reis</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>konserviert</note>
           <note>vegan</note>
           <price role="other">5.20</price>
           <price role="student">3.60</price>
