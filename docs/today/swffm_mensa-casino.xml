@@ -11,7 +11,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Paniertes Putenschnitzel mit gebratenen Pilzen , Spätzle</name>
+          <name>Ausgabe 1 Paniertes Putenschnitzel mit gebratenen Pilzen , Spätzle</name>
           <note>Eier und Eiererzeugnisse</note>
           <note>Glutenhaltige Getreide</note>
           <note>Schwefeldioxid / Sulfit</note>
@@ -34,13 +34,13 @@
       </category>
       <category name="Vegetarisch">
         <meal>
-          <name>Maccaroni mit Spinat und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Maccaroni mit Spinat und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.80</price>
           <price role="student">3.20</price>
         </meal>
         <meal>
-          <name>Reispfanne mit Tofu und einer Beilage nach Wahl</name>
+          <name>Ausgabe 5 Reispfanne mit Tofu und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.60</price>
           <price role="student">4.00</price>
