@@ -43,15 +43,6 @@
           <price role="other">6.00</price>
           <price role="student">4.40</price>
         </meal>
-        <meal>
-          <name>Gebratenes Seelachsfilet mit Kräuterschmand , und Dillkartoffeln , und Blattsalate mit Joghurtdressing</name>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>geschwefelt</note>
-          <note>mensaVital</note>
-          <price role="other">7.30</price>
-          <price role="student">5.70</price>
-        </meal>
       </category>
     </day>
   </canteen>
