@@ -11,7 +11,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Veggie Kokosgeschnetzeltes mit Gemüsereis</name>
+          <name>Ausgabe 3 Veggie Kokosgeschnetzeltes mit Gemüsereis</name>
           <note>Sellerie und Sellerieerzeugnisse</note>
           <note>vegan</note>
           <price role="other">4.70</price>
@@ -28,7 +28,7 @@
           <price role="student">3.50</price>
         </meal>
         <meal>
-          <name>Maccaroni mit Spinat mit Bechamelsauce , und Reibekäse</name>
+          <name>Ausgabe 5 Maccaroni mit Spinat mit Bechamelsauce , und Reibekäse</name>
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">4.10</price>
           <price role="student">2.50</price>
@@ -42,7 +42,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hokifilet Schweizer Art mit Senfkartoffeln</name>
+          <name>Ausgabe 1 Hokifilet Schweizer Art mit Senfkartoffeln</name>
           <note>MSC</note>
           <note>Senf und Senferzeugnisse</note>
           <note>geschwefelt</note>
