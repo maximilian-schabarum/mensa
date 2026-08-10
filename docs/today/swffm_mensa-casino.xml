@@ -17,6 +17,13 @@
           <price role="student">3.40</price>
         </meal>
         <meal>
+          <name>Ausgabe 3 Veggie Kokosgeschnetzeltes Gemüsepilaw</name>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
+        <meal>
           <name>Ausgabe 5 Gnocchis in Sahnesauce mit einer Beilage nach Wahl</name>
           <price role="other">5.50</price>
           <price role="student">3.90</price>
@@ -40,6 +47,15 @@
           <note>mit Antioxidationsmittel</note>
           <price role="other">6.00</price>
           <price role="student">4.40</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Bratwurst mit Bratensauce, und Spätzle</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Schwein</note>
+          <note>Weizen</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
       </category>
     </day>
