@@ -6,15 +6,21 @@
     <day date="2026-08-11">
       <category name="Vegetarisch">
         <meal>
-          <name>Broccolicremesuppe</name>
+          <name>Gemüsecremesuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Pikantes Kichererbsenragout mit Reis</name>
+          <name>Pikantes Kichererbsenragout mit Basmatireis</name>
           <note>vegan</note>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Chili sin Carne mit Basmatireis, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
         </meal>
         <meal>
           <name>Hirse-Gemüseauflauf mit einer Beilage nach Wahl</name>

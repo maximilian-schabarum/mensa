@@ -12,28 +12,27 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Wrap mit Schwarze Bohnen-Gemüsefüllung und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Wrap mit Schwarze Bohnen-Gemüsefüllung und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.60</price>
           <price role="student">4.00</price>
         </meal>
         <meal>
-          <name>Paprika-Kartoffelauflauf mit Zucchini-Tomatensauce, und einer Beilage nach Wahl</name>
+          <name>Ausgabe 5 Paprika-Kartoffelauflauf mit Zucchini-Tomatensauce, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.90</price>
           <price role="student">3.30</price>
         </meal>
         <meal>
-          <name>Spaghetti mit Mango-Belugalinsenragout</name>
+          <name>Gemüse-Gnocchi</name>
           <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">3.70</price>
-          <price role="student">2.10</price>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Putensteak Spinat-Schafskäse und Kartoffelkroketten</name>
+          <name>Ausgabe 1 Putensteak Spinat-Schafskäse und Kartoffelkroketten</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <note>mit Antioxidationsmittel</note>
