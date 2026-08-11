@@ -33,6 +33,8 @@
         <meal>
           <name>Paniertes Schweineschnitzel mit Rahmsauce , und einer Beilage nach Wahl</name>
           <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
       </category>
     </day>
