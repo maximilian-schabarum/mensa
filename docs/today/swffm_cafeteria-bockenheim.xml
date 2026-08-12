@@ -3,16 +3,24 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-08-11">
+    <day date="2026-08-12">
       <category name="Vegetarisch">
         <meal>
-          <name>Bunte Gemüsesuppe</name>
-          <note>vegan</note>
+          <name>Kartoffelsuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Paprika-Kartoffelauflauf mit Zucchini-Tomatensauce, und einer Beilage nach Wahl</name>
+          <name>Ebly-Gemüsepfanne mit Kräuterrahm , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
+        </meal>
+        <meal>
+          <name>Bunte Farfalle mit Broccoli und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.90</price>
           <price role="student">3.30</price>
@@ -20,21 +28,12 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Putensteak Spinat-Schafskäse und Kartoffelkroketten</name>
+          <name>Chicken-Sandwich mit Salsa und Wedges</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <note>mit Antioxidationsmittel</note>
-          <price role="other">7.90</price>
-          <price role="student">6.30</price>
-        </meal>
-        <meal>
-          <name>Loaded Baked Potato mit Flammkuchen Style Topping , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwein</note>
-          <note>konserviert</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <price role="other">7.40</price>
+          <price role="student">5.80</price>
         </meal>
       </category>
     </day>
