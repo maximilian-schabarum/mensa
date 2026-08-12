@@ -12,13 +12,13 @@
           <price role="student">1.60</price>
         </meal>
         <meal>
-          <name>Broccoli-Gemüsewok mit Basmatireis</name>
+          <name>Broccoli-Gemüsewok Basmatireis</name>
           <note>vegan</note>
           <price role="other">5.10</price>
           <price role="student">3.50</price>
         </meal>
         <meal>
-          <name>Bohnen-Reispfanne mit einer Beilage nach Wahl</name>
+          <name>Bohnen-Reispfanne und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
