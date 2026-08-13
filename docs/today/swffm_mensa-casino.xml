@@ -44,6 +44,12 @@
           <price role="other">7.00</price>
           <price role="student">5.40</price>
         </meal>
+        <meal>
+          <name>Ausgabe 1 Putensteak Spinat-Schafskäse Loaded Baked Potato</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.50</price>
+          <price role="student">5.90</price>
+        </meal>
       </category>
     </day>
   </canteen>
