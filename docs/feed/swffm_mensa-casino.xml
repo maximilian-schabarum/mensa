@@ -3,46 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-08-12">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Kartoffelsuppe</name>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 Ebly-Gemüsepfanne mit Kräuterrahm , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>vegan</note>
-          <price role="other">5.10</price>
-          <price role="student">3.50</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Bunte Farfalle mit Broccoli und einer Beilage nach Wahl</name>
-          <price role="other">5.10</price>
-          <price role="student">3.50</price>
-        </meal>
-        <meal>
-          <name>Spaghetti mit Mango-Belugalinsenragout</name>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">3.70</price>
-          <price role="student">2.10</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Ausgabe 1 Chicken-Sandwich mit Salsa und Wedges</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">7.40</price>
-          <price role="student">5.80</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-08-13">
       <category name="Vegetarisch">
         <meal>
@@ -52,39 +12,43 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Makkaroni mit Grünkernbolognese , und einer Beilage nach Wahl</name>
-          <note>Alkohol</note>
-          <note>Dinkel</note>
+          <name>Ausgabe 3 Makkaroni Sojabolognese , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
+          <price role="other">3.90</price>
+          <price role="student">2.30</price>
         </meal>
         <meal>
-          <name>Kartoffel-Blumenkohlpfanne mit einer Beilage nach Wahl</name>
+          <name>Ausgabe 5 Kartoffel-Blumenkohlpfanne mit einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauchquark , und Blattsalat</name>
-          <note>Milch und Milcherzeugnisse</note>
+          <name>Zucchini-Tomatensalat mit Rosmarinkartoffeln, und Radieschen-Dip</name>
+          <note>Alkohol</note>
+          <note>Soja und Sojaerzeugnisse</note>
           <note>mensaVital</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <note>vegan</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Schmorhähnchen Mediterran mit Flaguelinebrot</name>
+          <name>Ausgabe 1 Schmorhähnchen Mediterran mit Flaguelinebrot</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>Weizen</note>
           <price role="other">7.00</price>
           <price role="student">5.40</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Putensteak Spinat-Schafskäse Loaded Baked Potato</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.50</price>
+          <price role="student">5.90</price>
         </meal>
       </category>
     </day>
@@ -213,6 +177,43 @@
           <note>mensaVital</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-08-19">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Ingwer-Karottencremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Kartoffel-Blumenkohlpfanne mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
+          <name>Planted Fajitas Fuego mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
+        </meal>
+        <meal>
+          <name>Ofenkartoffel mit Kräuterdip , und Currygemüse</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Geflügelbällchen mit Thymianrahmsauce , und Paprikareis</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
         </meal>
       </category>
     </day>
