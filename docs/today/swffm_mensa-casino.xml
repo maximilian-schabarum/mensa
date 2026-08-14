@@ -40,6 +40,12 @@
           <price role="other">7.90</price>
           <price role="student">6.30</price>
         </meal>
+        <meal>
+          <name>Ausgabe 1 Halbes Hähnchen mit Pommes frites</name>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">10.00</price>
+          <price role="student">8.40</price>
+        </meal>
       </category>
     </day>
   </canteen>
