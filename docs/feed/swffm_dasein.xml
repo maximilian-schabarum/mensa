@@ -6,10 +6,15 @@
     <day date="2026-08-14">
       <category name="Vegetarisch">
         <meal>
-          <name>Linsensuppe</name>
-          <note>vegan</note>
+          <name>Karottencremesuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
+        </meal>
+        <meal>
+          <name>Broccoli-Gemüsewok Basmatireis</name>
+          <note>vegan</note>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
         </meal>
         <meal>
           <name>Bandnudeln mit Peperoni und Knoblauch und einer Beilage nach Wahl</name>
@@ -96,6 +101,27 @@
           <note>Rind</note>
           <price role="other">7.90</price>
           <price role="student">6.30</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-08-20">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>vegan</note>
+          <price role="other">3.20</price>
+          <price role="student">1.60</price>
+        </meal>
+        <meal>
+          <name>Kartoffelpfanne mit Schafskäse</name>
+          <price role="other">7.30</price>
+          <price role="student">5.70</price>
+        </meal>
+        <meal>
+          <name>Chili con Quinoa mit Reis, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
         </meal>
       </category>
     </day>
