@@ -3,51 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-08-14">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Kalte Gemüsesuppe</name>
-          <note>vegan</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 Gemüsecouscous mit Minzdip und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Paprika-Kartoffelauflauf mit Zucchini-Tomatensauce, und einer Beilage nach Wahl</name>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauchquark , und Blattsalat</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>mensaVital</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Ausgabe 1 Paniertes Seelachsfilet mit Meerrettichsauce , und Karotten-Stampfkartoffeln</name>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">7.90</price>
-          <price role="student">6.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Halbes Hähnchen mit Pommes frites</name>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">10.00</price>
-          <price role="student">8.40</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-08-17">
       <category name="Vegetarisch">
         <meal>
@@ -212,6 +167,52 @@
           <note>Weizen</note>
           <price role="other">5.90</price>
           <price role="student">4.30</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-08-21">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnersuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Hokifilet Meunière mit Kräutermayonnaise , und Petersilienkartoffeln</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.40</price>
+          <price role="student">5.80</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Pilz-Stroganoff mit Fusilli</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
+        </meal>
+        <meal>
+          <name>Kokos-Kartoffel-Lauchcurry mit Basmatireis</name>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+        <meal>
+          <name>Bohnen-Zucchinichili mit Vollkornreis</name>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">3.80</price>
+          <price role="student">2.20</price>
         </meal>
       </category>
     </day>

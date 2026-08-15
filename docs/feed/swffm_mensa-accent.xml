@@ -104,5 +104,36 @@
         </meal>
       </category>
     </day>
+    <day date="2026-08-21">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Blumenkohl-Currysuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Kokos-Kartoffel-Lauchcurry Basmatireis</name>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hokifilet Meunière mit Kräutermayonnaise , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.40</price>
+          <price role="student">5.80</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
