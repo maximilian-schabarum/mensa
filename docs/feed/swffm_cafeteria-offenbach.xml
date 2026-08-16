@@ -6,12 +6,12 @@
     <day date="2026-08-17">
       <category name="Vegetarisch">
         <meal>
-          <name>Bärlauchcremesuppe</name>
+          <name>Kräuterrahmsuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Kokos-Kartoffel-Lauchcurry mit Basmatireis</name>
+          <name>Kokos-Kartoffel-Lauchcurry mit Reis</name>
           <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
@@ -53,6 +53,8 @@
         <meal>
           <name>Gemüse mit bunten Linsen und Zwiebel-Stampfkartoffeln</name>
           <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -90,7 +92,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Spaghetti Bolognese geriebener Grana Padano</name>
+          <name>Spaghetti Bolognese mit geriebenem Grana Padano</name>
           <note>Eier und Eiererzeugnisse</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>Rind</note>
