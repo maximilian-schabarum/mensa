@@ -3,48 +3,45 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-08-14">
+    <day date="2026-08-17">
       <category name="Vegetarisch">
         <meal>
-          <name>Kalte Gemüsesuppe</name>
+          <name>Tomatensuppe</name>
           <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Gemüsecouscous mit Minzdip und einer Beilage nach Wahl</name>
+          <name>Farfalle mit Spinat und Pinienkernen und einer Beilage nach Wahl</name>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
+        </meal>
+        <meal>
+          <name>Tessiner Gemüsepfanne mit Currydip , und einer Beilage nach Wahl</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Paprika-Kartoffelauflauf mit Zucchini-Tomatensauce, und einer Beilage nach Wahl</name>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Kartoffel-Kürbiskernpuffer mit Tomaten-Schnittlauchquark , und Blattsalat</name>
-          <note>Milch und Milcherzeugnisse</note>
+          <name>Gemüse-Vollkornspaghetti mit Sojarahm</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
           <note>mensaVital</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <note>vegan</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Paniertes Seelachsfilet mit Meerrettichsauce , und Karotten-Stampfkartoffeln</name>
-          <note>MSC</note>
+          <name>Paniertes Schweineschnitzel mit Rahmsauce , und Rosmarinkartoffeln</name>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">7.90</price>
-          <price role="student">6.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Halbes Hähnchen mit Pommes frites</name>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">10.00</price>
-          <price role="student">8.40</price>
+          <note>geschwefelt</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
       </category>
     </day>
