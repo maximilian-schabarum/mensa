@@ -6,7 +6,8 @@
     <day date="2026-08-17">
       <category name="Vegetarisch">
         <meal>
-          <name>Blumenkohlcremesuppe</name>
+          <name>Karottencremesuppe</name>
+          <note>vegan</note>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
@@ -14,6 +15,11 @@
           <name>Griechischer Nudelauflauf mit einer Beilage nach Wahl</name>
           <price role="other">5.70</price>
           <price role="student">4.10</price>
+        </meal>
+        <meal>
+          <name>Bandnudeln mit Peperoni und Knoblauch mit einer Beilage nach Wahl</name>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
         <meal>
           <name>Tofu mit Kokos-Gemüse und Basmatireis</name>
