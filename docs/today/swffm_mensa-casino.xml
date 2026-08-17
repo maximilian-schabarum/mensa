@@ -35,9 +35,9 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Paniertes Schweineschnitzel mit Rahmsauce , und Rosmarinkartoffeln</name>
+          <name>Ausgabe 1 Paniertes Schweineschnitzel mit Rahmsauce , Karotten-Stampfkartoffeln</name>
           <note>Milch und Milcherzeugnisse</note>
-          <note>geschwefelt</note>
+          <note>Schwefeldioxid / Sulfit</note>
           <price role="other">6.00</price>
           <price role="student">4.40</price>
         </meal>
