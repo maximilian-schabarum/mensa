@@ -6,9 +6,15 @@
     <day date="2026-08-18">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatencremesuppe</name>
+          <name>Broccolicremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Frühlingsrolle mit Sweet Chilisauce, und Vollkornreis</name>
+          <note>vegan</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
         </meal>
         <meal>
           <name>Gemüse mit bunten Linsen und Zwiebel-Stampfkartoffeln</name>
