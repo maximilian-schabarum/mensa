@@ -6,7 +6,7 @@
     <day date="2026-08-18">
       <category name="Vegetarisch">
         <meal>
-          <name>Spinatrahmsuppe</name>
+          <name>Kohlrabirahmsuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
@@ -14,6 +14,12 @@
           <name>Ofenkartoffel mit Rucolaquark und einer Beilage nach Wahl</name>
           <price role="other">4.20</price>
           <price role="student">2.60</price>
+        </meal>
+        <meal>
+          <name>Tofu mit Kokos-Gemüse und Basmatireis</name>
+          <note>vegan</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
         <meal>
           <name>Auberginenpfanne mit Couscous , und einer Beilage nach Wahl</name>
