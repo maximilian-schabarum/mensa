@@ -3,55 +3,40 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-08-18">
+    <day date="2026-08-19">
       <category name="Vegetarisch">
         <meal>
-          <name>Broccolisuppe</name>
-          <note>vegan</note>
+          <name>Ingwer-Karottencremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Gemüse mit bunten Linsen und Zwiebel-Stampfkartoffeln</name>
+          <name>Kartoffel-Blumenkohlpfanne mit einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Broccoli-Nussecke mit Pfefferrahmsauce , und Gemüse-Zartweizen</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
+          <name>Planted Fajitas Fuego mit einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
+        </meal>
+        <meal>
+          <name>Ofenkartoffel mit Kräuterdip , und Currygemüse</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Champignon-Putenpfanne mit Spätzle</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <price role="other">6.90</price>
-          <price role="student">5.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Schmorhähnchen Mediterran mit Flaguelinebrot</name>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
+          <name>Geflügelbällchen mit Thymianrahmsauce , und Paprikareis</name>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Weizen</note>
-          <price role="other">6.60</price>
-          <price role="student">5.00</price>
-        </meal>
-        <meal>
-          <name>Schweinefilet mit Mais-Nudelpfanne</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <price role="other">7.40</price>
-          <price role="student">5.80</price>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
         </meal>
       </category>
     </day>
