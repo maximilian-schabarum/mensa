@@ -33,5 +33,47 @@
         </meal>
       </category>
     </day>
+    <day date="2026-08-25">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Bunte Gemüsesuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Hummus mit Baguette , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">3.90</price>
+          <price role="student">2.30</price>
+        </meal>
+        <meal>
+          <name>Bandnudeln Tomate-Zucchini</name>
+          <note>mensaVital</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Loaded Fries mit Kibbelingen , und Remouladensauce</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Fisch und Fischerzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
