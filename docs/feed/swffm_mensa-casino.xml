@@ -3,51 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-08-19">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Ingwer-Karottencremesuppe</name>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 Kartoffel-Blumenkohlpfanne mit einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Planted Fajitas Fuego mit einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
-        </meal>
-        <meal>
-          <name>Ofenkartoffel mit Kräuterdip , und Currygemüse</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>mensaVital</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Ausgabe 1 Geflügelbällchen mit Thymianrahmsauce , und Paprikareis</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Paniertes Schweineschnitzel mit Thymianrahmsauce , und Röstzwiebel-Kartoffelpüree</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Weizen</note>
-          <price role="other">5.70</price>
-          <price role="student">4.10</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-08-20">
       <category name="Vegetarisch">
         <meal>
@@ -70,15 +25,6 @@
           <price role="other">4.10</price>
           <price role="student">2.50</price>
         </meal>
-        <meal>
-          <name>Quinoa-Gemüsepfanne mit Haferdip</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Hafer</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -90,6 +36,20 @@
           <note>Weizen</note>
           <price role="other">5.90</price>
           <price role="student">4.30</price>
+        </meal>
+        <meal>
+          <name>Halbes Hähnchen mit Pommes frites</name>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">10.00</price>
+          <price role="student">8.40</price>
+        </meal>
+        <meal>
+          <name>Schweinefilet mit Mais-Nudelpfanne</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>mensaVital</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
         </meal>
       </category>
     </day>
@@ -223,6 +183,44 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">7.20</price>
           <price role="student">5.60</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-08-26">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Champignoncremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Quinoa-Kichererbsencurry mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+        <meal>
+          <name>Glasnudelsalat mit Frühlingsröllchen</name>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchen Cordon bleu mit Majorankartoffeln</name>
+          <note>geschwefelt</note>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
+        </meal>
+        <meal>
+          <name>Mariniertes Seelachsfilet mit Meerrettichstampfkartoffeln , und Lauch-Maissalat</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>mensaVital</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">8.10</price>
+          <price role="student">6.50</price>
         </meal>
       </category>
     </day>

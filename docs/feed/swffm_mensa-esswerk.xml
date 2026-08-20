@@ -75,5 +75,37 @@
         </meal>
       </category>
     </day>
+    <day date="2026-08-26">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Frischkäsesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Quinoa-Kichererbsencurry mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchen Cordon bleu mit einer Beilage nach Wahl</name>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
+        </meal>
+        <meal>
+          <name>Mariniertes Seelachsfilet mit Meerrettichstampfkartoffeln , und Lauch-Maissalat</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>mensaVital</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">8.10</price>
+          <price role="student">6.50</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
