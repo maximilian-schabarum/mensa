@@ -26,13 +26,14 @@
           <price role="student">2.50</price>
         </meal>
         <meal>
-          <name>Quinoa-Gemüsepfanne mit Haferdip</name>
+          <name>Gemüse-Vollkornspaghetti mit Sojarahm</name>
           <note>Glutenhaltige Getreide</note>
-          <note>Hafer</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
           <note>mensaVital</note>
           <note>vegan</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <price role="other">3.90</price>
+          <price role="student">2.30</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -45,6 +46,12 @@
           <note>Weizen</note>
           <price role="other">5.90</price>
           <price role="student">4.30</price>
+        </meal>
+        <meal>
+          <name>Halbes Hähnchen mit Pommes frites</name>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">10.00</price>
+          <price role="student">8.40</price>
         </meal>
       </category>
     </day>
