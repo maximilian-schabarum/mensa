@@ -19,13 +19,19 @@
           <price role="other">4.10</price>
           <price role="student">2.50</price>
         </meal>
+        <meal>
+          <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
-          <note>Geflügel</note>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
+          <name>Paniertes Putenschnitzel mit Rahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.70</price>
+          <price role="student">6.10</price>
         </meal>
       </category>
     </day>
