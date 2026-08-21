@@ -20,13 +20,6 @@
           <price role="other">4.80</price>
           <price role="student">3.20</price>
         </meal>
-        <meal>
-          <name>Bohnen-Zucchinichili mit Vollkornreis</name>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">3.80</price>
-          <price role="student">2.20</price>
-        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
