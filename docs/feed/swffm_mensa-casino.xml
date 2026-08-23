@@ -11,7 +11,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Veganes Curry mit Bulgur , und einer Beilage nach Wahl</name>
+          <name>Veganes Curry Bulgur , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <note>vegan</note>
@@ -36,7 +36,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Geflügelfleischkäse mit Geflügelsauce, und Drillings-Senfkartoffeln</name>
+          <name>Geflügelfleischkäse mit Geflügelsauce, Drillings-Senfkartoffeln</name>
           <note>Senf und Senferzeugnisse</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
