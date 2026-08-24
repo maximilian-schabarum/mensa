@@ -11,10 +11,10 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Gemüseschnitzel mit Sauce Vegetale, und einer Beilage nach Wahl</name>
+          <name>Broccoli-Nussecke mit Tomatensauce, und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
         </meal>
         <meal>
           <name>Couscouspfanne mit Joghurt-Ingwerdip</name>
@@ -26,10 +26,24 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Geflügelfleischkäse mit Geflügelsauce, und Drillings-Senfkartoffeln</name>
-          <note>Senf und Senferzeugnisse</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
+          <name>Panierte Hähnchenbrust mit Rahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
+        </meal>
+        <meal>
+          <name>Rinderhacksteak mit Barbecuesauce , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
       </category>
     </day>
