@@ -11,12 +11,10 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Veganes Curry mit Bulgur , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
+          <name>Planted Fajitas Fuego mit einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">4.70</price>
-          <price role="student">3.10</price>
+          <price role="other">6.40</price>
+          <price role="student">4.80</price>
         </meal>
         <meal>
           <name>Ausgabe 5 Gemüseschnitzel mit Sauce Vegetale, und Vollkornröhrli</name>
@@ -36,8 +34,8 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Geflügelfleischkäse mit Geflügelsauce, und Kartoffelgratin</name>
-          <note>Milch und Milcherzeugnisse</note>
+          <name>Ausgabe 1 Geflügelfleischkäse mit Geflügelsauce, Schwenkkartoffeln</name>
+          <note>geschwefelt</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
         </meal>
