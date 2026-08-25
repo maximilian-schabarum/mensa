@@ -29,19 +29,16 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Loaded Fries mit Kibbelingen , und Remouladensauce</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Fisch und Fischerzeugnisse</note>
+          <name>Rinderhacksteak mit Barbecuesauce , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
-          <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
           <note>Weizen</note>
+          <note>geschwefelt</note>
           <note>mit Antioxidationsmittel</note>
           <note>mit Farbstoff</note>
           <note>mit Suessungsmitteln</note>
-          <price role="other">7.20</price>
-          <price role="student">5.60</price>
         </meal>
       </category>
     </day>
