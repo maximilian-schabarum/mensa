@@ -30,6 +30,12 @@
           <price role="other">6.50</price>
           <price role="student">4.90</price>
         </meal>
+        <meal>
+          <name>Rinderhacksteak mit Rahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">7.50</price>
+          <price role="student">5.90</price>
+        </meal>
       </category>
     </day>
   </canteen>
