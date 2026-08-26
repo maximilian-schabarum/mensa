@@ -3,37 +3,36 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-08-25">
+    <day date="2026-08-26">
       <category name="Vegetarisch">
         <meal>
-          <name>Karotten-Ingwercremesuppe</name>
-          <note>vegan</note>
+          <name>Kartoffelsuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Semmelknödel mit Kräuter-Austernpilzen , und geriebenem Grana Padano</name>
-          <note>Alkohol</note>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <price role="other">5.30</price>
-          <price role="student">3.70</price>
+          <name>Quinoa-Kichererbsencurry mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
         <meal>
-          <name>Bandnudeln Tomate-Zucchini</name>
-          <note>mensaVital</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
+          <name>Conchiglie tricolore mit Tomaten-Rucolaragout, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchen Cordon bleu mit Majorankartoffeln</name>
-          <note>geschwefelt</note>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
+          <name>Mariniertes Seelachsfilet mit Meerrettichstampfkartoffeln , und Lauch-Maissalat</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>mensaVital</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">8.10</price>
+          <price role="student">6.50</price>
         </meal>
       </category>
     </day>
