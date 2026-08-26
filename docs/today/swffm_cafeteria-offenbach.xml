@@ -6,21 +6,21 @@
     <day date="2026-08-26">
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffelsuppe</name>
+          <name>Paprikacremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Gemüsekroketten mit Sauce Vegetale, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
         </meal>
         <meal>
           <name>Quinoa-Kichererbsencurry mit einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.20</price>
           <price role="student">3.60</price>
-        </meal>
-        <meal>
-          <name>Conchiglie tricolore mit Tomaten-Rucolaragout, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.70</price>
-          <price role="student">3.10</price>
         </meal>
       </category>
       <category name="Hauptgericht">
