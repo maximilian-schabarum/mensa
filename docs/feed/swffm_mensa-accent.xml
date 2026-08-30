@@ -11,10 +11,12 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Soja-Gemüseragout Reis, und einer Beilage nach Wahl</name>
+          <name>Sojabolognese Spaghetti , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
+          <price role="other">3.90</price>
+          <price role="student">2.30</price>
         </meal>
       </category>
       <category name="Hauptgericht">
