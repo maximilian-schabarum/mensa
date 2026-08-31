@@ -6,7 +6,7 @@
     <day date="2026-08-31">
       <category name="Vegetarisch">
         <meal>
-          <name>Blumenkohlcremesuppe</name>
+          <name>Spinatrahmsuppe</name>
           <price role="other">3.20</price>
           <price role="student">1.60</price>
         </meal>
@@ -15,6 +15,12 @@
           <note>vegan</note>
           <price role="other">5.00</price>
           <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Spaghetti mit würzigen Linsen und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
         </meal>
         <meal>
           <name>Kartoffelgratin Mediterran mit einer Beilage nach Wahl</name>

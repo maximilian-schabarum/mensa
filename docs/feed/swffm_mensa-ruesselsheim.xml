@@ -11,7 +11,7 @@
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Soja-Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
+          <name>Veggie Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
@@ -23,6 +23,11 @@
           <note>Rind</note>
           <price role="other">6.60</price>
           <price role="student">5.00</price>
+        </meal>
+        <meal>
+          <name>Geflügelcevapcici mit Ajvar, und einer Beilage nach Wahl</name>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
       </category>
     </day>

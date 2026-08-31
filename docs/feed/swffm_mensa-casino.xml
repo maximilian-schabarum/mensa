@@ -6,18 +6,27 @@
     <day date="2026-08-31">
       <category name="Vegetarisch">
         <meal>
-          <name>Broccolicremesuppe</name>
+          <name>Pilzcremesuppe</name>
+          <note>Alkohol</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Soja-Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Soja-Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Kartoffelrösti Mozzarella-Lauch mit einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Vollkornspaghetti mit Linsenbolognese</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <price role="other">3.60</price>
+          <price role="student">2.00</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Kartoffelrösti Mozzarella-Lauch mit einer Beilage nach Wahl</name>
           <price role="other">5.70</price>
           <price role="student">4.10</price>
         </meal>
@@ -33,7 +42,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Bifteki mit Ajvar, und Country Potatoes</name>
+          <name>Ausgabe 1 Bifteki mit Ajvar, und Country Potatoes</name>
           <note>Glutenhaltige Getreide</note>
           <note>Rind</note>
           <note>Weizen</note>
