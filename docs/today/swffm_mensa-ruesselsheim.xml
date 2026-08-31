@@ -7,11 +7,11 @@
       <category name="Vegetarisch">
         <meal>
           <name>Brombeerkaltschale</name>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
+          <price role="other">2.60</price>
+          <price role="student">1.00</price>
         </meal>
         <meal>
-          <name>Veggie Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
+          <name>Soja-Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">4.60</price>
           <price role="student">3.00</price>

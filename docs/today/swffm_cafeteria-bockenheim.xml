@@ -6,10 +6,9 @@
     <day date="2026-08-31">
       <category name="Vegetarisch">
         <meal>
-          <name>Pilzcremesuppe</name>
-          <note>Alkohol</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
+          <name>Broccolicremesuppe</name>
+          <price role="other">2.60</price>
+          <price role="student">1.00</price>
         </meal>
         <meal>
           <name>Soja-Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
