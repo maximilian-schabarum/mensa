@@ -3,57 +3,52 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-08-28">
+    <day date="2026-08-31">
       <category name="Vegetarisch">
         <meal>
-          <name>Broccolicremesuppe</name>
+          <name>Pilzcremesuppe</name>
+          <note>Alkohol</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Kürbisgnocchi in Parmesansauce</name>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
-        </meal>
-        <meal>
-          <name>Conchiglie tricolore mit Sauce Vegetale , und einer Beilage nach Wahl</name>
-          <note>Alkohol</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>geschwefelt</note>
-          <note>mit Antioxidationsmittel</note>
+          <name>Ausgabe 3 Soja-Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Kartoffelpfanne Aubergine-Zucchini mit veganem Kräuterdip</name>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
-        </meal>
-        <meal>
-          <name>Vollkornspaghetti mit Linsenbolognese</name>
+          <name>Ausgabe 3 Vollkornspaghetti mit Linsenbolognese</name>
           <note>Eier und Eiererzeugnisse</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>mensaVital</note>
           <price role="other">3.60</price>
           <price role="student">2.00</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Kartoffelrösti Mozzarella-Lauch mit einer Beilage nach Wahl</name>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
+        </meal>
+        <meal>
+          <name>Kichererbsen-Spinatragout mit Ananas und Knoblauch-Currykartoffeln</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>geschwefelt</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Seelachsfilet im Backteig mit Joghurt-Dillsauce , und Pommes frites</name>
-          <note>MSC</note>
-          <note>Milch und Milcherzeugnisse</note>
+          <name>Ausgabe 1 Bifteki mit Ajvar, und Country Potatoes</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Rind</note>
+          <note>Weizen</note>
           <note>mit Antioxidationsmittel</note>
-          <price role="other">6.70</price>
-          <price role="student">5.10</price>
+          <price role="other">6.60</price>
+          <price role="student">5.00</price>
         </meal>
       </category>
     </day>
