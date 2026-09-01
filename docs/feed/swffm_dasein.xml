@@ -3,38 +3,12 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-08-31">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Spinatrahmsuppe</name>
-          <price role="other">3.20</price>
-          <price role="student">1.60</price>
-        </meal>
-        <meal>
-          <name>Thai-Gemüsewok mit rotem Curry mit Reis</name>
-          <note>vegan</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
-        </meal>
-        <meal>
-          <name>Spaghetti mit würzigen Linsen und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
-        </meal>
-        <meal>
-          <name>Kartoffelgratin Mediterran mit einer Beilage nach Wahl</name>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-09-01">
       <category name="Vegetarisch">
         <meal>
-          <name>Spinatrahmsuppe</name>
-          <price role="other">3.30</price>
-          <price role="student">1.70</price>
+          <name>Gemüsecremesuppe</name>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
         </meal>
         <meal>
           <name>Spaghetti Sojabolognese , und einer Beilage nach Wahl</name>
@@ -42,6 +16,12 @@
           <note>vegan</note>
           <price role="other">4.40</price>
           <price role="student">2.80</price>
+        </meal>
+        <meal>
+          <name>Thai-Gemüsewok mit rotem Curry mit Reis</name>
+          <note>vegan</note>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
         </meal>
         <meal>
           <name>Auberginen-Moussaka mit einer Beilage nach Wahl</name>
@@ -54,8 +34,8 @@
       <category name="Vegetarisch">
         <meal>
           <name>Pilzrahmsuppe</name>
-          <price role="other">3.30</price>
-          <price role="student">1.70</price>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
         </meal>
         <meal>
           <name>Ofenkartoffel mit Kräuterrahm und einer Beilage nach Wahl</name>
@@ -63,10 +43,10 @@
           <price role="student">2.70</price>
         </meal>
         <meal>
-          <name>Kicherebsen-Quinoacurry mit Reis</name>
+          <name>Bohnen-Reispfanne und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -83,8 +63,8 @@
         <meal>
           <name>Tomatensuppe</name>
           <note>vegan</note>
-          <price role="other">3.30</price>
-          <price role="student">1.70</price>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
         </meal>
         <meal>
           <name>Schupfnudel-Gemüsepfanne mit Joghurtdip , mit einer Beilage nach Wahl</name>
@@ -105,8 +85,8 @@
         <meal>
           <name>Kokos-Currysuppe</name>
           <note>vegan</note>
-          <price role="other">3.30</price>
-          <price role="student">1.70</price>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
         </meal>
         <meal>
           <name>Bulgur-Gemüsepfanne mit Tofu Soja-Dip , und einer Beilage nach Wahl</name>
@@ -122,6 +102,28 @@
           <note>MSC</note>
           <price role="other">6.80</price>
           <price role="student">5.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-09-07">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tomatensuppe</name>
+          <note>vegan</note>
+          <price role="other">2.90</price>
+          <price role="student">1.30</price>
+        </meal>
+        <meal>
+          <name>Pikantes Gemüse mit Tofu mit Reis</name>
+          <note>vegan</note>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
+        </meal>
+        <meal>
+          <name>Tortiglioni mit Oliven-Tomatensauce und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
         </meal>
       </category>
     </day>

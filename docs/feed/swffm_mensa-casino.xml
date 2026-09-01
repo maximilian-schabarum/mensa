@@ -3,64 +3,15 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-08-31">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Pilzcremesuppe</name>
-          <note>Alkohol</note>
-          <price role="other">2.90</price>
-          <price role="student">1.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 Soja-Gemüseragout mit Reis, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 Vollkornspaghetti mit Linsenbolognese</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <price role="other">3.60</price>
-          <price role="student">2.00</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Kartoffelrösti Mozzarella-Lauch mit einer Beilage nach Wahl</name>
-          <price role="other">5.70</price>
-          <price role="student">4.10</price>
-        </meal>
-        <meal>
-          <name>Kichererbsen-Spinatragout mit Ananas und Knoblauch-Currykartoffeln</name>
-          <note>Senf und Senferzeugnisse</note>
-          <note>geschwefelt</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">3.70</price>
-          <price role="student">2.10</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Ausgabe 1 Bifteki mit Ajvar, und Country Potatoes</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Rind</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">6.60</price>
-          <price role="student">5.00</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-09-01">
       <category name="Vegetarisch">
         <meal>
           <name>Kräuterrahmsuppe</name>
-          <price role="other">3.00</price>
-          <price role="student">1.40</price>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Ofenkartoffel mit veganer grüner Sauce , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Ofenkartoffel mit veganer grüner Sauce , und einer Beilage nach Wahl</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
           <note>Sellerie und Sellerieerzeugnisse</note>
@@ -71,16 +22,40 @@
           <price role="student">3.20</price>
         </meal>
         <meal>
-          <name>Gebratene Zucchini mit Kräuterquark und Bulgur Pilav</name>
+          <name>Ausgabe 3 Chili sin Carne mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Gebratene Zucchini mit Kräuterquark und Bulgur Pilav</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <price role="other">4.70</price>
           <price role="student">3.10</price>
         </meal>
+        <meal>
+          <name>Gnocchi-Ratatouilleauflauf mit Mangojoghurt</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
+        </meal>
+        <meal>
+          <name>Kichererbsen-Spinatragout mit Ananas und Knoblauch-Currykartoffeln</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>geschwefelt</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Kesselgulasch mit Fusilli</name>
+          <name>Ausgabe 1 Kesselgulasch mit Fusilli</name>
           <note>Glutenhaltige Getreide</note>
           <note>Schwein</note>
           <note>Weizen</note>
@@ -88,14 +63,10 @@
           <price role="student">4.00</price>
         </meal>
         <meal>
-          <name>Hähnchenbruststeak mit Basilikum-Knoblauchsauce , und Gemüse-Kartoffelgnocchi</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <price role="other">7.50</price>
-          <price role="student">5.90</price>
+          <name>Halbes Hähnchen Pommes frites</name>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">9.70</price>
+          <price role="student">8.10</price>
         </meal>
       </category>
     </day>
@@ -104,8 +75,8 @@
         <meal>
           <name>Kartoffel-Lauchsuppe</name>
           <note>vegan</note>
-          <price role="other">3.00</price>
-          <price role="student">1.40</price>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
         </meal>
         <meal>
           <name>Gemüse-Pilzragout mit Reisbandnudeln</name>
@@ -141,8 +112,8 @@
       <category name="Vegetarisch">
         <meal>
           <name>Maissuppe</name>
-          <price role="other">3.00</price>
-          <price role="student">1.40</price>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
         </meal>
         <meal>
           <name>Dinkel Pasta mit Tomaten-Spinatrahm</name>
@@ -159,13 +130,6 @@
           <price role="other">4.50</price>
           <price role="student">2.90</price>
         </meal>
-        <meal>
-          <name>Gnocchi-Ratatouilleauflauf mit Mangojoghurt</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>mensaVital</note>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
-        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -175,6 +139,16 @@
           <price role="other">6.10</price>
           <price role="student">4.50</price>
         </meal>
+        <meal>
+          <name>Hähnchenbruststeak mit Basilikum-Knoblauchsauce , und Gemüse-Kartoffelgnocchi</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mensaVital</note>
+          <price role="other">7.50</price>
+          <price role="student">5.90</price>
+        </meal>
       </category>
     </day>
     <day date="2026-09-04">
@@ -182,8 +156,8 @@
         <meal>
           <name>Passierte Erbsensuppe</name>
           <note>vegan</note>
-          <price role="other">3.00</price>
-          <price role="student">1.40</price>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
         </meal>
         <meal>
           <name>Gemüse mit Tofu und Basmati-Mandelreis</name>
@@ -215,6 +189,55 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">7.00</price>
           <price role="student">5.40</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-09-07">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Pilzcremesuppe</name>
+          <note>Alkohol</note>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Kumpir mit mariniertem Rotkohl, Paprika-Couscous , und veganem Knoblauchdip</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.10</price>
+          <price role="student">2.50</price>
+        </meal>
+        <meal>
+          <name>Makkaroni mit Gemüserahmsauce und einer Beilage nach Wahl</name>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
+        <meal>
+          <name>Grünkern-Bohnen Pfanne mit Rote Bete-Sauce</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">3.80</price>
+          <price role="student">2.20</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Panierte Hähnchensnacks mit Barbecuesauce , und Risi bisi</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
         </meal>
       </category>
     </day>
