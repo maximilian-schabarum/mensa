@@ -29,6 +29,11 @@
           <price role="other">5.90</price>
           <price role="student">4.30</price>
         </meal>
+        <meal>
+          <name>Geflügelbällchen mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
+        </meal>
       </category>
     </day>
   </canteen>
