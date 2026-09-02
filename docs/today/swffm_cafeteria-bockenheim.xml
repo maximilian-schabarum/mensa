@@ -20,8 +20,8 @@
         <meal>
           <name>Soja-Gemüseragout mit Basmatireis, und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
