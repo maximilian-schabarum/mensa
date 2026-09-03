@@ -3,36 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-02">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Kartoffel-Lauchsuppe</name>
-          <note>vegan</note>
-          <price role="other">2.70</price>
-          <price role="student">1.10</price>
-        </meal>
-        <meal>
-          <name>Gemüse-Pilzragout mit Reisbandnudeln</name>
-          <note>vegan</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
-        </meal>
-        <meal>
-          <name>Soja-Gemüseragout mit Basmatireis, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchenschnitzel mit Dinkelpanade Thymiansauce, und Schwenkkartoffeln</name>
-          <note>geschwefelt</note>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-09-03">
       <category name="Vegetarisch">
         <meal>
@@ -45,6 +15,12 @@
           <note>Schwefeldioxid / Sulfit</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>mit Antioxidationsmittel</note>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
+        </meal>
+        <meal>
+          <name>Gemüse-Pilzragout mit Reisbandnudeln</name>
           <note>vegan</note>
           <price role="other">4.20</price>
           <price role="student">2.60</price>
@@ -145,6 +121,33 @@
           <note>Rind</note>
           <price role="other">6.60</price>
           <price role="student">5.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-09-09">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Karotten-Ingwercremesuppe</name>
+          <note>vegan</note>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Sojageschnetzeltes Indonesische Art mit Basmatireis</name>
+          <note>vegan</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinenackenbraten mit Apfelweinsauce , und Karotten-Stampfkartoffeln</name>
+          <note>Alkohol</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
         </meal>
       </category>
     </day>
