@@ -3,30 +3,35 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-03">
+    <day date="2026-09-04">
       <category name="Vegetarisch">
         <meal>
-          <name>Maissuppe</name>
+          <name>Passierte Erbsensuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Dinkel Pasta mit Tomaten-Spinatrahm</name>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>mit Antioxidationsmittel</note>
+          <name>Gemüse mit Tofu und Basmati-Mandelreis</name>
+          <note>Mandeln</note>
+          <note>Schalenfruechte und Nuesse</note>
           <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
+        </meal>
+        <meal>
+          <name>Kartoffel-Reispfanne mit Kokos-Currysauce , und einer Beilage nach Wahl</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchen-Reisfleisch mit Currysauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
+          <name>Schlemmerfilet Bordelaise und einer Beilage nach Wahl, Zitronenecke</name>
+          <note>MSC</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
         </meal>
       </category>
     </day>
