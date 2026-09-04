@@ -3,10 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-03">
+    <day date="2026-09-04">
       <category name="Vegetarisch">
         <meal>
-          <name>Erbsenrahmsuppe</name>
+          <name>Ingwer-Karottencremesuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
@@ -26,47 +26,6 @@
           <price role="other">5.50</price>
           <price role="student">3.90</price>
         </meal>
-        <meal>
-          <name>Tomatenspaghetti mit Tofu</name>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchen-Reisfleisch mit Currysauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <price role="other">6.10</price>
-          <price role="student">4.50</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-09-04">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Ingwer-Karottencremesuppe</name>
-          <price role="other">2.70</price>
-          <price role="student">1.10</price>
-        </meal>
-        <meal>
-          <name>Gemüse mit Tofu und Basmati-Mandelreis</name>
-          <note>Mandeln</note>
-          <note>Schalenfruechte und Nuesse</note>
-          <note>vegan</note>
-          <price role="other">4.00</price>
-          <price role="student">2.40</price>
-        </meal>
-        <meal>
-          <name>Grünkern-Kartoffelauflauf mit Blumenkohlsalat</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>mensaVital</note>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
-        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -75,6 +34,13 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">7.00</price>
           <price role="student">5.40</price>
+        </meal>
+        <meal>
+          <name>Hähnchen-Reisfleisch mit Currysauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
         </meal>
       </category>
     </day>
@@ -188,6 +154,40 @@
           <note>mit Antioxidationsmittel</note>
           <price role="other">7.00</price>
           <price role="student">5.40</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-09-10">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Erbsenrahmsuppe</name>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Gemüsechili mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
+        <meal>
+          <name>Fruchtige Vollkorn-Reispfanne mit Sojarahm</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">3.50</price>
+          <price role="student">1.90</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchenkeule andalusische Art mit Rosmarinkartoffeln</name>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
       </category>
     </day>
