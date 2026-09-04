@@ -6,7 +6,8 @@
     <day date="2026-09-04">
       <category name="Vegetarisch">
         <meal>
-          <name>Maissuppe</name>
+          <name>Passierte Erbsensuppe</name>
+          <note>vegan</note>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
@@ -29,6 +30,13 @@
         </meal>
       </category>
       <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchen-Reisfleisch mit Currysauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
         <meal>
           <name>Schlemmerfilet Bordelaise mit Kürbis-Stampfkartoffeln</name>
           <note>MSC</note>
