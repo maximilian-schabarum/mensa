@@ -3,57 +3,65 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-04">
+    <day date="2026-09-07">
       <category name="Vegetarisch">
         <meal>
-          <name>Passierte Erbsensuppe</name>
+          <name>Karotten-Ingwercremesuppe</name>
           <note>vegan</note>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Gemüse mit Tofu und Basmati-Mandelreis</name>
-          <note>Mandeln</note>
-          <note>Schalenfruechte und Nuesse</note>
-          <note>vegan</note>
-          <price role="other">4.00</price>
-          <price role="student">2.40</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 Gemüse-Pilzragout mit Reisbandnudeln</name>
+          <name>Kumpir mit mariniertem Rotkohl, Paprika-Couscous , und veganem Knoblauchdip</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
           <note>vegan</note>
           <price role="other">4.10</price>
           <price role="student">2.50</price>
         </meal>
         <meal>
-          <name>Germknödel mit Kirschfüllung Vanillesauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
+          <name>Makkaroni mit Gemüserahmsauce und einer Beilage nach Wahl</name>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
         <meal>
-          <name>Grünkern-Kartoffelauflauf mit Blumenkohlsalat</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
+          <name>Grünkern-Bohnen Pfanne mit Rote Bete-Sauce</name>
+          <note>Soja und Sojaerzeugnisse</note>
           <note>mensaVital</note>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
+          <note>vegan</note>
+          <price role="other">3.80</price>
+          <price role="student">2.20</price>
+        </meal>
+        <meal>
+          <name>Penne mit Tomatensauce</name>
+          <note>vegan</note>
+        </meal>
+        <meal>
+          <name>Karottensalat Gurkensalat , Fruchtjoghurt im Becher</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Schlemmerfilet Bordelaise mit Kürbis-Stampfkartoffeln</name>
-          <note>MSC</note>
+          <name>Panierte Hähnchensnacks mit Barbecuesauce , und Risi bisi</name>
+          <note>Glutenhaltige Getreide</note>
           <note>Milch und Milcherzeugnisse</note>
-          <price role="other">7.00</price>
-          <price role="student">5.40</price>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
         </meal>
         <meal>
-          <name>Bratwurst mit Bratensauce, Pommes frites</name>
-          <note>Schwein</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
+          <name>Paniertes Putenschnitzel mit Rahmsauce , und Reis</name>
+          <note>Milch und Milcherzeugnisse</note>
         </meal>
       </category>
     </day>

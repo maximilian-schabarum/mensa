@@ -3,122 +3,120 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-08-31">
+    <day date="2026-09-07">
       <category name="Vegetarisch">
         <meal>
-          <name>Champignonrahmsuppe</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
-        </meal>
-        <meal>
-          <name>Ruccola-Pesto mit Nudeln und Cocktailtomaten</name>
-          <note>Cashewnüsse</note>
-          <note>Laktose</note>
-          <note>Weizen</note>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Nudeln mit Lachs und Spinat</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
-          <note>Weizen</note>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-09-01">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Curry- Gemüsesuppe</name>
-          <note>Sellerie</note>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Schnitzel mit gebratenen Kartoffeln</name>
-          <note>Eier</note>
-          <note>Weizen</note>
-        </meal>
-        <meal>
-          <name>Gemüseschnitzel mit Bratkartoffeln</name>
-          <note>Sellerie</note>
-          <note>Weizen</note>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-09-02">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Süßkartoffelgulaschsuppe</name>
-          <note>Sellerie</note>
-        </meal>
-        <meal>
-          <name>Pfifferling-Omelette mit Baguette</name>
+          <name>Griesklößchensuppe</name>
           <note>Eier</note>
           <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+        <meal>
+          <name>Chili con Carne mit Reis</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Geflügelgeschnetzeltes mit Pfifferlingen und Spätzle</name>
+          <name>vegetarisches Chili mit Reis</name>
+          <note>Sellerie</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-09-08">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbissuppe</name>
+          <note>Sellerie</note>
+        </meal>
+        <meal>
+          <name>überbackener Schafskäse mit mediterranem Nudelsalat</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnerschulter ohne Knochen mit mediterranem Nudelsalat</name>
+          <note>Eier</note>
+          <note>Senf</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-09-09">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hühnersuppe mit Nudeln</name>
+          <note>Eier</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+        <meal>
+          <name>Kartoffel-Kassler-Lauch-Auflauf</name>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kartoffel-Lauchgratin</name>
           <note>Laktose</note>
           <note>Sellerie</note>
         </meal>
       </category>
     </day>
-    <day date="2026-09-03">
+    <day date="2026-09-10">
       <category name="Hauptgericht">
         <meal>
-          <name>Weißkohlsuppe mit Kartoffeln und Speck</name>
+          <name>Markklößchensuppe mit Grünkernmehl</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+        <meal>
+          <name>Gemischtes Gulasch mit Spätzle</name>
+          <note>Eier</note>
+          <note>Roggen</note>
+          <note>Sellerie</note>
+          <note>Senf</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Pfifferlinge mit Spätzle</name>
+          <note>Eier</note>
+          <note>Laktose</note>
+          <note>Sellerie</note>
+          <note>Weizen</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-09-11">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Bohneneintopf</name>
+          <note>Sellerie</note>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Currywurst mit Pommes</name>
           <note>Ascorbinsäure</note>
           <note>Nitripökelsalz</note>
           <note>Phosphat</note>
           <note>Sellerie</note>
+          <note>Senf</note>
         </meal>
         <meal>
-          <name>Kassler mit Kartoffelpüree und Sauerkraut</name>
-          <note>Ascorbinsäure</note>
-          <note>Laktose</note>
-          <note>Nitripökelsalz</note>
-          <note>Phosphat</note>
-        </meal>
-      </category>
-      <category name="Vegetarisch">
-        <meal>
-          <name>Kartoffel-Gemüse-Gratin</name>
-          <note>Laktose</note>
-          <note>Sellerie</note>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-09-04">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Linseneintopf</name>
-          <note>Sellerie</note>
-        </meal>
-        <meal>
-          <name>Mangoldlasagne</name>
-          <note>Cashewnüsse</note>
+          <name>Käsespätzle mit Röstzwiebeln und Speck</name>
           <note>Eier</note>
           <note>Laktose</note>
-          <note>Sellerie</note>
-          <note>Weizen</note>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Lasagne Bolognese</name>
-          <note>Eier</note>
-          <note>Laktose</note>
-          <note>Sellerie</note>
-          <note>Weizen</note>
-        </meal>
-        <meal>
-          <name>Lachslasagne</name>
-          <note>Eier</note>
-          <note>Laktose</note>
-          <note>Sellerie</note>
           <note>Weizen</note>
         </meal>
       </category>
