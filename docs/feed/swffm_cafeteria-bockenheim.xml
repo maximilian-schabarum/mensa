@@ -6,8 +6,8 @@
     <day date="2026-09-07">
       <category name="Vegetarisch">
         <meal>
-          <name>Pilzcremesuppe</name>
-          <note>Alkohol</note>
+          <name>Karotten-Ingwercremesuppe</name>
+          <note>vegan</note>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
@@ -30,7 +30,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Panierte Hähnchensnacks mit Barbecuesauce , und Risi bisi</name>
+          <name>Panierte Hähnchensnacks mit Barbecuesauce , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>Schwefeldioxid / Sulfit</note>

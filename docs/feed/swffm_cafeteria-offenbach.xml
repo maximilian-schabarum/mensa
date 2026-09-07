@@ -6,14 +6,15 @@
     <day date="2026-09-07">
       <category name="Vegetarisch">
         <meal>
-          <name>Bohnensuppe</name>
+          <name>Rote Betesuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Makkaroni mit Gemüserahmsauce und einer Beilage nach Wahl</name>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
+          <name>Spinat mit roten Linsen und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.20</price>
+          <price role="student">2.60</price>
         </meal>
         <meal>
           <name>Grünkern-Bohnen Pfanne mit Rote Bete-Sauce</name>

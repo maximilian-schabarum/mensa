@@ -6,7 +6,7 @@
     <day date="2026-09-07">
       <category name="Vegetarisch">
         <meal>
-          <name>Kohlrabicremesuppe</name>
+          <name>Spinatcremesuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
@@ -20,19 +20,18 @@
           <price role="other">4.10</price>
           <price role="student">2.50</price>
         </meal>
+        <meal>
+          <name>Gemüse mit Tofu und Basmati-Mandelreis</name>
+          <note>Mandeln</note>
+          <note>Schalenfruechte und Nuesse</note>
+          <note>vegan</note>
+          <price role="other">3.90</price>
+          <price role="student">2.30</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Panierte Hähnchensnacks mit Barbecuesauce , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>geschwefelt</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <note>mit Suessungsmitteln</note>
+          <name>Panierte Hähnchensnacks mit Barbecuesauce, und einer Beilage nach Wahl</name>
           <price role="other">6.90</price>
           <price role="student">5.30</price>
         </meal>

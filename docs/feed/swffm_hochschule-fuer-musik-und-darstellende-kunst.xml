@@ -6,8 +6,8 @@
     <day date="2026-09-07">
       <category name="Vegetarisch">
         <meal>
-          <name>Pilzcremesuppe</name>
-          <note>Alkohol</note>
+          <name>Karotten-Ingwercremesuppe</name>
+          <note>vegan</note>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
@@ -20,6 +20,14 @@
           <note>vegan</note>
           <price role="other">4.10</price>
           <price role="student">2.50</price>
+        </meal>
+        <meal>
+          <name>Gemüse mit Tofu und Basmati-Mandelreis</name>
+          <note>Mandeln</note>
+          <note>Schalenfruechte und Nuesse</note>
+          <note>vegan</note>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
         </meal>
       </category>
       <category name="Hauptgericht">
