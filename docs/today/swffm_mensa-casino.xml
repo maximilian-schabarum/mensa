@@ -3,60 +3,42 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-08">
+    <day date="2026-09-09">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatencremesuppe</name>
+          <name>Gemüsebrühe mit Reiseinlage</name>
+          <note>vegan</note>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Kartoffelpfanne Aubergine-Zucchini mit veganem Sojadip</name>
-          <note>Soja und Sojaerzeugnisse</note>
+          <name>Ausgabe 3 Sojageschnetzeltes Indonesische Art mit Basmatireis</name>
           <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Gemüse mit Tofu Reis</name>
-          <note>vegan</note>
-          <price role="other">4.00</price>
-          <price role="student">2.40</price>
+          <name>Ausgabe 5 Makkaroni mit Gemüserahmsauce und einer Beilage nach Wahl</name>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Gemüsekroketten mit Ajvar, Djuvecreis</name>
-          <note>Senf und Senferzeugnisse</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Suessungsmitteln</note>
+          <name>Tagliatelle mit Lauchrahm</name>
+          <note>mensaVital</note>
           <note>vegan</note>
-          <price role="other">5.20</price>
-          <price role="student">3.60</price>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Spaghetti Bolognese mit geriebenem Grana Padano</name>
-          <note>Eier und Eiererzeugnisse</note>
+          <name>Ausgabe 1 Schweinenackenbraten mit Apfelweinsauce , und Karotten-Stampfkartoffeln</name>
+          <note>Alkohol</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Rind</note>
-          <price role="other">6.60</price>
-          <price role="student">5.00</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Bratwurst Pommes frites</name>
-          <note>Schwein</note>
+          <note>Schwefeldioxid / Sulfit</note>
           <note>mit Antioxidationsmittel</note>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
-        </meal>
-        <meal>
-          <name>Gebratenes Seehechtfilet mit Linsen-Reissalat</name>
-          <note>MSC</note>
-          <note>Mandeln</note>
-          <note>Schalenfruechte und Nuesse</note>
-          <note>mensaVital</note>
-          <price role="other">7.20</price>
-          <price role="student">5.60</price>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
         </meal>
       </category>
     </day>
