@@ -3,36 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-09">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Mediterrane Gemüsesuppe</name>
-          <price role="other">2.70</price>
-          <price role="student">1.10</price>
-        </meal>
-        <meal>
-          <name>Sojageschnetzeltes Indonesische Art Basmatireis</name>
-          <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Schweinenackenbraten mit Apfelweinsauce , und einer Beilage nach Wahl</name>
-          <note>Alkohol</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">7.30</price>
-          <price role="student">5.70</price>
-        </meal>
-        <meal>
-          <name>Geflügelbällchen mit Barbecuesauce, und einer Beilage nach Wahl</name>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-09-10">
       <category name="Vegetarisch">
         <meal>
@@ -44,14 +14,21 @@
           <name>Gemüsechili mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
+          <note>mit Farbstoff</note>
           <note>vegan</note>
           <price role="other">4.80</price>
           <price role="student">3.20</price>
         </meal>
+        <meal>
+          <name>Broccoli-Nussecke mit Joghurt-Kräuterdip , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenkeule andalusische Art Rosmarinkartoffeln</name>
+          <name>Hähnchenkeule andalusische Art und einer Beilage nach Wahl</name>
           <price role="other">5.90</price>
           <price role="student">4.30</price>
         </meal>
@@ -136,6 +113,31 @@
           <name>Rinderreisfleisch mit einer Beilage nach Wahl</name>
           <price role="other">6.80</price>
           <price role="student">5.20</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-09-16">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Ingwer-Karottencremesuppe</name>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Pasta Asciutta mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Apfelwein-Bratwurst mit Zwiebelsauce, Stampfkartoffeln</name>
+          <note>Alkohol</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwein</note>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
         </meal>
       </category>
     </day>
