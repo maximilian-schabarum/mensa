@@ -63,6 +63,13 @@
           <price role="student">4.00</price>
         </meal>
         <meal>
+          <name>Paniertes Putenschnitzel mit Rahmsauce , Rosmarinkartoffeln</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>geschwefelt</note>
+          <price role="other">7.40</price>
+          <price role="student">5.80</price>
+        </meal>
+        <meal>
           <name>Ausgabe 1 Schweinenackenbraten mit Apfelweinsauce , und Karotten-Stampfkartoffeln</name>
           <note>Alkohol</note>
           <note>Milch und Milcherzeugnisse</note>

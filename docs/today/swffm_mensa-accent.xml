@@ -14,6 +14,7 @@
           <name>Gemüsechili mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
+          <note>mit Farbstoff</note>
           <note>vegan</note>
           <price role="other">4.80</price>
           <price role="student">3.20</price>
@@ -27,7 +28,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenkeule andalusische Art Rosmarinkartoffeln</name>
+          <name>Hähnchenkeule andalusische Art und einer Beilage nach Wahl</name>
           <price role="other">5.90</price>
           <price role="student">4.30</price>
         </meal>
