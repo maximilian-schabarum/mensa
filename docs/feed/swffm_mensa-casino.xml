@@ -3,80 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-10">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Kokos-Gemüsesuppe</name>
-          <note>vegan</note>
-          <price role="other">2.70</price>
-          <price role="student">1.10</price>
-        </meal>
-        <meal>
-          <name>Gemüsechili Flaguelinebrot , und einer Beilage nach Wahl</name>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Weizen</note>
-          <price role="other">4.50</price>
-          <price role="student">2.90</price>
-        </meal>
-        <meal>
-          <name>Karotten-Lauchgemüse Erbsen-Maisgemüse</name>
-          <note>vegan</note>
-        </meal>
-        <meal>
-          <name>Pommes frites</name>
-          <note>vegan</note>
-        </meal>
-        <meal>
-          <name>Käseknödel mit Pilzrahm , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>geschwefelt</note>
-          <price role="other">6.30</price>
-          <price role="student">4.70</price>
-        </meal>
-        <meal>
-          <name>Fruchtige Vollkorn-Reispfanne mit Sojarahm</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">3.50</price>
-          <price role="student">1.90</price>
-        </meal>
-        <meal>
-          <name>Penne mit Tomatensauce</name>
-          <note>vegan</note>
-        </meal>
-        <meal>
-          <name>Karottensalat Gurkensalat , Fruchtjoghurt im Becher</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchenkeule andalusische Art mit Rosmarinkartoffeln</name>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Schweinenackenbraten mit Apfelweinsauce , und Karotten-Stampfkartoffeln</name>
-          <note>Alkohol</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">6.60</price>
-          <price role="student">5.00</price>
-        </meal>
-        <meal>
-          <name>Paniertes Putenschnitzel mit Rahmsauce , und Reis</name>
-          <note>Milch und Milcherzeugnisse</note>
-        </meal>
-      </category>
-    </day>
     <day date="2026-09-11">
       <category name="Vegetarisch">
         <meal>
@@ -86,7 +12,7 @@
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Cavatappi mit Tomaten-Mangoldrahm</name>
+          <name>Ausgabe 3 Farfalle mit Tomaten-Mangoldrahm</name>
           <note>Schwefeldioxid / Sulfit</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>mit Antioxidationsmittel</note>
@@ -95,7 +21,7 @@
           <price role="student">3.30</price>
         </meal>
         <meal>
-          <name>Große Portion Milchreis mit einer Beilage nach Wahl</name>
+          <name>Ausgabe 5 Große Portion Milchreis mit einer Beilage nach Wahl</name>
           <price role="other">4.00</price>
           <price role="student">2.40</price>
         </meal>
@@ -107,10 +33,17 @@
           <price role="other">5.50</price>
           <price role="student">3.90</price>
         </meal>
+        <meal>
+          <name>Tagliatelle mit Lauchrahm</name>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Paniertes Schollenfilet mit Remouladensauce , und Schwenkkartoffeln</name>
+          <name>Ausgabe 1 Paniertes Schollenfilet mit Remouladensauce , und Schwenkkartoffeln</name>
           <note>Eier und Eiererzeugnisse</note>
           <note>Glutenhaltige Getreide</note>
           <note>MSC</note>
@@ -121,6 +54,12 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">7.20</price>
           <price role="student">5.60</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Halbes Hähnchen Pommes frites</name>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">9.70</price>
+          <price role="student">8.10</price>
         </meal>
       </category>
     </day>
@@ -247,6 +186,47 @@
           <note>Schwein</note>
           <price role="other">5.40</price>
           <price role="student">3.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-09-17">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kohlrabicremesuppe</name>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Gemüsepfanne mit Reisbandnudeln und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
+        </meal>
+        <meal>
+          <name>Kartoffelpuffer Mediterran mit einer Beilage nach Wahl</name>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
+        <meal>
+          <name>Veggie Gyros mit Couscous , und veganem Tzatziki</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinesteak mit Mozzarella Zweierlei Bohnen, und Kartoffelkroketten</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">7.10</price>
+          <price role="student">5.50</price>
         </meal>
       </category>
     </day>
