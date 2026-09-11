@@ -3,34 +3,35 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-10">
+    <day date="2026-09-11">
       <category name="Vegetarisch">
         <meal>
-          <name>Ingwer-Karottencremesuppe</name>
+          <name>Lauchrahmsuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Gemüsechili mit Kaiserbrötchen , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <note>mit Farbstoff</note>
-          <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
+          <name>Kaiserschmarrn mit Rosinen und Kompott</name>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
         <meal>
-          <name>Broccoli-Nussecke mit Joghurt-Kräuterdip , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
+          <name>Sojageschnetzeltes Indonesische Art Basmatireis</name>
+          <note>vegan</note>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenkeule andalusische Art und einer Beilage nach Wahl</name>
-          <price role="other">5.90</price>
-          <price role="student">4.30</price>
+          <name>Paniertes Schollenfilet mit Remouladensauce , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.40</price>
+          <price role="student">5.80</price>
         </meal>
       </category>
     </day>
