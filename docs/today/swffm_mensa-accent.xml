@@ -6,7 +6,7 @@
     <day date="2026-09-11">
       <category name="Vegetarisch">
         <meal>
-          <name>Lauchrahmsuppe</name>
+          <name>Kartoffel-Lauchsuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
@@ -16,8 +16,10 @@
           <price role="student">3.60</price>
         </meal>
         <meal>
-          <name>Sojageschnetzeltes Indonesische Art Basmatireis</name>
+          <name>Sojageschnetzeltes Indonesische Art und einer Beilage nach Wahl</name>
           <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
         </meal>
       </category>
       <category name="Hauptgericht">
@@ -32,6 +34,18 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
+        </meal>
+        <meal>
+          <name>Seelachsfilet im Backteig mit Remouladensauce , und einer Beilage nach Wahl</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>mit Suessungsmitteln</note>
+          <price role="other">7.10</price>
+          <price role="student">5.50</price>
         </meal>
       </category>
     </day>
