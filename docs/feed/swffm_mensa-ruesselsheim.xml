@@ -16,6 +16,13 @@
           <price role="other">5.00</price>
           <price role="student">3.40</price>
         </meal>
+        <meal>
+          <name>Kartoffelpfanne Aubergine-Zucchini mit veganem Sojadip</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
@@ -23,6 +30,11 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.50</price>
           <price role="student">4.90</price>
+        </meal>
+        <meal>
+          <name>Hähnchenkeule andalusische Art mit einer Beilage nach Wahl</name>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
     </day>

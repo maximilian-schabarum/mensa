@@ -6,7 +6,7 @@
     <day date="2026-09-14">
       <category name="Vegetarisch">
         <meal>
-          <name>Blumenkohlcremesuppe</name>
+          <name>Mediterrane Gemüsecremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -15,6 +15,14 @@
           <note>vegan</note>
           <price role="other">4.50</price>
           <price role="student">2.90</price>
+        </meal>
+        <meal>
+          <name>Auberginenpfanne Couscous , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
         </meal>
         <meal>
           <name>Bandnudeln mit Peperoni und Knoblauch und einer Beilage nach Wahl</name>

@@ -6,20 +6,19 @@
     <day date="2026-09-14">
       <category name="Vegetarisch">
         <meal>
-          <name>Passierte Erbsensuppe</name>
-          <note>vegan</note>
+          <name>Pilzcremesuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Frühlingsrolle mit Sweet Chilisauce, und Curryreis</name>
+          <name>Ausgabe 3 Frühlingsrolle mit Sweet Chilisauce, und Curryreis</name>
           <note>Senf und Senferzeugnisse</note>
           <note>vegan</note>
           <price role="other">5.00</price>
           <price role="student">3.40</price>
         </meal>
         <meal>
-          <name>Ofenkartoffel mit Grillgemüse und Sojadip</name>
+          <name>Ausgabe 5 Ofenkartoffel mit Grillgemüse und Sojadip</name>
           <note>vegan</note>
           <price role="other">5.20</price>
           <price role="student">3.60</price>
@@ -32,10 +31,18 @@
           <price role="other">5.40</price>
           <price role="student">3.80</price>
         </meal>
+        <meal>
+          <name>Couscous mit orientalischem Gemüse mit Soja Topping</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenknusperfilet mit Rahmsauce , und gerösteten Spätzle</name>
+          <name>Ausgabe 1 Hähnchenknusperfilet mit Rahmsauce , und gerösteten Spätzle</name>
           <note>Eier und Eiererzeugnisse</note>
           <note>Glutenhaltige Getreide</note>
           <note>Milch und Milcherzeugnisse</note>
