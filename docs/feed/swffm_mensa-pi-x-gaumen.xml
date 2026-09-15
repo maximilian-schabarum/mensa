@@ -6,8 +6,7 @@
     <day date="2026-09-15">
       <category name="Vegetarisch">
         <meal>
-          <name>Passierte Erbsensuppe</name>
-          <note>vegan</note>
+          <name>Ingwer-Karottencremesuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
@@ -22,10 +21,18 @@
           <price role="other">4.90</price>
           <price role="student">3.30</price>
         </meal>
+        <meal>
+          <name>Frühlingsrolle mit Sweet Chilisauce, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
           <name>Rinderreisfleisch mit einer Beilage nach Wahl</name>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
         <meal>
           <name>Putenragout Mango-Ananas mit grünen Bandnudeln</name>
@@ -134,6 +141,40 @@
           <note>geschwefelt</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-09-21">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Tomatencremesuppe</name>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Cavatappi mit Tomaten-Pilzgemüse , und einer Beilage nach Wahl</name>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <note>vegan</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
+        <meal>
+          <name>Kichererbsen Tikka Masala mit Naan Brot</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">3.60</price>
+          <price role="student">2.00</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchen Cordon bleu mit Bratensauce, und einer Beilage nach Wahl</name>
+          <price role="other">6.30</price>
+          <price role="student">4.70</price>
         </meal>
       </category>
     </day>
