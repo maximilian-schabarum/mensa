@@ -3,34 +3,29 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-17">
+    <day date="2026-09-18">
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüsecremesuppe</name>
+          <name>Blumenkohlsuppe Curry-Kokosmilch</name>
+          <note>vegan</note>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Kartoffelgratin Mediterran und einer Beilage nach Wahl</name>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
-        </meal>
-        <meal>
-          <name>Broccoli-Gemüsewok Reis</name>
+          <name>Chili sin Carne mit Reis, und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">4.50</price>
-          <price role="student">2.90</price>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
+      </category>
+      <category name="Hauptgericht">
         <meal>
-          <name>Bohnen-Kichererbsenpfanne mit Reis</name>
-          <note>vegan</note>
-          <price role="other">4.00</price>
-          <price role="student">2.40</price>
-        </meal>
-        <meal>
-          <name>Kartoffelpfanne mit Schafskäse</name>
-          <price role="other">7.10</price>
-          <price role="student">5.50</price>
+          <name>Paniertes Seelachsfilet mit Currydip , und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
         </meal>
       </category>
     </day>

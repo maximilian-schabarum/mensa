@@ -3,66 +3,39 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-17">
+    <day date="2026-09-18">
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüsebrühe mit Reiseinlage</name>
-          <note>vegan</note>
+          <name>Ingwer-Karottencremesuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Pasta Asciutta mit einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">4.10</price>
-          <price role="student">2.50</price>
-        </meal>
-        <meal>
-          <name>Broccoli-Nussecke mit veganem Knoblauchdip , und einer Beilage nach Wahl</name>
-          <note>Senf und Senferzeugnisse</note>
+          <name>Spaghetti mit Tomaten-Mangoldrahm</name>
+          <note>Schwefeldioxid / Sulfit</note>
           <note>Soja und Sojaerzeugnisse</note>
+          <note>mit Antioxidationsmittel</note>
           <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
         </meal>
         <meal>
-          <name>Veggie Gyros mit Couscous , und veganem Tzatziki</name>
-          <note>Glutenhaltige Getreide</note>
+          <name>Grünkern-Kartoffelauflauf mit Blumenkohlsalat</name>
+          <note>Eier und Eiererzeugnisse</note>
           <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
           <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
-        </meal>
-        <meal>
-          <name>Kichererbsen-Süßkartoffelcurry mit Basmatireis</name>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">6.70</price>
-          <price role="student">5.10</price>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Schweinesteak mit Mozzarella Zweierlei Bohnen, und einer Beilage nach Wahl</name>
-          <price role="other">7.10</price>
-          <price role="student">5.50</price>
-        </meal>
-        <meal>
-          <name>Apfelwein-Bratwurst mit Zwiebelsauce, und Stampfkartoffeln</name>
-          <note>Alkohol</note>
+          <name>Hokifilet mit Meerrettichkruste Rahm-Blattspinat , und Risoléekartoffeln</name>
+          <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Schwein</note>
-          <price role="other">5.30</price>
-          <price role="student">3.70</price>
-        </meal>
-        <meal>
-          <name>Hähnchenknusperfilet mit Rahmsauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
+          <note>geschwefelt</note>
+          <price role="other">7.40</price>
+          <price role="student">5.80</price>
         </meal>
       </category>
     </day>
