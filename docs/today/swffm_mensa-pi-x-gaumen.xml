@@ -18,7 +18,7 @@
           <price role="student">2.70</price>
         </meal>
         <meal>
-          <name>Ravioli mit Tomatenfüllung und Kürbissahnesauce</name>
+          <name>Ravioli mit Tomatenfüllung Kürbissahnesauce</name>
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">5.80</price>
           <price role="student">4.20</price>
@@ -33,7 +33,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hokifilet mit Meerrettichkruste Rahm-Blattspinat , und Risoléekartoffeln</name>
+          <name>Hokifilet mit Meerrettichkruste Rahm-Blattspinat , Risoléekartoffeln</name>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
           <note>geschwefelt</note>
