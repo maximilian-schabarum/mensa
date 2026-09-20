@@ -72,13 +72,6 @@
           <price role="student">3.40</price>
         </meal>
       </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchenstreifen in Rucolasauce mit Reis</name>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
-        </meal>
-      </category>
     </day>
     <day date="2026-09-24">
       <category name="Hauptgericht">
