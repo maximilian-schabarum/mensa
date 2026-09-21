@@ -33,6 +33,8 @@
           <note>Eier und Eiererzeugnisse</note>
           <note>Senf und Senferzeugnisse</note>
           <note>mensaVital</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
