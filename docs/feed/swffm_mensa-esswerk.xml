@@ -11,7 +11,7 @@
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Penne mit Tomaten-Pilzgemüse , und einer Beilage nach Wahl</name>
+          <name>Spaghetti mit Tomaten-Pilzgemüse , und einer Beilage nach Wahl</name>
           <note>Schwefeldioxid / Sulfit</note>
           <note>geschwefelt</note>
           <note>vegan</note>
@@ -28,10 +28,19 @@
           <price role="other">3.60</price>
           <price role="student">2.00</price>
         </meal>
+        <meal>
+          <name>Grünkern-Kartoffelauflauf mit Blumenkohlsalat</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchen Cordon bleu mit Bratensauce, und einer Beilage nach Wahl</name>
+          <name>Hähnchen Cordon bleu mit Rahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.30</price>
           <price role="student">4.70</price>
         </meal>
