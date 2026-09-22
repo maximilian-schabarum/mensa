@@ -3,58 +3,31 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-21">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Tschechische Knoblauch-Kartoffelsuppe</name>
-          <price role="other">2.70</price>
-          <price role="student">1.10</price>
-        </meal>
-        <meal>
-          <name>Frühlingsrolle mit Barbecuesauce, und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
-        </meal>
-        <meal>
-          <name>Kichererbsen Tikka Masala mit Naan Brot</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">3.60</price>
-          <price role="student">2.00</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchen Cordon bleu mit Bratensauce, und einer Beilage nach Wahl</name>
-          <price role="other">6.30</price>
-          <price role="student">4.70</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-09-22">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatencremesuppe</name>
+          <name>Ingwer-Karottencremesuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Smashed Potatoes mit Hafercreme-Blattspinat , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Hafer</note>
+          <name>Gemüseschnitzel mit Sauce Vegetale, und einer Beilage nach Wahl</name>
           <note>vegan</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Tofu-Gemüsecouscous mit Mango mit Soja-Kräuterdip</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Schweinerückensteak Kremser Art mit Gemüse-Spätzle</name>
-          <note>Eier und Eiererzeugnisse</note>
+          <name>Schweinerückensteak Kremser Art mit Grüne Bandnudeln</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <price role="other">5.60</price>
@@ -153,6 +126,32 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">7.40</price>
           <price role="student">5.80</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-09-28">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Bunte Gemüsesuppe</name>
+          <note>vegan</note>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Loaded Wedges mit veganem Chili , und Hafercreme Topping</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Hähnchenschnitzel Mailänder Art mit einer Beilage nach Wahl</name>
+          <price role="other">6.60</price>
+          <price role="student">5.00</price>
         </meal>
       </category>
     </day>
