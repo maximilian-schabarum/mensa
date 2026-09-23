@@ -3,40 +3,38 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-22">
+    <day date="2026-09-23">
       <category name="Vegetarisch">
         <meal>
-          <name>Klare Grießklößchensuppe</name>
+          <name>Selleriesuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Smashed Potatoes mit Hafercreme-Blattspinat , und einer Beilage nach Wahl</name>
+          <name>Quinoa-Süßkartoffel Eintopf mit Mehrkornbrötchen</name>
+          <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
           <note>Hafer</note>
+          <note>Roggen</note>
+          <note>Sesam und Sesamerzeugnisse</note>
+          <note>Weizen</note>
           <note>vegan</note>
-          <price role="other">4.30</price>
-          <price role="student">2.70</price>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Tagliatelle mit Spinat-Frischkäsesauce</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">3.60</price>
+          <price role="student">2.00</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Schweinerückensteak Kremser Art mit einer Beilage nach Wahl</name>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
-        </meal>
-        <meal>
-          <name>Hähnchen Cordon bleu mit Rahmsauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
-        </meal>
-        <meal>
-          <name>Seelachsfilet Spinat-Mozzarella mit Tomaten-Vollkornreis</name>
-          <note>MSC</note>
-          <note>mensaVital</note>
-          <price role="other">8.00</price>
-          <price role="student">6.40</price>
+          <name>Hähnchenstreifen in Rucolasauce Tomatenreis</name>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
       </category>
     </day>
