@@ -25,6 +25,11 @@
           <price role="other">4.90</price>
           <price role="student">3.30</price>
         </meal>
+        <meal>
+          <name>Geflügelbällchen mit Barbecuesauce, und einer Beilage nach Wahl</name>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
+        </meal>
       </category>
     </day>
   </canteen>
