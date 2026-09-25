@@ -16,6 +16,13 @@
           <price role="other">5.00</price>
           <price role="student">3.40</price>
         </meal>
+        <meal>
+          <name>Champignon-Gemüsepfanne mit veganem Sojadip , und Vollkornreis</name>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.50</price>
+          <price role="student">2.90</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>

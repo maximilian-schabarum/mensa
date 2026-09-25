@@ -39,11 +39,9 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Gebratenes Seelachsfilet mit Senf-Dill Dip , und Schwenkkartoffeln</name>
+          <name>Ausgabe 1 Gebratenes Seelachsfilet mit Joghurtdip , Reis</name>
           <note>MSC</note>
           <note>Milch und Milcherzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>geschwefelt</note>
           <price role="other">7.20</price>
           <price role="student">5.60</price>
         </meal>
