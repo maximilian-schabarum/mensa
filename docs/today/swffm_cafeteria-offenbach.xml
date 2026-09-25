@@ -3,36 +3,27 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-24">
+    <day date="2026-09-25">
       <category name="Vegetarisch">
         <meal>
-          <name>Zwiebelsuppe</name>
-          <note>Alkohol</note>
-          <note>vegan</note>
+          <name>Blumenkohl-Currysuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Champignon-Gemüsepfanne mit veganem Sojadip , und Vollkornreis</name>
+          <name>Kartoffel-Broccolipfanne mit Sojarahmsauce , und einer Beilage nach Wahl</name>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-        <meal>
-          <name>Kumpir Rotkohl-Couscous mit Schnittlauchdip</name>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">3.90</price>
-          <price role="student">2.30</price>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Geflügelfrikadelle mit Barbecuesauce, und einer Beilage nach Wahl</name>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
+          <name>Hokifilet Schweizer Art und einer Beilage nach Wahl</name>
+          <note>MSC</note>
+          <price role="other">7.40</price>
+          <price role="student">5.80</price>
         </meal>
       </category>
     </day>
