@@ -23,9 +23,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hähnchenschnitzel Mailänder Art Farfalle</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
+          <name>Hähnchenschnitzel Mailänder Art mit einer Beilage nach Wahl</name>
           <price role="other">6.60</price>
           <price role="student">5.00</price>
         </meal>
