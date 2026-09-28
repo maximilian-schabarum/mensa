@@ -6,6 +6,11 @@
     <day date="2026-09-28">
       <category name="Vegetarisch">
         <meal>
+          <name>Kürbiscremesuppe</name>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
           <name>Loaded Wedges mit veganem Chili , mit Hafercreme Topping</name>
           <note>Glutenhaltige Getreide</note>
           <note>Hafer</note>

@@ -6,18 +6,19 @@
     <day date="2026-09-28">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatencremesuppe</name>
+          <name>Linsenrahmsuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
         <meal>
-          <name>Gemüsecurry mit Reis</name>
+          <name>Gemüsecurry Reis</name>
           <price role="other">5.00</price>
           <price role="student">3.40</price>
         </meal>
         <meal>
           <name>Couscous mit Gemüse Soja-Dip , und einer Beilage nach Wahl</name>
           <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
           <price role="other">6.80</price>
           <price role="student">5.20</price>
         </meal>

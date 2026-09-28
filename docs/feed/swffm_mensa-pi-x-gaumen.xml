@@ -6,7 +6,7 @@
     <day date="2026-09-28">
       <category name="Vegetarisch">
         <meal>
-          <name>Kartoffel-Lauchsuppe</name>
+          <name>Paprikacremesuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
@@ -20,11 +20,16 @@
           <price role="student">3.00</price>
         </meal>
         <meal>
-          <name>Mango-Kürbissuppe mit Vollkornbrot , und Blattsalat mit Rucola und Sprossen</name>
+          <name>Galettini Maisgrießpasta mit Tomatensauce, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
+        <meal>
+          <name>Erbseneintopf mit Vollkornbrot</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
           <note>Roggen</note>
-          <note>Schwefeldioxid / Sulfit</note>
           <note>Weizen</note>
           <note>mensaVital</note>
           <price role="other">4.90</price>
@@ -36,6 +41,14 @@
           <name>Hähnchenschnitzel Mailänder Art mit einer Beilage nach Wahl</name>
           <price role="other">6.60</price>
           <price role="student">5.00</price>
+        </meal>
+        <meal>
+          <name>Geflügelbällchen mit Pilzrahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>geschwefelt</note>
+          <price role="other">6.00</price>
+          <price role="student">4.40</price>
         </meal>
       </category>
     </day>
