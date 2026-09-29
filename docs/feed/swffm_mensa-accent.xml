@@ -3,33 +3,13 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-28">
+    <day date="2026-09-29">
       <category name="Vegetarisch">
         <meal>
-          <name>Kürbiscremesuppe</name>
+          <name>Gemüsecremesuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
-        <meal>
-          <name>Loaded Wedges mit veganem Chili , mit Hafercreme Topping</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Hafer</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">4.60</price>
-          <price role="student">3.00</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Hähnchenschnitzel Mailänder Art mit einer Beilage nach Wahl</name>
-          <price role="other">6.60</price>
-          <price role="student">5.00</price>
-        </meal>
-      </category>
-    </day>
-    <day date="2026-09-29">
-      <category name="Vegetarisch">
         <meal>
           <name>Gemüsepaella mit veganem Knoblauchdip , und einer Beilage nach Wahl</name>
           <note>Senf und Senferzeugnisse</note>
@@ -49,6 +29,11 @@
     </day>
     <day date="2026-09-30">
       <category name="Vegetarisch">
+        <meal>
+          <name>Schwarzwurzelcremesuppe</name>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
         <meal>
           <name>Bulgurpfanne mit Currydip , und einer Beilage nach Wahl</name>
           <note>Senf und Senferzeugnisse</note>
@@ -70,6 +55,11 @@
     </day>
     <day date="2026-10-01">
       <category name="Vegetarisch">
+        <meal>
+          <name>Lauchrahmsuppe</name>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
         <meal>
           <name>Linsen-Gemüsechili mit Reis, und einer Beilage nach Wahl</name>
           <note>vegan</note>
@@ -97,6 +87,12 @@
     <day date="2026-10-02">
       <category name="Vegetarisch">
         <meal>
+          <name>Pilzcremesuppe</name>
+          <note>Alkohol</note>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
           <name>Pasta mit Nüssen und Basilikum mit Tomatenwürfeln, und einer Beilage nach Wahl</name>
           <note>vegan</note>
           <price role="other">5.00</price>
@@ -110,6 +106,36 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.90</price>
           <price role="student">5.30</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-10-05">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Selleriesuppe</name>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Loaded Fries Pulled Planted, mit Barbecuesauce , mit Soja Topping</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Schwefeldioxid / Sulfit</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>Weizen</note>
+          <note>geschwefelt</note>
+          <note>mit Antioxidationsmittel</note>
+          <note>mit Farbstoff</note>
+          <note>mit Suessungsmitteln</note>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Curryhuhn mit Früchten und einer Beilage nach Wahl</name>
+          <price role="other">5.70</price>
+          <price role="student">4.10</price>
         </meal>
       </category>
     </day>
