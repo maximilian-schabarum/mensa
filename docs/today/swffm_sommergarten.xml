@@ -199,6 +199,12 @@
           <price role="student">0.60</price>
         </meal>
         <meal>
+          <name>Gemüsepaella mit veganem Knoblauchdip</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+        </meal>
+        <meal>
           <name>Burrata mit Brot oder Brötchen</name>
           <note>Alkohol</note>
           <note>Gerste</note>
