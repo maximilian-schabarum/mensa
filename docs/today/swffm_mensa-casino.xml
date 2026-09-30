@@ -20,6 +20,12 @@
           <price role="student">3.40</price>
         </meal>
         <meal>
+          <name>Ausgabe 3 Kolbörek mit Käsefüllung mit Kräuterschmand , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
           <name>Ausgabe 5 Loaded Baked Potato mit Veggie Gyros , Tzatziki , und Peperoni</name>
           <note>Senf und Senferzeugnisse</note>
           <note>Soja und Sojaerzeugnisse</note>
