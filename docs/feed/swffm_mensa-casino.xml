@@ -3,85 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-29">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Wirsingrahmsuppe</name>
-          <price role="other">2.70</price>
-          <price role="student">1.10</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 Gemüsepaella mit veganem Knoblauchdip , und einer Beilage nach Wahl</name>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Gnocchi mit Ricottafüllung roter Pesto-Sahnesauce , und einer Beilage nach Wahl</name>
-          <note>Cashewnuesse</note>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schalenfruechte und Nuesse</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Tortellini mit Auberginenfüllung rote Pesto-Sahnesauce , und einer Beilage nach Wahl</name>
-          <note>Cashewnuesse</note>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Schalenfruechte und Nuesse</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">6.40</price>
-          <price role="student">4.80</price>
-        </meal>
-        <meal>
-          <name>Mango-Kürbissuppe mit Vollkornbrot , und Blattsalat mit Rucola und Sprossen</name>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Roggen</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <price role="other">4.50</price>
-          <price role="student">2.90</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Ausgabe 1 Fruchtiges Truthahnragout mit Spätzle</name>
-          <note>Eier und Eiererzeugnisse</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <price role="other">6.90</price>
-          <price role="student">5.30</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Bratwurst Pommes frites</name>
-          <note>Schwein</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
-        </meal>
-        <meal>
-          <name>Rindfleischfrikadelle mit Tomatensauce, und Reis</name>
-          <price role="other">5.70</price>
-          <price role="student">4.10</price>
-        </meal>
-        <meal>
-          <name>Zwiebelgyros mit Tomaten-Reisnudeln , und Weißkrautsalat</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Schwein</note>
-          <note>Weizen</note>
-          <note>mensaVital</note>
-          <price role="other">5.30</price>
-          <price role="student">3.70</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-09-30">
       <category name="Vegetarisch">
         <meal>
@@ -91,7 +12,7 @@
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Bulgurpfanne mit Currydip , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Bulgurpfanne mit Currydip , und einer Beilage nach Wahl</name>
           <note>Senf und Senferzeugnisse</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
@@ -99,7 +20,13 @@
           <price role="student">3.40</price>
         </meal>
         <meal>
-          <name>Loaded Baked Potato mit Veggie Gyros , Tzatziki , und Peperoni</name>
+          <name>Ausgabe 3 Kolbörek mit Käsefüllung mit Kräuterschmand , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Loaded Baked Potato mit Veggie Gyros , Tzatziki , und Peperoni</name>
           <note>Senf und Senferzeugnisse</note>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
@@ -116,7 +43,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Spaghetti mit Hackfleisch-Rahmsauce , und Reibekäse</name>
+          <name>Ausgabe 1 Spaghetti mit Hackfleisch-Rahmsauce , und Reibekäse</name>
           <note>Milch und Milcherzeugnisse</note>
           <note>Rind</note>
           <price role="other">5.60</price>
@@ -255,6 +182,45 @@
           <name>Curryhuhn mit Früchten und Duftreis</name>
           <price role="other">5.00</price>
           <price role="student">3.40</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-10-06">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Bunte Gemüsesuppe</name>
+          <note>vegan</note>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Wrap mit Gemüsecouscous und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
+          <name>Stampfkartoffeln mit Veggie Hack und einer Beilage nach Wahl</name>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+        <meal>
+          <name>Kokos-Gemüseeintopf Thai Style</name>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Schweinerückensteak mit Speck-Champignons , und Macaire-Kartoffeln</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>konserviert</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
         </meal>
       </category>
     </day>
