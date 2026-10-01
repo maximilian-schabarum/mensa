@@ -44,8 +44,7 @@
           <price role="student">4.20</price>
         </meal>
         <meal>
-          <name>Champignon-Putenpfanne mit Spätzle</name>
-          <note>Eier und Eiererzeugnisse</note>
+          <name>Champignon-Putenragout mit Spaghetti</name>
           <note>Glutenhaltige Getreide</note>
           <note>Weizen</note>
           <price role="other">6.70</price>
