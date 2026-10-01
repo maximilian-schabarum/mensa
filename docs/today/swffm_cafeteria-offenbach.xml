@@ -3,34 +3,43 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-30">
+    <day date="2026-10-01">
       <category name="Vegetarisch">
         <meal>
-          <name>Kürbiscremesuppe</name>
+          <name>Bohnensuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Germknödel mit Kirschfüllung mit Vanillesauce , und einer Beilage nach Wahl</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <price role="other">4.40</price>
-          <price role="student">2.80</price>
+          <name>Champignon-Gemüsepfanne Gnocchi</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
         </meal>
         <meal>
-          <name>Kreolisches Chili mit Kräuterreis</name>
+          <name>Tomaten-Chilispaghetti mit Tofu</name>
           <note>mensaVital</note>
           <note>vegan</note>
-          <price role="other">4.10</price>
-          <price role="student">2.50</price>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Spaghetti mit Hackfleisch-Rahmsauce , und Reibekäse</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>Rind</note>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
+          <name>Oberhessischer Kartoffeleintopf mit Frankfurter Würstchen , und Roggenbrot</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Lupine und Lupinenerzeugnisse</note>
+          <note>Roggen</note>
+          <note>Schwein</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <note>konserviert</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
         </meal>
       </category>
     </day>

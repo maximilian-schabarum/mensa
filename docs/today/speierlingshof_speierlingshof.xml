@@ -103,9 +103,10 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Sahnehering mit Bratkartoffeln</name>
-          <note>Fisch</note>
-          <note>Sellerie</note>
+          <name>Wurstsalat mit Bratkartoffeln</name>
+          <note>Laktose</note>
+          <note>Nitripökelsalz</note>
+          <note>Phosphat</note>
         </meal>
       </category>
     </day>
