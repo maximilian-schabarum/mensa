@@ -3,65 +3,23 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-10-01">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Pilzcremesuppe</name>
-          <price role="other">2.70</price>
-          <price role="student">1.10</price>
-        </meal>
-        <meal>
-          <name>Bulgurpfanne mit Currydip , und einer Beilage nach Wahl</name>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Loaded Wedges mit veganem Chili , Hafercreme Topping , und einer Beilage nach Wahl</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Hafer</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Oberhessischer Kartoffeleintopf mit Frankfurter Würstchen , und Roggenbrot</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Lupine und Lupinenerzeugnisse</note>
-          <note>Roggen</note>
-          <note>Schwein</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Weizen</note>
-          <note>konserviert</note>
-          <note>mit Antioxidationsmittel</note>
-          <price role="other">5.80</price>
-          <price role="student">4.20</price>
-        </meal>
-        <meal>
-          <name>Champignon-Putenragout mit Spaghetti</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Weizen</note>
-          <price role="other">6.70</price>
-          <price role="student">5.10</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-10-02">
       <category name="Vegetarisch">
         <meal>
-          <name>Gemüsebrühe mit Reiseinlage</name>
-          <note>vegan</note>
+          <name>Kartoffelsuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Pasta mit Nüssen und Basilikum und einer Beilage nach Wahl</name>
+          <name>Pasta mit Nüssen und Basilikum mit Tomatenwürfeln, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Gemüsepaella mit veganem Knoblauchdip , und einer Beilage nach Wahl</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
           <price role="other">5.00</price>
           <price role="student">3.40</price>
@@ -158,6 +116,36 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">7.30</price>
           <price role="student">5.70</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-10-08">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Bohnensuppe</name>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Ofenkartoffel mit veganer grüner Sauce , und einer Beilage nach Wahl</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Geflügelcevapcici mit Ajvar, Baguette , und einer Beilage nach Wahl</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
         </meal>
       </category>
     </day>
