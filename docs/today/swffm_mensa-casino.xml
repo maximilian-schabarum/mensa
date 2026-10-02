@@ -18,6 +18,13 @@
           <price role="student">3.40</price>
         </meal>
         <meal>
+          <name>Ausgabe 3 Hirse-Spinatauflauf mit Paprika-Tomatensauce,, Fruchtjoghurt im Becher , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">5.30</price>
+          <price role="student">3.70</price>
+        </meal>
+        <meal>
           <name>Ausgabe 5 Bayerische Gemüsepfanne mit veganem Kräuterdip</name>
           <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
@@ -50,6 +57,20 @@
           <note>Milch und Milcherzeugnisse</note>
           <price role="other">6.90</price>
           <price role="student">5.30</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Spaghetti mit Sauce Bolognese, Reibekäse</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Rind</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Bratwurst mit Bratensauce, Pommes frites</name>
+          <note>Schwein</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">5.90</price>
+          <price role="student">4.30</price>
         </meal>
       </category>
     </day>
