@@ -36,12 +36,31 @@
           <price role="other">6.50</price>
           <price role="student">4.90</price>
         </meal>
+        <meal>
+          <name>Herbstliche Grünkern-Bowl mit cremigem Meerrettichdressing</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>mensaVital</note>
+          <price role="other">6.80</price>
+          <price role="student">5.20</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
           <name>Ausgabe 1 Curryhuhn mit Früchten und Duftreis</name>
           <price role="other">5.00</price>
           <price role="student">3.40</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 1 Bratwurst mit Bratensauce, Schwenkkartoffeln</name>
+          <note>Schwein</note>
+          <note>geschwefelt</note>
+          <price role="other">5.60</price>
+          <price role="student">4.00</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 3 Geflügelbällchen mit Bratensauce, Duftreis</name>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
         </meal>
       </category>
     </day>

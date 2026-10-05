@@ -6,8 +6,7 @@
     <day date="2026-10-05">
       <category name="Vegetarisch">
         <meal>
-          <name>Champignoncremesuppe</name>
-          <note>Alkohol</note>
+          <name>Gemüsecremesuppe</name>
           <price role="other">2.90</price>
           <price role="student">1.30</price>
         </meal>
@@ -16,6 +15,12 @@
           <note>vegan</note>
           <price role="other">4.90</price>
           <price role="student">3.30</price>
+        </meal>
+        <meal>
+          <name>Chili sin Carne mit Reis, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
         <meal>
           <name>Spaghetti mit Kräuter-Pilzrahmsauce , und einer Beilage nach Wahl</name>
