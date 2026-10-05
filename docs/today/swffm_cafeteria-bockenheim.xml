@@ -24,6 +24,12 @@
           <price role="other">5.70</price>
           <price role="student">4.10</price>
         </meal>
+        <meal>
+          <name>Kolbörek mit Käsefüllung mit Joghurtdip , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">4.30</price>
+          <price role="student">2.70</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>

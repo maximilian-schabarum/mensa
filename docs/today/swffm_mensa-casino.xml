@@ -57,6 +57,11 @@
           <price role="other">5.60</price>
           <price role="student">4.00</price>
         </meal>
+        <meal>
+          <name>Ausgabe 3 Geflügelbällchen mit Bratensauce, Duftreis</name>
+          <price role="other">4.80</price>
+          <price role="student">3.20</price>
+        </meal>
       </category>
     </day>
   </canteen>
