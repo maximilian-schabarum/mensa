@@ -3,64 +3,50 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-10-05">
+    <day date="2026-10-06">
       <category name="Vegetarisch">
         <meal>
-          <name>Tomatencremesuppe</name>
+          <name>Bunte Gemüsesuppe</name>
+          <note>vegan</note>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Ausgabe 3 Loaded Fries mit Pulled Planted, Barbecuesauce , und Soja Topping</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Schwefeldioxid / Sulfit</note>
+          <name>Ausgabe 3 Wrap mit Gemüsecouscous mit Soja Topping , und einer Beilage nach Wahl</name>
           <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>geschwefelt</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <note>mit Suessungsmitteln</note>
           <note>vegan</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
         </meal>
         <meal>
-          <name>Ausgabe 5 Gnocchis in Sahnesauce mit einer Beilage nach Wahl</name>
-          <price role="other">5.50</price>
-          <price role="student">3.90</price>
+          <name>Ausgabe 5 Stampfkartoffeln mit Veggie Hack und einer Beilage nach Wahl</name>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+        <meal>
+          <name>Kokos-Gemüseeintopf Thai Style</name>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
         </meal>
         <meal>
           <name>Oriantalische Gemüsepfanne mit Dinkel und Sesam</name>
           <note>mensaVital</note>
           <note>vegan</note>
-          <price role="other">6.50</price>
-          <price role="student">4.90</price>
-        </meal>
-        <meal>
-          <name>Herbstliche Grünkern-Bowl mit cremigem Meerrettichdressing</name>
-          <note>Milch und Milcherzeugnisse</note>
-          <note>mensaVital</note>
-          <price role="other">6.80</price>
-          <price role="student">5.20</price>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
         </meal>
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Ausgabe 1 Curryhuhn mit Früchten und Duftreis</name>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Bratwurst mit Bratensauce, Schwenkkartoffeln</name>
-          <note>Schwein</note>
-          <note>geschwefelt</note>
-          <price role="other">5.60</price>
-          <price role="student">4.00</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 Geflügelbällchen mit Bratensauce, Duftreis</name>
-          <price role="other">4.80</price>
-          <price role="student">3.20</price>
+          <name>Ausgabe 1 Schweinerückensteak mit Speck-Champignons , und Macaire-Kartoffeln</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>konserviert</note>
+          <note>mit Antioxidationsmittel</note>
+          <price role="other">6.10</price>
+          <price role="student">4.50</price>
         </meal>
       </category>
     </day>
