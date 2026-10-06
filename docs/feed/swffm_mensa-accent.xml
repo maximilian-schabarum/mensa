@@ -3,40 +3,10 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-10-05">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Selleriesuppe</name>
-          <price role="other">2.70</price>
-          <price role="student">1.10</price>
-        </meal>
-        <meal>
-          <name>Loaded Fries Pulled Planted, mit Barbecuesauce , mit Soja Topping</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Schwefeldioxid / Sulfit</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>Weizen</note>
-          <note>geschwefelt</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Farbstoff</note>
-          <note>mit Suessungsmitteln</note>
-          <note>vegan</note>
-          <price role="other">5.00</price>
-          <price role="student">3.40</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Curryhuhn mit Früchten und einer Beilage nach Wahl</name>
-          <price role="other">5.70</price>
-          <price role="student">4.10</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-10-06">
       <category name="Vegetarisch">
         <meal>
-          <name>Wirsingrahmsuppe</name>
+          <name>Blumenkohlcremesuppe</name>
           <price role="other">2.70</price>
           <price role="student">1.10</price>
         </meal>
@@ -129,6 +99,29 @@
           <note>MSC</note>
           <price role="other">7.00</price>
           <price role="student">5.40</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-10-12">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbiscremesuppe</name>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Bunte Farfalle mit Broccoli und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.00</price>
+          <price role="student">3.40</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Panierte Hähnchenbrust mit Pfefferrahmsauce , und einer Beilage nach Wahl</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <price role="other">6.50</price>
+          <price role="student">4.90</price>
         </meal>
       </category>
     </day>
