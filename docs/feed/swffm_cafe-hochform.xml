@@ -24,5 +24,27 @@
         </meal>
       </category>
     </day>
+    <day date="2026-10-13">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kürbis-Reispfanne mit Currydip</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.40</price>
+          <price role="student">2.80</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bratwurstschnecke, Holzspieß! mit grünen Bohnen, Senf , und Kartoffel-Sahnepüree</name>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Schwein</note>
+          <note>Senf und Senferzeugnisse</note>
+          <price role="other">6.90</price>
+          <price role="student">5.30</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
