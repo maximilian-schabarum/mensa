@@ -22,6 +22,14 @@
           <price role="other">4.90</price>
           <price role="student">3.30</price>
         </meal>
+        <meal>
+          <name>Paniertes Putenschnitzel mit Pusztasauce , und einer Beilage nach Wahl</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>mit Suessungsmitteln</note>
+          <note>vegan</note>
+          <price role="other">7.20</price>
+          <price role="student">5.60</price>
+        </meal>
       </category>
       <category name="Hauptgericht">
         <meal>

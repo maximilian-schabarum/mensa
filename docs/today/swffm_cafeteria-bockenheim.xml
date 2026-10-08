@@ -25,9 +25,12 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Geflügelcevapcici mit Ajvar, Couscoussalat , und Baguette</name>
+          <name>Geflügelcevapcici mit Ajvar, Couscoussalat , und Mehrkornbrötchen TK</name>
+          <note>Gerste</note>
           <note>Glutenhaltige Getreide</note>
+          <note>Hafer</note>
           <note>Roggen</note>
+          <note>Sesam und Sesamerzeugnisse</note>
           <note>Weizen</note>
           <price role="other">6.20</price>
           <price role="student">4.60</price>
