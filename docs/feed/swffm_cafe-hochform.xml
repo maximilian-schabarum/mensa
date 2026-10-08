@@ -46,5 +46,25 @@
         </meal>
       </category>
     </day>
+    <day date="2026-10-14">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Kichererbseneintopf Marrokanisch mit Baguette</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Roggen</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Putensteak Spinat-Schafskäse mit Tomatenrisotto</name>
+          <price role="other">7.60</price>
+          <price role="student">6.00</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>

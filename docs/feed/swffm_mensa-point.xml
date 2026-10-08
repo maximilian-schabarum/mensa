@@ -51,5 +51,30 @@
         </meal>
       </category>
     </day>
+    <day date="2026-10-14">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Schwarzwurzelcremesuppe</name>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Kichererbseneintopf Marrokanisch mit Baguette</name>
+          <note>Gerste</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>vegan</note>
+          <price role="other">4.70</price>
+          <price role="student">3.10</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Putensteak Spinat-Schafskäse mit einer Beilage nach Wahl</name>
+          <price role="other">7.80</price>
+          <price role="student">6.20</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
