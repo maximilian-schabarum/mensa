@@ -3,70 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-10-08">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Paprikasuppe</name>
-          <note>vegan</note>
-          <price role="other">2.70</price>
-          <price role="student">1.10</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 Gemüsekroketten mit Currydip , und einer Beilage nach Wahl</name>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">5.40</price>
-          <price role="student">3.80</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 3 Reispfanne mit Tofu und einer Beilage nach Wahl</name>
-          <note>vegan</note>
-          <price role="other">5.30</price>
-          <price role="student">3.70</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 5 Ofenkartoffel mit veganer grüner Sauce , und einer Beilage nach Wahl</name>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Kichererbsen-Kokospfanne mit Mandelreis</name>
-          <note>Mandeln</note>
-          <note>Schalenfruechte und Nuesse</note>
-          <note>mensaVital</note>
-          <note>vegan</note>
-          <price role="other">4.20</price>
-          <price role="student">2.60</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Ausgabe 1 Geflügelcevapcici mit Ajvar, Couscoussalat , und Baguette</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Roggen</note>
-          <note>Weizen</note>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
-        </meal>
-        <meal>
-          <name>Ausgabe 1 Paniertes Putenschnitzel mit Pusztasauce , und Country Potatoes</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Weizen</note>
-          <note>mit Antioxidationsmittel</note>
-          <note>mit Suessungsmitteln</note>
-          <price role="other">6.90</price>
-          <price role="student">5.30</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-10-09">
       <category name="Vegetarisch">
         <meal>
@@ -75,18 +11,31 @@
           <price role="student">1.10</price>
         </meal>
         <meal>
-          <name>Veggie Kokosgeschnetzeltes mit Gemüsepilaw</name>
+          <name>Ausgabe 3 Veggie Kokosgeschnetzeltes mit Gemüsepilaw</name>
           <note>Sellerie und Sellerieerzeugnisse</note>
           <note>vegan</note>
           <price role="other">4.70</price>
           <price role="student">3.10</price>
         </meal>
         <meal>
-          <name>Fruchtige Quinoa-Gemüsepfanne mit Schnittlauchdip , und einer Beilage nach Wahl</name>
+          <name>Ausgabe 3 Gemüsekroketten mit Currydip , und einer Beilage nach Wahl</name>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Soja und Sojaerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">5.10</price>
+          <price role="student">3.50</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Fruchtige Quinoa-Gemüsepfanne mit Schnittlauchdip , und einer Beilage nach Wahl</name>
           <note>Soja und Sojaerzeugnisse</note>
           <note>vegan</note>
           <price role="other">5.70</price>
           <price role="student">4.10</price>
+        </meal>
+        <meal>
+          <name>Ausgabe 5 Makkaroni-Spinatauflauf</name>
+          <price role="other">4.60</price>
+          <price role="student">3.00</price>
         </meal>
         <meal>
           <name>Penne-Tomatenauflauf</name>
@@ -97,7 +46,7 @@
       </category>
       <category name="Hauptgericht">
         <meal>
-          <name>Hokifilet Schweizer Art mit Senfkartoffeln</name>
+          <name>Ausgabe 1 Hokifilet Schweizer Art mit Senfkartoffeln</name>
           <note>MSC</note>
           <note>Senf und Senferzeugnisse</note>
           <note>geschwefelt</note>
@@ -231,6 +180,48 @@
           <note>mit Suessungsmitteln</note>
           <price role="other">7.60</price>
           <price role="student">6.00</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-10-15">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bayerische Kohlsuppe</name>
+          <note>Schwein</note>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Hähnchenkeule alla Stefano mit Geflügelsauce, und Risoléekartoffeln</name>
+          <note>geschwefelt</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Makkaroni mit Grünkernbolognese , und einer Beilage nach Wahl</name>
+          <note>Dinkel</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
+        </meal>
+        <meal>
+          <name>Gemüsecouscous mit Minzdip und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.50</price>
+          <price role="student">3.90</price>
+        </meal>
+        <meal>
+          <name>Veggie Ragout mediterran mit Reiskornnudeln</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>Weizen</note>
+          <note>mensaVital</note>
+          <note>vegan</note>
+          <price role="other">5.40</price>
+          <price role="student">3.80</price>
         </meal>
       </category>
     </day>

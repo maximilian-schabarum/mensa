@@ -3,45 +3,6 @@
 <?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-10-08">
-      <category name="Vegetarisch">
-        <meal>
-          <name>Paprikasuppe</name>
-          <note>vegan</note>
-          <price role="other">2.70</price>
-          <price role="student">1.10</price>
-        </meal>
-        <meal>
-          <name>Ofenkartoffel mit veganer grüner Sauce , und einer Beilage nach Wahl</name>
-          <note>Gerste</note>
-          <note>Glutenhaltige Getreide</note>
-          <note>Sellerie und Sellerieerzeugnisse</note>
-          <note>Senf und Senferzeugnisse</note>
-          <note>Soja und Sojaerzeugnisse</note>
-          <note>vegan</note>
-          <price role="other">4.90</price>
-          <price role="student">3.30</price>
-        </meal>
-        <meal>
-          <name>Paniertes Putenschnitzel mit Pusztasauce , und einer Beilage nach Wahl</name>
-          <note>Senf und Senferzeugnisse</note>
-          <note>mit Suessungsmitteln</note>
-          <note>vegan</note>
-          <price role="other">7.20</price>
-          <price role="student">5.60</price>
-        </meal>
-      </category>
-      <category name="Hauptgericht">
-        <meal>
-          <name>Geflügelcevapcici mit Ajvar, und einer Beilage nach Wahl, mit Baguette</name>
-          <note>Glutenhaltige Getreide</note>
-          <note>Roggen</note>
-          <note>Weizen</note>
-          <price role="other">6.20</price>
-          <price role="student">4.60</price>
-        </meal>
-      </category>
-    </day>
     <day date="2026-10-09">
       <category name="Vegetarisch">
         <meal>
@@ -158,6 +119,42 @@
           <note>vegan</note>
           <price role="other">5.70</price>
           <price role="student">4.10</price>
+        </meal>
+        <meal>
+          <name>Waffel mit Puderzucker</name>
+          <price role="other">3.40</price>
+          <price role="student">1.80</price>
+        </meal>
+        <meal>
+          <name>Waffel mit belgischer Nuss Nougat Creme</name>
+          <price role="other">3.70</price>
+          <price role="student">2.10</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-10-15">
+      <category name="Hauptgericht">
+        <meal>
+          <name>Bayerische Kohlsuppe</name>
+          <note>Schwein</note>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Hähnchenkeule alla Stefano mit Geflügelsauce, und einer Beilage nach Wahl</name>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
+        </meal>
+      </category>
+      <category name="Vegetarisch">
+        <meal>
+          <name>Makkaroni mit Grünkernbolognese , und einer Beilage nach Wahl</name>
+          <note>Dinkel</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Sellerie und Sellerieerzeugnisse</note>
+          <note>vegan</note>
+          <price role="other">4.90</price>
+          <price role="student">3.30</price>
         </meal>
         <meal>
           <name>Waffel mit Puderzucker</name>

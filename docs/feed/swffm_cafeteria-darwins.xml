@@ -85,5 +85,38 @@
         </meal>
       </category>
     </day>
+    <day date="2026-10-15">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Linsensuppe Aramäische Art</name>
+          <note>vegan</note>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Gemüsekroketten mit Tomatensauce, und einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">5.20</price>
+          <price role="student">3.60</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Holzfällersteak und einer Beilage nach Wahl</name>
+          <note>Schwein</note>
+          <price role="other">6.20</price>
+          <price role="student">4.60</price>
+        </meal>
+        <meal>
+          <name>Kumpir mit Weißkrautsalat, und Hähnchenbrust</name>
+          <note>Eier und Eiererzeugnisse</note>
+          <note>Glutenhaltige Getreide</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <price role="other">5.80</price>
+          <price role="student">4.20</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
