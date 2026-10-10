@@ -101,5 +101,33 @@
         </meal>
       </category>
     </day>
+    <day date="2026-10-16">
+      <category name="Vegetarisch">
+        <meal>
+          <name>Pilzcremesuppe</name>
+          <note>Alkohol</note>
+          <price role="other">2.70</price>
+          <price role="student">1.10</price>
+        </meal>
+        <meal>
+          <name>Kartoffel-Blumenkohlpfanne mit einer Beilage nach Wahl</name>
+          <note>vegan</note>
+          <price role="other">4.00</price>
+          <price role="student">2.40</price>
+        </meal>
+      </category>
+      <category name="Hauptgericht">
+        <meal>
+          <name>Paniertes Seelachsfilet mit Dijon-Senfsauce , und einer Beilage nach Wahl, Schnittlauch</name>
+          <note>Glutenhaltige Getreide</note>
+          <note>MSC</note>
+          <note>Milch und Milcherzeugnisse</note>
+          <note>Senf und Senferzeugnisse</note>
+          <note>Weizen</note>
+          <price role="other">7.00</price>
+          <price role="student">5.40</price>
+        </meal>
+      </category>
+    </day>
   </canteen>
 </openmensa>
