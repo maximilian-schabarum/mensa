@@ -6,14 +6,10 @@ import json
 import logging
 import os
 import sys
-import tempfile
 import urllib.parse
-from pathlib import Path
 from typing import Any
 
 import requests
-from bs4 import BeautifulSoup
-from pypdf import PdfReader
 
 try:
     from version import __version__, useragentname, useragentcomment
@@ -25,22 +21,20 @@ except ModuleNotFoundError:
     from util import meta_from_xsl, xml_str_param
 
 try:
-    from .config import DATE_WINDOW_DAYS, JSON_URL, META_JSON, META_XSLT, VERPFLEGUNG_URL
+    from .config import JSON_URL, META_JSON, META_XSLT
     from .helpers import (
         build_feed_xml,
         empty_feed,
         filter_by_date_window,
         parse_json_menu,
-        parse_pdf_menu,
     )
 except ImportError:
-    from config import DATE_WINDOW_DAYS, JSON_URL, META_JSON, META_XSLT, VERPFLEGUNG_URL
+    from config import JSON_URL, META_JSON, META_XSLT
     from helpers import (
         build_feed_xml,
         empty_feed,
         filter_by_date_window,
         parse_json_menu,
-        parse_pdf_menu,
     )
 
 
@@ -62,14 +56,15 @@ class Parser:
         })
 
     def feed(self, canteenReference: str) -> str:
+        return self._build_feed(canteenReference)
+
+    def _build_feed(self, canteenReference: str) -> str:
         if canteenReference not in self.canteens:
             return empty_feed(canteenReference)
         return build_feed_xml(self._load_days(), include_weekend_closure=False)
 
     def feed_today(self, canteenReference: str) -> str:
-        if canteenReference not in self.canteens:
-            return empty_feed(canteenReference)
-        return build_feed_xml(self._load_days(), include_weekend_closure=False)
+        return self._build_feed(canteenReference)
 
     def meta(self, canteenReference: str) -> str:
         if canteenReference not in self.canteens:
@@ -126,87 +121,24 @@ class Parser:
         try:
             jsonDays = self._fetch_json_menu()
             filteredDays = filter_by_date_window(jsonDays, today)
-            if filteredDays:
-                logging.debug(
-                    "Speierlingshof JSON verwendet: parsed=%d filtered=%d today=%s",
-                    len(jsonDays),
-                    len(filteredDays),
-                    today,
-                )
-                return filteredDays
-            logging.warning(
-                "Speierlingshof JSON verworfen: parsed=%d, filtered=%d (window=%d, today=%s). Fallback auf PDF.",
+            logging.debug(
+                "Speierlingshof JSON verwendet: parsed=%d filtered=%d today=%s",
                 len(jsonDays),
                 len(filteredDays),
-                DATE_WINDOW_DAYS,
                 today,
             )
+            return filteredDays
         except Exception:
             logging.warning(
-                "Speierlingshof JSON-Abruf/Parsing fehlgeschlagen. Fallback auf PDF.",
+                "Speierlingshof JSON-Abruf/Parsing fehlgeschlagen",
                 exc_info=True,
             )
-
-        try:
-            pdfDays = self._fetch_pdf_menu()
-            filteredPdfDays = filter_by_date_window(pdfDays, today)
-            logging.debug(
-                "Speierlingshof PDF verwendet: parsed=%d filtered=%d today=%s",
-                len(pdfDays),
-                len(filteredPdfDays),
-                today,
-            )
-            return filteredPdfDays
-        except Exception:
-            logging.warning("Speierlingshof PDF-Fallback fehlgeschlagen", exc_info=True)
             return []
 
     def _fetch_json_menu(self) -> list[dict[str, Any]]:
         response = self.session.get(JSON_URL, timeout=self.timeout)
         response.raise_for_status()
-        days = parse_json_menu(response.json())
-        return days
-
-    def _fetch_pdf_menu(self) -> list[dict[str, Any]]:
-        pdfUrl = self._find_pdf_url()
-        lines  = self._download_pdf_as_lines(pdfUrl)
-        return parse_pdf_menu(lines)
-
-    def _find_pdf_url(self) -> str:
-        response = self.session.get(VERPFLEGUNG_URL, timeout=self.timeout)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
-
-        node = soup.select_one("footer [title='Download Speiseplan']")
-        if node and node.get("href"):
-            return requests.compat.urljoin(VERPFLEGUNG_URL, str(node["href"]))
-
-        for anchor in soup.find_all("a", href=True):
-            linkText = (anchor.get_text(" ") or "").casefold()
-            href     = str(anchor["href"])
-            if "speiseplan" in linkText or href.casefold().endswith(".pdf"):
-                return requests.compat.urljoin(VERPFLEGUNG_URL, href)
-
-        raise ValueError("PDF-Link nicht gefunden.")
-
-    def _download_pdf_as_lines(self, pdfUrl: str) -> list[str]:
-        response = self.session.get(pdfUrl, timeout=self.timeout)
-        response.raise_for_status()
-
-        tmpPath: Path | None = None
-        try:
-            with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tmp:
-                tmp.write(response.content)
-                tmp.flush()  
-                tmpPath = Path(tmp.name)
-
-            reader = PdfReader(str(tmpPath))
-            text   = "\n".join(page.extract_text() or "" for page in reader.pages)
-        finally:
-            if tmpPath and tmpPath.exists():
-                tmpPath.unlink(missing_ok=True)
-
-        return [line.strip() for line in text.splitlines()]
+        return parse_json_menu(response.json())
 
 
 def getParser(urlTemplate: str) -> Parser:

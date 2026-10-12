@@ -31,12 +31,26 @@ jobs:
     - name: Run parsers & update xml feeds
       run: |
         python updateFeeds.py -today
+    - name: Mark changed Taberna feed for OpenMensa
+      run: |
+        bash scripts/openmensa_fetch.sh mark-pending
     - name: git commit & push
       run: |
         git add docs
-        # Use "|| true" or "--allow-empty"  otherwise the action fails for empty commits
-        git commit -m "Updated xml feeds" || true
-        git push
+        if ! git diff --cached --quiet; then
+          git commit -m "Updated xml feeds"
+          git push
+        fi
+    - name: Trigger pending OpenMensa fetch
+      run: |
+        bash scripts/openmensa_fetch.sh fetch-pending
+    - name: Clear completed OpenMensa fetch marker
+      run: |
+        git add docs
+        if ! git diff --cached --quiet; then
+          git commit -m "Completed OpenMensa feed fetch"
+          git push
+        fi
     - name: Test files in github pages
       run: |
         python tests/test_ghpages.py

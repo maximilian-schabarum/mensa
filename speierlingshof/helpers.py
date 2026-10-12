@@ -13,9 +13,6 @@ try:
         CATEGORY_VEGETARIAN,
         CLOSURE_KEYWORDS,
         DATE_WINDOW_DAYS,
-        PDF_IGNORED_WORDS,
-        RE_MEAT_OR_FISH,
-        RE_VEGETARIAN,
         WEEKDAYS,
     )
 except ImportError:
@@ -24,9 +21,6 @@ except ImportError:
         CATEGORY_VEGETARIAN,
         CLOSURE_KEYWORDS,
         DATE_WINDOW_DAYS,
-        PDF_IGNORED_WORDS,
-        RE_MEAT_OR_FISH,
-        RE_VEGETARIAN,
         WEEKDAYS,
     )
 
@@ -95,47 +89,6 @@ def build_meals_from_json(food_offers: list[dict[str, Any]]) -> list[dict[str, A
     return meals
 
 
-def parse_pdf_menu(lines: list[str]) -> list[dict[str, Any]]:
-    """Parse PDF-Textzeilen in Tagesdatensätze."""
-    days: list[dict[str, Any]] = []
-    current_day: dict[str, Any] | None = None
-    skip_next_line = False
-
-    for line in lines:
-        line = line.strip()
-        if not line:
-            continue
-
-        if skip_next_line:
-            date = parse_date(line)
-            if date is not None:
-                current_day = {"date": date, "source": "PDF", "meals": []}
-                days.append(current_day)
-                skip_next_line = False
-            continue
-
-        if re.search(r"Suppe\s*[–-]", line):
-            skip_next_line = True
-            continue
-
-        date = parse_date(line)
-        if date is not None:
-            current_day = {"date": date, "source": "PDF", "meals": []}
-            days.append(current_day)
-            continue
-
-        if current_day is not None:
-            if is_closure_text(line):
-                current_day["closed"] = True
-                continue
-            meal = classify_pdf_line(line)
-            if meal:
-                current_day["meals"].append(meal)
-
-    days.sort(key=lambda d: d["date"])
-    return days
-
-
 def parse_date(text: str) -> dt.date | None:
     """Parse TT.MM.JJ oder TT.MM.JJJJ aus einem Text."""
     # Wichtig: Erst 4-stellige Jahre matchen, sonst würde z.B. 2026 als 20 erkannt.
@@ -160,27 +113,6 @@ def is_vegetarian_category(category: str) -> bool:
     """Mappe bekannte JSON-Kategorien auf vegetarisch oder nicht."""
     key = re.sub(r"[^a-z]", "", category.casefold())
     return key in ("vegetariandishes", "soupwithoutmeat")
-
-
-def looks_vegetarian(title: str) -> bool:
-    """Heuristik für PDF-Gerichte ohne strukturierte Kategorieangabe."""
-    if RE_MEAT_OR_FISH.search(title):
-        return False
-    return bool(RE_VEGETARIAN.search(title))
-
-
-def classify_pdf_line(title: str) -> dict[str, Any] | None:
-    """Klassifiziere eine einzelne PDF-Zeile als Gericht oder ignoriere sie."""
-    title = clean_title(title)
-
-    if any(word in title.casefold() for word in PDF_IGNORED_WORDS):
-        return None
-
-    category = CATEGORY_VEGETARIAN if looks_vegetarian(title) else CATEGORY_DEFAULT
-    if not title.endswith("*"):
-        title = f"{title}*"
-
-    return {"title": title, "category": category, "notes": []}
 
 
 def clean_title(title: str) -> str:
