@@ -4,6 +4,7 @@ import os
 import traceback
 import argparse
 import urllib
+import urllib.error
 import urllib3
 import string
 
@@ -88,6 +89,7 @@ def updateFeeds(force=None,
                 baseUrl=defaultBaseUrl,
                 basePath=defaultBasePath):
 
+    basePath = os.path.join(basePath, '')
     errors = []
 
     for parserName in allParsers:
@@ -166,7 +168,7 @@ def updateFeeds(force=None,
                     else:
                         log(f"  {redError}")
                         traceback.print_exc()
-                except BaseException:
+                except Exception:
                     log(f"  {redError}")
                     traceback.print_exc()
                     errors.append(f"{parserName}/{mensaReference}:")
@@ -176,7 +178,7 @@ def updateFeeds(force=None,
         except KeyboardInterrupt:
             log(" [Control-C]")
             return 130
-        except BaseException:
+        except Exception:
             log(f"  {redError}")
             errors.append(f"{parserName}:")
             errors.append(traceback.format_exc())

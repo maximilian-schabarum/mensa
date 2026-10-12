@@ -5,6 +5,7 @@ staticfiles
 db.sqlite3
 pyopenmensa
 __pycache__
+site/
 swffm/__pycache__
 speierlingshof/__pycache__
 uploadCache.py

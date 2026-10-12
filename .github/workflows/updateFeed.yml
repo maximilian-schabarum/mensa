@@ -10,6 +10,11 @@ on:
     - cron: "31 6,8 * * *" # UTC
     - cron: "59 23 * * 0" # Run once sunday night
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 concurrency:
   group: parsers-${{ github.ref }}
   cancel-in-progress: true
@@ -18,9 +23,12 @@ jobs:
   generateXMLFeeds:
     runs-on: ubuntu-latest
     timeout-minutes: 40
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
     - uses: actions/checkout@v6
-    - name: Set up Python 3.12
+    - name: Set up Python 3.14
       uses: actions/setup-python@v6
       with:
         python-version: "3.14"
@@ -28,39 +36,25 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: git config
+    - name: Generate complete Pages site
       run: |
-        git config --global user.name github-actions
-        git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git pull --ff-only
-    - name: Run parsers & update xml feeds
+        rm -rf site
+        python updateFeeds.py -meta -feed -json -index -out site
+        python updateFeeds.py -today -out site
+        cp docs/favicon.ico site/favicon.ico
+        touch site/.nojekyll
+    - name: Test generated Pages site
       run: |
-        python updateFeeds.py -meta -feed -json -index
-    - name: Mark changed Taberna feed for OpenMensa
+        GHPAGES_PATH=site python tests/test_ghpages.py
+    - name: Configure GitHub Pages
+      uses: actions/configure-pages@v5
+    - name: Upload GitHub Pages artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: site
+    - name: Deploy GitHub Pages artifact
+      id: deployment
+      uses: actions/deploy-pages@v4
+    - name: Trigger OpenMensa fetch
       run: |
-        bash scripts/openmensa_fetch.sh mark-pending
-    - name: git commit & push
-      if: always()
-      run: |
-        touch docs/.nojekyll
-        git add docs
-        if ! git diff --cached --quiet; then
-          git commit -m "Updated xml feeds"
-          git push
-        fi
-    - name: Trigger pending OpenMensa fetch
-      if: success()
-      run: |
-        bash scripts/openmensa_fetch.sh fetch-pending
-    - name: Clear completed OpenMensa fetch marker
-      if: success()
-      run: |
-        git add docs
-        if ! git diff --cached --quiet; then
-          git commit -m "Completed OpenMensa feed fetch"
-          git push
-        fi
-    - name: Test files in github pages
-      if: always()
-      run: |
-        python tests/test_ghpages.py
+        bash scripts/openmensa_fetch.sh fetch

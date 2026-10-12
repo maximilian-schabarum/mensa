@@ -2,23 +2,16 @@
 from __future__ import annotations
 
 import datetime as dt
-import json
 import logging
 import os
 import sys
-import urllib.parse
-from typing import Any
-
-import requests
 
 try:
-    from version import __version__, useragentname, useragentcomment
-    from util import meta_from_xsl, xml_str_param
+    from parser_base import BaseParser
 except ModuleNotFoundError:
     include = os.path.relpath(os.path.join(os.path.dirname(__file__), ".."))
     sys.path.insert(0, include)
-    from version import __version__, useragentname, useragentcomment
-    from util import meta_from_xsl, xml_str_param
+    from parser_base import BaseParser
 
 try:
     from .config import JSON_URL, META_JSON, META_XSLT
@@ -38,82 +31,23 @@ except ImportError:
     )
 
 
-class Parser:
-    def __init__(self, urlTemplate: str, timeout: int = 25) -> None:
-        with open(META_JSON, encoding="utf-8") as f:
-            self.canteens: dict[str, Any] = json.load(f)
+class Parser(BaseParser):
+    canteen_json = META_JSON
+    meta_xslt = META_XSLT
 
-        self.urlTemplate = urlTemplate
-        self.timeout     = timeout
-        self.session     = requests.Session()
-        self.session.headers.update({
-            "User-Agent": (
-                f"{useragentname}/{__version__} "
-                f"({useragentcomment}) "
-                f"{requests.utils.default_user_agent()}"
-            ),
-            "Accept": "application/json,text/html;q=0.9,*/*;q=0.8",
-        })
+    def __init__(self, url_template: str, timeout: int = 25) -> None:
+        super().__init__(url_template, timeout)
 
-    def feed(self, canteenReference: str) -> str:
-        return self._build_feed(canteenReference)
+    def feed(self, canteen_reference: str) -> str:
+        return self._build_feed(canteen_reference)
 
-    def _build_feed(self, canteenReference: str) -> str:
-        if canteenReference not in self.canteens:
-            return empty_feed(canteenReference)
+    def _build_feed(self, canteen_reference: str) -> str:
+        if not self._has_canteen(canteen_reference):
+            return empty_feed(canteen_reference)
         return build_feed_xml(self._load_days(), include_weekend_closure=False)
 
-    def feed_today(self, canteenReference: str) -> str:
-        return self._build_feed(canteenReference)
-
-    def meta(self, canteenReference: str) -> str:
-        if canteenReference not in self.canteens:
-            return 'Unknown canteen'
-
-        mensa = self.canteens[canteenReference]
-        feed_url = xml_str_param(
-            self.urlTemplate.format(
-                metaOrFeed="feed",
-                mensaReference=urllib.parse.quote(canteenReference),
-            )
-        )
-        feed_today_url = xml_str_param(
-            self.urlTemplate.format(
-                metaOrFeed="today",
-                mensaReference=urllib.parse.quote(canteenReference),
-            )
-        )
-
-        data = {
-            "name": xml_str_param(mensa["name"]),
-            "address": xml_str_param(mensa["address"]),
-            "city": xml_str_param(mensa["city"]),
-            "latitude": xml_str_param(mensa["latitude"]),
-            "longitude": xml_str_param(mensa["longitude"]),
-            "feed": feed_url,
-            "feed_today": feed_today_url,
-            "source": xml_str_param(mensa["source"]),
-        }
-
-        if "phone" in mensa:
-            data["phone"] = xml_str_param(mensa["phone"])
-
-        if "times" in mensa:
-            data["times"] = mensa["times"]
-
-        return meta_from_xsl(META_XSLT, data)
-
-    def json(self) -> str:
-        return json.dumps(
-            {
-                ref: self.urlTemplate.format(
-                    metaOrFeed="meta",
-                    mensaReference=urllib.parse.quote(ref),
-                )
-                for ref in self.canteens
-            },
-            indent=2,
-        )
+    def feed_today(self, canteen_reference: str) -> str:
+        return self._build_feed(canteen_reference)
 
     def _load_days(self) -> list[dict[str, Any]]:
         today = dt.date.today()
@@ -141,9 +75,9 @@ class Parser:
         return parse_json_menu(response.json())
 
 
-def getParser(urlTemplate: str) -> Parser:
+def getParser(url_template: str) -> Parser:
     """Erstelle einen Parser mit dem angegebenen URL-Template."""
-    return Parser(urlTemplate)
+    return Parser(url_template)
 
 
 if __name__ == "__main__":

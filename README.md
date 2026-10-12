@@ -14,11 +14,16 @@ und [Canteen Taberna (Speyer)](https://www.speierlinghof.de/taberna/),
 |  Feeds       |                                         Status                                                                                                                  |                     Cron                                                                                                                                      |
 |:------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | today        | [![RunParsersToday](https://github.com/maximilian-schabarum/mensa/actions/workflows/updateFeedToday.yml/badge.svg)](https://github.com/maximilian-schabarum/mensa/actions/workflows/updateFeedToday.yml) | [*/15 3-12 * * 1-5](https://crontab.guru/#*/15_3-12_*_*_1-5 "Every 15 minutes from 3 through 12 on every day-of-week from Monday through Friday.") |
-| all          | [![RunParsers](https://github.com/maximilian-schabarum/mensa/actions/workflows/updateFeed.yml/badge.svg)](https://github.com/maximilian-schabarum/mensa/actions/workflows/updateFeed.yml)                | [31 6,8 * * *](https://crontab.guru/#31_6,8_*_*_* "“At minute 31 past hour 6 and 8.” ")                                                                                                 |
+| all          | [![RunParsers](https://github.com/maximilian-schabarum/mensa/actions/workflows/updateFeed.yml/badge.svg)](https://github.com/maximilian-schabarum/mensa/actions/workflows/updateFeed.yml)                | `31 6,8 * * *` and `59 23 * * 0` (UTC)                                                                                                                                                |
 
-When the Taberna XML feed changes, the workflows request an immediate refresh from
-[OpenMensa](https://openmensa.org/feeds/3222/fetch). If OpenMensa responds with
-its 15-minute rate limit, the next scheduled Today workflow retries the request.
+The workflows publish the generated feeds as a GitHub Pages artifact instead of
+committing generated XML files to `master`. After each successful deployment,
+they request a refresh from [OpenMensa](https://openmensa.org/feeds/3222/fetch).
+If OpenMensa responds with its 15-minute rate limit, the next scheduled workflow
+tries again.
+
+GitHub Pages must use **GitHub Actions** as its build and deployment source for
+these workflows.
 
 
 Links:

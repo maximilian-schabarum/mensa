@@ -87,7 +87,7 @@ def check_feed(content, encoding='utf8', name=''):
 
 
 def test_all_files():
-    GHPAGES = 'docs/'
+    GHPAGES = os.environ.get('GHPAGES_PATH', 'docs/')
     FEEDS = 'feed/'
     TODAYS = 'today/'
     METAS = 'meta/'

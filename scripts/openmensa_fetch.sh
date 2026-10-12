@@ -2,26 +2,10 @@
 
 set -euo pipefail
 
-readonly FETCH_URL="https://openmensa.org/feeds/3222/fetch"
-readonly PENDING_MARKER="docs/.openmensa-fetch-pending"
-readonly TABERNA_FEEDS=(
-    "docs/feed/speierlingshof_speierlingshof.xml"
-    "docs/today/speierlingshof_speierlingshof.xml"
-)
+readonly OPENMENSA_FEED_ID="${OPENMENSA_FEED_ID:-3222}"
+readonly FETCH_URL="${OPENMENSA_FETCH_URL:-https://openmensa.org/feeds/${OPENMENSA_FEED_ID}/fetch}"
 
-mark_pending_if_feed_changed() {
-    if ! git diff --quiet -- "${TABERNA_FEEDS[@]}"; then
-        touch "$PENDING_MARKER"
-        echo "Taberna feed changed; OpenMensa fetch is pending."
-    fi
-}
-
-request_pending_fetch() {
-    if [[ ! -f "$PENDING_MARKER" ]]; then
-        echo "No OpenMensa fetch is pending."
-        return
-    fi
-
+request_fetch() {
     local response_file
     local status
     response_file="$(mktemp)"
@@ -40,7 +24,7 @@ request_pending_fetch() {
     fi
 
     if [[ "$status" == "429" ]]; then
-        echo "OpenMensa rate limit reached; retrying at the next scheduled run."
+        echo "OpenMensa rate limit reached; the next scheduled run will retry."
         return
     fi
 
@@ -64,19 +48,15 @@ PY
         return 1
     fi
 
-    rm "$PENDING_MARKER"
     echo "OpenMensa successfully fetched the Taberna feed."
 }
 
 case "${1:-}" in
-    mark-pending)
-        mark_pending_if_feed_changed
-        ;;
-    fetch-pending)
-        request_pending_fetch
+    fetch)
+        request_fetch
         ;;
     *)
-        echo "Usage: $0 {mark-pending|fetch-pending}" >&2
+        echo "Usage: $0 fetch" >&2
         exit 2
         ;;
 esac
