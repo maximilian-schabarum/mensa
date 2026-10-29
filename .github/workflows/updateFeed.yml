@@ -39,8 +39,10 @@ jobs:
     - name: Generate complete Pages site
       run: |
         rm -rf site
-        python updateFeeds.py -meta -feed -json -index -out site
+        python updateFeeds.py -meta -feed -json -out site
         python updateFeeds.py -today -out site
+        cp archive/speierlingshof_speierlingshof-archiv.xml site/feed/
+        python updateFeeds.py -index -out site
         cp docs/favicon.ico site/favicon.ico
         touch site/.nojekyll
     - name: Test generated Pages site
